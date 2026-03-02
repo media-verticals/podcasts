@@ -7,12 +7,23 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 02:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 02:56:59 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 1, 2026</title>
+      <description>Good morning. Let's walk through what's happening in AI today, because there's a real reckoning unfolding—and it involves everything from Pentagon operations to app store rankings to the future of how companies actually build this stuff.
+
+Let's start with the thing that's going to dominate conversat...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-01.mp3" length="11771564" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-33</guid>
+      <pubDate>Mon, 02 Mar 2026 02:56:59 +0000</pubDate>
+      <itunes:duration>00:09:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 28, 2026</title>
       <description># AI DAILY BRIEF PODCAST SCRIPT
@@ -81,17 +92,6 @@ Hey, welcome. We're tracking some really significant shifts in how the AI market
       <guid isPermaLink="false">brief-podcast-21</guid>
       <pubDate>Mon, 23 Feb 2026 03:06:42 +0000</pubDate>
       <itunes:duration>00:11:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>AI &amp; Tech Daily Brief — February 20, 2026</title>
-      <description># AI &amp; TECH DAILY — February 20, 2026
-
-Hey, welcome back. Today we're looking at a story that's been building for months but just crystallized into something you can actually see. The infrastructure bets that looked inevitable six months ago are collapsing in real time. And the reasons why matter a ...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-02-20.mp3" length="13834124" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-18</guid>
-      <pubDate>Sat, 21 Feb 2026 03:06:08 +0000</pubDate>
-      <itunes:duration>00:11:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
