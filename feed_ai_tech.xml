@@ -7,12 +7,23 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 02:59:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 02:56:48 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 5, 2026</title>
+      <description>Welcome back. We've got a lot to unpack today, and it all hinges on a fundamental shift in how AI companies are going to build—and how developers are going to use them.
+
+The headline is GPT-5.4, which OpenAI is shipping imminently. But here's the thing: this isn't a story about a bigger, smarter mod...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-05.mp3" length="11314124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-38</guid>
+      <pubDate>Fri, 06 Mar 2026 02:56:48 +0000</pubDate>
+      <itunes:duration>00:09:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 4, 2026</title>
       <description>Good morning. Today's a really interesting day in the space because we're watching something shift from competitive to structural. And it starts with a pretty stark moment of honesty—or maybe desperation—from Anthropic's leadership.
