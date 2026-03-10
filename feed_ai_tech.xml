@@ -12,6 +12,12 @@
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png"/>
+    <image>
+      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png</url>
+      <title>AI &amp; Tech Daily Brief</title>
+      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    </image>
     <itunes:category text="Technology"/>
     <item>
       <title>AI &amp; Tech Daily Brief — March 9, 2026</title>
