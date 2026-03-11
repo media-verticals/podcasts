@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 02:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:56:43 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -19,6 +19,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 10, 2026</title>
+      <description>Hey everyone. Thanks for tuning in.
+
+So today we're looking at what might be the clearest signal yet that the AI economy's real winner isn't going to be the company with the best model. It's going to be the company that owns the infrastructure where AI agents actually do work together. And that's a ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-10.mp3" length="11842124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-47</guid>
+      <pubDate>Wed, 11 Mar 2026 01:56:43 +0000</pubDate>
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 9, 2026</title>
       <description>Hey, welcome back. We're tracking three major signals today that tell a pretty interesting story about how the AI market is actually organizing itself—and it's different from what people were predicting even a week ago.
