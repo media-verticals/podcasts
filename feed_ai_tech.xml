@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 01:56:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 01:57:07 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -19,6 +19,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 11, 2026</title>
+      <description>Welcome back. We've got a lot to unpack today, and the signals are pointing toward something pretty significant: the organizational architecture of software is fundamentally shifting. Let's walk through this.
+
+The big story today is Atlassian. They're cutting 1,600 people—that's 20 percent of their ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-11.mp3" length="12195404" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-52</guid>
+      <pubDate>Thu, 12 Mar 2026 01:57:07 +0000</pubDate>
+      <itunes:duration>00:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 10, 2026</title>
       <description>Hey everyone. Thanks for tuning in.
