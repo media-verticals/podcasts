@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 01:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:58:49 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -19,6 +19,16 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 17, 2026</title>
+      <description>Welcome to the AI Daily. Let's talk about what's happening in agent infrastructure today, because there's a really important shift taking place in how the major players are positioning themselves—and it's not obvious unless you're paying attention to the economics, not just the model announcements.
+...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-17.mp3" length="13850924" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-65</guid>
+      <pubDate>Wed, 18 Mar 2026 01:58:49 +0000</pubDate>
+      <itunes:duration>00:11:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 16, 2026</title>
       <description>Welcome back. Today we're seeing something that feels like a genuine inflection point in how AI systems are actually going to work in the real world. And it's not about bigger models or better benchmarks—it's about the fundamental shift from training to execution, from capability to reliability, and...</description>
