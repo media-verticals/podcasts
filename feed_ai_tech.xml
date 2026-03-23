@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 01:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 01:57:49 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 22, 2026</title>
+      <description>What we're watching today is a pretty fundamental shift in how the AI market is organizing itself. And it's not what most people are talking about.
+
+Let me start with what caught my attention first thing this morning. Palantir just became the operating system for classified intelligence at the Penta...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-22.mp3" length="12873644" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-79</guid>
+      <pubDate>Mon, 23 Mar 2026 01:57:49 +0000</pubDate>
+      <itunes:duration>00:10:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 21, 2026</title>
       <description>Hello. Today we're tracking some genuinely significant shifts in how AI infrastructure is organizing itself—and they're telling us something pretty important about where the real competition is actually moving.
