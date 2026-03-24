@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 03:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:30:26 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — March 23, 2026</title>
+      <description>Hey, welcome back. Today we're looking at a really important inflection point in how AI agents are being built and deployed. And honestly, it's a lot more nuanced than the headlines suggest.
+
+Let me start with what's probably the biggest shift: the agent orchestration layer just became the real prod...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-23.mp3" length="15445964" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-85</guid>
+      <pubDate>Tue, 24 Mar 2026 03:30:26 +0000</pubDate>
+      <itunes:duration>00:12:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
       <description>Welcome back. We're tracking some really interesting shifts in the AI infrastructure world right now, and I want to walk you through what's actually happening beneath the headlines. Because there's a story here about markets bifurcating, data becoming the real bottleneck, and the economics of automa...</description>
