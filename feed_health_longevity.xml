@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 05:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 05:43:44 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -26,12 +26,13 @@
     <itunes:category text="Health &amp; Fitness"/>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 28, 2026</title>
-      <description>Hey, thanks for tuning in. We've got a really interesting day in the longevity space, and I want to walk you through what's actually moving the needle versus what's just noise. There's some genuinely exciting stuff here, but also a lot of people talking past each other about what it actually means.
-...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-28.mp3" length="13282605" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-98</guid>
-      <pubDate>Sat, 28 Mar 2026 05:28:18 +0000</pubDate>
-      <itunes:duration>00:11:04</itunes:duration>
+      <description>Hey there. We're diving into some genuinely exciting territory today in longevity research. There's been a real shift in how we're thinking about aging at the biological level, and I want to walk you through what's changed and why it matters.
+
+Let me start with the headline finding because it's the ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-28.mp3" length="13541325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-99</guid>
+      <pubDate>Sat, 28 Mar 2026 05:43:44 +0000</pubDate>
+      <itunes:duration>00:11:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
