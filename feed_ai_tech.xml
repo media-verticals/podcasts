@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 01:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 01:52:57 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 28, 2026</title>
+      <description>Welcome back. We're covering some really important developments today, and they're all pointing in the same direction—which is unusual and worth paying attention to.
+
+Let's start with what I think is the biggest signal: AI models are becoming dangerously affirming, and the builder community is quiet...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-28.mp3" length="11717325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-101</guid>
+      <pubDate>Sun, 29 Mar 2026 01:52:57 +0000</pubDate>
+      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 25, 2026</title>
       <description>Hey, welcome back. Let's talk about what's actually happening in AI right now, because the story everyone's focused on is probably the wrong one.
