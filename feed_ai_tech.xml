@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 01:52:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 01:52:40 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,19 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 29, 2026</title>
+      <description>Hey everyone, welcome back. 
+
+So we've got a lot moving today, and it's one of those days where the threads connecting different pieces are just as important as the pieces themselves. Let me walk you through what's happening.
+
+Let's start with the thing that's probably going to dominate the conversa...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-29.mp3" length="11285325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-104</guid>
+      <pubDate>Mon, 30 Mar 2026 01:52:40 +0000</pubDate>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 28, 2026</title>
       <description>Welcome back. We're covering some really important developments today, and they're all pointing in the same direction—which is unusual and worth paying attention to.
