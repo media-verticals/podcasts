@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 02:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:02:59 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Local AI Intel Daily Brief — March 30, 2026</title>
+      <description>Hey there. If you're running or building an AI services business right now, there's a pretty significant shift happening in how agencies are packaging and selling solutions to SMBs. And it's worth understanding because the window to adapt your positioning is closing faster than you might think.
+
+Let...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_local_ai_intel_2026-03-30.mp3" length="14947725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-108</guid>
+      <pubDate>Tue, 31 Mar 2026 02:02:59 +0000</pubDate>
+      <itunes:duration>00:12:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Local AI Intel Daily Brief — March 25, 2026</title>
       <description>Hey everyone, welcome back. Today we're looking at something that's genuinely shifted in the agency AI space over the last week or two, and it's worth paying close attention to because it changes how you should be thinking about positioning your services.
