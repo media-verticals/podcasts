@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 05:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:35:24 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_future_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>future_medicine Daily Brief — March 30, 2026</title>
+      <description>Hello, and welcome. Let's dig into what's happening in medicine and longevity science right now, because there's something genuinely important shifting in how we think about aging — and it's moving from theory into something you can actually measure and potentially intervene on.
+
+Let me start with t...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_future_medicine_2026-03-30.mp3" length="15217965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-110</guid>
+      <pubDate>Tue, 31 Mar 2026 02:35:24 +0000</pubDate>
+      <itunes:duration>00:12:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>future_medicine Daily Brief — March 28, 2026</title>
       <description>Welcome back. We're looking at the future of medicine today, and honestly, there's a moment happening right now that I think deserves your full attention.
