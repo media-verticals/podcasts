@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 02:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:18:03 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>ai_agents Daily Brief — March 30, 2026</title>
+      <description>Hey, welcome back. Today we're looking at what happens when you take a coding tool and builders start treating it like the operating system for autonomous work. And there's a really interesting pattern emerging — Claude Code has kind of accidentally become the runtime that everything else is buildin...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-30.mp3" length="11859885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-109</guid>
+      <pubDate>Tue, 31 Mar 2026 02:18:03 +0000</pubDate>
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ai_agents Daily Brief — March 29, 2026</title>
       <description>Hey, welcome back. Let's dig into what's actually happening in the agent space right now, because there's a real story here beneath the headlines, and it's not what most people think it is.
