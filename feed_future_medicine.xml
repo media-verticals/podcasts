@@ -10,6 +10,8 @@
     <lastBuildDate>Tue, 31 Mar 2026 02:35:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_future_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
+    <author>mediaverticals@proton.me (Media Verticals)</author>
     <itunes:summary>The breakthroughs changing medicine right now. Clinical trials, new treatments, and what is coming next.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>

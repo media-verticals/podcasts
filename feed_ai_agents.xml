@@ -10,6 +10,8 @@
     <lastBuildDate>Tue, 31 Mar 2026 02:18:03 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
+    <author>mediaverticals@proton.me (Media Verticals)</author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>

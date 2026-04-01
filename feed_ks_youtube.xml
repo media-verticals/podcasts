@@ -10,6 +10,8 @@
     <lastBuildDate>Wed, 01 Apr 2026 03:23:42 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
+    <author>mediaverticals@proton.me (Media Verticals)</author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>

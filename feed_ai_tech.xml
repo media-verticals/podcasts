@@ -10,6 +10,8 @@
     <lastBuildDate>Tue, 31 Mar 2026 01:52:59 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
+    <author>mediaverticals@proton.me (Media Verticals)</author>
     <itunes:summary>Daily intelligence from the frontier of AI. Who is winning, who is losing, and why it matters.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>

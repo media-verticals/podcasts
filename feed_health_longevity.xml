@@ -10,6 +10,8 @@
     <lastBuildDate>Sat, 28 Mar 2026 05:43:44 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
+    <author>mediaverticals@proton.me (Media Verticals)</author>
     <itunes:summary>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
