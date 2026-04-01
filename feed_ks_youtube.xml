@@ -4,24 +4,24 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YouTube Intelligence Brief</title>
-    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2026 03:23:42 +0000</lastBuildDate>
-    <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Knowledge Studio</itunes:author>
+    <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Media Verticals</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Knowledge Studio</itunes:name>
-      <itunes:email>placeholder@example.com</itunes:email>
+      <itunes:name>Media Verticals</itunes:name>
+      <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/ks_youtube_podcast_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/ks_youtube_podcast_cover.png"/>
     <image>
-      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/ks_youtube_podcast_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/ks_youtube_podcast_cover.png</url>
       <title>YouTube Intelligence Brief</title>
-      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+      <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
     <item>
@@ -29,7 +29,7 @@
       <description>Welcome back. Today's been a pretty thick one—there's a lot of movement happening in creator land, and a lot of it is pointing in the same direction if you step back and look at the pattern.
 
 Let's start with what's probably the most concrete development right now. Anthropic's Claude Code—specifical...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-31.mp3" length="12495885" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-31.mp3" length="12495885" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-112</guid>
       <pubDate>Wed, 01 Apr 2026 03:23:42 +0000</pubDate>
       <itunes:duration>00:10:24</itunes:duration>
@@ -40,7 +40,7 @@ Let's start with what's probably the most concrete development right now. Anthro
       <description>All right, let's talk about what's happening in the creator economy and AI right now, because there are some genuinely important shifts coming into focus.
 
 The biggest story today is that AI agents have stopped being a research question and started being infrastructure. This is a meaningful inflecti...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-30.mp3" length="16027725" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-30.mp3" length="16027725" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-111</guid>
       <pubDate>Tue, 31 Mar 2026 03:25:52 +0000</pubDate>
       <itunes:duration>00:13:21</itunes:duration>
@@ -51,7 +51,7 @@ The biggest story today is that AI agents have stopped being a research question
       <description>Welcome back. Let's walk through what's happening in the creator ecosystem right now, because there's a real shift underway—and it's coming from outside the traditional institutions you'd expect.
 
 We're looking at three major threads today. The first one is metabolic health, and it's genuinely resha...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-29.mp3" length="11414445" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-29.mp3" length="11414445" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-106</guid>
       <pubDate>Mon, 30 Mar 2026 03:22:47 +0000</pubDate>
       <itunes:duration>00:09:30</itunes:duration>
@@ -62,7 +62,7 @@ We're looking at three major threads today. The first one is metabolic health, a
       <description>Welcome back. We've got a lot to unpack today, and honestly, the signal density right now is unusually high. What's interesting isn't just the individual releases—it's the pattern underneath them. Let me walk you through what's happening.
 
 Let's start with the thing that's getting the most attention...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-28.mp3" length="14961165" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-28.mp3" length="14961165" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-103</guid>
       <pubDate>Sun, 29 Mar 2026 03:25:17 +0000</pubDate>
       <itunes:duration>00:12:27</itunes:duration>
@@ -73,7 +73,7 @@ Let's start with the thing that's getting the most attention...</description>
       <description>Welcome back. We've got a significant pivot happening across the AI and creator economy right now, and it's worth understanding because it fundamentally changes who wins and loses in the next 18 months.
 
 Let me start with what's probably the most important signal: OpenAI is no longer building produc...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-25.mp3" length="13673804" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-25.mp3" length="13673804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-95</guid>
       <pubDate>Thu, 26 Mar 2026 03:28:27 +0000</pubDate>
       <itunes:duration>00:11:23</itunes:duration>
@@ -84,7 +84,7 @@ Let me start with what's probably the most important signal: OpenAI is no longer
       <description>Welcome back. We've got a lot moving today, and I want to walk you through what's actually changing underneath all the noise.
 
 Let's start with the biggest structural shift, because it ties everything else together. Claude just released a set of updates that on the surface look like feature addition...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-24.mp3" length="13313804" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-24.mp3" length="13313804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-91</guid>
       <pubDate>Wed, 25 Mar 2026 03:28:28 +0000</pubDate>
       <itunes:duration>00:11:05</itunes:duration>
@@ -95,7 +95,7 @@ Let's start with the biggest structural shift, because it ties everything else t
       <description>Hey, welcome back. Today we're looking at a really important inflection point in how AI agents are being built and deployed. And honestly, it's a lot more nuanced than the headlines suggest.
 
 Let me start with what's probably the biggest shift: the agent orchestration layer just became the real prod...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-23.mp3" length="15445964" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-23.mp3" length="15445964" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-85</guid>
       <pubDate>Tue, 24 Mar 2026 03:30:26 +0000</pubDate>
       <itunes:duration>00:12:52</itunes:duration>
@@ -104,7 +104,7 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
     <item>
       <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
       <description>Welcome back. We're tracking some really interesting shifts in the AI infrastructure world right now, and I want to walk you through what's actually happening beneath the headlines. Because there's a story here about markets bifurcating, data becoming the real bottleneck, and the economics of automa...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-22.mp3" length="12844844" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-22.mp3" length="12844844" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-81</guid>
       <pubDate>Mon, 23 Mar 2026 03:27:58 +0000</pubDate>
       <itunes:duration>00:10:42</itunes:duration>
@@ -115,7 +115,7 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <description>Hey, welcome back. We've got a lot to dig into today, and honestly, this is one of those days where the signal density is really high—there are some genuine inflection points happening in how people are actually building things right now.
 
 Let's start with what's probably the most important thing I'...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-21.mp3" length="12078284" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-21.mp3" length="12078284" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-78</guid>
       <pubDate>Sun, 22 Mar 2026 03:27:36 +0000</pubDate>
       <itunes:duration>00:10:03</itunes:duration>
@@ -126,7 +126,7 @@ Let's start with what's probably the most important thing I'...</description>
       <description>Welcome to the show. We're covering a lot of ground today, and honestly, it feels like we're watching a major inflection point happen in real time—the moment when AI agents stop being experimental tools and become actual infrastructure that people are building real businesses on.
 
 Let's start with w...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-19.mp3" length="13895084" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-19.mp3" length="13895084" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-73</guid>
       <pubDate>Fri, 20 Mar 2026 03:39:38 +0000</pubDate>
       <itunes:duration>00:11:34</itunes:duration>

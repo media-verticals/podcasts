@@ -4,24 +4,24 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Longevity Edge</title>
-    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <link>https://media-verticals.github.io/podcasts/</link>
     <description>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</description>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2026 05:43:44 +0000</lastBuildDate>
-    <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Knowledge Studio</itunes:author>
+    <atom:link href="https://media-verticals.github.io/podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Media Verticals</itunes:author>
     <itunes:summary>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Knowledge Studio</itunes:name>
-      <itunes:email>placeholder@example.com</itunes:email>
+      <itunes:name>Media Verticals</itunes:name>
+      <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/health_podcast_cover.png"/>
     <image>
-      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/health_podcast_cover.png</url>
       <title>Longevity Edge</title>
-      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+      <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
     <item>
@@ -29,7 +29,7 @@
       <description>Hey there. We're diving into some genuinely exciting territory today in longevity research. There's been a real shift in how we're thinking about aging at the biological level, and I want to walk you through what's changed and why it matters.
 
 Let me start with the headline finding because it's the ...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-28.mp3" length="13541325" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-28.mp3" length="13541325" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-99</guid>
       <pubDate>Sat, 28 Mar 2026 05:43:44 +0000</pubDate>
       <itunes:duration>00:11:16</itunes:duration>
@@ -40,7 +40,7 @@ Let me start with the headline finding because it's the ...</description>
       <description>Welcome back. Let's start with the research that's going to matter most this year.
 
 There's a finding coming out in PNAS that's genuinely reshaping how we think about where aging happens in the body. A team led by Ingaramo just published work showing that your fat tissue—adipose tissue, to be precis...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-24.mp3" length="15423404" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-24.mp3" length="15423404" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-89</guid>
       <pubDate>Wed, 25 Mar 2026 02:11:12 +0000</pubDate>
       <itunes:duration>00:12:51</itunes:duration>
@@ -51,7 +51,7 @@ There's a finding coming out in PNAS that's genuinely reshaping how we think abo
       <description>Hey, welcome back. There's something really important happening right now in aging research, and it's not where most people are looking. Let me walk you through what's going on.
 
 The biggest signal today is honestly kind of unsettling once you think about it through. Researchers at Moulton just publ...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-24.mp3" length="15592364" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-24.mp3" length="15592364" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-87</guid>
       <pubDate>Tue, 24 Mar 2026 20:34:03 +0000</pubDate>
       <itunes:duration>00:12:59</itunes:duration>
@@ -60,7 +60,7 @@ The biggest signal today is honestly kind of unsettling once you think about it 
     <item>
       <title>Health &amp; Longevity Daily Brief — March 17, 2026</title>
       <description>Welcome back. We've got some really important developments today—and I mean that specifically. There's a genuine safety signal in the field that's going to reshape how we think about one of the most popular aging interventions, and it sits right alongside some genuinely exciting news about another c...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-17.mp3" length="12753644" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-17.mp3" length="12753644" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-66</guid>
       <pubDate>Wed, 18 Mar 2026 02:11:59 +0000</pubDate>
       <itunes:duration>00:10:37</itunes:duration>
@@ -71,7 +71,7 @@ The biggest signal today is honestly kind of unsettling once you think about it 
       <description>Welcome back. Today we're looking at some really interesting developments in how we're learning to measure aging, and maybe more importantly, how we're starting to see that aging isn't one process—it's a bunch of different processes happening at different speeds in different parts of your body.
 
 Let...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-13.mp3" length="18435884" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-13.mp3" length="18435884" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-58</guid>
       <pubDate>Sat, 14 Mar 2026 02:21:07 +0000</pubDate>
       <itunes:duration>00:15:21</itunes:duration>
@@ -82,7 +82,7 @@ Let...</description>
       <description>Welcome back. We've got a really interesting set of developments today that I think points toward something fundamental shifting in how we think about aging and prevention.
 
 Let's start with the top signal, because this one's worth sitting with for a moment. Researchers at UC San Diego have identifi...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-10.mp3" length="11949644" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-10.mp3" length="11949644" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-48</guid>
       <pubDate>Wed, 11 Mar 2026 02:08:52 +0000</pubDate>
       <itunes:duration>00:09:57</itunes:duration>
@@ -93,7 +93,7 @@ Let's start with the top signal, because this one's worth sitting with for a mom
       <description>Welcome back. Today's research is pointing us toward something that's been lurking just beneath the surface of aging biology for years, and it's starting to crystallize into something actionable. Let me walk you through what we're seeing.
 
 The biggest signal today is about mitochondrial architecture...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-06.mp3" length="12335564" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-06.mp3" length="12335564" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-40</guid>
       <pubDate>Sat, 07 Mar 2026 03:18:29 +0000</pubDate>
       <itunes:duration>00:10:16</itunes:duration>
@@ -104,7 +104,7 @@ The biggest signal today is about mitochondrial architecture...</description>
       <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT — MARCH 3, 2026
 
 Hey, welcome back. Let's walk through what's moving in the aging research space today. There are some really interesting developments that are starting to reshape how we think about intervention strategy—and I want to walk you through them because...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-03.mp3" length="17176844" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-03.mp3" length="17176844" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-36</guid>
       <pubDate>Wed, 04 Mar 2026 03:14:58 +0000</pubDate>
       <itunes:duration>00:14:18</itunes:duration>
@@ -117,7 +117,7 @@ Hey, welcome back. Let's walk through what's moving in the aging research space 
 Hey, thanks for tuning in. We've got a really solid day of aging research to walk through—and honestly, some of this is pushing the conversation in directions I think we need to be paying closer attention to.
 
 Let's start with what I think is the mos...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-02-27.mp3" length="15706604" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-27.mp3" length="15706604" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-31</guid>
       <pubDate>Sat, 28 Feb 2026 03:26:13 +0000</pubDate>
       <itunes:duration>00:13:05</itunes:duration>
@@ -128,7 +128,7 @@ Let's start with what I think is the mos...</description>
       <description># HEALTH &amp; LONGEVITY — February 24, 2026
 
 Hey, welcome. Today we're looking at some really important developments in how we understand extreme aging and the biological mechanisms that might let us intervene earlier than we've ever been able to. There's some genuine signal here—both in terms of what ...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-02-24.mp3" length="14311724" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-24.mp3" length="14311724" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-27</guid>
       <pubDate>Wed, 25 Feb 2026 03:28:08 +0000</pubDate>
       <itunes:duration>00:11:55</itunes:duration>
@@ -139,7 +139,7 @@ Hey, welcome. Today we're looking at some really important developments in how w
       <description># HEALTH &amp; LONGEVITY PODCAST — FEBRUARY 20, 2026
 
 Hey there. Welcome back. Today we're looking at some genuinely fascinating developments in how we understand aging at the cellular level—and what that might mean for actual interventions that could slow or even reverse some of the hallmarks of gettin...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-02-20.mp3" length="15597644" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-20.mp3" length="15597644" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-19</guid>
       <pubDate>Sat, 21 Feb 2026 03:20:06 +0000</pubDate>
       <itunes:duration>00:12:59</itunes:duration>
@@ -153,7 +153,7 @@ Hey there. Welcome back. Today we're looking at some genuinely fascinating devel
 ---
 
 Hey, welcome back. Today we've got some really interesting signals coming through on the aging research front, and there's one thing in particular that I think is going to make a lot of people reconsider how they're approaching NAD+ supp...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-02-17.mp3" length="19416044" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-17.mp3" length="19416044" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-14</guid>
       <pubDate>Wed, 18 Feb 2026 03:18:48 +0000</pubDate>
       <itunes:duration>00:16:10</itunes:duration>
@@ -167,7 +167,7 @@ Hey, welcome back. Today we've got some really interesting signals coming throug
 ---
 
 Hey, welcome back. Quick heads-up on what we're walking through today: we've got some really important methodological breakthroughs that are going to accelerate how we measure aging, some emerging mechanistic clarity on why aging happens...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-02-13.mp3" length="20657804" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-13.mp3" length="20657804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-10</guid>
       <pubDate>Sat, 14 Feb 2026 03:29:29 +0000</pubDate>
       <itunes:duration>00:17:12</itunes:duration>
@@ -182,7 +182,7 @@ Hey, welcome back. Quick heads-up on what we're walking through today: we've got
 Hey, welcome back. It's February 10th, and we've got some really interesting signals coming through today—things that are moving the dial on how we understand aging, and more importantly, what we might actually do about it.
 
 Let me give y...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-02-10.mp3" length="20124044" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-10.mp3" length="20124044" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-6</guid>
       <pubDate>Wed, 11 Feb 2026 03:17:06 +0000</pubDate>
       <itunes:duration>00:16:46</itunes:duration>
@@ -195,7 +195,7 @@ Let me give y...</description>
 ---
 
 So here's what jumped out to me this week: we might need to completely rethink how we talk about living longer. And it's not because we've discovered some new miracle drug or biohack. It's actually the opposite. It's because the old way of thinki...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-02-07.mp3" length="17486444" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-07.mp3" length="17486444" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-3</guid>
       <pubDate>Mon, 09 Feb 2026 15:46:59 +0000</pubDate>
       <itunes:duration>00:14:34</itunes:duration>
