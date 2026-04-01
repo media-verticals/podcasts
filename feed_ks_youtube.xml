@@ -36,6 +36,8 @@ Let's start with what's probably the most concrete development right now. Anthro
       <pubDate>Wed, 01 Apr 2026 03:23:42 +0000</pubDate>
       <itunes:duration>00:10:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 30, 2026</title>
@@ -47,6 +49,8 @@ The biggest story today is that AI agents have stopped being a research question
       <pubDate>Tue, 31 Mar 2026 03:25:52 +0000</pubDate>
       <itunes:duration>00:13:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 29, 2026</title>
@@ -58,6 +62,8 @@ We're looking at three major threads today. The first one is metabolic health, a
       <pubDate>Mon, 30 Mar 2026 03:22:47 +0000</pubDate>
       <itunes:duration>00:09:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 28, 2026</title>
@@ -69,6 +75,8 @@ Let's start with the thing that's getting the most attention...</description>
       <pubDate>Sun, 29 Mar 2026 03:25:17 +0000</pubDate>
       <itunes:duration>00:12:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 25, 2026</title>
@@ -80,6 +88,8 @@ Let me start with what's probably the most important signal: OpenAI is no longer
       <pubDate>Thu, 26 Mar 2026 03:28:27 +0000</pubDate>
       <itunes:duration>00:11:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 24, 2026</title>
@@ -91,6 +101,8 @@ Let's start with the biggest structural shift, because it ties everything else t
       <pubDate>Wed, 25 Mar 2026 03:28:28 +0000</pubDate>
       <itunes:duration>00:11:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 23, 2026</title>
@@ -102,6 +114,8 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <pubDate>Tue, 24 Mar 2026 03:30:26 +0000</pubDate>
       <itunes:duration>00:12:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
@@ -111,6 +125,8 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <pubDate>Mon, 23 Mar 2026 03:27:58 +0000</pubDate>
       <itunes:duration>00:10:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 21, 2026</title>
@@ -122,6 +138,8 @@ Let's start with what's probably the most important thing I'...</description>
       <pubDate>Sun, 22 Mar 2026 03:27:36 +0000</pubDate>
       <itunes:duration>00:10:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>YouTube Intelligence Brief — March 19, 2026</title>
@@ -133,6 +151,8 @@ Let's start with w...</description>
       <pubDate>Fri, 20 Mar 2026 03:39:38 +0000</pubDate>
       <itunes:duration>00:11:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
   </channel>
 </rss>

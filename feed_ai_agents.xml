@@ -34,6 +34,8 @@
       <pubDate>Tue, 31 Mar 2026 02:18:03 +0000</pubDate>
       <itunes:duration>00:09:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 29, 2026</title>
@@ -45,6 +47,8 @@ So the biggest thing I'm noticing today is that we're hitting a wall with the id
       <pubDate>Mon, 30 Mar 2026 02:18:32 +0000</pubDate>
       <itunes:duration>00:10:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 28, 2026</title>
@@ -56,6 +60,8 @@ Let's start wit...</description>
       <pubDate>Sun, 29 Mar 2026 02:18:16 +0000</pubDate>
       <itunes:duration>00:10:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 25, 2026</title>
@@ -67,6 +73,8 @@ Let's start with what feels like the most significant signal: Swift agents are b
       <pubDate>Thu, 26 Mar 2026 02:23:45 +0000</pubDate>
       <itunes:duration>00:10:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 24, 2026</title>
@@ -78,6 +86,8 @@ Let's start with the headline development. There's a tool called ProofShot that 
       <pubDate>Wed, 25 Mar 2026 02:25:58 +0000</pubDate>
       <itunes:duration>00:12:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 23, 2026</title>
@@ -89,6 +99,8 @@ Agent teams are shipping in production right now. Not as experiments, not as pro
       <pubDate>Tue, 24 Mar 2026 02:31:28 +0000</pubDate>
       <itunes:duration>00:10:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 22, 2026</title>
@@ -100,6 +112,8 @@ The big headline is this: we're moving away from the idea that better reasoning 
       <pubDate>Mon, 23 Mar 2026 02:26:25 +0000</pubDate>
       <itunes:duration>00:13:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 21, 2026</title>
@@ -111,6 +125,8 @@ So let me start with the thing that caught my attention most today. For the l...
       <pubDate>Sun, 22 Mar 2026 02:23:34 +0000</pubDate>
       <itunes:duration>00:11:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 20, 2026</title>
@@ -122,6 +138,8 @@ The headline: Claude Code just shipped native integration with Telegra...</descr
       <pubDate>Sat, 21 Mar 2026 02:21:17 +0000</pubDate>
       <itunes:duration>00:09:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 19, 2026</title>
@@ -133,6 +151,8 @@ The headline today is that Claude Code just shipped something called context_for
       <pubDate>Fri, 20 Mar 2026 02:24:05 +0000</pubDate>
       <itunes:duration>00:10:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 18, 2026</title>
@@ -144,6 +164,8 @@ Let's start with the biggest structural development: Stripe just announced somet
       <pubDate>Thu, 19 Mar 2026 02:23:55 +0000</pubDate>
       <itunes:duration>00:10:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 17, 2026</title>
@@ -153,6 +175,8 @@ Let's start with the biggest structural development: Stripe just announced somet
       <pubDate>Wed, 18 Mar 2026 02:25:43 +0000</pubDate>
       <itunes:duration>00:11:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
   </channel>
 </rss>

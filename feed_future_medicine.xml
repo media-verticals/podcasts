@@ -36,6 +36,8 @@ Let me start with t...</description>
       <pubDate>Tue, 31 Mar 2026 02:35:24 +0000</pubDate>
       <itunes:duration>00:12:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>future_medicine Daily Brief — March 28, 2026</title>
@@ -47,6 +49,8 @@ Let me start with the thing that's caught everyone's eye this week, because it's
       <pubDate>Sat, 28 Mar 2026 05:53:32 +0000</pubDate>
       <itunes:duration>00:11:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
     <item>
       <title>future_medicine Daily Brief — March 24, 2026</title>
@@ -56,6 +60,8 @@ Let me start with the thing that's caught everyone's eye this week, because it's
       <pubDate>Tue, 24 Mar 2026 18:01:36 +0000</pubDate>
       <itunes:duration>00:10:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
     </item>
   </channel>
 </rss>
