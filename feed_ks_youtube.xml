@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 03:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:23:42 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — March 31, 2026</title>
+      <description>Welcome back. Today's been a pretty thick one—there's a lot of movement happening in creator land, and a lot of it is pointing in the same direction if you step back and look at the pattern.
+
+Let's start with what's probably the most concrete development right now. Anthropic's Claude Code—specifical...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-31.mp3" length="12495885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-112</guid>
+      <pubDate>Wed, 01 Apr 2026 03:23:42 +0000</pubDate>
+      <itunes:duration>00:10:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 30, 2026</title>
       <description>All right, let's talk about what's happening in the creator economy and AI right now, because there are some genuinely important shifts coming into focus.
