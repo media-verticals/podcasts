@@ -3,14 +3,14 @@
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Future of Medicine Brief</title>
+    <title>Breakthrough Medicine</title>
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
-    <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
+    <description>The breakthroughs changing medicine right now. Clinical trials, new treatments, and what is coming next.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Mar 2026 02:35:24 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_future_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
-    <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
+    <itunes:summary>The breakthroughs changing medicine right now. Clinical trials, new treatments, and what is coming next.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -20,7 +20,7 @@
     <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/future_medicine_podcast_cover.png"/>
     <image>
       <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/future_medicine_podcast_cover.png</url>
-      <title>Future of Medicine Brief</title>
+      <title>Breakthrough Medicine</title>
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>

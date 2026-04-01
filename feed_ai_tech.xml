@@ -3,14 +3,14 @@
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI &amp; Tech Daily Brief</title>
+    <title>AI Landscape</title>
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
-    <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
+    <description>Daily intelligence from the frontier of AI. Who is winning, who is losing, and why it matters.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Mar 2026 01:52:59 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
-    <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
+    <itunes:summary>Daily intelligence from the frontier of AI. Who is winning, who is losing, and why it matters.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -20,7 +20,7 @@
     <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png"/>
     <image>
       <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png</url>
-      <title>AI &amp; Tech Daily Brief</title>
+      <title>AI Landscape</title>
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>

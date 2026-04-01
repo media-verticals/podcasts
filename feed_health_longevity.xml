@@ -3,14 +3,14 @@
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Health &amp; Longevity Brief</title>
+    <title>Longevity Edge</title>
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
-    <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
+    <description>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</description>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2026 05:43:44 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
-    <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
+    <itunes:summary>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -20,7 +20,7 @@
     <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png"/>
     <image>
       <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png</url>
-      <title>Health &amp; Longevity Brief</title>
+      <title>Longevity Edge</title>
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
