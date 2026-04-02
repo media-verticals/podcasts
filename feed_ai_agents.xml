@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>AI Agents Brief</title>
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
+    <copyright>Media Verticals</copyright>
+    <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Thu, 02 Apr 2026 02:18:49 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
@@ -38,6 +43,7 @@ The big story is that Claude Code got leaked. We're talking 512,000 lines of Typ
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 30, 2026</title>
@@ -49,6 +55,7 @@ The big story is that Claude Code got leaked. We're talking 512,000 lines of Typ
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 29, 2026</title>
@@ -62,6 +69,7 @@ So the biggest thing I'm noticing today is that we're hitting a wall with the id
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 28, 2026</title>
@@ -75,6 +83,7 @@ Let's start wit...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 25, 2026</title>
@@ -88,6 +97,7 @@ Let's start with what feels like the most significant signal: Swift agents are b
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 24, 2026</title>
@@ -101,6 +111,7 @@ Let's start with the headline development. There's a tool called ProofShot that 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 23, 2026</title>
@@ -114,6 +125,7 @@ Agent teams are shipping in production right now. Not as experiments, not as pro
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 22, 2026</title>
@@ -127,6 +139,7 @@ The big headline is this: we're moving away from the idea that better reasoning 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 21, 2026</title>
@@ -140,6 +153,7 @@ So let me start with the thing that caught my attention most today. For the l...
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 20, 2026</title>
@@ -153,6 +167,7 @@ The headline: Claude Code just shipped native integration with Telegra...</descr
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 19, 2026</title>
@@ -166,6 +181,7 @@ The headline today is that Claude Code just shipped something called context_for
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 18, 2026</title>
@@ -179,6 +195,7 @@ Let's start with the biggest structural development: Stripe just announced somet
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 17, 2026</title>
@@ -190,6 +207,7 @@ Let's start with the biggest structural development: Stripe just announced somet
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
   </channel>
 </rss>

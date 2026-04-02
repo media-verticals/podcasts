@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>AI Landscape</title>
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence from the frontier of AI. Who is winning, who is losing, and why it matters.</description>
     <language>en-us</language>
+    <copyright>Media Verticals</copyright>
+    <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Thu, 02 Apr 2026 01:51:36 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
@@ -38,6 +43,7 @@ The Claude Code leak is getting all the attention right now — Anthropic's arch
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 30, 2026</title>
@@ -51,6 +57,7 @@ The headline story is...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 29, 2026</title>
@@ -66,6 +73,7 @@ Let's start with the thing that's probably going to dominate the conversa...</de
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 28, 2026</title>
@@ -79,6 +87,7 @@ Let's start with what I think is the biggest signal: AI models are becoming dang
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 25, 2026</title>
@@ -92,6 +101,7 @@ Here's what I'm seeing: the entire competitive landscape just shifted, and most 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 24, 2026</title>
@@ -105,6 +115,7 @@ Let's s...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 23, 2026</title>
@@ -118,6 +129,7 @@ Let's start with what's probably the most consequential signal: Apple just shipp
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 22, 2026</title>
@@ -131,6 +143,7 @@ Let me start with what caught my attention first thing this morning. Palantir ju
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 21, 2026</title>
@@ -144,6 +157,7 @@ Let's start with the story that jumped out first. ArXiv just declared independen
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 20, 2026</title>
@@ -157,6 +171,7 @@ The top signal today is something tha...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 19, 2026</title>
@@ -170,6 +185,7 @@ The biggest move today is something that on the surface l...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 18, 2026</title>
@@ -183,6 +199,7 @@ So the story here is that Anthropic shipped Claude Dispatch today, and this is g
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 17, 2026</title>
@@ -195,6 +212,7 @@ So the story here is that Anthropic shipped Claude Dispatch today, and this is g
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 16, 2026</title>
@@ -206,6 +224,7 @@ So the story here is that Anthropic shipped Claude Dispatch today, and this is g
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 15, 2026</title>
@@ -219,6 +238,7 @@ Let's start w...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 14, 2026</title>
@@ -232,6 +252,7 @@ The biggest story today is that arXiv—this 34-year-old backbone of AI and ML r
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 13, 2026</title>
@@ -245,6 +266,7 @@ Here's the headline: we're watching the capability frontier detach from the oper
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 12, 2026</title>
@@ -258,6 +280,7 @@ Let's start with what jumped out as the top signal. Meta just acquired Moltbook,
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 11, 2026</title>
@@ -271,6 +294,7 @@ The big story today is Atlassian. They're cutting 1,600 people—that's 20 perce
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 10, 2026</title>
@@ -284,6 +308,7 @@ So today we're looking at what might be the clearest signal yet that the AI econ
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 9, 2026</title>
@@ -297,6 +322,7 @@ Let's start with the one that caught everyone's attention. Anthropic is suing t.
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 8, 2026</title>
@@ -308,6 +334,7 @@ Let's start with the one that caught everyone's attention. Anthropic is suing t.
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 7, 2026</title>
@@ -321,6 +348,7 @@ The top signal today is probably the most serio...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 6, 2026</title>
@@ -334,6 +362,7 @@ The headline is autonomy. Not the abstract kind we talk about in safety papers..
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 5, 2026</title>
@@ -347,6 +376,7 @@ The headline is GPT-5.4, which OpenAI is shipping imminently. But here's the thi
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 4, 2026</title>
@@ -360,6 +390,7 @@ Let's take a look at the top signal. Dario Amodei just publicly ca...</descripti
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 3, 2026</title>
@@ -377,6 +408,7 @@ Let's start with the top signal today. Junyang Lin—one of the...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 2, 2026</title>
@@ -392,6 +424,7 @@ So let's start with the headline that's be...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 1, 2026</title>
@@ -405,6 +438,7 @@ Let's start with the thing that's going to dominate conversat...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 28, 2026</title>
@@ -420,6 +454,7 @@ The biggest story right now—and I think this is the story that's going to reve
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 27, 2026</title>
@@ -433,6 +468,7 @@ Hey, welcome back. It's Thursday, February 27th, and there's something happening
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 25, 2026</title>
@@ -446,6 +482,7 @@ Hey, welcome back. It's February 25th, and we've got a lot to unpack today. Ther
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 24, 2026</title>
@@ -461,6 +498,7 @@ Here's what I'm looking at today: Anthropic just made a choice...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 23, 2026</title>
@@ -474,6 +512,7 @@ Hello, and welcome. I'm looking at a pretty fascinating moment in AI right now, 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 22, 2026</title>
@@ -487,6 +526,7 @@ Hey, welcome. We're tracking some really significant shifts in how the AI market
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 20, 2026</title>
@@ -500,6 +540,7 @@ Hey, welcome back. Today we're looking at a story that's been building for month
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 19, 2026</title>
@@ -516,6 +557,7 @@ The headline is simple but the implications are seriou...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 18, 2026</title>
@@ -530,6 +572,7 @@ Hey, welcome back. Today's one of those days where a single announcement kind of
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 17, 2026</title>
@@ -546,6 +589,7 @@ Hey, welcome back. Let's talk about what's happening in AI right now, because th
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 16, 2026</title>
@@ -563,6 +607,7 @@ Hey, welcome back. Today is February 16th, and we're looking at a day where the 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 15, 2026</title>
@@ -580,6 +625,7 @@ The story that's going to matter most over the next few months just broke, and i
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 13, 2026</title>
@@ -598,6 +644,7 @@ So here's what's caught my attention: OpenAI ...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 12, 2026</title>
@@ -614,6 +661,7 @@ Hey, welcome back. Today we've got some really interesting collision points happ
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 11, 2026</title>
@@ -630,6 +678,7 @@ Hey, welcome back. I'm your host, and we've got a lot to unpack today. There's a
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 10, 2026</title>
@@ -647,6 +696,7 @@ The headline that's been sitting with me all day is this: Google just handed ove
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 9, 2026</title>
@@ -663,6 +713,7 @@ Hey, welcome back. Let's look at what's happening in AI and tech today. There's 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 9, 2026</title>
@@ -682,6 +733,7 @@ For the...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>AI &amp; Tech Daily Brief — February 7, 2026</title>
@@ -693,6 +745,7 @@ For the...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
   </channel>
 </rss>

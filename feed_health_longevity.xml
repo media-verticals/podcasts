@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Longevity Edge</title>
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</description>
     <language>en-us</language>
+    <copyright>Media Verticals</copyright>
+    <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Thu, 02 Apr 2026 15:16:37 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
@@ -38,6 +43,7 @@ Let me start with what's probably the most significant piece. T...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 28, 2026</title>
@@ -51,6 +57,7 @@ Let me start with the headline finding because it's the ...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 24, 2026</title>
@@ -64,6 +71,7 @@ There's a finding coming out in PNAS that's genuinely reshaping how we think abo
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 24, 2026</title>
@@ -77,6 +85,7 @@ The biggest signal today is honestly kind of unsettling once you think about it 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 17, 2026</title>
@@ -88,6 +97,7 @@ The biggest signal today is honestly kind of unsettling once you think about it 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 13, 2026</title>
@@ -101,6 +111,7 @@ Let...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 10, 2026</title>
@@ -114,6 +125,7 @@ Let's start with the top signal, because this one's worth sitting with for a mom
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 6, 2026</title>
@@ -127,6 +139,7 @@ The biggest signal today is about mitochondrial architecture...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 3, 2026</title>
@@ -140,6 +153,7 @@ Hey, welcome back. Let's walk through what's moving in the aging research space 
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — February 27, 2026</title>
@@ -155,6 +169,7 @@ Let's start with what I think is the mos...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — February 24, 2026</title>
@@ -168,6 +183,7 @@ Hey, welcome. Today we're looking at some really important developments in how w
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — February 20, 2026</title>
@@ -181,6 +197,7 @@ Hey there. Welcome back. Today we're looking at some genuinely fascinating devel
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — February 17, 2026</title>
@@ -197,6 +214,7 @@ Hey, welcome back. Today we've got some really interesting signals coming throug
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — February 13, 2026</title>
@@ -213,6 +231,7 @@ Hey, welcome back. Quick heads-up on what we're walking through today: we've got
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — February 10, 2026</title>
@@ -230,6 +249,7 @@ Let me give y...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — February 9, 2026</title>
@@ -245,6 +265,7 @@ So here's what jumped out to me this week: we might need to completely rethink h
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
   </channel>
 </rss>

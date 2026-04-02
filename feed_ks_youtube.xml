@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>YouTube Intelligence Brief</title>
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
+    <copyright>Media Verticals</copyright>
+    <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Thu, 02 Apr 2026 03:25:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
@@ -38,6 +43,7 @@ The biggest thing I want to start with is that we've just watched something shif
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 31, 2026</title>
@@ -51,6 +57,7 @@ Let's start with what's probably the most concrete development right now. Anthro
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 30, 2026</title>
@@ -64,6 +71,7 @@ The biggest story today is that AI agents have stopped being a research question
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 29, 2026</title>
@@ -77,6 +85,7 @@ We're looking at three major threads today. The first one is metabolic health, a
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 28, 2026</title>
@@ -90,6 +99,7 @@ Let's start with the thing that's getting the most attention...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 25, 2026</title>
@@ -103,6 +113,7 @@ Let me start with what's probably the most important signal: OpenAI is no longer
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 24, 2026</title>
@@ -116,6 +127,7 @@ Let's start with the biggest structural shift, because it ties everything else t
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 23, 2026</title>
@@ -129,6 +141,7 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
@@ -140,6 +153,7 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 21, 2026</title>
@@ -153,6 +167,7 @@ Let's start with what's probably the most important thing I'...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Brief — March 19, 2026</title>
@@ -166,6 +181,7 @@ Let's start with w...</description>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
   </channel>
 </rss>
