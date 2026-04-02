@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 15:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 20:33:03 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -32,14 +32,14 @@
     </image>
     <itunes:category text="Health &amp; Fitness"/>
     <item>
-      <title>Health &amp; Longevity Daily Brief — April 2, 2026</title>
-      <description>Hey, welcome back. We've got some genuinely important signal coming through today — the kind that connects older research dots in ways that start to suggest where real interventions might actually be targeting the aging process itself.
+      <title>Longevity Edge: Now let's look at some of the other key developments happening in the space,...</title>
+      <description>Hey, welcome back. Today we're looking at some really interesting developments in how aging works at the cellular level, and there's a thread running through all of it that I think is going to matter for where this field goes next.
 
-Let me start with what's probably the most significant piece. T...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-02.mp3" length="20919885" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-117</guid>
-      <pubDate>Thu, 02 Apr 2026 15:16:37 +0000</pubDate>
-      <itunes:duration>00:17:25</itunes:duration>
+Let's start with what's probably the most important finding this we...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-02.mp3" length="13507245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-118</guid>
+      <pubDate>Thu, 02 Apr 2026 20:33:03 +0000</pubDate>
+      <itunes:duration>00:11:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
