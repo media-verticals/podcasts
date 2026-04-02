@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:18:49 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -26,6 +26,19 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>ai_agents Daily Brief — April 1, 2026</title>
+      <description>Hey everyone. Welcome back. We've got a lot to unpack today, and honestly, this is one of those moments where you can feel the industry actually shifting beneath your feet.
+
+The big story is that Claude Code got leaked. We're talking 512,000 lines of TypeScript across more than 2,000 files just ende...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-01.mp3" length="12707085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-115</guid>
+      <pubDate>Thu, 02 Apr 2026 02:18:49 +0000</pubDate>
+      <itunes:duration>00:10:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+    </item>
     <item>
       <title>ai_agents Daily Brief — March 30, 2026</title>
       <description>Hey, welcome back. Today we're looking at what happens when you take a coding tool and builders start treating it like the operating system for autonomous work. And there's a really interesting pattern emerging — Claude Code has kind of accidentally become the runtime that everything else is buildin...</description>
