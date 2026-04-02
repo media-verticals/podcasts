@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 03:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:25:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -26,6 +26,19 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — April 1, 2026</title>
+      <description>All right, let's walk through what's happening in AI right now, because there's some really significant stuff moving at the same time—and it's worth understanding how these pieces fit together.
+
+The biggest thing I want to start with is that we've just watched something shift fundamentally in how fr...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-01.mp3" length="15740685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-116</guid>
+      <pubDate>Thu, 02 Apr 2026 03:25:38 +0000</pubDate>
+      <itunes:duration>00:13:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 31, 2026</title>
       <description>Welcome back. Today's been a pretty thick one—there's a lot of movement happening in creator land, and a lot of it is pointing in the same direction if you step back and look at the pattern.
