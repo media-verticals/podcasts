@@ -19,9 +19,9 @@
       <itunes:name>Media Verticals</itunes:name>
       <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://media-verticals.github.io/podcasts/covers/future_medicine_podcast_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/breakthrough_medicine_cover.png"/>
     <image>
-      <url>https://media-verticals.github.io/podcasts/covers/future_medicine_podcast_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/breakthrough_medicine_cover.png</url>
       <title>Breakthrough Medicine</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
