@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:02:34 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -26,6 +26,17 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Local AI Intel Daily Brief — April 1, 2026</title>
+      <description>Hey, thanks for joining us. We're covering something that feels like a real inflection point in how agencies are building and selling AI solutions to local businesses. There's been a structural shift in the last few weeks, and if you're paying attention to where the repeatable revenue is actually fl...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-01.mp3" length="15980685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-114</guid>
+      <pubDate>Thu, 02 Apr 2026 02:02:34 +0000</pubDate>
+      <itunes:duration>00:13:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+    </item>
     <item>
       <title>Local AI Intel Daily Brief — March 30, 2026</title>
       <description>Hey there. If you're running or building an AI services business right now, there's a pretty significant shift happening in how agencies are packaging and selling solutions to SMBs. And it's worth understanding because the window to adapt your positioning is closing faster than you might think.
