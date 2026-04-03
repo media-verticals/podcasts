@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 01:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 01:52:45 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,22 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: And I think this is important because it signals a real shift in where Google...</title>
+      <description>Hey everyone, welcome back.
+
+So we've got a really interesting day in the AI space today, and I want to walk you through what I'm seeing because there's a pattern underneath all of this that I think matters more than any single announcement.
+
+Let's start with the thing that grabbed my attention firs...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-02.mp3" length="11711565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-119</guid>
+      <pubDate>Fri, 03 Apr 2026 01:52:45 +0000</pubDate>
+      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — April 1, 2026</title>
       <description>Hey. So there's a lot happening today, and I want to walk you through what I think actually matters beneath the headlines.
