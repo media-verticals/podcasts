@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 03:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 03:22:05 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: Connected to that, there's also this really important architectural...</title>
+      <description>Hey, welcome back. Let's walk through what's captured the creator ecosystem's attention today, because there are some genuinely important shifts happening—and a few of them are moving faster than I think most people realize.
+
+The big story right now is that Claude's tooling is solidifying into somet...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-02.mp3" length="10341645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-122</guid>
+      <pubDate>Fri, 03 Apr 2026 03:22:05 +0000</pubDate>
+      <itunes:duration>00:08:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — April 1, 2026</title>
       <description>All right, let's walk through what's happening in AI right now, because there's some really significant stuff moving at the same time—and it's worth understanding how these pieces fit together.
