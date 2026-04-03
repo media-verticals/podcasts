@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 02:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 02:35:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_future_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,18 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Breakthrough Medicine: A non-specialist used AI to design an mRNA vaccine for his dog's cancer. Got it...</title>
+      <description>Hey. Welcome back. Today we're looking at something that's genuinely hard to overstate: the medical bottleneck is moving. For decades, the constraint in medicine was *can we figure out how to design a treatment*. That's changing, fast. And what replaces it is going to reshape everything from how dru...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-02.mp3" length="14847885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-121</guid>
+      <pubDate>Fri, 03 Apr 2026 02:35:00 +0000</pubDate>
+      <itunes:duration>00:12:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>future_medicine Daily Brief — March 30, 2026</title>
       <description>Hello, and welcome. Let's dig into what's happening in medicine and longevity science right now, because there's something genuinely important shifting in how we think about aging — and it's moving from theory into something you can actually measure and potentially intervene on.
