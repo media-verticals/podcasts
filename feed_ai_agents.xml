@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 02:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 02:18:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Brief: Claude Code's hitting usage limits hard enough that it's starting to reshape...</title>
+      <description>Hey. So today's a pretty important one because we're seeing builders hit real constraints with how agents actually work at scale, and that's forcing a pretty fundamental shift in how people are thinking about agentic architecture.
+
+Let me start with the biggest signal, because it kind of threads thr...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-02.mp3" length="13157325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-120</guid>
+      <pubDate>Fri, 03 Apr 2026 02:18:53 +0000</pubDate>
+      <itunes:duration>00:10:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>ai_agents Daily Brief — April 1, 2026</title>
       <description>Hey everyone. Welcome back. We've got a lot to unpack today, and honestly, this is one of those moments where you can feel the industry actually shifting beneath your feet.
