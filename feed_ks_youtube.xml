@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 03:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 03:22:31 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: This matters more than the usual "open source is good, actually" narrative...</title>
+      <description>Welcome back. We're tracking some significant shifts across the AI and infrastructure space today, and I want to walk you through where the real action is—because it's not where you'd expect it to be.
+
+Let's start with what's probably the most important signal, and it's one that most people are stil...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-03.mp3" length="11065005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-126</guid>
+      <pubDate>Sat, 04 Apr 2026 03:22:31 +0000</pubDate>
+      <itunes:duration>00:09:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence: Connected to that, there's also this really important architectural...</title>
       <description>Hey, welcome back. Let's walk through what's captured the creator ecosystem's attention today, because there are some genuinely important shifts happening—and a few of them are moving faster than I think most people realize.
