@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 02:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 02:18:17 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,18 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Local AI Intel: What's interesting about this is that it's not some theoretical advantage....</title>
+      <description>Hey there. So we've got a really interesting moment happening right now in the SMB automation space, and I think it's worth understanding what's actually shifting beneath the surface. The headline is that GoHighLevel has become table stakes for agencies, but the deeper story is about how the entire ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-03.mp3" length="12084525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-125</guid>
+      <pubDate>Sat, 04 Apr 2026 02:18:17 +0000</pubDate>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>Local AI Intel Daily Brief — April 1, 2026</title>
       <description>Hey, thanks for joining us. We're covering something that feels like a real inflection point in how agencies are building and selling AI solutions to local businesses. There's been a structural shift in the last few weeks, and if you're paying attention to where the repeatable revenue is actually fl...</description>
