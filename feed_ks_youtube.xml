@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 03:22:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 03:24:06 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,22 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: Anthropic just accidentally—or maybe not accidentally—revealed an unreleased...</title>
+      <description>Hey everyone, thanks for tuning in.
+
+We're covering a lot of ground today, and honestly, there's one signal that's setting the tone for everything else we're going to talk about. So let's start there.
+
+Anthropic just accidentally—or maybe not accidentally—revealed an unreleased model called Claude M...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-04.mp3" length="13460685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-129</guid>
+      <pubDate>Sun, 05 Apr 2026 03:24:06 +0000</pubDate>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence: This matters more than the usual "open source is good, actually" narrative...</title>
       <description>Welcome back. We're tracking some significant shifts across the AI and infrastructure space today, and I want to walk you through where the real action is—because it's not where you'd expect it to be.
