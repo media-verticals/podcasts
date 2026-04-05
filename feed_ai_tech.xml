@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 01:52:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 01:51:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: Now let's zoom out for a second, because this ties directly into something...</title>
+      <description>Hey everyone, welcome back. Today's shaping up to be one of those days where a few separate things clicking together tell you something important about where this whole industry is heading. Let's dig in.
+
+So the first thing that caught my attention this morning is Anthropic. And I want to be direct ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-04.mp3" length="9445005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-127</guid>
+      <pubDate>Sun, 05 Apr 2026 01:51:24 +0000</pubDate>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: But here's my read on what's actually happening: this is a capital efficiency...</title>
       <description>Hey everyone, welcome back. There's a really important thing happening in the AI ecosystem right now, and it's basically the opposite of what everyone was predicting six months ago. Let me walk you through what's actually going on.
