@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 03:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 03:23:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,18 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: Anthropic banned OpenClaw. It's a third-party integration that lets you run...</title>
+      <description>Welcome back. Today we're tracking something genuinely interesting across the creator network—a real collision between proprietary enforcement and open-source capability, a shift in how people are actually building with AI, and a pretty stark organizational realization about where the real bottlenec...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-05.mp3" length="12530445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-132</guid>
+      <pubDate>Mon, 06 Apr 2026 03:23:24 +0000</pubDate>
+      <itunes:duration>00:10:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence: Anthropic just accidentally—or maybe not accidentally—revealed an unreleased...</title>
       <description>Hey everyone, thanks for tuning in.
