@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 01:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 01:51:10 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: Here's what I think is actually going on. OpenClaw was winning. Developers were...</title>
+      <description>Hey everyone, welcome back. We're looking at a turning point moment in AI infrastructure today, and I want to walk you through what's actually happening beneath the surface of some moves that on face value look like they don't make sense together.
+
+Let's start with the headline that's been getting a...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-05.mp3" length="9354765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-130</guid>
+      <pubDate>Mon, 06 Apr 2026 01:51:10 +0000</pubDate>
+      <itunes:duration>00:07:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: Now let's zoom out for a second, because this ties directly into something...</title>
       <description>Hey everyone, welcome back. Today's shaping up to be one of those days where a few separate things clicking together tell you something important about where this whole industry is heading. Let's dig in.
