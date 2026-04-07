@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 01:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:59:18 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: And I think that's the key insight here. This isn't a company saying we have a...</title>
+      <description>Hey, welcome back. Let's dig into what's actually happening underneath all the noise today, because there's a really important realignment taking shape that most people are still reading as separate stories when they're actually one story.
+
+So here's where I want to start. Anthropic's Claude is frac...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-06.mp3" length="17181645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-133</guid>
+      <pubDate>Tue, 07 Apr 2026 01:59:18 +0000</pubDate>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: Here's what I think is actually going on. OpenClaw was winning. Developers were...</title>
       <description>Hey everyone, welcome back. We're looking at a turning point moment in AI infrastructure today, and I want to walk you through what's actually happening beneath the surface of some moves that on face value look like they don't make sense together.
