@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 03:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:21:51 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: So here's the signal. Theo, who's generally been pretty neutral on Anthropic's...</title>
+      <description>Hey everyone, welcome back. Let's dig into what's happening across the creator network today, because there's a meaningful shift in the conversation—and I think it matters.
+
+We're going to start with something that's become impossible to ignore: Claude Code has moved from being a friction point to b...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-06.mp3" length="10328685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-137</guid>
+      <pubDate>Tue, 07 Apr 2026 03:21:51 +0000</pubDate>
+      <itunes:duration>00:08:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence: Anthropic banned OpenClaw. It's a third-party integration that lets you run...</title>
       <description>Welcome back. Today we're tracking something genuinely interesting across the creator network—a real collision between proprietary enforcement and open-source capability, a shift in how people are actually building with AI, and a pretty stark organizational realization about where the real bottlenec...</description>
