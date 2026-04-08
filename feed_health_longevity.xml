@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 02:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:03:16 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Longevity Edge: Here's why that matters. Your thymus is where T cells mature—it's the training...</title>
+      <description>Hey everyone, welcome back. We're looking at some genuinely interesting developments in longevity research today—the kind of work that actually changes how we think about aging, not just adds another supplement to the pile.
+
+Let's start with the top signal, because this one's a real watershed moment...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-07.mp3" length="16145325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-139</guid>
+      <pubDate>Wed, 08 Apr 2026 02:03:16 +0000</pubDate>
+      <itunes:duration>00:13:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>Longevity Edge: Let me start with the biggest picture here. Three separate findings this week...</title>
       <description>Hey there. Welcome back. There's something really important happening in aging research right now, and I want to walk you through it because it fundamentally changes how we think about intervention.
