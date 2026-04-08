@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 02:18:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:17:31 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Brief: Let me walk you through what we're actually seeing in the builder community...</title>
+      <description>Hey there. Welcome back. We're looking at what's really constraining agent adoption right now, and it's not what most people think it is.
+
+The biggest signal today comes from two things happening at the same time. Google just open-sourced Scion, this experimental agent orchestration testbed that got...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-07.mp3" length="11334765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-140</guid>
+      <pubDate>Wed, 08 Apr 2026 02:17:31 +0000</pubDate>
+      <itunes:duration>00:09:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Agents Brief: What's really happening here is the gap between agent capability demos and what...</title>
       <description>Welcome back. We're looking at a pretty revealing moment in agent development today—and it's honestly more interesting because it's not the story people expected.
