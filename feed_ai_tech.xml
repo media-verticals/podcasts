@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 01:51:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 01:52:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: Here's what concerns me about the bigger picture, though. The decision to...</title>
+      <description>Hey, welcome back. Let's dig into what's happening in AI right now, because today we've got a really interesting story emerging—one that's less about new capabilities and more about what happens when capabilities start outpacing the safety infrastructure meant to contain them.
+
+The headline is that ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-09.mp3" length="11113485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-142</guid>
+      <pubDate>Fri, 10 Apr 2026 01:52:28 +0000</pubDate>
+      <itunes:duration>00:09:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: This connects to something bigger that we're going to see more of, but let me...</title>
       <description>Welcome. We're looking at a pretty sharp day for seeing where the AI industry is actually headed, as opposed to where people say it's headed. Let's walk through the main signals.
