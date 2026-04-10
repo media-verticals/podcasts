@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 03:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:30:26 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: Now, at the same time this is happening, we're seeing the OpenClaw ecosystem...</title>
+      <description>Hey, welcome back. Let's walk through what's happening across the creator network today, because there are some pretty significant structural shifts showing up, and I want to make sure we understand what they actually mean beneath the hype.
+
+So the biggest story today—and I think this is genuinely i...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-09.mp3" length="18781005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-145</guid>
+      <pubDate>Fri, 10 Apr 2026 03:30:26 +0000</pubDate>
+      <itunes:duration>00:15:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence: Let's start with the most important signal. GPT-5.4 just crossed the OSWorld...</title>
       <description>Hello. There's something genuinely interesting happening in AI right now, and it's not what the headlines are telling you. Let me walk you through what's actually shifting.
