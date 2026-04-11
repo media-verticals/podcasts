@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 01:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 01:54:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: This is important because it tells us something pretty concrete about what's...</title>
+      <description>Welcome back. We've got a fascinating day in front of us, and honestly, it all hinges on a single decision by one company that's forcing everyone else to show their hand.
+
+Let's start with the headline, because it's the kind of thing that doesn't happen often and when it does, it matters. Anthropic ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-10.mp3" length="13456845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-146</guid>
+      <pubDate>Sat, 11 Apr 2026 01:54:00 +0000</pubDate>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: Here's what concerns me about the bigger picture, though. The decision to...</title>
       <description>Hey, welcome back. Let's dig into what's happening in AI right now, because today we've got a really interesting story emerging—one that's less about new capabilities and more about what happens when capabilities start outpacing the safety infrastructure meant to contain them.
