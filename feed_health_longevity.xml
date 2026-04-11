@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 02:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 02:03:29 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Longevity Edge: So here's what's happening. Van Raamsdonk's team identified this convergence...</title>
+      <description>Hey everyone. Welcome back. Today we're looking at some really fundamental shifts in how we think about aging at the cellular level—specifically, this idea that we've had the story backwards in some pretty important ways.
+
+Let me start with the biggest signal: there's new research showing that mild ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-10.mp3" length="14054445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-147</guid>
+      <pubDate>Sat, 11 Apr 2026 02:03:29 +0000</pubDate>
+      <itunes:duration>00:11:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>Longevity Edge: Here's why that matters. Your thymus is where T cells mature—it's the training...</title>
       <description>Hey everyone, welcome back. We're looking at some genuinely interesting developments in longevity research today—the kind of work that actually changes how we think about aging, not just adds another supplement to the pile.
