@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 03:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 03:25:05 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: Six months ago, if you wanted to build something with AI, you had two paths....</title>
+      <description>Welcome back. We've got a lot to unpack today, and honestly, the story here is about a pretty fundamental shift in how people are building things with AI. Not the models themselves — those are shipping on schedule. But what you can actually *do* with them, and who gets to do it. Let's dig in.
+
+The b...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-11.mp3" length="15142605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-152</guid>
+      <pubDate>Sun, 12 Apr 2026 03:25:05 +0000</pubDate>
+      <itunes:duration>00:12:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence: This is a meaningful shift from where we were even a few months ago. Claude...</title>
       <description>So here's what's capturing everyone's attention this week, and honestly, it's one of those moments where the signals are all pointing in the same direction at once. The capability floor is rising faster than business models can actually adapt to it. And that's creating this interesting window where ...</description>
