@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 02:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 02:16:50 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Brief: Now let's look at what's happening underneath that. Claude Code, Anthropic's...</title>
+      <description>Hey, welcome back. Let's dig into what's happening with AI agents right now, because there's a really interesting inflection point emerging between what works in demos and what actually works in production.
+
+The biggest signal today is something Anthropic just did with their Claude Managed Agents, a...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-11.mp3" length="10002285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-151</guid>
+      <pubDate>Sun, 12 Apr 2026 02:16:50 +0000</pubDate>
+      <itunes:duration>00:08:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Agents Brief: Claude Managed Agents changes that calculus. Now you've got a fully managed...</title>
       <description>Hey everyone, welcome back. Let's dive into what's happening in the agent space right now, because there's a real inflection point emerging and it's worth understanding.
