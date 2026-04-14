@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 02:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:29:58 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Brief: Let's shift gears and talk about what's actually working in production, because...</title>
+      <description>Hey, welcome back. We've got a really interesting day in the agent space—one where what's working in production is starting to collide pretty hard with some foundational problems that haven't been solved yet. Let me walk you through what's happening.
+
+The biggest thing today, and I want to lead with...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-13.mp3" length="19173645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-155</guid>
+      <pubDate>Tue, 14 Apr 2026 02:29:58 +0000</pubDate>
+      <itunes:duration>00:15:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Agents Brief: Now let's look at what's happening underneath that. Claude Code, Anthropic's...</title>
       <description>Hey, welcome back. Let's dig into what's happening with AI agents right now, because there's a really interesting inflection point emerging between what works in demos and what actually works in production.
