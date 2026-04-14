@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 01:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:51:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: So instead of competing on pure capability—which is a game you lose if you're...</title>
+      <description>Welcome back. We've got a really interesting collection of signals today that all point toward the same conclusion, so let's walk through them together.
+
+The biggest story is that Anthropic is making a fundamental shift in how they're competing. And it's not really about building a better model anym...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-13.mp3" length="9768045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-153</guid>
+      <pubDate>Tue, 14 Apr 2026 01:51:32 +0000</pubDate>
+      <itunes:duration>00:08:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: So Anthropic has built something that crosses a capability threshold they're...</title>
       <description>Hey, welcome back. Today we've got some really dense structural signals that are reshaping how I think about where this industry is actually heading—and it's pretty different from the narrative we've been tracking for the last couple years.
