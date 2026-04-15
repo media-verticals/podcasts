@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 02:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 02:01:40 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Longevity Edge: And I think this connects to something bigger we're seeing play out across...</title>
+      <description>Hey, welcome back. Let's dig into what's happening in the longevity space right now, because today's signals point toward something that feels like a meaningful shift in how we're thinking about aging at the cellular level.
+
+So the top signal today is actually pretty significant, and it's worth spen...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-14.mp3" length="12517965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-158</guid>
+      <pubDate>Wed, 15 Apr 2026 02:01:40 +0000</pubDate>
+      <itunes:duration>00:10:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>Longevity Edge: So here's what's happening. Van Raamsdonk's team identified this convergence...</title>
       <description>Hey everyone. Welcome back. Today we're looking at some really fundamental shifts in how we think about aging at the cellular level—specifically, this idea that we've had the story backwards in some pretty important ways.
