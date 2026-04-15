@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 03:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 03:24:25 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence: Because Anthropic's pricing power is under real pressure right now. Kimi 2.6...</title>
+      <description>Hey everyone. Welcome back. Let's dig into what's actually moving in the creator and development space right now, because there are some signals here that feel like turning points.
+
+I want to start with something that caught my attention this morning, and it's one of those moments where you see a co...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-14.mp3" length="14136045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-160</guid>
+      <pubDate>Wed, 15 Apr 2026 03:24:25 +0000</pubDate>
+      <itunes:duration>00:11:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>YouTube Intelligence: Let me start with something that seems obvious but actually isn't: Claude Code...</title>
       <description>Hey everyone. Let's walk through what's happening in the creator space right now, because there's a really important inflection point forming — one that's bigger than just tools or platform dynamics.
