@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 02:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 20:42:45 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_future_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Breakthrough Medicine: I want to be really precise about what's important here. The organ shortage has...</title>
+      <description>Hello, and welcome. Today we're looking at medicine at an inflection point. And I mean that literally—we're watching several 20-year-old ideas finally cross from the laboratory into the clinic, all at once. That creates some real signal density today, so let's dig in.
+
+The biggest thing happening ri...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-15.mp3" length="15444045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-161</guid>
+      <pubDate>Wed, 15 Apr 2026 20:42:45 +0000</pubDate>
+      <itunes:duration>00:12:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>Breakthrough Medicine: This is the moment mRNA stops being an emergency-use technology and becomes a...</title>
       <description>Hey everyone, welcome back. We're covering the future of medicine today, and there's a lot happening right now that actually feels like an inflection point rather than just incremental progress.
