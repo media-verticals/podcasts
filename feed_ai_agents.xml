@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 02:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 02:19:17 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Brief: Now let's look at what builders are actually building, because that's where the...</title>
+      <description>Hey everyone, welcome back. Let's start with what's actually moving the needle in agent infrastructure right now.
+
+There's a really important shift happening that I want to frame up front, because it changes how you should be thinking about what matters in this space. For the last couple years, the ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-14.mp3" length="13581165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-159</guid>
+      <pubDate>Wed, 15 Apr 2026 02:19:17 +0000</pubDate>
+      <itunes:duration>00:11:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Agents Brief: Let's shift gears and talk about what's actually working in production, because...</title>
       <description>Hey, welcome back. We've got a really interesting day in the agent space—one where what's working in production is starting to collide pretty hard with some foundational problems that haven't been solved yet. Let me walk you through what's happening.
