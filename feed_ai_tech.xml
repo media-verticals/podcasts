@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 01:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 01:52:44 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: So Claude Code Routines are persistent, scheduled task execution. You can set...</title>
+      <description>Hey, welcome back. There's a really interesting pivot happening in the AI world right now, and it's not where most people think the action is. We're going to walk through it today.
+
+The headline is that Anthropic just launched something called Claude Code Routines, and on the surface it sounds like ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-14.mp3" length="11754285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-157</guid>
+      <pubDate>Wed, 15 Apr 2026 01:52:44 +0000</pubDate>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: So instead of competing on pure capability—which is a game you lose if you're...</title>
       <description>Welcome back. We've got a really interesting collection of signals today that all point toward the same conclusion, so let's walk through them together.
