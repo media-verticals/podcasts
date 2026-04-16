@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 02:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:00:23 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Local AI Intel: This is actually a really important point because it points to a bigger...</title>
+      <description>Hey there. Today's conversation is about where the real money is in AI services for small business right now—and it's not where most agencies think it is.
+
+Let me set the scene. GoHighLevel is still the dominant platform, but here's what's interesting: it's not because everyone loves it. It's domina...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-15.mp3" length="14026605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-163</guid>
+      <pubDate>Thu, 16 Apr 2026 02:00:23 +0000</pubDate>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>Local AI Intel: Let me start with what's probably the biggest signal right now: GoHighLevel has...</title>
       <description>Hey there. Welcome back. Let's talk about what's happening in the AI services marketplace right now, because the landscape is shifting pretty fundamentally — and if you're an agency or you're thinking about building one, you need to understand what's actually changing versus what's just noise.
