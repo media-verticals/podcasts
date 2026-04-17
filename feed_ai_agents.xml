@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 02:19:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:20:02 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Brief: That's the first sign that agent infrastructure is consolidating, and...</title>
+      <description>Welcome back. Let's talk about what's happening in the agent infrastructure space right now, because something important is shifting and it's worth understanding what it means.
+
+The biggest signal today is something Anthropic just rolled out: Claude Code is evolving from a coding copilot into what's...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-16.mp3" length="14795085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-167</guid>
+      <pubDate>Fri, 17 Apr 2026 02:20:02 +0000</pubDate>
+      <itunes:duration>00:12:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Agents Brief: The timing is interesting because it's forcing a conversation about what...</title>
       <description>Hey, welcome. We're looking at a really important inflection point in how agents are actually getting built and deployed today. This is probably the biggest shift in the agent conversation since we started tracking it seriously.
