@@ -10,18 +10,18 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <copyright>Media Verticals</copyright>
+    <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Fri, 17 Apr 2026 04:24:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Media Verticals</itunes:author>
-    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
-    <author>mediaverticals@proton.me (Media Verticals)</author>
+    <itunes:author>Future Scanner</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
+    <author>mediaverticals@proton.me (Future Scanner)</author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Media Verticals</itunes:name>
+      <itunes:name>Future Scanner</itunes:name>
       <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/ai_agents_podcast_cover.png"/>
@@ -45,9 +45,9 @@ Claude Opus 4.7 just shipped with a million-token context window and the ability
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>25</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>That's the first sign that agent infrastructure is consolidating, and...</title>
@@ -63,9 +63,9 @@ The biggest signal today is something Anthropic just rolled out: Claude Code is 
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>24</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>The timing is interesting because it's forcing a conversation about what...</title>
@@ -81,9 +81,9 @@ Let me start with what caught my attention this morning. Anthropic jus...</descr
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>23</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Now let's look at what builders are actually building, because that's where the...</title>
@@ -99,9 +99,9 @@ There's a really important shift happening that I want to frame up front, becaus
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>22</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Let's shift gears and talk about what's actually working in production, because...</title>
@@ -117,9 +117,9 @@ The biggest thing today, and I want to lead with...</description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>21</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Now let's look at what's happening underneath that. Claude Code, Anthropic's...</title>
@@ -135,9 +135,9 @@ The biggest signal today is something Anthropic just did with their Claude Manag
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>20</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Claude Managed Agents changes that calculus. Now you've got a fully managed...</title>
@@ -153,9 +153,9 @@ So here's what caught my attention most today: Anthropic just launched Claude Ma
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Let me walk you through what we're actually seeing in the builder community...</title>
@@ -171,9 +171,9 @@ The biggest signal today comes from two things happening at the same time. Googl
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>18</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>What's really happening here is the gap between agent capability demos and what...</title>
@@ -189,9 +189,9 @@ Let's start with the most important signal, because it reframes everything else:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>17</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>We're seeing multiple builders shipping production agents right now that run...</title>
@@ -207,9 +207,9 @@ The top signal today is this: Claude Code is becoming the actual runtime environ
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Let's take a deeper look at what's driving Claude Code's success, because this...</title>
@@ -225,9 +225,9 @@ The biggest signal today is about frag...</description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Claude Code's hitting usage limits hard enough that it's starting to reshape...</title>
@@ -243,9 +243,9 @@ Let me start with the biggest signal, because it kind of threads thr...</descrip
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — April 1, 2026</title>
@@ -261,9 +261,9 @@ The big story is that Claude Code got leaked. We're talking 512,000 lines of Typ
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 30, 2026</title>
@@ -277,9 +277,9 @@ The big story is that Claude Code got leaked. We're talking 512,000 lines of Typ
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 29, 2026</title>
@@ -295,9 +295,9 @@ So the biggest thing I'm noticing today is that we're hitting a wall with the id
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 28, 2026</title>
@@ -313,9 +313,9 @@ Let's start wit...</description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 25, 2026</title>
@@ -331,9 +331,9 @@ Let's start with what feels like the most significant signal: Swift agents are b
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 24, 2026</title>
@@ -349,9 +349,9 @@ Let's start with the headline development. There's a tool called ProofShot that 
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 23, 2026</title>
@@ -367,9 +367,9 @@ Agent teams are shipping in production right now. Not as experiments, not as pro
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 22, 2026</title>
@@ -385,9 +385,9 @@ The big headline is this: we're moving away from the idea that better reasoning 
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 21, 2026</title>
@@ -403,9 +403,9 @@ So let me start with the thing that caught my attention most today. For the l...
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 20, 2026</title>
@@ -421,9 +421,9 @@ The headline: Claude Code just shipped native integration with Telegra...</descr
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 19, 2026</title>
@@ -439,9 +439,9 @@ The headline today is that Claude Code just shipped something called context_for
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 18, 2026</title>
@@ -457,9 +457,9 @@ Let's start with the biggest structural development: Stripe just announced somet
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ai_agents Daily Brief — March 17, 2026</title>
@@ -473,9 +473,9 @@ Let's start with the biggest structural development: Stripe just announced somet
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
   </channel>
 </rss>

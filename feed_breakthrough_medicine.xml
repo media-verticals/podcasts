@@ -10,18 +10,18 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>The breakthroughs changing medicine right now. Clinical trials, new treatments, and what is coming next.</description>
     <language>en-us</language>
-    <copyright>Media Verticals</copyright>
+    <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Wed, 15 Apr 2026 20:42:45 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Media Verticals</itunes:author>
-    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
-    <author>mediaverticals@proton.me (Media Verticals)</author>
+    <itunes:author>Future Scanner</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
+    <author>mediaverticals@proton.me (Future Scanner)</author>
     <itunes:summary>The breakthroughs changing medicine right now. Clinical trials, new treatments, and what is coming next.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Media Verticals</itunes:name>
+      <itunes:name>Future Scanner</itunes:name>
       <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/breakthrough_medicine_cover.png"/>
@@ -47,9 +47,9 @@
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>organ transplantation, xenotransplant, gene editing, CAR-T therapy, cell therapy, mitochondria, longevity, CRISPR, clinical trials, cancer immunotherapy</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>mRNA stops being emergency tech, becomes platform for cancer</title>
@@ -67,9 +67,9 @@
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>mrna, crispr, personalized medicine, cancer vaccines, gene therapy, cell therapy, neoantigen, thymus regeneration, immunotherapy, allogeneic car-t</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>CAR-T goes point-of-care: manufacturing moves inside the patient</title>
@@ -87,9 +87,9 @@
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>car-t cell therapy, gene therapy, in-vivo manufacturing, cystic fibrosis, nanoparticles, rna vaccines, cell immunotherapy, precision oncology, clinical trials, accessible medicine</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>The bottleneck moves: AI collapses mRNA vaccine timelines</title>
@@ -107,9 +107,9 @@
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>mRNA vaccines, ai medicine, gene editing, crispr, senotherapy, aging, fxr signaling, homoharringtonine, klotho, ctx001, cdmo manufacturing, regulatory bottleneck</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Centenarian metabolotypes shift longevity from prediction to intervention</title>
@@ -127,9 +127,9 @@
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, aging, metabolomics, centenarians, metformin, circadian rhythm, mTOR, CRISPR, gene therapy, xenotransplantation, hereditary angioedema, neurodegeneration, epigenetics</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>mRNA Manufacturing Goes Open Source—The Pharma Gatekeeping Collapse</title>
@@ -147,9 +147,9 @@
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>mRNA vaccines, lipid nanoparticles, CRISPR gene therapy, personalized cancer vaccines, GLP-1 agonists, Alzheimer's disease, cell therapy, longevity science, pharma manufacturing, immunotherapy, dendritic cell targeting, metabolic aging</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>mRNA Cancer Vaccines Hit 50% Survival Gain—The Inflection Point</title>
@@ -167,9 +167,9 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>mrna vaccines, personalized medicine, moderna, merck, cancer immunotherapy, crispr gene therapy, ai drug discovery, clinical trials, neoantigen, oncology</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
   </channel>
 </rss>

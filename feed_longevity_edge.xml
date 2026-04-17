@@ -10,18 +10,18 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</description>
     <language>en-us</language>
-    <copyright>Media Verticals</copyright>
+    <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Wed, 15 Apr 2026 02:01:40 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Media Verticals</itunes:author>
-    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
-    <author>mediaverticals@proton.me (Media Verticals)</author>
+    <itunes:author>Future Scanner</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
+    <author>mediaverticals@proton.me (Future Scanner)</author>
     <itunes:summary>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Media Verticals</itunes:name>
+      <itunes:name>Future Scanner</itunes:name>
       <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png"/>
@@ -47,9 +47,9 @@
       <itunes:episode>20</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, NAD+, mitochondrial aging, cognitive decline, senolytics, senescent cells, AMPK, metabolic health, centenarians, healthspan, geroscience</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>FMO-2 and the Mitochondrial Stress Paradox</title>
@@ -67,9 +67,9 @@
       <itunes:episode>19</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, mitochondria, FMO-2, hormesis, caloric restriction, metabolic flexibility, cellular stress, aging, genomics, bowhead whale, brain aging, migraine, NAD+, metformin, healthspan</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Your Thymus Is Rewriting What We Know About Aging</title>
@@ -87,9 +87,9 @@
       <itunes:episode>18</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, thymus regeneration, immunology, T cells, metabolic signatures, bile acids, centenarians, Alzheimer's, GLP-1, healthspan, aging science, biomarkers</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Rate of Aging: Three Converging Signals on Measuring What Actually Matters</title>
@@ -107,9 +107,9 @@
       <itunes:episode>17</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, aging, epigenetic clocks, metabolomics, bile acids, centenarians, thymus, APOE4, dementia prediction, biomarkers, healthspan, gerontology</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>FXR, senescence, and the nuclear receptor axis reordering aging science</title>
@@ -127,9 +127,9 @@
       <itunes:episode>16</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, aging, FXR, senescence, klotho, mitochondria, thymus, bile acids, nuclear receptors, cellular aging</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Centenarian Metabolotypes &amp; the Circadian-Metabolic Coupling</title>
@@ -147,9 +147,9 @@
       <itunes:episode>15</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, centenarians, metabolomics, circadian rhythms, aging, mTOR, metformin, thymus regeneration, epigenetics, mitochondrial aging, biomarkers</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Adipose tissue as a longevity hub, GLP-1 neuroprotection, and tissue regeneration breakthroughs</title>
@@ -167,9 +167,9 @@
       <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, adipose tissue, microRNA, insulin signaling, GLP-1 agonists, semaglutide, Alzheimer's disease, FOXO1, myostatin inhibitors, sarcopenia, metabolic aging, neuroprotection, stem cells</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Plastics, Mitochondria &amp; the Bottlenecks Nobody's Measuring</title>
@@ -187,9 +187,9 @@
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, plastics, microplastics, mitochondrial dysfunction, aging, senescence, rapamycin, SIRT6, immune aging, environmental toxins, xenobiotics, Complex II, Th17, senolytics</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Senolytics' Hidden Cost: Brain Damage Risk Reshapes Aging Drug Strategy</title>
@@ -207,9 +207,9 @@
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>senolytics, senescent cells, demyelination, GLP-1 agonists, semaglutide, hypothalamus, FOXO3, rapamycin, microbiota, aging, longevity, healthspan, drug safety</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Multi-Axis Biomarkers Beat Single Clocks; Behavior Predicts Lifespan</title>
@@ -227,9 +227,9 @@
       <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, biological aging, biomarkers, epigenetic clocks, microbiome, aging mechanisms, metformin, wearables, behavioral biomarkers, personalized medicine, healthspan</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>25-Year Dementia Predictor, Cell-Type Aging, mRNA Breakthroughs</title>
@@ -247,9 +247,9 @@
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, dementia biomarker, aging clock, multivitamin, epigenetic aging, cell senescence, retinal regeneration, mRNA vaccine, immunosenescence, precision prevention, gerontology, healthspan</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Mitochondrial Architecture Emerges as Aging's Real Bottleneck</title>
@@ -267,9 +267,9 @@
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>mitochondria, aging, MICOS complex, ferroptosis, mitophagy, kidney aging, testosterone, amino acids, GLP-1, longevity science</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Thiolutin Rewires Aging—And Three Other Shifts in Longevity Science</title>
@@ -287,9 +287,9 @@
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, aging, senescence, thiolutin, transcriptional reprogramming, tissue-specific aging, ORANGE, senolytics, epigenetic aging, histone modification, lactylation, hearing loss, cereal, dementia, precision gerontology</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Senescent macrophages drive male infertility—and senolytics reverse it</title>
@@ -307,9 +307,9 @@
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, senescence, senolytics, male fertility, reproductive aging, epididymis, hematopoietic stem cells, neuropeptide Y, air pollution, Mediterranean diet, epigenetic aging, cellular aging mechanisms</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Centenarian Biomarkers, Brain NAD+ Patterns, and Sex-Stratified Aging</title>
@@ -327,9 +327,9 @@
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, centenarians, biomarkers, NAD+, redox metabolism, aging clock, sex differences, epigenetics, DNA repair, klotho, gerontology, aging biology</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Mitochondrial Contact Sites: The Unified Aging Mechanism</title>
@@ -347,9 +347,9 @@
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>aging, mitochondria, sarcopenia, macular degeneration, calcium signaling, MERCS, epigenetics, caloric restriction, longevity, healthspan, cellular aging, iPSC therapy</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>NAD+ Redox Balance, Healthspan Over Lifespan, GLP-1 Neuroprotection</title>
@@ -367,9 +367,9 @@
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>NAD+, healthspan, lifespan, GLP-1 agonists, mitochondrial dynamics, Caveolin-1, redox balance, neurogenesis, neuroprotection, aging biomarkers, semaglutide, tirzepatide, longevity science</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ORANGE: Machine Learning Cracks the Aging Code</title>
@@ -387,9 +387,9 @@
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, aging, machine learning, transcriptomics, ORANGE model, hippocampus, memory, inflammaging, mitochondrial biology, regulatory T cells, Treg, neurodegeneration, cognitive aging, emotional resilience, urolithin A, magtein, organoids, personalized</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Melatonin's Inflammasome Switch, Mitochondrial Dynamics Converge, CHIP Becomes a Clinical Risk Factor</title>
@@ -407,9 +407,9 @@
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, melatonin, inflammasome, mitochondrial dynamics, DRP1, CHIP, clonal hematopoiesis, cardiovascular aging, metabolic disease, reproductive aging, type 2 diabetes, thalamic volume, GLP-1, ischemia-reperfusion injury</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Genes Now Drive 50% of Lifespan—and Everything Changes</title>
@@ -427,9 +427,9 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>longevity, heritability, genetics, aging, mitochondria, inflammaging, rapamycin, statins, cardiovascular health, regulatory T cells, TFAM, mTOR, biomarkers, preventive medicine</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
   </channel>
 </rss>

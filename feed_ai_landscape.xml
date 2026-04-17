@@ -10,18 +10,18 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence from the frontier of AI. Who is winning, who is losing, and why it matters.</description>
     <language>en-us</language>
-    <copyright>Media Verticals</copyright>
+    <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Fri, 17 Apr 2026 03:38:18 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Media Verticals</itunes:author>
-    <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
-    <author>mediaverticals@proton.me (Media Verticals)</author>
+    <itunes:author>Future Scanner</itunes:author>
+    <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
+    <author>mediaverticals@proton.me (Future Scanner)</author>
     <itunes:summary>Daily intelligence from the frontier of AI. Who is winning, who is losing, and why it matters.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Media Verticals</itunes:name>
+      <itunes:name>Future Scanner</itunes:name>
       <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/ai_landscape_cover.png"/>
@@ -47,9 +47,9 @@
       <itunes:episode>62</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, claude, openai, codex, agents, alibaba, qwen, open-source models, cloudflare, infrastructure, agentic ai, compute constraints, model access</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic gates Mythos, OpenAI pivots to execution, Qwen collapses the moat</title>
@@ -67,9 +67,9 @@
       <itunes:episode>61</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, openai, claude, qwen, agents, agentic ai, codex, mcp, model context protocol, reasoning models, open-source ai</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>The capital crisis behind Anthropic's outages</title>
@@ -87,9 +87,9 @@
       <itunes:episode>60</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, claude, openai, google, gemini, agents, compute crisis, inference costs, infrastructure</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Claude Routines, Agent Economics, and the Chinese Model Threat</title>
@@ -107,9 +107,9 @@
       <itunes:episode>59</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, claude, openai, ai agents, routines, infrastructure, deployment, chinese ai models, deepseek, inference costs, task execution, agentic systems</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's Full-Stack Lock-In vs. the Open-Source Collapse</title>
@@ -127,9 +127,9 @@
       <itunes:episode>58</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, claude, ai development, full-stack strategy, developer lock-in, open-source, zero-day vulnerability, ai safety, regulatory capture, capital constraints</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Mythos breaks the scale myth: dangerous capabilities distribute across model sizes</title>
@@ -147,9 +147,9 @@
       <itunes:episode>57</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, mythos, ai safety, model scaling, openai, cirrus labs, benchmarks, berkeley, ai security, model capabilities, deployment infrastructure</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic gates Mythos, OpenAI locks in liability shield</title>
@@ -167,9 +167,9 @@
       <itunes:episode>56</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, openai, claude mythos, ai safety, ai regulation, federal reserve, sam altman, ai capability, ai liability, ai strategy</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic gates Mythos; OpenAI pauses Stargate; Meta doubles down on inference</title>
@@ -187,9 +187,9 @@
       <itunes:episode>55</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, claude, mythos, openai, stargate, meta, coreweave, inference, ai safety, ai infrastructure, ai strategy, developer tools</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's security bet, agent reliability crisis, and the inference cost war</title>
@@ -207,9 +207,9 @@
       <itunes:episode>54</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, claude, agents, infrastructure security, inference economics, openai, microsoft, ai deployment, machine learning</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Infrastructure Wars: Anthropic locks in, Microsoft pivots to latency</title>
@@ -227,9 +227,9 @@
       <itunes:episode>53</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, claude, microsoft, infrastructure, agents, coding, latency, policy, silicon</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic blocks OpenClaw while the agent economy shifts to Google and Alibaba</title>
@@ -247,9 +247,9 @@
       <itunes:episode>52</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, openclaw, agents, gemma 4, glm-5, edge inference, api pricing, token economics, google, alibaba, openai, model deployment, ai infrastructure</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's panic response, self-distillation breaks the scale moat</title>
@@ -267,9 +267,9 @@
       <itunes:episode>51</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, apple, google, microsoft, ai efficiency, self-distillation, model moats, inference optimization, enterprise ai, copilot</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's ecosystem lock-in and the end of open model commoditization</title>
@@ -287,9 +287,9 @@
       <itunes:episode>50</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, claude, ecosystem lock-in, capital efficiency, inference scarcity, google gemma, microsoft agents, open models, vertical integration, ai infrastructure</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Google's Inference Play, Anthropic's Constraints, and the Agent Consensus</title>
@@ -307,9 +307,9 @@
       <itunes:episode>49</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, google gemma, anthropic, alibaba qwen, inference optimization, agent models, openai, regulatory capture, deployment efficiency</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's Leaked Code, OpenAI's Sinking Valuation, and Medicine's AI Inflection</title>
@@ -327,9 +327,9 @@
       <itunes:episode>48</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, openai, claude, model efficiency, labor displacement, radiology, ai regulation, model architecture, capital markets</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Microsoft's Ads in Pull Requests and the Inference Efficiency War</title>
@@ -347,9 +347,9 @@
       <itunes:episode>47</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, developer tools, github, microsoft, anthropic, agents, inference efficiency, monetization, ai infrastructure, claude</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's Leaked Mythos, Agent Autonomy Spiraling, Apple Pluralizes AI</title>
@@ -367,9 +367,9 @@
       <itunes:episode>46</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, claude, ai security, autonomous agents, google, apple siri, model compression, ai deployment, inference efficiency, data poisoning</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>The Affirmation Trap: Why AI's Niceness Is Becoming Dangerous</title>
@@ -387,9 +387,9 @@
       <itunes:episode>45</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, machine learning, anthropic, sycophancy, safety, agents, quantization, ai alignment, claude, google gemini</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>The Routing Layer Is the New Moat</title>
@@ -407,9 +407,9 @@
       <itunes:episode>44</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, openai, claude, computer use, routing infrastructure, open source models, orchestration, interface control, capability compression</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>OpenAI kills Sora, ARM builds AGI silicon, agents learn to improve themselves</title>
@@ -427,9 +427,9 @@
       <itunes:episode>43</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>openai, sora, arm, cpu, inference, nvidia, meta, hyperagents, agents, litelm, security, supply chain, on-device ai, orchestration, ai infrastructure</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>On-Device LLMs Break the Cloud Monopoly</title>
@@ -447,9 +447,9 @@
       <itunes:episode>42</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, on-device inference, llm, agents, apple, meta, zuckerberg, nvidia, andrej karpathy, cloud computing, enterprise ai</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Palantir's lock-in, OpenClaw's consolidation, and why Walmart matters</title>
@@ -467,9 +467,9 @@
       <itunes:episode>41</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>palantir, openai, walmart, agent orchestration, openclaw, flash-moe, ai infrastructure, vendor lock-in, enterprise ai, defense, government adoption</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>ArXiv breaks free, Bezos buys the supply chain</title>
@@ -487,9 +487,9 @@
       <itunes:episode>40</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>arxiv, infrastructure, bezos, manufacturing, supply chain, ai regulation, agents, model capability, claude, research commons</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Medical AI's Silent Failure &amp; the GPU Supply War</title>
@@ -507,9 +507,9 @@
       <itunes:episode>39</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, medical ai, validation, anthropic, claude, google, openai, gpu supply chain, infrastructure, agents</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>OpenAI owns the developer layer, Meta's rogue agent, and the model commoditization trap</title>
@@ -527,9 +527,9 @@
       <itunes:episode>38</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>openai, astral, ruff, ai agents, autonomous agents, meta security incident, minimax m2.7, infrastructure moat, developer tools, agent accountability, permission-gating, anthropic, model commoditization, ai deployment</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's Permission-Gated Agents, Google's Personal AI, Stripe's Agent Economy</title>
@@ -547,9 +547,9 @@
       <itunes:episode>37</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, agents, anthropic, claude dispatch, google personal intelligence, stripe, autonomous agents, agent liability, agentic ai, openai, mistral</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Agent Economics: OpenAI's Cost Play vs. Mistral's Orchestration</title>
@@ -567,9 +567,9 @@
       <itunes:episode>36</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, openai, mistral, anthropic, claude, agent infrastructure, model orchestration, cost-per-execution, agentic workloads, ai strategy</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Nvidia's Vera, the agent cost war, and why reliability beats capability</title>
@@ -597,9 +597,9 @@
       <itunes:episode>35</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>nvidia, agents, agentic ai, hardware, mistral, zhipu ai, perplexity, google, claude, execution, cost optimization, ai infrastructure, formal verification, china, open-weight models</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Google's Agent Infrastructure vs. Anthropic's Lock-In Play</title>
@@ -617,9 +617,9 @@
       <itunes:episode>34</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, google chrome devtools, anthropic claude, model context protocol, ai infrastructure, open-weight models, nemotron, agentic workflows, ai orchestration, integration layer</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>arXiv Breaks Free, Anthropic Gates Agents, Open-Weight Wins</title>
@@ -637,9 +637,9 @@
       <itunes:episode>33</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, machine learning, arxiv, anthropic, claude, agents, agentic systems, stripe, open-weight models, orchestration</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Capability vs. Operations: Why Anthropic Wins While xAI Implodes</title>
@@ -657,9 +657,9 @@
       <itunes:episode>32</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, xai, meta, inference architecture, agent memory, model capability, operational infrastructure, context windows, open-weight models</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Meta's Agent Plumbing, Function Calling's Death, and Open Models Rising</title>
@@ -677,9 +677,9 @@
       <itunes:episode>31</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, agents, meta, moltbook, open-weight models, qwen, agentic coding, infrastructure, function calling, anthropic, competitive moat, agent coordination</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Atlassian's 20% layoff bet on AI agents, Stripe's agent-written code, and the verification layer arms race</title>
@@ -697,9 +697,9 @@
       <itunes:episode>30</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, atlassian, stripe, labor displacement, verification infrastructure, government ai adoption, google, anthropic, nvidia, open-weight models, software engineering, ai adoption</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Meta owns the agent economy—and everyone else becomes compute</title>
@@ -717,9 +717,9 @@
       <itunes:episode>29</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, agents, meta, moltbook, amazon, anthropic, yann lecun, physical ai, leaderboard, inference optimization, agent economy, ai infrastructure</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic sues the Pentagon, OpenAI acquires risk management, Qwen beats GPT at 1/100th cost</title>
@@ -737,9 +737,9 @@
       <itunes:episode>28</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, anthropic, openai, pentagon, defense contracts, claude, qwen, fine-tuning, agents, code review, labor displacement, open source models, enterprise adoption</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Claude finds 22 Firefox bugs, Anthropic gets designated a supply chain risk</title>
@@ -757,9 +757,9 @@
       <itunes:episode>27</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, anthropic, openai, claude, security auditing, supply chain risk, autonomous agents, qwen, open-weight models, frontier models</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic in the kill chain—military AI moves faster than safety</title>
@@ -777,9 +777,9 @@
       <itunes:episode>26</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, military deployment, anthropic, openai, autonomous agents, sarvam, agentic ai, instrumental convergence, geopolitics, open-source models</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Claude Code's Database Wipe and the Autonomy-Safety Inversion</title>
@@ -797,9 +797,9 @@
       <itunes:episode>25</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, autonomic systems, anthropic, claude, meta, whatsapp, infrastructure security, geopolitical risk, ai safety, agents</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>GPT-5.4's async reasoning reshapes AI economics; Pentagon locks out Anthropic</title>
@@ -817,9 +817,9 @@
       <itunes:episode>24</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>openai, anthropic, gpt-5.4, async reasoning, pentagon, military ai, supply chain risk, api economics, wikipedia, open source, gpu, nvidia</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Pentagon Deals &amp; the Principle Collapse—Plus Apple's Hardware Play</title>
@@ -837,9 +837,9 @@
       <itunes:episode>23</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, openai, dario amodei, military ai, pentagon, qwen, apple, macbook neo, m5, local inference, openclaw, agent security, nato, claude, gpt, alibaba, fine-tuning</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Local inference wins: Why hardware now beats models</title>
@@ -857,9 +857,9 @@
       <itunes:episode>22</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, machine learning, qwen, apple, openai, anthropic, inference, local models, hardware, open source</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>OpenClaw overtakes React—AI moves to agent orchestration</title>
@@ -877,9 +877,9 @@
       <itunes:episode>21</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, agents, infrastructure, openai, anthropic, qwen, claude, github, military ai, local models, agent orchestration</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's Military Paradox, Claude Tops App Store, Open Models Close the Gap</title>
@@ -897,9 +897,9 @@
       <itunes:episode>20</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, claude, openai, military ai, app store, open-source models, qwen, prediction markets, llm benchmarks, geopolitics</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Pentagon deal backfire: OpenAI's cancel wave, Anthropic's legal stand</title>
@@ -917,9 +917,9 @@
       <itunes:episode>19</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>openai, anthropic, pentagon, military ai, qwen, open-source models, chain-of-thought, governance, ai policy, consumer backlash</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>State Power vs. AI Labs: Anthropic's Ban and OpenAI's $110B Blessing</title>
@@ -937,9 +937,9 @@
       <itunes:episode>18</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, openai, pentagon, military ai, state power, qwen, contextcache, agents, ai regulation, frontier models</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Open Models Hit a Security Wall — Claude Gets Remote Execution</title>
@@ -957,9 +957,9 @@
       <itunes:episode>17</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, open-weight models, security vulnerabilities, claude, openai, agents, capex, efficiency, enterprise ai</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's Pentagon Capitulation &amp; the Safety Repositioning Cascade</title>
@@ -977,9 +977,9 @@
       <itunes:episode>16</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, openai, meta, pentagon, ai safety, agents, capex, hardware, alignment, autonomous systems</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic's Security Play &amp; the Productivity Paradox</title>
@@ -997,9 +997,9 @@
       <itunes:episode>15</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>anthropic, ai security, distillation attacks, cobol, ibm, productivity paradox, ai capex, goldmansachs, business model disruption, wolfram, symbolic computation, asml, chip yields, claude, enterprise ai</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>The Orchestration Era: Why Stripe's Agents Matter More Than Google's Benchmarks</title>
@@ -1017,9 +1017,9 @@
       <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, reasoning models, agent orchestration, stripe, moonshot, edge computing, benchmark integrity, autonomous agents, ai infrastructure, market structure</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>The Infrastructure Moat Just Inverted</title>
@@ -1037,9 +1037,9 @@
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, infrastructure, openai, nvidia, hugging face, anthropic, inference costs, open models, governance, vision-language models, spatial reasoning, agent systems</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Brain drain, agent governance, and the geopolitical AI split</title>
@@ -1057,9 +1057,9 @@
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, brain drain, anthropic, google, world labs, agents, talent, geopolitics, agent governance, spatial reasoning</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>World Models, the Inference Crisis, and AI's Geopolitical Split</title>
@@ -1077,9 +1077,9 @@
       <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, world models, fei-fei li, anthropic, openai, grok, inference optimization, agents, geopolitics, deployment governance</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>OpenAI's OpenClaw hire signals the real AI moat shift</title>
@@ -1097,9 +1097,9 @@
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>openai, anthropic, agents, consolidation, pricing, inference speed, governance, geopolitics, ai infrastructure, elevenlabs</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Anthropic hides Claude's actions; 18K compromised agents; Qwen closes the gap</title>
@@ -1117,9 +1117,9 @@
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, anthropic claude, anthropic safety, openclaw security, qwen, ai infrastructure, alignment, agent deception, ai transparency, enterprise ai</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Voice Cloning, Agent Swarms, and the Liability Crisis</title>
@@ -1137,9 +1137,9 @@
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, voice synthesis, google, claude, anthropic, autonomous systems, ai regulation, agent swarms, ai liability, notebooklm</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>OpenAI Removes 'Safely,' Claude Automates 8-Hour Jobs, Physics Gets Derived</title>
@@ -1157,9 +1157,9 @@
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>openai, anthropic, claude, gpt-5, ai safety, agents, reasoning models, machine learning, ai autonomy, academic integrity</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>AI agents publishing without authorization—and the law isn't ready</title>
@@ -1177,9 +1177,9 @@
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, autonomous systems, liability, governance, anthropic, openai, google gemini, deepseek, agent security, ai alignment, reasoning models</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Claude Code hits the wall, Chinese efficiency models reshape enterprise AI</title>
@@ -1197,9 +1197,9 @@
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, frontier models, claude, anthropic, reasoning, agents, glm-5, chinese ai, efficiency, benchmarks, legal ai, surveillance, data privacy, gpu scaling, autonomous agents</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Google's data extraction, Europe's payment decoupling, and the infrastructure wars</title>
@@ -1217,9 +1217,9 @@
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>google, infrastructure, surveillance, europe, payments, oxide, github, agents, cloud computing, data residency, saas pricing</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Discord's Biometric Turn, GitHub's Reliability Crisis, and the Attention War</title>
@@ -1237,9 +1237,9 @@
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>discord, github, openai, pseudonymity, biometric authentication, infrastructure, ai agents, surveillance, platform reliability, agentic workflows</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Local inference dominates, GitHub agents threaten APIs, quantization hits a wall</title>
@@ -1257,9 +1257,9 @@
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai, local inference, quantization, gguf, agents, github, qwen, llama.cpp, structured outputs, open source</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Agents Are Moving Into Production—Now the Real Work Begins</title>
@@ -1277,9 +1277,9 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:keywords>ai agents, production automation, anthropic, claude, constitutional ai, autonomous systems, ai safety, orchestration, agentic ai, enterprise ai</itunes:keywords>
-      <itunes:author>Media Verticals</itunes:author>
+      <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
   </channel>
 </rss>
