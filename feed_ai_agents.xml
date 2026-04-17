@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 02:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 04:24:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Brief: Now that wall is gone. An agent can maintain coherent multi-stage workflows...</title>
+      <description>Hey, welcome back. We're covering a lot of ground today, but there's one signal that's really standing out—and it's reshaping what agents can actually do in practice.
+
+Claude Opus 4.7 just shipped with a million-token context window and the ability to run for more than two hours without resetting. A...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-17.mp3" length="13863885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-170</guid>
+      <pubDate>Fri, 17 Apr 2026 04:24:00 +0000</pubDate>
+      <itunes:duration>00:11:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Agents Brief: That's the first sign that agent infrastructure is consolidating, and...</title>
       <description>Welcome back. Let's talk about what's happening in the agent infrastructure space right now, because something important is shifting and it's worth understanding what it means.
