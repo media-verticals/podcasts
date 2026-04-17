@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Media Verticals</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 01:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:52:08 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Media Verticals</itunes:author>
     <managingEditor>mediaverticals@proton.me (Media Verticals)</managingEditor>
@@ -31,6 +31,20 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Landscape: And here's why I think that strategy might actually work, even though it sounds...</title>
+      <description>Hey there. We're watching what might be a fundamental shift in how the AI market is actually competing, and it's not playing out the way most people think.
+
+The biggest story today is what Anthropic just did—and more importantly, what they're not doing. They released Claude Opus 4.7 this morning whi...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-16.mp3" length="10634925" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-166</guid>
+      <pubDate>Fri, 17 Apr 2026 01:52:08 +0000</pubDate>
+      <itunes:duration>00:08:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
     <item>
       <title>AI Landscape: What we're actually seeing is a capital problem masquerading as an...</title>
       <description>Welcome back. Today we're looking at a fundamental shift in how the AI race is actually being won, and it's not happening where most people think it is. Let me walk you through what's going on.
