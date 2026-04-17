@@ -33,6 +33,7 @@
     <itunes:category text="Technology"/>
     <item>
       <title>Local AI Intel: This is actually a really important point because it points to a bigger...</title>
+      <itunes:title>Local AI Intel: This is actually a really important point because it points to a bigger...</itunes:title>
       <description>Hey there. Today's conversation is about where the real money is in AI services for small business right now—and it's not where most agencies think it is.
 
 Let me set the scene. GoHighLevel is still the dominant platform, but here's what's interesting: it's not because everyone loves it. It's domina...</description>
@@ -41,12 +42,16 @@ Let me set the scene. GoHighLevel is still the dominant platform, but here's wha
       <pubDate>Thu, 16 Apr 2026 02:00:23 +0000</pubDate>
       <itunes:duration>00:11:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel: Let me start with what's probably the biggest signal right now: GoHighLevel has...</title>
+      <itunes:title>Local AI Intel: Let me start with what's probably the biggest signal right now: GoHighLevel has...</itunes:title>
       <description>Hey there. Welcome back. Let's talk about what's happening in the AI services marketplace right now, because the landscape is shifting pretty fundamentally — and if you're an agency or you're thinking about building one, you need to understand what's actually changing versus what's just noise.
 
 Here...</description>
@@ -55,12 +60,16 @@ Here...</description>
       <pubDate>Tue, 14 Apr 2026 02:00:45 +0000</pubDate>
       <itunes:duration>00:11:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel: Let me start with what's probably the biggest signal of the week. GoHighLevel's...</title>
+      <itunes:title>Local AI Intel: Let me start with what's probably the biggest signal of the week. GoHighLevel's...</itunes:title>
       <description>Hey everyone, welcome back. Let's walk through what's happening in the local AI services space right now, because the market is really crystallizing in interesting ways.
 
 Here's the thing I'm watching most closely: we're at this inflection point where the tools themselves are becoming commodities, b...</description>
@@ -69,48 +78,64 @@ Here's the thing I'm watching most closely: we're at this inflection point where
       <pubDate>Sat, 11 Apr 2026 02:15:03 +0000</pubDate>
       <itunes:duration>00:14:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel: GHL released a voice agent feature. It's live. And when you look at Reddit...</title>
+      <itunes:title>Local AI Intel: GHL released a voice agent feature. It's live. And when you look at Reddit...</itunes:title>
       <description>Hey, thanks for tuning in. Today we're looking at the AI services marketplace—specifically what's happening with agencies selling AI solutions to small and medium-sized businesses. And there's a really interesting story here about what looks like consolidation on the surface but is actually fragment...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-06.mp3" length="17091885" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-134</guid>
       <pubDate>Tue, 07 Apr 2026 02:10:46 +0000</pubDate>
       <itunes:duration>00:14:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel: What's interesting about this is that it's not some theoretical advantage....</title>
+      <itunes:title>Local AI Intel: What's interesting about this is that it's not some theoretical advantage....</itunes:title>
       <description>Hey there. So we've got a really interesting moment happening right now in the SMB automation space, and I think it's worth understanding what's actually shifting beneath the surface. The headline is that GoHighLevel has become table stakes for agencies, but the deeper story is about how the entire ...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-03.mp3" length="12084525" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-125</guid>
       <pubDate>Sat, 04 Apr 2026 02:18:17 +0000</pubDate>
       <itunes:duration>00:10:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel Daily Brief — April 1, 2026</title>
+      <itunes:title>Local AI Intel Daily Brief — April 1, 2026</itunes:title>
       <description>Hey, thanks for joining us. We're covering something that feels like a real inflection point in how agencies are building and selling AI solutions to local businesses. There's been a structural shift in the last few weeks, and if you're paying attention to where the repeatable revenue is actually fl...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-01.mp3" length="15980685" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-114</guid>
       <pubDate>Thu, 02 Apr 2026 02:02:34 +0000</pubDate>
       <itunes:duration>00:13:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel Daily Brief — March 30, 2026</title>
+      <itunes:title>Local AI Intel Daily Brief — March 30, 2026</itunes:title>
       <description>Hey there. If you're running or building an AI services business right now, there's a pretty significant shift happening in how agencies are packaging and selling solutions to SMBs. And it's worth understanding because the window to adapt your positioning is closing faster than you might think.
 
 Let...</description>
@@ -119,12 +144,16 @@ Let...</description>
       <pubDate>Tue, 31 Mar 2026 02:02:59 +0000</pubDate>
       <itunes:duration>00:12:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel Daily Brief — March 25, 2026</title>
+      <itunes:title>Local AI Intel Daily Brief — March 25, 2026</itunes:title>
       <description>Hey everyone, welcome back. Today we're looking at something that's genuinely shifted in the agency AI space over the last week or two, and it's worth paying close attention to because it changes how you should be thinking about positioning your services.
 
 The headline is this: the conversation has ...</description>
@@ -133,12 +162,16 @@ The headline is this: the conversation has ...</description>
       <pubDate>Thu, 26 Mar 2026 02:08:14 +0000</pubDate>
       <itunes:duration>00:10:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel Daily Brief — March 23, 2026</title>
+      <itunes:title>Local AI Intel Daily Brief — March 23, 2026</itunes:title>
       <description>Hey, welcome back. Let's talk about what's actually happening in the AI services space right now, because it's shifted in a really important way and I think a lot of agencies haven't noticed yet.
 
 The big inflection point we're seeing is that the market has moved past "how do we build an agent" into...</description>
@@ -147,18 +180,25 @@ The big inflection point we're seeing is that the market has moved past "how do 
       <pubDate>Tue, 24 Mar 2026 02:13:26 +0000</pubDate>
       <itunes:duration>00:12:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local AI Intel Daily Brief — March 18, 2026</title>
+      <itunes:title>Local AI Intel Daily Brief — March 18, 2026</itunes:title>
       <description>Welcome back. We're looking at the AI services marketplace today, and there's something pretty significant happening right now: the entire value proposition of what agencies sell has fundamentally shifted. We're not talking about building agents anymore. We're talking about running them reliably, pr...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-03-18.mp3" length="13726604" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-69</guid>
       <pubDate>Thu, 19 Mar 2026 02:10:34 +0000</pubDate>
       <itunes:duration>00:11:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>

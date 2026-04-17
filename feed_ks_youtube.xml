@@ -33,6 +33,7 @@
     <itunes:category text="Technology"/>
     <item>
       <title>YouTube Intelligence: Let's start with the baseline shift. Anthropic just released Claude Opus 4.7,...</title>
+      <itunes:title>YouTube Intelligence: Let's start with the baseline shift. Anthropic just released Claude Opus 4.7,...</itunes:title>
       <description>Hey everyone, welcome back. Today's one of those days where the story doesn't really fragment into separate topics—it all ties together into something that feels pretty significant. So let's walk through what's happening.
 
 The headline is this: the agentic economy isn't some future thing anymore. It...</description>
@@ -41,12 +42,16 @@ The headline is this: the agentic economy isn't some future thing anymore. It...
       <pubDate>Fri, 17 Apr 2026 03:23:50 +0000</pubDate>
       <itunes:duration>00:10:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: And we're seeing this land hard across multiple channels—Alex Finn, Nate Herk,...</title>
+      <itunes:title>YouTube Intelligence: And we're seeing this land hard across multiple channels—Alex Finn, Nate Herk,...</itunes:title>
       <description>Hey, thanks for tuning in. We're tracking some really significant shifts in the AI development space right now—the kind of thing that changes how builders actually work, not just what models can theoretically do. Let's walk through it.
 
 The biggest story today is that Claude Code just became infrast...</description>
@@ -55,12 +60,16 @@ The biggest story today is that Claude Code just became infrast...</description>
       <pubDate>Thu, 16 Apr 2026 03:22:21 +0000</pubDate>
       <itunes:duration>00:09:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Because Anthropic's pricing power is under real pressure right now. Kimi 2.6...</title>
+      <itunes:title>YouTube Intelligence: Because Anthropic's pricing power is under real pressure right now. Kimi 2.6...</itunes:title>
       <description>Hey everyone. Welcome back. Let's dig into what's actually moving in the creator and development space right now, because there are some signals here that feel like turning points.
 
 I want to start with something that caught my attention this morning, and it's one of those moments where you see a co...</description>
@@ -69,12 +78,16 @@ I want to start with something that caught my attention this morning, and it's o
       <pubDate>Wed, 15 Apr 2026 03:24:25 +0000</pubDate>
       <itunes:duration>00:11:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Let me start with something that seems obvious but actually isn't: Claude Code...</title>
+      <itunes:title>YouTube Intelligence: Let me start with something that seems obvious but actually isn't: Claude Code...</itunes:title>
       <description>Hey everyone. Let's walk through what's happening in the creator space right now, because there's a really important inflection point forming — one that's bigger than just tools or platform dynamics.
 
 Here's what I'm looking at today: the AI landscape is fracturing in a way that's going to separate ...</description>
@@ -83,12 +96,16 @@ Here's what I'm looking at today: the AI landscape is fracturing in a way that's
       <pubDate>Tue, 14 Apr 2026 03:23:46 +0000</pubDate>
       <itunes:duration>00:11:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Six months ago, if you wanted to build something with AI, you had two paths....</title>
+      <itunes:title>YouTube Intelligence: Six months ago, if you wanted to build something with AI, you had two paths....</itunes:title>
       <description>Welcome back. We've got a lot to unpack today, and honestly, the story here is about a pretty fundamental shift in how people are building things with AI. Not the models themselves — those are shipping on schedule. But what you can actually *do* with them, and who gets to do it. Let's dig in.
 
 The b...</description>
@@ -97,24 +114,32 @@ The b...</description>
       <pubDate>Sun, 12 Apr 2026 03:25:05 +0000</pubDate>
       <itunes:duration>00:12:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: This is a meaningful shift from where we were even a few months ago. Claude...</title>
+      <itunes:title>YouTube Intelligence: This is a meaningful shift from where we were even a few months ago. Claude...</itunes:title>
       <description>So here's what's capturing everyone's attention this week, and honestly, it's one of those moments where the signals are all pointing in the same direction at once. The capability floor is rising faster than business models can actually adapt to it. And that's creating this interesting window where ...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-10.mp3" length="10746285" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-149</guid>
       <pubDate>Sat, 11 Apr 2026 03:22:19 +0000</pubDate>
       <itunes:duration>00:08:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Now, at the same time this is happening, we're seeing the OpenClaw ecosystem...</title>
+      <itunes:title>YouTube Intelligence: Now, at the same time this is happening, we're seeing the OpenClaw ecosystem...</itunes:title>
       <description>Hey, welcome back. Let's walk through what's happening across the creator network today, because there are some pretty significant structural shifts showing up, and I want to make sure we understand what they actually mean beneath the hype.
 
 So the biggest story today—and I think this is genuinely i...</description>
@@ -123,12 +148,16 @@ So the biggest story today—and I think this is genuinely i...</description>
       <pubDate>Fri, 10 Apr 2026 03:30:26 +0000</pubDate>
       <itunes:duration>00:15:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Let's start with the most important signal. GPT-5.4 just crossed the OSWorld...</title>
+      <itunes:title>YouTube Intelligence: Let's start with the most important signal. GPT-5.4 just crossed the OSWorld...</itunes:title>
       <description>Hello. There's something genuinely interesting happening in AI right now, and it's not what the headlines are telling you. Let me walk you through what's actually shifting.
 
 The big story today is about architecture. Not capabilities—architecture. And it matters because it's fundamentally changing h...</description>
@@ -137,12 +166,16 @@ The big story today is about architecture. Not capabilities—architecture. And 
       <pubDate>Wed, 08 Apr 2026 03:22:15 +0000</pubDate>
       <itunes:duration>00:09:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: So here's the signal. Theo, who's generally been pretty neutral on Anthropic's...</title>
+      <itunes:title>YouTube Intelligence: So here's the signal. Theo, who's generally been pretty neutral on Anthropic's...</itunes:title>
       <description>Hey everyone, welcome back. Let's dig into what's happening across the creator network today, because there's a meaningful shift in the conversation—and I think it matters.
 
 We're going to start with something that's become impossible to ignore: Claude Code has moved from being a friction point to b...</description>
@@ -151,24 +184,32 @@ We're going to start with something that's become impossible to ignore: Claude C
       <pubDate>Tue, 07 Apr 2026 03:21:51 +0000</pubDate>
       <itunes:duration>00:08:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Anthropic banned OpenClaw. It's a third-party integration that lets you run...</title>
+      <itunes:title>YouTube Intelligence: Anthropic banned OpenClaw. It's a third-party integration that lets you run...</itunes:title>
       <description>Welcome back. Today we're tracking something genuinely interesting across the creator network—a real collision between proprietary enforcement and open-source capability, a shift in how people are actually building with AI, and a pretty stark organizational realization about where the real bottlenec...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-05.mp3" length="12530445" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-132</guid>
       <pubDate>Mon, 06 Apr 2026 03:23:24 +0000</pubDate>
       <itunes:duration>00:10:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Anthropic just accidentally—or maybe not accidentally—revealed an unreleased...</title>
+      <itunes:title>YouTube Intelligence: Anthropic just accidentally—or maybe not accidentally—revealed an unreleased...</itunes:title>
       <description>Hey everyone, thanks for tuning in.
 
 We're covering a lot of ground today, and honestly, there's one signal that's setting the tone for everything else we're going to talk about. So let's start there.
@@ -179,12 +220,16 @@ Anthropic just accidentally—or maybe not accidentally—revealed an unreleased
       <pubDate>Sun, 05 Apr 2026 03:24:06 +0000</pubDate>
       <itunes:duration>00:11:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: This matters more than the usual "open source is good, actually" narrative...</title>
+      <itunes:title>YouTube Intelligence: This matters more than the usual "open source is good, actually" narrative...</itunes:title>
       <description>Welcome back. We're tracking some significant shifts across the AI and infrastructure space today, and I want to walk you through where the real action is—because it's not where you'd expect it to be.
 
 Let's start with what's probably the most important signal, and it's one that most people are stil...</description>
@@ -193,12 +238,16 @@ Let's start with what's probably the most important signal, and it's one that mo
       <pubDate>Sat, 04 Apr 2026 03:22:31 +0000</pubDate>
       <itunes:duration>00:09:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence: Connected to that, there's also this really important architectural...</title>
+      <itunes:title>YouTube Intelligence: Connected to that, there's also this really important architectural...</itunes:title>
       <description>Hey, welcome back. Let's walk through what's captured the creator ecosystem's attention today, because there are some genuinely important shifts happening—and a few of them are moving faster than I think most people realize.
 
 The big story right now is that Claude's tooling is solidifying into somet...</description>
@@ -207,12 +256,16 @@ The big story right now is that Claude's tooling is solidifying into somet...</d
       <pubDate>Fri, 03 Apr 2026 03:22:05 +0000</pubDate>
       <itunes:duration>00:08:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — April 1, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — April 1, 2026</itunes:title>
       <description>All right, let's walk through what's happening in AI right now, because there's some really significant stuff moving at the same time—and it's worth understanding how these pieces fit together.
 
 The biggest thing I want to start with is that we've just watched something shift fundamentally in how fr...</description>
@@ -221,12 +274,16 @@ The biggest thing I want to start with is that we've just watched something shif
       <pubDate>Thu, 02 Apr 2026 03:25:38 +0000</pubDate>
       <itunes:duration>00:13:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 31, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 31, 2026</itunes:title>
       <description>Welcome back. Today's been a pretty thick one—there's a lot of movement happening in creator land, and a lot of it is pointing in the same direction if you step back and look at the pattern.
 
 Let's start with what's probably the most concrete development right now. Anthropic's Claude Code—specifical...</description>
@@ -235,12 +292,16 @@ Let's start with what's probably the most concrete development right now. Anthro
       <pubDate>Wed, 01 Apr 2026 03:23:42 +0000</pubDate>
       <itunes:duration>00:10:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 30, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 30, 2026</itunes:title>
       <description>All right, let's talk about what's happening in the creator economy and AI right now, because there are some genuinely important shifts coming into focus.
 
 The biggest story today is that AI agents have stopped being a research question and started being infrastructure. This is a meaningful inflecti...</description>
@@ -249,12 +310,16 @@ The biggest story today is that AI agents have stopped being a research question
       <pubDate>Tue, 31 Mar 2026 03:25:52 +0000</pubDate>
       <itunes:duration>00:13:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 29, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 29, 2026</itunes:title>
       <description>Welcome back. Let's walk through what's happening in the creator ecosystem right now, because there's a real shift underway—and it's coming from outside the traditional institutions you'd expect.
 
 We're looking at three major threads today. The first one is metabolic health, and it's genuinely resha...</description>
@@ -263,12 +328,16 @@ We're looking at three major threads today. The first one is metabolic health, a
       <pubDate>Mon, 30 Mar 2026 03:22:47 +0000</pubDate>
       <itunes:duration>00:09:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 28, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 28, 2026</itunes:title>
       <description>Welcome back. We've got a lot to unpack today, and honestly, the signal density right now is unusually high. What's interesting isn't just the individual releases—it's the pattern underneath them. Let me walk you through what's happening.
 
 Let's start with the thing that's getting the most attention...</description>
@@ -277,12 +346,16 @@ Let's start with the thing that's getting the most attention...</description>
       <pubDate>Sun, 29 Mar 2026 03:25:17 +0000</pubDate>
       <itunes:duration>00:12:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 25, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 25, 2026</itunes:title>
       <description>Welcome back. We've got a significant pivot happening across the AI and creator economy right now, and it's worth understanding because it fundamentally changes who wins and loses in the next 18 months.
 
 Let me start with what's probably the most important signal: OpenAI is no longer building produc...</description>
@@ -291,12 +364,16 @@ Let me start with what's probably the most important signal: OpenAI is no longer
       <pubDate>Thu, 26 Mar 2026 03:28:27 +0000</pubDate>
       <itunes:duration>00:11:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 24, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 24, 2026</itunes:title>
       <description>Welcome back. We've got a lot moving today, and I want to walk you through what's actually changing underneath all the noise.
 
 Let's start with the biggest structural shift, because it ties everything else together. Claude just released a set of updates that on the surface look like feature addition...</description>
@@ -305,12 +382,16 @@ Let's start with the biggest structural shift, because it ties everything else t
       <pubDate>Wed, 25 Mar 2026 03:28:28 +0000</pubDate>
       <itunes:duration>00:11:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 23, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 23, 2026</itunes:title>
       <description>Hey, welcome back. Today we're looking at a really important inflection point in how AI agents are being built and deployed. And honestly, it's a lot more nuanced than the headlines suggest.
 
 Let me start with what's probably the biggest shift: the agent orchestration layer just became the real prod...</description>
@@ -319,24 +400,32 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <pubDate>Tue, 24 Mar 2026 03:30:26 +0000</pubDate>
       <itunes:duration>00:12:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 22, 2026</itunes:title>
       <description>Welcome back. We're tracking some really interesting shifts in the AI infrastructure world right now, and I want to walk you through what's actually happening beneath the headlines. Because there's a story here about markets bifurcating, data becoming the real bottleneck, and the economics of automa...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-22.mp3" length="12844844" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-81</guid>
       <pubDate>Mon, 23 Mar 2026 03:27:58 +0000</pubDate>
       <itunes:duration>00:10:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 21, 2026</title>
+      <itunes:title>YouTube Intelligence Daily Brief — March 21, 2026</itunes:title>
       <description>Hey, welcome back. We've got a lot to dig into today, and honestly, this is one of those days where the signal density is really high—there are some genuine inflection points happening in how people are actually building things right now.
 
 Let's start with what's probably the most important thing I'...</description>
@@ -345,12 +434,16 @@ Let's start with what's probably the most important thing I'...</description>
       <pubDate>Sun, 22 Mar 2026 03:27:36 +0000</pubDate>
       <itunes:duration>00:10:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>YouTube Intelligence Brief — March 19, 2026</title>
+      <itunes:title>YouTube Intelligence Brief — March 19, 2026</itunes:title>
       <description>Welcome to the show. We're covering a lot of ground today, and honestly, it feels like we're watching a major inflection point happen in real time—the moment when AI agents stop being experimental tools and become actual infrastructure that people are building real businesses on.
 
 Let's start with w...</description>
@@ -359,6 +452,9 @@ Let's start with w...</description>
       <pubDate>Fri, 20 Mar 2026 03:39:38 +0000</pubDate>
       <itunes:duration>00:11:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Media Verticals</dc:creator>
