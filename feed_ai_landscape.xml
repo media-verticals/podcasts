@@ -32,18 +32,21 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
-      <title>Let me walk through why this matters.</title>
-      <itunes:title>Let me walk through why this matters.</itunes:title>
-      <description>Hey everyone, welcome back. Let's dig into what's happening in AI right now, and I want to start with something that feels like a pivot worth paying attention to.
-
-Anthropic is doing something really interesting with how they're managing their models, and it's telling us something important about wh...</description>
+      <title>Anthropic's Bifurcation: Opus 4.7, Mythos, and the Open-Source Counter</title>
+      <itunes:title>Anthropic's Bifurcation: Opus 4.7, Mythos, and the Open-Source Counter</itunes:title>
+      <itunes:subtitle>Why Anthropic is locking down capability while Qwen closes the gap</itunes:subtitle>
+      <description>Anthropic is splitting its strategy: releasing Claude Opus 4.7 as a polished production tool while restricting access to Mythos, a major capability breakthrough. But developers are reporting that Opus 4.7 feels worse in practice despite benchmark improvements—and Qwen 3.6 is breaking through as the first local model that's genuinely competitive. The industry is fragmenting into three tiers, and the middle is collapsing.</description>
+      <itunes:summary>Anthropic is splitting its strategy: releasing Claude Opus 4.7 as a polished production tool while restricting access to Mythos, a major capability breakthrough. But developers are reporting that Opus 4.7 feels worse in practice despite benchmark improvements—and Qwen 3.6 is breaking through as the first local model that's genuinely competitive. The industry is fragmenting into three tiers, and the middle is collapsing.</itunes:summary>
+      <content:encoded><![CDATA[<p>Anthropic's model bifurcation reveals a shift from capability racing to ecosystem lock-in, while open-source maturation threatens their moat.</p><ul><li>Anthropic bifurcates: Opus 4.7 released, Mythos restricted as regulatory shield and competitive ambiguity play</li><li>Claude Design product signals capital discipline and shift to lifetime value over growth-at-all-costs positioning</li><li>Developer perception gap: Opus 4.7 benchmarks improve but real-world performance feels worse, creating friction in the narrative</li><li>Qwen 3.6 breaks through as credibly capable local alternative, crossing inflection point from "good for open-source" to genuinely good</li><li>Industry fragmenting into three tiers: premium integrated products (Anthropic/OpenAI), capable open-source (Qwen), and a collapsing middle tier</li><li>Anthropic's regulatory strategy: establish credibility as "responsible player" to extract advantage when compliance becomes mandatory</li></ul><hr/><p>Subscribe for daily intelligence on AI Landscape.</p>]]></content:encoded>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-17.mp3" length="10380525" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-172</guid>
       <pubDate>Sat, 18 Apr 2026 03:37:01 +0000</pubDate>
       <itunes:duration>00:08:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>63</itunes:episode>
       <itunes:season>1</itunes:season>
+      <itunes:keywords>ai, anthropic, claude, qwen, open-source, model strategy, ai moats, regulatory strategy, ai competition, capability</itunes:keywords>
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>

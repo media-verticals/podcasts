@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 02:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 03:55:17 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Future Scanner</itunes:author>
     <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
@@ -31,6 +31,23 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Local AI Intel: This compresses timelines like crazy. We're talking about agencies going from a...</title>
+      <itunes:title>Local AI Intel: This compresses timelines like crazy. We're talking about agencies going from a...</itunes:title>
+      <description>Hey, welcome back. Let's talk about what's happening in the local AI services space right now, because there's a real inflection point forming around how fast agencies can actually ship.
+
+The headline today is this: automation is getting easier to build, which means it's getting harder to sell. And ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-17.mp3" length="12351885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-174</guid>
+      <pubDate>Sat, 18 Apr 2026 03:55:17 +0000</pubDate>
+      <itunes:duration>00:10:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
+    </item>
     <item>
       <title>Calendar costs, deterministic logic, and where agencies bleed margins</title>
       <itunes:title>Calendar costs, deterministic logic, and where agencies bleed margins</itunes:title>

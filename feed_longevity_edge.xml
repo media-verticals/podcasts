@@ -32,18 +32,21 @@
     </image>
     <itunes:category text="Health &amp; Fitness"/>
     <item>
-      <title>A team at Cell Reports just published work showing that hydrogen peroxide—one...</title>
-      <itunes:title>A team at Cell Reports just published work showing that hydrogen peroxide—one...</itunes:title>
-      <description>Welcome back. Today is one of those days where the research is actually shifting how we think about some fundamental problems in aging—so let's walk through what's happening.
-
-The headline coming out of this week is that our understanding of oxidative stress is upside down. And I mean that in a real...</description>
+      <title>Hydrogen peroxide is a longevity switch, not a toxin</title>
+      <itunes:title>Hydrogen peroxide is a longevity switch, not a toxin</itunes:title>
+      <itunes:subtitle>Dose-dependent oxidative stress, metformin timing, and the microbiome as drug modifier</itunes:subtitle>
+      <description>A Cell Reports study reveals hydrogen peroxide operates as a tunable signaling mechanism in mitochondria—low doses trigger adaptive longevity programs, while high doses cause damage—fundamentally reframing decades of antioxidant dogma. This week also covers metformin dosing optimization, GLP-1 and probiotic synergy, and emerging evidence that the microbiome modulates therapeutic response to interventions.</description>
+      <itunes:summary>A Cell Reports study reveals hydrogen peroxide operates as a tunable signaling mechanism in mitochondria—low doses trigger adaptive longevity programs, while high doses cause damage—fundamentally reframing decades of antioxidant dogma. This week also covers metformin dosing optimization, GLP-1 and probiotic synergy, and emerging evidence that the microbiome modulates therapeutic response to interventions.</itunes:summary>
+      <content:encoded><![CDATA[<p>This episode explores a major conceptual shift in oxidative stress biology and mitochondrial longevity, plus practical advances in metabolic interventions.</p><ul><li><strong>Mitochondrial H₂O₂ as a dose-dependent longevity switch:</strong> de Cubas et al. (Cell Reports) show hydrogen peroxide concentration dictates adaptive stress response vs. toxicity—challenging the blanket-antioxidant paradigm.</li><li><strong>Supersulfide metabolism and organellar resilience:</strong> Emerging work on sulfide signaling pathways and a synthesis arguing cellular compartment robustness may predict longevity better than single biomarkers.</li><li><strong>Metformin optimization for off-label longevity use:</strong> New evidence on dose-dependent mechanisms, lactic acidosis risk, and premeal vs. postmeal timing—guiding upcoming clinical guidelines.</li><li><strong>GLP-1 and probiotic synergy:</strong> Kim et al. show energy-metabolism-enhancing probiotics augment GLP-1 response, signaling the microbiome as a pharmacodynamic modifier.</li><li><strong>Pancreatic aging and SIRT2 activation:</strong> Bakal Muratoğlu et al. confirm SIRT2 as a candidate axis for age-related pancreatic decline and metabolic health.</li><li><strong>Pupillary dynamics as Alzheimer's biomarker:</strong> Festa et al. identify attenuated pupillary response during visual search as a non-invasive early-stage cognitive decline indicator.</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science and healthspan optimization.</p>]]></content:encoded>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-17.mp3" length="14093805" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-173</guid>
       <pubDate>Sat, 18 Apr 2026 03:46:48 +0000</pubDate>
       <itunes:duration>00:11:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
       <itunes:season>1</itunes:season>
+      <itunes:keywords>longevity, oxidative stress, hydrogen peroxide, mitochondria, metformin, glp-1, microbiome, sirtuin, aging biomarkers, healthspan</itunes:keywords>
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
