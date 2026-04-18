@@ -32,18 +32,31 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
-      <title>Local AI Intel: This compresses timelines like crazy. We're talking about agencies going from a...</title>
-      <itunes:title>Local AI Intel: This compresses timelines like crazy. We're talking about agencies going from a...</itunes:title>
-      <description>Hey, welcome back. Let's talk about what's happening in the local AI services space right now, because there's a real inflection point forming around how fast agencies can actually ship.
-
-The headline today is this: automation is getting easier to build, which means it's getting harder to sell. And ...</description>
+      <title>GoHighLevel compresses timelines, agencies move upmarket</title>
+      <itunes:title>GoHighLevel compresses timelines, agencies move upmarket</itunes:title>
+      <itunes:subtitle>AI agents native to workflows slash delivery from 90 to 30 days—and commoditize the basics</itunes:subtitle>
+      <description>GoHighLevel's native AI agents in workflows are eliminating friction between idea and live automation, compressing agency delivery from 90 days to 2–4 weeks. But speed is commoditizing basic automation, forcing agencies to either move upmarket into consulting and integration or expand sideways into voice agents, hybrid AI workflows, and legacy system unification. The real competitive advantage now lives in positioning and vertical focus, not platform features.</description>
+      <itunes:summary>GoHighLevel's native AI agents in workflows are eliminating friction between idea and live automation, compressing agency delivery from 90 days to 2–4 weeks. But speed is commoditizing basic automation, forcing agencies to either move upmarket into consulting and integration or expand sideways into voice agents, hybrid AI workflows, and legacy system unification. The real competitive advantage now lives in positioning and vertical focus, not platform features.</itunes:summary>
+      <content:encoded><![CDATA[<p>This episode breaks down how rapid automation tooling is reshaping agency economics and what services win in a compressed-timeline market.</p>
+<ul>
+<li>GoHighLevel AI agents native to workflows: plain-English control, 2–4 week delivery, but margins under pressure from reseller competition</li>
+<li>n8n's "deterministic + AI" hybrid approach: rule-based logic for predictable tasks, AI for judgment calls—enterprise-grade positioning vs. hype-driven pure-AI</li>
+<li>Kampala (Y Combinator W26): reverse-engineers legacy software into APIs, unlocking new consulting play around systems unification</li>
+<li>Voice agents as competitive moat: chatbots oversaturated, voice still scarce and commands 2–3x pricing ($5K–$20K)</li>
+<li>Vertical positioning beats platform choice: agencies winning with "AI for dental offices" or "voice for contractors," not generic automation</li>
+<li>GHL community friction: pricing confusion, saturation anxiety, reseller floor at $29–$39/month signals need to compete on service, not platform</li>
+</ul>
+<hr/>
+<p>Subscribe for daily intelligence on Local AI Intel Brief.</p>]]></content:encoded>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-17.mp3" length="12351885" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-174</guid>
       <pubDate>Sat, 18 Apr 2026 03:55:17 +0000</pubDate>
       <itunes:duration>00:10:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
+      <itunes:keywords>local ai, agencies, automation, gohighlevel, n8n, voice agents, workflow automation, ai agents, small business, positioning</itunes:keywords>
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>

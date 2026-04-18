@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 04:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 04:24:01 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Future Scanner</itunes:author>
     <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
@@ -31,6 +31,23 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Which brings me to the desktop app Anthropic just rolled out. On the surface,...</title>
+      <itunes:title>Which brings me to the desktop app Anthropic just rolled out. On the surface,...</itunes:title>
+      <description>Welcome back. Today we're watching agent infrastructure mature in real time, and it's revealing something important about where this technology actually goes from here.
+
+Let me start with the biggest signal. Claude Opus 4.7 is now sustaining autonomous operation for over two hours straight, with gen...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-18.mp3" length="12763245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-175</guid>
+      <pubDate>Sat, 18 Apr 2026 04:24:01 +0000</pubDate>
+      <itunes:duration>00:10:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
+    </item>
     <item>
       <title>Context windows shatter the agent loop wall</title>
       <itunes:title>Context windows shatter the agent loop wall</itunes:title>
