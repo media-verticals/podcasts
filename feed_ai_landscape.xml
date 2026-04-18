@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 03:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 03:37:01 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Future Scanner</itunes:author>
     <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
@@ -31,6 +31,23 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Let me walk through why this matters.</title>
+      <itunes:title>Let me walk through why this matters.</itunes:title>
+      <description>Hey everyone, welcome back. Let's dig into what's happening in AI right now, and I want to start with something that feels like a pivot worth paying attention to.
+
+Anthropic is doing something really interesting with how they're managing their models, and it's telling us something important about wh...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-17.mp3" length="10380525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-172</guid>
+      <pubDate>Sat, 18 Apr 2026 03:37:01 +0000</pubDate>
+      <itunes:duration>00:08:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
+    </item>
     <item>
       <title>Anthropic gates Mythos, Qwen closes the gap, Codex pivots to agents</title>
       <itunes:title>Anthropic gates Mythos, Qwen closes the gap, Codex pivots to agents</itunes:title>
