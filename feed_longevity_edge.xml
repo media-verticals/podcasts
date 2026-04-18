@@ -12,7 +12,7 @@
     <language>en-us</language>
     <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 02:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 03:46:48 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Future Scanner</itunes:author>
     <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
@@ -31,6 +31,23 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>A team at Cell Reports just published work showing that hydrogen peroxide—one...</title>
+      <itunes:title>A team at Cell Reports just published work showing that hydrogen peroxide—one...</itunes:title>
+      <description>Welcome back. Today is one of those days where the research is actually shifting how we think about some fundamental problems in aging—so let's walk through what's happening.
+
+The headline coming out of this week is that our understanding of oxidative stress is upside down. And I mean that in a real...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-17.mp3" length="14093805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-173</guid>
+      <pubDate>Sat, 18 Apr 2026 03:46:48 +0000</pubDate>
+      <itunes:duration>00:11:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
+    </item>
     <item>
       <title>Mitochondrial NAD+ as the aging master lever</title>
       <itunes:title>Mitochondrial NAD+ as the aging master lever</itunes:title>
