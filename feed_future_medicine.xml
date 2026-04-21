@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 18:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:39:12 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_future_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>future_medicine Daily Brief — April 20, 2026</title>
+      <description>Hello, and welcome. Today we're watching what might be the most important inflection point in medicine since mRNA vaccines proved themselves in the real world. We're not just seeing advances in cancer treatment anymore—we're watching an entire economic model shift. Cell therapy is becoming a commodi...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_future_medicine_2026-04-20.mp3" length="14568524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-105</guid>
+      <pubDate>Tue, 21 Apr 2026 02:39:12 +0000</pubDate>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>future_medicine Daily Brief — March 24, 2026</title>
       <description>Welcome back. We're going to walk through what's happening in medicine right now, and I think you're going to see why this moment feels different. There's a genuine inflection point forming—not just incremental progress, but compression happening across multiple dimensions at once. That's what I wan...</description>
