@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 01:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 01:57:34 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — April 20, 2026</title>
+      <description>Welcome back. We've got a lot to unpack today, and honestly, the most important thing happening in tech right now might look like a routine executive succession unless you know what to look for.
+
+Let's start here: Apple just announced that Tim Cook is stepping down as CEO and moving to executive cha...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-20.mp3" length="12736844" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-102</guid>
+      <pubDate>Tue, 21 Apr 2026 01:57:34 +0000</pubDate>
+      <itunes:duration>00:10:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — April 19, 2026</title>
       <description>Welcome back. We've got a lot to unpack today, and honestly, it's one of those days where the individual stories matter less than what they're telling us collectively about where the industry is headed.
