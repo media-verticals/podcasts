@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 03:28:07 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — April 21, 2026</title>
+      <description>Welcome back. We're covering a lot of ground today because the AI landscape just shifted in a way that feels significant—and most of the conversation is focused on the wrong thing.
+
+Let's start with what everyone's talking about: GPT-5.5 ships in 48 hours, and it's supposed to be a major breakthroug...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-04-21.mp3" length="13225004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-110</guid>
+      <pubDate>Wed, 22 Apr 2026 03:28:07 +0000</pubDate>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — April 20, 2026</title>
       <description>Hey, welcome back. So we've got a genuinely interesting week shaping up in the AI tooling space, and I want to walk you through what's actually happening underneath the announcement noise.
