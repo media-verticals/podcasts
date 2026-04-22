@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 01:57:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 01:56:18 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — April 21, 2026</title>
+      <description>Good morning. Let's walk through what's happening in AI today—and I think you're going to see a pretty clear pattern emerge once we connect the dots.
+
+The biggest signal we're tracking is actually a move that, on the surface, looks like Anthropic is downgrading its product. They just removed Claude ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-21.mp3" length="11288684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-107</guid>
+      <pubDate>Wed, 22 Apr 2026 01:56:18 +0000</pubDate>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — April 20, 2026</title>
       <description>Welcome back. We've got a lot to unpack today, and honestly, the most important thing happening in tech right now might look like a routine executive succession unless you know what to look for.
