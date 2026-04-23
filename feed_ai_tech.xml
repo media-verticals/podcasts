@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 01:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:59:08 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — April 22, 2026</title>
+      <description>Hey, welcome back. Today we're looking at a really important shift in how the frontier labs are competing, and it all comes down to a single word: agents. Not models. Not reasoning. Agents. And that distinction is going to reshape what actually matters to builders over the next six months.
+
+Let's st...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-22.mp3" length="13565804" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-111</guid>
+      <pubDate>Thu, 23 Apr 2026 01:59:08 +0000</pubDate>
+      <itunes:duration>00:11:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — April 21, 2026</title>
       <description>Good morning. Let's walk through what's happening in AI today—and I think you're going to see a pretty clear pattern emerge once we connect the dots.
