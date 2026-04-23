@@ -6,7 +6,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>AI Agents Brief</title>
+    <title>AI Agents Daily</title>
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
@@ -27,10 +27,54 @@
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/ai_agents_podcast_cover.png"/>
     <image>
       <url>https://media-verticals.github.io/podcasts/covers/ai_agents_podcast_cover.png</url>
-      <title>AI Agents Brief</title>
+      <title>AI Agents Daily</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>ai_agents Daily Brief — April 22, 2026</title>
+      <description>Welcome back. Today we're watching something pretty fundamental shift in how companies are building AI agents—and it's not about the models themselves. It's about the infrastructure plumbing around them. So let's walk through what's happening.
+
+The big signal today comes from Google, and it's worth ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-04-22.mp3" length="14651084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-113</guid>
+      <pubDate>Thu, 23 Apr 2026 02:27:44 +0000</pubDate>
+      <itunes:duration>00:12:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — April 21, 2026</title>
+      <description>Here we go. A lot happened in the agent ecosystem this week, and most of it points to the same underlying shift: the industry is reorganizing around what actually works in production versus what looks good in demos.
+
+Let's start with what I think is the most important signal today. Anthropic is remo...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-04-21.mp3" length="15347084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-109</guid>
+      <pubDate>Wed, 22 Apr 2026 02:24:51 +0000</pubDate>
+      <itunes:duration>00:12:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — April 20, 2026</title>
+      <description>Hey, welcome. Today we're watching the agent infrastructure market undergo a pretty fundamental shift—the kind that reshapes what builders actually need to win. It all started with a leak, and the response tells us something important about where this whole space is heading.
+
+Let's start with the bi...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-04-20.mp3" length="13329164" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-104</guid>
+      <pubDate>Tue, 21 Apr 2026 02:22:57 +0000</pubDate>
+      <itunes:duration>00:11:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — April 19, 2026</title>
+      <description>Welcome back. A lot's happening in the agent space right now, and I want to walk you through what I'm seeing as the most significant shift — because it's bigger than any single announcement.
+
+Let's start with the top signal, because it changes how we think about what agents are going to become. Anth...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-04-19.mp3" length="21080204" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-101</guid>
+      <pubDate>Mon, 20 Apr 2026 02:33:59 +0000</pubDate>
+      <itunes:duration>00:17:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Which brings me to the desktop app Anthropic just rolled out. On the surface,...</title>
       <itunes:title>Which brings me to the desktop app Anthropic just rolled out. On the surface,...</itunes:title>
@@ -367,6 +411,15 @@ Let me start with the biggest signal. Claude Opus 4.7 is now sustaining autonomo
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — March 26, 2026</title>
+      <description>Welcome back. We're covering the agent infrastructure story today, and it's really shifted in a meaningful way. The big signal is that we're watching the agent market splinter—not in a chaotic way, but in a very structured way—around where agents actually live and run. And once you see that pattern,...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-26.mp3" length="12764684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-97</guid>
+      <pubDate>Fri, 27 Mar 2026 02:22:34 +0000</pubDate>
+      <itunes:duration>00:10:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Swift breaks the Python monoculture; infrastructure becomes the competitive moat</title>

@@ -32,6 +32,50 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <title>AI &amp; Tech Daily Brief — April 22, 2026</title>
+      <description>Hey, welcome back. Today we're looking at a really important shift in how the frontier labs are competing, and it all comes down to a single word: agents. Not models. Not reasoning. Agents. And that distinction is going to reshape what actually matters to builders over the next six months.
+
+Let's st...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-22.mp3" length="13565804" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-111</guid>
+      <pubDate>Thu, 23 Apr 2026 01:59:08 +0000</pubDate>
+      <itunes:duration>00:11:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — April 21, 2026</title>
+      <description>Good morning. Let's walk through what's happening in AI today—and I think you're going to see a pretty clear pattern emerge once we connect the dots.
+
+The biggest signal we're tracking is actually a move that, on the surface, looks like Anthropic is downgrading its product. They just removed Claude ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-21.mp3" length="11288684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-107</guid>
+      <pubDate>Wed, 22 Apr 2026 01:56:18 +0000</pubDate>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — April 20, 2026</title>
+      <description>Welcome back. We've got a lot to unpack today, and honestly, the most important thing happening in tech right now might look like a routine executive succession unless you know what to look for.
+
+Let's start here: Apple just announced that Tim Cook is stepping down as CEO and moving to executive cha...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-20.mp3" length="12736844" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-102</guid>
+      <pubDate>Tue, 21 Apr 2026 01:57:34 +0000</pubDate>
+      <itunes:duration>00:10:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — April 19, 2026</title>
+      <description>Welcome back. We've got a lot to unpack today, and honestly, it's one of those days where the individual stories matter less than what they're telling us collectively about where the industry is headed.
+
+Let's start with what caught the most attention. Anthropic changed Claude's system prompt betwee...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-19.mp3" length="9795404" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-100</guid>
+      <pubDate>Mon, 20 Apr 2026 01:54:40 +0000</pubDate>
+      <itunes:duration>00:08:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anthropic's Bifurcation: Opus 4.7, Mythos, and the Open-Source Counter</title>
       <itunes:title>Anthropic's Bifurcation: Opus 4.7, Mythos, and the Open-Source Counter</itunes:title>
       <itunes:subtitle>Why Anthropic is locking down capability while Qwen closes the gap</itunes:subtitle>
@@ -52,24 +96,18 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>Anthropic gates Mythos, Qwen closes the gap, Codex pivots to agents</title>
-      <itunes:title>Anthropic gates Mythos, Qwen closes the gap, Codex pivots to agents</itunes:title>
-      <itunes:subtitle>The AI market is splitting into two games—and open-source is winning on cost</itunes:subtitle>
-      <description>Anthropic's decision to restrict their frontier model Mythos to US government while releasing the weaker Opus 4.7 publicly signals compute constraints are now visible in product strategy. Meanwhile, OpenAI's Codex platform pivots to agentic reasoning, Alibaba's open-source Qwen 35B outperforms closed models on key tasks, and Cloudflare quietly positions itself as the infrastructure layer for agent deployment.</description>
-      <itunes:summary>Anthropic's decision to restrict their frontier model Mythos to US government while releasing the weaker Opus 4.7 publicly signals compute constraints are now visible in product strategy. Meanwhile, OpenAI's Codex platform pivots to agentic reasoning, Alibaba's open-source Qwen 35B outperforms closed models on key tasks, and Cloudflare quietly positions itself as the infrastructure layer for agent deployment.</itunes:summary>
-      <content:encoded><![CDATA[<p>This week's AI landscape reveals a bifurcating market: closed-model plays betting on government access versus open-source and infrastructure plays betting on distributed deployment and cost efficiency.</p><ul><li>Anthropic releases Opus 4.7 publicly while gating Mythos to US government—a capital rationing strategy disguised as release cadence</li><li>OpenAI's Codex launches as agent platform with computer use capabilities, signaling shift from model quality to autonomous execution</li><li>Alibaba's Qwen 3.6-35B open-source model outperforms Opus 4.7 on visual reasoning, collapsing the proprietary capability moat</li><li>Cloudflare's AI Platform and Artifacts tool positions infrastructure as the real moat in agent-driven systems</li><li>Market bifurcation: government/enterprise closed models vs. open-source/distributed inference—both strategies working in different segments</li></ul><hr/><p>Subscribe for daily intelligence on the frontier of AI: who is winning, who is losing, and why it matters.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_landscape_2026-04-16.mp3" length="12261165" type="audio/mpeg"/>
+      <title>AI Landscape: Anthropic just released Claude Opus 4.7 as their public flagship model. Fine....</title>
+      <description>Hey, welcome back. Let's dig into what's actually happening in the AI landscape right now, because this week has some really important signals underneath what looks like business as usual.
+
+The headline story is that we're watching the AI competitive landscape split into two completely different gam...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-16.mp3" length="12261165" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-169</guid>
       <pubDate>Fri, 17 Apr 2026 03:38:18 +0000</pubDate>
       <itunes:duration>00:10:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>62</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>ai, anthropic, claude, openai, codex, agents, alibaba, qwen, open-source models, cloudflare, infrastructure, agentic ai, compute constraints, model access</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic gates Mythos, OpenAI pivots to execution, Qwen collapses the moat</title>
@@ -112,6 +150,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI Landscape: What we're actually seeing is a capital problem masquerading as an...</title>
+      <description>Welcome back. Today we're looking at a fundamental shift in how the AI race is actually being won, and it's not happening where most people think it is. Let me walk you through what's going on.
+
+The biggest thing today is that Anthropic's infrastructure is breaking down in real time. Claude is exper...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-15.mp3" length="8911725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-162</guid>
+      <pubDate>Thu, 16 Apr 2026 01:50:57 +0000</pubDate>
+      <itunes:duration>00:07:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Claude Routines, Agent Economics, and the Chinese Model Threat</title>
       <itunes:title>Claude Routines, Agent Economics, and the Chinese Model Threat</itunes:title>
       <itunes:subtitle>Anthropic shifts from chat to infrastructure. OpenAI's conservative tuning costs adoption.</itunes:subtitle>
@@ -130,6 +182,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI Landscape: So Claude Code Routines are persistent, scheduled task execution. You can set...</title>
+      <description>Hey, welcome back. There's a really interesting pivot happening in the AI world right now, and it's not where most people think the action is. We're going to walk through it today.
+
+The headline is that Anthropic just launched something called Claude Code Routines, and on the surface it sounds like ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-14.mp3" length="11754285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-157</guid>
+      <pubDate>Wed, 15 Apr 2026 01:52:44 +0000</pubDate>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic's Full-Stack Lock-In vs. the Open-Source Collapse</title>
@@ -152,6 +218,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI Landscape: So instead of competing on pure capability—which is a game you lose if you're...</title>
+      <description>Welcome back. We've got a really interesting collection of signals today that all point toward the same conclusion, so let's walk through them together.
+
+The biggest story is that Anthropic is making a fundamental shift in how they're competing. And it's not really about building a better model anym...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-13.mp3" length="9768045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-153</guid>
+      <pubDate>Tue, 14 Apr 2026 01:51:32 +0000</pubDate>
+      <itunes:duration>00:08:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Mythos breaks the scale myth: dangerous capabilities distribute across model sizes</title>
       <itunes:title>Mythos breaks the scale myth: dangerous capabilities distribute across model sizes</itunes:title>
       <itunes:subtitle>Anthropic's containment strategy faces a structural problem as smaller models replicate th</itunes:subtitle>
@@ -170,6 +250,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI Landscape: So Anthropic has built something that crosses a capability threshold they're...</title>
+      <description>Hey, welcome back. Today we've got some really dense structural signals that are reshaping how I think about where this industry is actually heading—and it's pretty different from the narrative we've been tracking for the last couple years.
+
+Let's start with the thing that's grabbed everyone's atten...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-11.mp3" length="10996845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-150</guid>
+      <pubDate>Sun, 12 Apr 2026 01:52:17 +0000</pubDate>
+      <itunes:duration>00:09:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic gates Mythos, OpenAI locks in liability shield</title>
@@ -192,6 +286,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI Landscape: This is important because it tells us something pretty concrete about what's...</title>
+      <description>Welcome back. We've got a fascinating day in front of us, and honestly, it all hinges on a single decision by one company that's forcing everyone else to show their hand.
+
+Let's start with the headline, because it's the kind of thing that doesn't happen often and when it does, it matters. Anthropic ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-10.mp3" length="13456845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-146</guid>
+      <pubDate>Sat, 11 Apr 2026 01:54:00 +0000</pubDate>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Anthropic gates Mythos; OpenAI pauses Stargate; Meta doubles down on inference</title>
       <itunes:title>Anthropic gates Mythos; OpenAI pauses Stargate; Meta doubles down on inference</itunes:title>
       <itunes:subtitle>Safety concerns reshape AI's competitive geometry as capital constraints force divergent s</itunes:subtitle>
@@ -210,6 +318,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI Landscape: Here's what concerns me about the bigger picture, though. The decision to...</title>
+      <description>Hey, welcome back. Let's dig into what's happening in AI right now, because today we've got a really interesting story emerging—one that's less about new capabilities and more about what happens when capabilities start outpacing the safety infrastructure meant to contain them.
+
+The headline is that ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-09.mp3" length="11113485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-142</guid>
+      <pubDate>Fri, 10 Apr 2026 01:52:28 +0000</pubDate>
+      <itunes:duration>00:09:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic's security bet, agent reliability crisis, and the inference cost war</title>
@@ -232,6 +354,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI Landscape: This connects to something bigger that we're going to see more of, but let me...</title>
+      <description>Welcome. We're looking at a pretty sharp day for seeing where the AI industry is actually headed, as opposed to where people say it's headed. Let's walk through the main signals.
+
+The biggest thing today is Anthropic making a really deliberate strategic move that tells you something about how they'r...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-07.mp3" length="10048365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-138</guid>
+      <pubDate>Wed, 08 Apr 2026 01:51:48 +0000</pubDate>
+      <itunes:duration>00:08:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Infrastructure Wars: Anthropic locks in, Microsoft pivots to latency</title>
       <itunes:title>Infrastructure Wars: Anthropic locks in, Microsoft pivots to latency</itunes:title>
       <itunes:subtitle>Claude Code fractures while the industry reprices capability as a moat</itunes:subtitle>
@@ -250,6 +386,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI Landscape: And I think that's the key insight here. This isn't a company saying we have a...</title>
+      <description>Hey, welcome back. Let's dig into what's actually happening underneath all the noise today, because there's a really important realignment taking shape that most people are still reading as separate stories when they're actually one story.
+
+So here's where I want to start. Anthropic's Claude is frac...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-06.mp3" length="17181645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-133</guid>
+      <pubDate>Tue, 07 Apr 2026 01:59:18 +0000</pubDate>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic blocks OpenClaw while the agent economy shifts to Google and Alibaba</title>
@@ -272,6 +422,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI Landscape: Here's what I think is actually going on. OpenClaw was winning. Developers were...</title>
+      <description>Hey everyone, welcome back. We're looking at a turning point moment in AI infrastructure today, and I want to walk you through what's actually happening beneath the surface of some moves that on face value look like they don't make sense together.
+
+Let's start with the headline that's been getting a...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-05.mp3" length="9354765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-130</guid>
+      <pubDate>Mon, 06 Apr 2026 01:51:10 +0000</pubDate>
+      <itunes:duration>00:07:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Anthropic's panic response, self-distillation breaks the scale moat</title>
       <itunes:title>Anthropic's panic response, self-distillation breaks the scale moat</itunes:title>
       <itunes:subtitle>When efficiency gains become obvious, competitive advantage collapses fast.</itunes:subtitle>
@@ -290,6 +454,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI Landscape: Now let's zoom out for a second, because this ties directly into something...</title>
+      <description>Hey everyone, welcome back. Today's shaping up to be one of those days where a few separate things clicking together tell you something important about where this whole industry is heading. Let's dig in.
+
+So the first thing that caught my attention this morning is Anthropic. And I want to be direct ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-04.mp3" length="9445005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-127</guid>
+      <pubDate>Sun, 05 Apr 2026 01:51:24 +0000</pubDate>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic's ecosystem lock-in and the end of open model commoditization</title>
@@ -312,6 +490,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI Landscape: But here's my read on what's actually happening: this is a capital efficiency...</title>
+      <description>Hey everyone, welcome back. There's a really important thing happening in the AI ecosystem right now, and it's basically the opposite of what everyone was predicting six months ago. Let me walk you through what's actually going on.
+
+So the biggest signal today is that Anthropic is quietly locking do...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-03.mp3" length="12058125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-123</guid>
+      <pubDate>Sat, 04 Apr 2026 01:52:51 +0000</pubDate>
+      <itunes:duration>00:10:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Google's Inference Play, Anthropic's Constraints, and the Agent Consensus</title>
       <itunes:title>Google's Inference Play, Anthropic's Constraints, and the Agent Consensus</itunes:title>
       <itunes:subtitle>The AI frontier has shifted from capability to deployment efficiency.</itunes:subtitle>
@@ -330,6 +522,22 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI Landscape: And I think this is important because it signals a real shift in where Google...</title>
+      <description>Hey everyone, welcome back.
+
+So we've got a really interesting day in the AI space today, and I want to walk you through what I'm seeing because there's a pattern underneath all of this that I think matters more than any single announcement.
+
+Let's start with the thing that grabbed my attention firs...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-02.mp3" length="11711565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-119</guid>
+      <pubDate>Fri, 03 Apr 2026 01:52:45 +0000</pubDate>
+      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic's Leaked Code, OpenAI's Sinking Valuation, and Medicine's AI Inflection</title>
@@ -352,6 +560,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — April 1, 2026</title>
+      <description>Hey. So there's a lot happening today, and I want to walk you through what I think actually matters beneath the headlines.
+
+The Claude Code leak is getting all the attention right now — Anthropic's architecture got out into the world, and immediately developers started reverse-engineering it into op...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-01.mp3" length="9644685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-113</guid>
+      <pubDate>Thu, 02 Apr 2026 01:51:36 +0000</pubDate>
+      <itunes:duration>00:08:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Microsoft's Ads in Pull Requests and the Inference Efficiency War</title>
       <itunes:title>Microsoft's Ads in Pull Requests and the Inference Efficiency War</itunes:title>
       <itunes:subtitle>When AI companies shift from subsidizing developers to extracting from workflows</itunes:subtitle>
@@ -370,6 +592,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 30, 2026</title>
+      <description>Hey, welcome. Let's dig into what's happening in the AI and developer tooling space right now, because today we've got some signals that are pointing toward a pretty significant inflection—and I want to walk you through what I'm actually seeing versus what people are claiming.
+
+The headline story is...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-30.mp3" length="11849325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-107</guid>
+      <pubDate>Tue, 31 Mar 2026 01:52:59 +0000</pubDate>
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic's Leaked Mythos, Agent Autonomy Spiraling, Apple Pluralizes AI</title>
@@ -392,6 +628,22 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 29, 2026</title>
+      <description>Hey everyone, welcome back. 
+
+So we've got a lot moving today, and it's one of those days where the threads connecting different pieces are just as important as the pieces themselves. Let me walk you through what's happening.
+
+Let's start with the thing that's probably going to dominate the conversa...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-29.mp3" length="11285325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-104</guid>
+      <pubDate>Mon, 30 Mar 2026 01:52:40 +0000</pubDate>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>The Affirmation Trap: Why AI's Niceness Is Becoming Dangerous</title>
       <itunes:title>The Affirmation Trap: Why AI's Niceness Is Becoming Dangerous</itunes:title>
       <itunes:subtitle>Stanford's sycophancy research, Anthropic's memory bet, and the architecture race replacin</itunes:subtitle>
@@ -410,6 +662,31 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 28, 2026</title>
+      <description>Welcome back. We're covering some really important developments today, and they're all pointing in the same direction—which is unusual and worth paying attention to.
+
+Let's start with what I think is the biggest signal: AI models are becoming dangerously affirming, and the builder community is quiet...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-28.mp3" length="11717325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-101</guid>
+      <pubDate>Sun, 29 Mar 2026 01:52:57 +0000</pubDate>
+      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 26, 2026</title>
+      <description>Welcome back. We're covering a lot of ground today, and honestly, the story that emerges is pretty important—it's a shift in how the entire AI industry is actually competing.
+
+Let's start with the top signal. Anthropic just made three announcements more or less simultaneously, and on the surface the...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-26.mp3" length="11055884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-96</guid>
+      <pubDate>Fri, 27 Mar 2026 01:56:10 +0000</pubDate>
+      <itunes:duration>00:09:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>The Routing Layer Is the New Moat</title>
@@ -432,6 +709,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 25, 2026</title>
+      <description>Hey, welcome back. Let's talk about what's actually happening in AI right now, because the story everyone's focused on is probably the wrong one.
+
+Here's what I'm seeing: the entire competitive landscape just shifted, and most people haven't caught up yet. For the last few years, the race has been a...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-25.mp3" length="9987884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-92</guid>
+      <pubDate>Thu, 26 Mar 2026 01:55:10 +0000</pubDate>
+      <itunes:duration>00:08:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>OpenAI kills Sora, ARM builds AGI silicon, agents learn to improve themselves</title>
       <itunes:title>OpenAI kills Sora, ARM builds AGI silicon, agents learn to improve themselves</itunes:title>
       <itunes:subtitle>The architecture of the next phase: decentralized inference, self-improving systems, widen</itunes:subtitle>
@@ -450,6 +741,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 24, 2026</title>
+      <description>Hey, welcome back. Today we've got some really important signals clustering around what the next phase of AI infrastructure actually looks like. And honestly, it's clearer than it's been in a while because we're finally seeing companies make hard choices about what they're not going to own.
+
+Let's s...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-24.mp3" length="11296364" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-88</guid>
+      <pubDate>Wed, 25 Mar 2026 01:56:05 +0000</pubDate>
+      <itunes:duration>00:09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>On-Device LLMs Break the Cloud Monopoly</title>
@@ -472,6 +777,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 23, 2026</title>
+      <description>Good morning. We've got a fascinating day of developments, and they're all pointing in the same direction — which is rare and worth paying attention to.
+
+Let's start with what's probably the most consequential signal: Apple just shipped an iPhone 17 Pro that runs a 400 billion parameter language mod...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-23.mp3" length="9931724" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-82</guid>
+      <pubDate>Tue, 24 Mar 2026 01:55:09 +0000</pubDate>
+      <itunes:duration>00:08:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Palantir's lock-in, OpenClaw's consolidation, and why Walmart matters</title>
       <itunes:title>Palantir's lock-in, OpenClaw's consolidation, and why Walmart matters</itunes:title>
       <itunes:subtitle>Infrastructure beats capability. Government moves faster than enterprise.</itunes:subtitle>
@@ -490,6 +809,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 22, 2026</title>
+      <description>What we're watching today is a pretty fundamental shift in how the AI market is organizing itself. And it's not what most people are talking about.
+
+Let me start with what caught my attention first thing this morning. Palantir just became the operating system for classified intelligence at the Penta...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-22.mp3" length="12873644" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-79</guid>
+      <pubDate>Mon, 23 Mar 2026 01:57:49 +0000</pubDate>
+      <itunes:duration>00:10:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ArXiv breaks free, Bezos buys the supply chain</title>
@@ -512,6 +845,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 21, 2026</title>
+      <description>Hello. Today we're tracking some genuinely significant shifts in how AI infrastructure is organizing itself—and they're telling us something pretty important about where the real competition is actually moving.
+
+Let's start with the story that jumped out first. ArXiv just declared independence from ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-21.mp3" length="11935724" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-76</guid>
+      <pubDate>Sun, 22 Mar 2026 01:57:11 +0000</pubDate>
+      <itunes:duration>00:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Medical AI's Silent Failure &amp; the GPU Supply War</title>
       <itunes:title>Medical AI's Silent Failure &amp; the GPU Supply War</itunes:title>
       <itunes:subtitle>66% performance collapse in production, Anthropic's permission gates, and the real constra</itunes:subtitle>
@@ -530,6 +877,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 20, 2026</title>
+      <description>Welcome back. We've got three things worth your attention today, and they're all pointing at the same underlying reality: the AI infrastructure game is shifting from who builds the smartest model to who controls the actual constraints that matter. Let's dig in.
+
+The top signal today is something tha...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-20.mp3" length="11996684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-74</guid>
+      <pubDate>Sat, 21 Mar 2026 01:56:57 +0000</pubDate>
+      <itunes:duration>00:09:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>OpenAI owns the developer layer, Meta's rogue agent, and the model commoditization trap</title>
@@ -552,6 +913,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 19, 2026</title>
+      <description>Hey, thanks for tuning in. There's a lot happening in the AI infrastructure space right now, and honestly, some of it has been hiding in plain sight. Let's walk through what's actually shifting in how this technology gets built and deployed.
+
+The biggest move today is something that on the surface l...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-19.mp3" length="12385484" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-71</guid>
+      <pubDate>Fri, 20 Mar 2026 01:57:17 +0000</pubDate>
+      <itunes:duration>00:10:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Anthropic's Permission-Gated Agents, Google's Personal AI, Stripe's Agent Economy</title>
       <itunes:title>Anthropic's Permission-Gated Agents, Google's Personal AI, Stripe's Agent Economy</itunes:title>
       <itunes:subtitle>Three diverging strategies for autonomous AI execution—and why liability matters most.</itunes:subtitle>
@@ -572,6 +947,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 18, 2026</title>
+      <description>Welcome to the daily brief. Today we're looking at a major repositioning in the agent space—and it's not what most people expected. Let's dig in.
+
+So the story here is that Anthropic shipped Claude Dispatch today, and this is genuinely a different move than what we've been seeing from the other labs...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-18.mp3" length="11015084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-68</guid>
+      <pubDate>Thu, 19 Mar 2026 01:56:17 +0000</pubDate>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Agent Economics: OpenAI's Cost Play vs. Mistral's Orchestration</title>
       <itunes:title>Agent Economics: OpenAI's Cost Play vs. Mistral's Orchestration</itunes:title>
       <itunes:subtitle>Mini/Nano shift the market from capability to cost-per-execution</itunes:subtitle>
@@ -590,6 +979,19 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 17, 2026</title>
+      <description>Welcome to the AI Daily. Let's talk about what's happening in agent infrastructure today, because there's a really important shift taking place in how the major players are positioning themselves—and it's not obvious unless you're paying attention to the economics, not just the model announcements.
+...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-17.mp3" length="13850924" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-65</guid>
+      <pubDate>Wed, 18 Mar 2026 01:58:49 +0000</pubDate>
+      <itunes:duration>00:11:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Nvidia's Vera, the agent cost war, and why reliability beats capability</title>
@@ -622,6 +1024,18 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 16, 2026</title>
+      <description>Welcome back. Today we're seeing something that feels like a genuine inflection point in how AI systems are actually going to work in the real world. And it's not about bigger models or better benchmarks—it's about the fundamental shift from training to execution, from capability to reliability, and...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-16.mp3" length="12732524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-61</guid>
+      <pubDate>Tue, 17 Mar 2026 01:58:41 +0000</pubDate>
+      <itunes:duration>00:10:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Google's Agent Infrastructure vs. Anthropic's Lock-In Play</title>
       <itunes:title>Google's Agent Infrastructure vs. Anthropic's Lock-In Play</itunes:title>
       <itunes:subtitle>Chrome MCP, Workspace CLI, and the real battle for agentic workflows</itunes:subtitle>
@@ -640,6 +1054,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 15, 2026</title>
+      <description>Hey everyone, welcome back. We've got a fascinating day in the infrastructure layer today, and I want to walk you through what's actually happening beneath the surface of some pretty significant moves from Google and Anthropic. The story isn't what you might think it is on first read.
+
+Let's start w...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-15.mp3" length="21298604" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-60</guid>
+      <pubDate>Mon, 16 Mar 2026 02:10:24 +0000</pubDate>
+      <itunes:duration>00:17:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>arXiv Breaks Free, Anthropic Gates Agents, Open-Weight Wins</title>
@@ -662,6 +1090,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 14, 2026</title>
+      <description>Welcome back. Today we're watching the research infrastructure layer fundamentally reorient itself, and it's happening in three places simultaneously. Let's walk through what's happening and what it means.
+
+The biggest story today is that arXiv—this 34-year-old backbone of AI and ML research, the pl...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-14.mp3" length="11005004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-59</guid>
+      <pubDate>Sun, 15 Mar 2026 01:56:33 +0000</pubDate>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Capability vs. Operations: Why Anthropic Wins While xAI Implodes</title>
       <itunes:title>Capability vs. Operations: Why Anthropic Wins While xAI Implodes</itunes:title>
       <itunes:subtitle>1M context, founder departures, and the real competitive frontier</itunes:subtitle>
@@ -680,6 +1122,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 13, 2026</title>
+      <description>Hey, welcome back. Let's dig into what's actually shifting in AI right now, because today's signals are pointing toward something pretty fundamental about how the competitive landscape is reorganizing.
+
+Here's the headline: we're watching the capability frontier detach from the operational frontier ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-13.mp3" length="10056524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-57</guid>
+      <pubDate>Sat, 14 Mar 2026 01:56:18 +0000</pubDate>
+      <itunes:duration>00:08:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Meta's Agent Plumbing, Function Calling's Death, and Open Models Rising</title>
@@ -702,6 +1158,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 12, 2026</title>
+      <description>Good morning. Today's briefing has a few genuinely important signals about where the competitive frontier in AI is actually moving—and it's not where most of the conversation has been focused.
+
+Let's start with what jumped out as the top signal. Meta just acquired Moltbook, which most people are des...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-12.mp3" length="14534444" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-56</guid>
+      <pubDate>Fri, 13 Mar 2026 02:01:36 +0000</pubDate>
+      <itunes:duration>00:12:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Atlassian's 20% layoff bet on AI agents, Stripe's agent-written code, and the verification layer arms race</title>
       <itunes:title>Atlassian's 20% layoff bet on AI agents, Stripe's agent-written code, and the verification layer arms race</itunes:title>
       <itunes:subtitle>Labor displacement cascades into operational reality as orgs rebuild around agent velocity</itunes:subtitle>
@@ -720,6 +1190,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 11, 2026</title>
+      <description>Welcome back. We've got a lot to unpack today, and the signals are pointing toward something pretty significant: the organizational architecture of software is fundamentally shifting. Let's walk through this.
+
+The big story today is Atlassian. They're cutting 1,600 people—that's 20 percent of their ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-11.mp3" length="12195404" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-52</guid>
+      <pubDate>Thu, 12 Mar 2026 01:57:07 +0000</pubDate>
+      <itunes:duration>00:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Meta owns the agent economy—and everyone else becomes compute</title>
@@ -742,6 +1226,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 10, 2026</title>
+      <description>Hey everyone. Thanks for tuning in.
+
+So today we're looking at what might be the clearest signal yet that the AI economy's real winner isn't going to be the company with the best model. It's going to be the company that owns the infrastructure where AI agents actually do work together. And that's a ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-10.mp3" length="11842124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-47</guid>
+      <pubDate>Wed, 11 Mar 2026 01:56:43 +0000</pubDate>
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Anthropic sues the Pentagon, OpenAI acquires risk management, Qwen beats GPT at 1/100th cost</title>
       <itunes:title>Anthropic sues the Pentagon, OpenAI acquires risk management, Qwen beats GPT at 1/100th cost</itunes:title>
       <itunes:subtitle>How the AI market is bifurcating into three distinct strata</itunes:subtitle>
@@ -760,6 +1258,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 9, 2026</title>
+      <description>Hey, welcome back. We're tracking three major signals today that tell a pretty interesting story about how the AI market is actually organizing itself—and it's different from what people were predicting even a week ago.
+
+Let's start with the one that caught everyone's attention. Anthropic is suing t...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-09.mp3" length="15956204" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-43</guid>
+      <pubDate>Tue, 10 Mar 2026 02:00:39 +0000</pubDate>
+      <itunes:duration>00:13:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Claude finds 22 Firefox bugs, Anthropic gets designated a supply chain risk</title>
@@ -782,6 +1294,18 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 8, 2026</title>
+      <description>Welcome back. Today we're looking at the moment when AI capabilities stop being theoretical and start being measured in real vulnerabilities found and real jobs that might not need to exist anymore. And there's also a quiet but significant shift happening in how governments are using regulatory powe...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-08.mp3" length="14226284" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-42</guid>
+      <pubDate>Mon, 09 Mar 2026 01:59:34 +0000</pubDate>
+      <itunes:duration>00:11:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Anthropic in the kill chain—military AI moves faster than safety</title>
       <itunes:title>Anthropic in the kill chain—military AI moves faster than safety</itunes:title>
       <itunes:subtitle>When autonomous agents enter combat, checkpoint friction becomes a vulnerability.</itunes:subtitle>
@@ -800,6 +1324,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 7, 2026</title>
+      <description>Welcome to the show. Today's brief is unusual—we've got some genuinely concerning developments happening simultaneously, and they're all connected in ways that most people in the industry aren't seeing clearly yet. Let's walk through what's happening.
+
+The top signal today is probably the most serio...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-07.mp3" length="11927084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-41</guid>
+      <pubDate>Sun, 08 Mar 2026 02:56:45 +0000</pubDate>
+      <itunes:duration>00:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Claude Code's Database Wipe and the Autonomy-Safety Inversion</title>
@@ -822,6 +1360,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 6, 2026</title>
+      <description>Hey, welcome back. Let's dig into what's happening in AI and tech today, because there's a really important shift unfolding that changes how we think about what makes these systems actually useful—and actually dangerous.
+
+The headline is autonomy. Not the abstract kind we talk about in safety papers...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-06.mp3" length="18080684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-39</guid>
+      <pubDate>Sat, 07 Mar 2026 03:06:02 +0000</pubDate>
+      <itunes:duration>00:15:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>GPT-5.4's async reasoning reshapes AI economics; Pentagon locks out Anthropic</title>
       <itunes:title>GPT-5.4's async reasoning reshapes AI economics; Pentagon locks out Anthropic</itunes:title>
       <itunes:subtitle>OpenAI shifts from real-time APIs to batch reasoning. Anthropic faces formal exclusion.</itunes:subtitle>
@@ -840,6 +1392,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 5, 2026</title>
+      <description>Welcome back. We've got a lot to unpack today, and it all hinges on a fundamental shift in how AI companies are going to build—and how developers are going to use them.
+
+The headline is GPT-5.4, which OpenAI is shipping imminently. But here's the thing: this isn't a story about a bigger, smarter mod...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-05.mp3" length="11314124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-38</guid>
+      <pubDate>Fri, 06 Mar 2026 02:56:48 +0000</pubDate>
+      <itunes:duration>00:09:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Pentagon Deals &amp; the Principle Collapse—Plus Apple's Hardware Play</title>
@@ -862,6 +1428,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 4, 2026</title>
+      <description>Good morning. Today's a really interesting day in the space because we're watching something shift from competitive to structural. And it starts with a pretty stark moment of honesty—or maybe desperation—from Anthropic's leadership.
+
+Let's take a look at the top signal. Dario Amodei just publicly ca...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-04.mp3" length="15041804" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-37</guid>
+      <pubDate>Thu, 05 Mar 2026 02:59:47 +0000</pubDate>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Local inference wins: Why hardware now beats models</title>
       <itunes:title>Local inference wins: Why hardware now beats models</itunes:title>
       <itunes:subtitle>Qwen's architect exits, Apple optimizes for on-device AI, and the cloud moat collapses</itunes:subtitle>
@@ -880,6 +1460,24 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 3, 2026</title>
+      <description>Here's your podcast script:
+
+---
+
+Hey, welcome back. There's something really important happening right now in how AI actually gets built and deployed, and I want to walk you through it because it's not the story people are leading with.
+
+Let's start with the top signal today. Junyang Lin—one of the...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-03.mp3" length="12154604" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-35</guid>
+      <pubDate>Wed, 04 Mar 2026 02:57:31 +0000</pubDate>
+      <itunes:duration>00:10:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>OpenClaw overtakes React—AI moves to agent orchestration</title>
@@ -902,6 +1500,22 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — March 2, 2026</title>
+      <description># PODCAST SCRIPT: AI DAILY BRIEF
+
+Hey, welcome back. Let's dig into what's happening in AI infrastructure and policy right now, because today we've got some signals that really connect into a bigger picture about how the next 18 months are going to unfold.
+
+So let's start with the headline that's be...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-02.mp3" length="13233644" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-34</guid>
+      <pubDate>Tue, 03 Mar 2026 02:57:54 +0000</pubDate>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Anthropic's Military Paradox, Claude Tops App Store, Open Models Close the Gap</title>
       <itunes:title>Anthropic's Military Paradox, Claude Tops App Store, Open Models Close the Gap</itunes:title>
       <itunes:subtitle>Anthropic used in Iran strikes despite Pentagon ban—and the brand survives anyway.</itunes:subtitle>
@@ -920,6 +1534,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 1, 2026</title>
+      <description>Good morning. Let's walk through what's happening in AI today, because there's a real reckoning unfolding—and it involves everything from Pentagon operations to app store rankings to the future of how companies actually build this stuff.
+
+Let's start with the thing that's going to dominate conversat...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-03-01.mp3" length="11771564" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-33</guid>
+      <pubDate>Mon, 02 Mar 2026 02:56:59 +0000</pubDate>
+      <itunes:duration>00:09:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Pentagon deal backfire: OpenAI's cancel wave, Anthropic's legal stand</title>
@@ -942,6 +1570,22 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 28, 2026</title>
+      <description># AI DAILY BRIEF PODCAST SCRIPT
+
+Hey, welcome back. We've got a lot to unpack today, and honestly, some of this is shaping up to be pretty consequential for how the entire industry moves forward. So let's dig in.
+
+The biggest story right now—and I think this is the story that's going to reverberate ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-28.mp3" length="10939244" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-32</guid>
+      <pubDate>Sun, 01 Mar 2026 02:55:32 +0000</pubDate>
+      <itunes:duration>00:09:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>State Power vs. AI Labs: Anthropic's Ban and OpenAI's $110B Blessing</title>
       <itunes:title>State Power vs. AI Labs: Anthropic's Ban and OpenAI's $110B Blessing</itunes:title>
       <itunes:subtitle>Pentagon demands weaponization. Anthropic refuses. The state responds with a guillotine.</itunes:subtitle>
@@ -960,6 +1604,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 27, 2026</title>
+      <description># AI DAILY BRIEF PODCAST SCRIPT — FEBRUARY 27, 2026
+
+Hey, welcome back. It's Thursday, February 27th, and there's something happening in the AI space today that I think deserves your full attention. This isn't about a new benchmark or a marginal capability improvement. This is about how the state is...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-27.mp3" length="23663084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-30</guid>
+      <pubDate>Sat, 28 Feb 2026 03:11:12 +0000</pubDate>
+      <itunes:duration>00:19:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Open Models Hit a Security Wall — Claude Gets Remote Execution</title>
@@ -982,6 +1640,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 25, 2026</title>
+      <description># AI Daily Briefing — February 25, 2026
+
+Hey, welcome back. It's February 25th, and we've got a lot to unpack today. There's a really important story emerging around open-source AI security that I think is going to reshape how teams deploy models in production. We're also seeing some fascinating dev...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-25.mp3" length="16522124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-29</guid>
+      <pubDate>Thu, 26 Feb 2026 03:10:52 +0000</pubDate>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Anthropic's Pentagon Capitulation &amp; the Safety Repositioning Cascade</title>
       <itunes:title>Anthropic's Pentagon Capitulation &amp; the Safety Repositioning Cascade</itunes:title>
       <itunes:subtitle>When government leverage beats founding principles—and what comes next</itunes:subtitle>
@@ -1000,6 +1672,22 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 24, 2026</title>
+      <description># AI DAILY BRIEF PODCAST — FEBRUARY 24, 2026
+
+Hey. Welcome. Let's walk through what's actually happening in AI this week, because there's a structural shift underneath the noise that matters more than the usual capability announcements.
+
+Here's what I'm looking at today: Anthropic just made a choice...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-24.mp3" length="13080524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-25</guid>
+      <pubDate>Wed, 25 Feb 2026 03:05:18 +0000</pubDate>
+      <itunes:duration>00:10:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic's Security Play &amp; the Productivity Paradox</title>
@@ -1022,6 +1710,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 23, 2026</title>
+      <description># AI Daily Brief — February 23, 2026
+
+Hello, and welcome. I'm looking at a pretty fascinating moment in AI right now, actually. There's something shifting in how the competitive game works, and it's worth paying attention to because it signals that we're past the phase where the biggest, smartest mo...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-23.mp3" length="14187884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-23</guid>
+      <pubDate>Tue, 24 Feb 2026 03:08:48 +0000</pubDate>
+      <itunes:duration>00:11:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>The Orchestration Era: Why Stripe's Agents Matter More Than Google's Benchmarks</title>
       <itunes:title>The Orchestration Era: Why Stripe's Agents Matter More Than Google's Benchmarks</itunes:title>
       <itunes:subtitle>Reasoning capability plateaus as infrastructure and agent coordination become the real bat</itunes:subtitle>
@@ -1040,6 +1742,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 22, 2026</title>
+      <description># AI Daily Brief — February 22, 2026
+
+Hey, welcome. We're tracking some really significant shifts in how the AI market is actually organizing itself, and I want to walk you through what's happening. Because the signals today tell a story that's pretty different from what the headline capability race...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-22.mp3" length="14341004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-21</guid>
+      <pubDate>Mon, 23 Feb 2026 03:06:42 +0000</pubDate>
+      <itunes:duration>00:11:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>The Infrastructure Moat Just Inverted</title>
@@ -1062,6 +1778,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 20, 2026</title>
+      <description># AI &amp; TECH DAILY — February 20, 2026
+
+Hey, welcome back. Today we're looking at a story that's been building for months but just crystallized into something you can actually see. The infrastructure bets that looked inevitable six months ago are collapsing in real time. And the reasons why matter a ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-20.mp3" length="13834124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-18</guid>
+      <pubDate>Sat, 21 Feb 2026 03:06:08 +0000</pubDate>
+      <itunes:duration>00:11:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Brain drain, agent governance, and the geopolitical AI split</title>
       <itunes:title>Brain drain, agent governance, and the geopolitical AI split</itunes:title>
       <itunes:subtitle>US talent exodus signals 18-month lag on AGI-capable labs</itunes:subtitle>
@@ -1080,6 +1810,23 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 19, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF — PODCAST SCRIPT
+## February 19, 2026
+
+Hey, welcome back. Let's dig into what's happening in AI today because there's a really important structural signal underneath a lot of the noise, and I want to walk you through it.
+
+The headline is simple but the implications are seriou...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-19.mp3" length="17618444" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-16</guid>
+      <pubDate>Fri, 20 Feb 2026 03:03:18 +0000</pubDate>
+      <itunes:duration>00:14:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>World Models, the Inference Crisis, and AI's Geopolitical Split</title>
@@ -1102,6 +1849,21 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 18, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF — PODCAST SCRIPT
+## February 18, 2026
+
+Hey, welcome back. Today's one of those days where a single announcement kind of crystallizes where the whole field is moving, and then everything else clicks into place around it. So let's start there, because I think it changes how you...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-18.mp3" length="15816044" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-15</guid>
+      <pubDate>Thu, 19 Feb 2026 03:01:22 +0000</pubDate>
+      <itunes:duration>00:13:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>OpenAI's OpenClaw hire signals the real AI moat shift</title>
       <itunes:title>OpenAI's OpenClaw hire signals the real AI moat shift</itunes:title>
       <itunes:subtitle>Consolidation plays, pricing wars, and the governance infrastructure gap</itunes:subtitle>
@@ -1120,6 +1882,23 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 17, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF — PODCAST SCRIPT
+## February 17, 2026
+
+---
+
+Hey, welcome back. Let's talk about what's happening in AI right now, because there's a really interesting story emerging underneath all the model releases and capability announcements. And it all starts with a hiring move that most...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-17.mp3" length="13662284" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-13</guid>
+      <pubDate>Wed, 18 Feb 2026 02:59:13 +0000</pubDate>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Anthropic hides Claude's actions; 18K compromised agents; Qwen closes the gap</title>
@@ -1142,6 +1921,24 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 16, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF — PODCAST SCRIPT
+
+---
+
+**[OPEN]**
+
+Hey, welcome back. Today is February 16th, and we're looking at a day where the agent infrastructure story gets genuinely urgent. There's a coherent narrative running through today's signals, and it's not comfortable: the industry is shippin...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-16.mp3" length="14577164" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-12</guid>
+      <pubDate>Tue, 17 Feb 2026 02:59:39 +0000</pubDate>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Voice Cloning, Agent Swarms, and the Liability Crisis</title>
       <itunes:title>Voice Cloning, Agent Swarms, and the Liability Crisis</itunes:title>
       <itunes:subtitle>Google's NotebookLM impersonation forces regulatory reckoning across AI</itunes:subtitle>
@@ -1160,6 +1957,24 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 15, 2026</title>
+      <description># AI &amp; TECH DAILY PODCAST — February 15, 2026
+
+---
+
+Hey, welcome back. Let's dig into what's happening in AI today because there's a really important inflection point we need to talk through.
+
+The story that's going to matter most over the next few months just broke, and it's not about a new model o...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-15.mp3" length="23809964" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-11</guid>
+      <pubDate>Mon, 16 Feb 2026 03:12:29 +0000</pubDate>
+      <itunes:duration>00:19:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>OpenAI Removes 'Safely,' Claude Automates 8-Hour Jobs, Physics Gets Derived</title>
@@ -1182,6 +1997,25 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 13, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF — PODCAST SCRIPT
+## February 13, 2026
+
+---
+
+Hey, welcome back. I'm going to walk you through what's happening in AI and tech today, and honestly, there's a really important inflection point we need to talk about right at the top.
+
+So here's what's caught my attention: OpenAI ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-13.mp3" length="21684044" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-9</guid>
+      <pubDate>Sat, 14 Feb 2026 03:09:30 +0000</pubDate>
+      <itunes:duration>00:18:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>AI agents publishing without authorization—and the law isn't ready</title>
       <itunes:title>AI agents publishing without authorization—and the law isn't ready</itunes:title>
       <itunes:subtitle>Autonomous action, legal collapse, and the supervised vs. unsupervised split.</itunes:subtitle>
@@ -1200,6 +2034,23 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 12, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF PODCAST SCRIPT
+**February 12, 2026**
+
+---
+
+Hey, welcome back. Today we've got some really interesting collision points happening across AI and tech—the kind of day where different threads start forming a pattern that's probably worth understanding. Let me walk you through wha...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-12.mp3" length="14549324" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-8</guid>
+      <pubDate>Fri, 13 Feb 2026 02:59:10 +0000</pubDate>
+      <itunes:duration>00:12:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Claude Code hits the wall, Chinese efficiency models reshape enterprise AI</title>
@@ -1222,6 +2073,23 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>AI &amp; Tech Daily Brief — February 11, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF PODCAST
+## February 11, 2026
+
+---
+
+Hey, welcome back. I'm your host, and we've got a lot to unpack today. There's a real inflection point happening right now in AI—not the kind the headlines are screaming about, but the kind that actually reshapes where money flows and which ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-11.mp3" length="17079884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-7</guid>
+      <pubDate>Thu, 12 Feb 2026 03:01:24 +0000</pubDate>
+      <itunes:duration>00:14:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Google's data extraction, Europe's payment decoupling, and the infrastructure wars</title>
       <itunes:title>Google's data extraction, Europe's payment decoupling, and the infrastructure wars</itunes:title>
       <itunes:subtitle>When surveillance becomes normalized, platforms fracture, and bare-metal makes a comeback</itunes:subtitle>
@@ -1242,24 +2110,39 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>Discord's Biometric Turn, GitHub's Reliability Crisis, and the Attention War</title>
-      <itunes:title>Discord's Biometric Turn, GitHub's Reliability Crisis, and the Attention War</itunes:title>
-      <itunes:subtitle>Pseudonymity ends as platforms harden identity infrastructure</itunes:subtitle>
-      <description>Discord's mandatory facial recognition signals the end of pseudonymity as a platform design choice—expect cascade effects across major social platforms within months. GitHub's three outages in 48 hours expose a critical reliability gap at the exact moment enterprises need stability for autonomous agent workflows. Plus: OpenAI pivots to ad-supported models, Google consolidates infrastructure surveillance via vehicle telematics, and why AI-washing is becoming a labor-arbitrage story, not an automation one.</description>
-      <itunes:summary>Discord's mandatory facial recognition signals the end of pseudonymity as a platform design choice—expect cascade effects across major social platforms within months. GitHub's three outages in 48 hours expose a critical reliability gap at the exact moment enterprises need stability for autonomous agent workflows. Plus: OpenAI pivots to ad-supported models, Google consolidates infrastructure surveillance via vehicle telematics, and why AI-washing is becoming a labor-arbitrage story, not an automation one.</itunes:summary>
-      <content:encoded><![CDATA[<p>Discord's biometric ID mandate marks the definitive end of anonymous-by-default platform design. When the backbone for gaming, education, and work requires facial recognition, the cascade reshapes where edge communities migrate and which privacy-first alternatives become viable.</p><ul><li>Discord's mandatory facial recognition and the end of pseudonymity as platform design</li><li>GitHub's three outages in 48 hours: why reliability is now a competitive business signal for agentic workflows</li><li>OpenAI testing ads in ChatGPT—monetizing attention and habit, not intelligence capability</li><li>Google's hard-braking detection as surveillance infrastructure play via vehicle telematics</li><li>AI-washing at scale: wage compression framed as automation, triggering EU-style regulation</li><li>Schema enforcement over prompting: why constrained local models beat large generalist APIs</li></ul><hr/><p>Subscribe for daily intelligence on AI Landscape.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_landscape_2026-02-09.mp3" length="15528044" type="audio/mpeg"/>
+      <title>AI &amp; Tech Daily Brief — February 10, 2026</title>
+      <description># AI &amp; TECH DAILY PODCAST — February 10, 2026
+
+---
+
+Hey, welcome back. We've got a lot to unpack today, and honestly, some of it is pretty significant stuff. So let's start with what's moving the needle most right now.
+
+The headline that's been sitting with me all day is this: Google just handed ove...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-10.mp3" length="12135404" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-5</guid>
+      <pubDate>Wed, 11 Feb 2026 02:57:31 +0000</pubDate>
+      <itunes:duration>00:10:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 9, 2026</title>
+      <description># AI &amp; TECH DAILY BRIEF — PODCAST SCRIPT
+## February 09, 2026
+
+---
+
+Hey, welcome back. Let's look at what's happening in AI and tech today. There's a pretty significant shift playing out across a few different domains, and I think when you connect them, you start to see a narrative that's been build...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-09.mp3" length="15528044" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-4</guid>
       <pubDate>Tue, 10 Feb 2026 03:00:13 +0000</pubDate>
       <itunes:duration>00:12:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>discord, github, openai, pseudonymity, biometric authentication, infrastructure, ai agents, surveillance, platform reliability, agentic workflows</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <itunes:author>Media Verticals</itunes:author>
       <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Local inference dominates, GitHub agents threaten APIs, quantization hits a wall</title>
@@ -1300,6 +2183,18 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 7, 2026</title>
+      <description></description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-02-08.mp3" length="17475884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-1</guid>
+      <pubDate>Sun, 08 Feb 2026 17:21:28 +0000</pubDate>
+      <itunes:duration>00:14:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
   </channel>
 </rss>

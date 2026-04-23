@@ -32,6 +32,15 @@
     </image>
     <itunes:category text="Health &amp; Fitness"/>
     <item>
+      <title>future_medicine Daily Brief — April 20, 2026</title>
+      <description>Hello, and welcome. Today we're watching what might be the most important inflection point in medicine since mRNA vaccines proved themselves in the real world. We're not just seeing advances in cancer treatment anymore—we're watching an entire economic model shift. Cell therapy is becoming a commodi...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_future_medicine_2026-04-20.mp3" length="14568524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-105</guid>
+      <pubDate>Tue, 21 Apr 2026 02:39:12 +0000</pubDate>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gene-edited porcine livers in patients: The organ shortage is finally a biotechnology problem</title>
       <itunes:title>Gene-edited porcine livers in patients: The organ shortage is finally a biotechnology problem</itunes:title>
       <itunes:subtitle>Xenotransplant clinical trials, off-the-shelf CAR-T acceleration, and the mitochondrial lo</itunes:subtitle>
@@ -50,6 +59,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>Breakthrough Medicine: I want to be really precise about what's important here. The organ shortage has...</title>
+      <description>Hello, and welcome. Today we're looking at medicine at an inflection point. And I mean that literally—we're watching several 20-year-old ideas finally cross from the laboratory into the clinic, all at once. That creates some real signal density today, so let's dig in.
+
+The biggest thing happening ri...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-15.mp3" length="15444045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-161</guid>
+      <pubDate>Wed, 15 Apr 2026 20:42:45 +0000</pubDate>
+      <itunes:duration>00:12:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>mRNA stops being emergency tech, becomes platform for cancer</title>
@@ -72,6 +95,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>Breakthrough Medicine: This is the moment mRNA stops being an emergency-use technology and becomes a...</title>
+      <description>Hey everyone, welcome back. We're covering the future of medicine today, and there's a lot happening right now that actually feels like an inflection point rather than just incremental progress.
+
+Let's start with the biggest thing. mRNA platforms just hit a stability breakthrough that's fundamentall...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-09.mp3" length="13412685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-144</guid>
+      <pubDate>Fri, 10 Apr 2026 02:33:58 +0000</pubDate>
+      <itunes:duration>00:11:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>CAR-T goes point-of-care: manufacturing moves inside the patient</title>
       <itunes:title>CAR-T goes point-of-care: manufacturing moves inside the patient</itunes:title>
       <itunes:subtitle>In-body cell engineering collapses the 4-6 week bottleneck to days</itunes:subtitle>
@@ -90,6 +127,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>Breakthrough Medicine: What we're seeing now is researchers have figured out how to build CAR-T cells...</title>
+      <description>Hey, welcome back. Today we're looking at a really significant shift in medicine—and it's happening faster than most of the system is ready for.
+
+The biggest thing to lock in on: cell therapies are becoming point-of-care. That sounds abstract, but it's actually transformative. Let me walk you throug...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-06.mp3" length="16491405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-136</guid>
+      <pubDate>Tue, 07 Apr 2026 02:36:10 +0000</pubDate>
+      <itunes:duration>00:13:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>The bottleneck moves: AI collapses mRNA vaccine timelines</title>
@@ -112,6 +163,18 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>Breakthrough Medicine: A non-specialist used AI to design an mRNA vaccine for his dog's cancer. Got it...</title>
+      <description>Hey. Welcome back. Today we're looking at something that's genuinely hard to overstate: the medical bottleneck is moving. For decades, the constraint in medicine was *can we figure out how to design a treatment*. That's changing, fast. And what replaces it is going to reshape everything from how dru...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-02.mp3" length="14847885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-121</guid>
+      <pubDate>Fri, 03 Apr 2026 02:35:00 +0000</pubDate>
+      <itunes:duration>00:12:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>Centenarian metabolotypes shift longevity from prediction to intervention</title>
       <itunes:title>Centenarian metabolotypes shift longevity from prediction to intervention</itunes:title>
       <itunes:subtitle>New metabolic fingerprints enable 100+ year trajectories to be identified—and potentially</itunes:subtitle>
@@ -130,6 +193,20 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>future_medicine Daily Brief — March 30, 2026</title>
+      <description>Hello, and welcome. Let's dig into what's happening in medicine and longevity science right now, because there's something genuinely important shifting in how we think about aging — and it's moving from theory into something you can actually measure and potentially intervene on.
+
+Let me start with t...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-03-30.mp3" length="15217965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-110</guid>
+      <pubDate>Tue, 31 Mar 2026 02:35:24 +0000</pubDate>
+      <itunes:duration>00:12:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>mRNA Manufacturing Goes Open Source—The Pharma Gatekeeping Collapse</title>
@@ -152,6 +229,20 @@
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
+      <title>future_medicine Daily Brief — March 28, 2026</title>
+      <description>Welcome back. We're looking at the future of medicine today, and honestly, there's a moment happening right now that I think deserves your full attention.
+
+Let me start with the thing that's caught everyone's eye this week, because it's the kind of signal that doesn't announce itself as a major infl...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-03-28.mp3" length="14182125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-100</guid>
+      <pubDate>Sat, 28 Mar 2026 05:53:32 +0000</pubDate>
+      <itunes:duration>00:11:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
+    </item>
+    <item>
       <title>mRNA Cancer Vaccines Hit 50% Survival Gain—The Inflection Point</title>
       <itunes:title>mRNA Cancer Vaccines Hit 50% Survival Gain—The Inflection Point</itunes:title>
       <itunes:subtitle>Moderna/Merck's five-year data reshapes oncology as design and manufacturing timelines col</itunes:subtitle>
@@ -170,6 +261,18 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>future_medicine Daily Brief — March 24, 2026</title>
+      <description>Welcome back. We're going to walk through what's happening in medicine right now, and I think you're going to see why this moment feels different. There's a genuine inflection point forming—not just incremental progress, but compression happening across multiple dimensions at once. That's what I wan...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-03-24.mp3" length="12719564" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-86</guid>
+      <pubDate>Tue, 24 Mar 2026 18:01:36 +0000</pubDate>
+      <itunes:duration>00:10:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Media Verticals</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Media Verticals</dc:creator>
     </item>
   </channel>
 </rss>

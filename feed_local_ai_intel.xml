@@ -32,6 +32,26 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <title>Local AI Intel Daily Brief — April 22, 2026</title>
+      <description>Hey, welcome back. We're taking a look at the AI services marketplace today—specifically what's happening with agencies right now as the platforms they depend on are shipping features that used to be their entire service offering. It's a critical moment, and there's a clear pattern emerging about ho...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_local_ai_intel_2026-04-22.mp3" length="13859084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-112</guid>
+      <pubDate>Thu, 23 Apr 2026 02:12:53 +0000</pubDate>
+      <itunes:duration>00:11:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Local AI Intel Daily Brief — April 20, 2026</title>
+      <description>Welcome back. We've got a really interesting story unfolding in the AI services space right now, and it's fundamentally reshaping how agencies should be thinking about their positioning and their pricing. So let's walk through what's happening.
+
+The headline here is that the floor has dropped out of...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_local_ai_intel_2026-04-20.mp3" length="11754284" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-103</guid>
+      <pubDate>Tue, 21 Apr 2026 02:09:09 +0000</pubDate>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>GoHighLevel compresses timelines, agencies move upmarket</title>
       <itunes:title>GoHighLevel compresses timelines, agencies move upmarket</itunes:title>
       <itunes:subtitle>AI agents native to workflows slash delivery from 90 to 30 days—and commoditize the basics</itunes:subtitle>

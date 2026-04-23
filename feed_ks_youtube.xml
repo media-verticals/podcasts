@@ -32,6 +32,39 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <title>YouTube Intelligence Daily Brief — April 22, 2026</title>
+      <description>Hey, thanks for tuning in. We've got a lot happening in the creator space today, and it's worth paying attention to because the conversation is shifting in a pretty meaningful direction. Let's walk through what's moving the needle.
+
+The biggest story right now is that the design-to-code pipeline—the...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-04-22.mp3" length="16443884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-114</guid>
+      <pubDate>Thu, 23 Apr 2026 03:34:31 +0000</pubDate>
+      <itunes:duration>00:13:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>YouTube Intelligence Daily Brief — April 21, 2026</title>
+      <description>Welcome back. We're covering a lot of ground today because the AI landscape just shifted in a way that feels significant—and most of the conversation is focused on the wrong thing.
+
+Let's start with what everyone's talking about: GPT-5.5 ships in 48 hours, and it's supposed to be a major breakthroug...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-04-21.mp3" length="13225004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-110</guid>
+      <pubDate>Wed, 22 Apr 2026 03:28:07 +0000</pubDate>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>YouTube Intelligence Daily Brief — April 20, 2026</title>
+      <description>Hey, welcome back. So we've got a genuinely interesting week shaping up in the AI tooling space, and I want to walk you through what's actually happening underneath the announcement noise.
+
+Let me start with the thing that's probably going to matter most: OpenAI is shipping GPT-5.5 this week. They'r...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-04-20.mp3" length="9444524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-106</guid>
+      <pubDate>Tue, 21 Apr 2026 03:24:10 +0000</pubDate>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Claude Design kills the design pipeline, agent operators emerge as the new moat</title>
       <itunes:title>Claude Design kills the design pipeline, agent operators emerge as the new moat</itunes:title>
       <itunes:subtitle>Design-to-code compression, portable AI memory becomes strategic, personal brand sticks ar</itunes:subtitle>
@@ -420,6 +453,17 @@
       <itunes:author>Future Scanner</itunes:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
+    </item>
+    <item>
+      <title>YouTube Intelligence Daily Brief — March 26, 2026</title>
+      <description>Welcome. We're looking at a market where the ground just shifted under the biggest conversation everyone's been having, and I want to walk you through what that means.
+
+For the last year, the narrative's been locked in place: pick your platform. Claude or OpenAI or Anthropic or whoever else. Build y...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-26.mp3" length="14995724" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-98</guid>
+      <pubDate>Fri, 27 Mar 2026 03:29:33 +0000</pubDate>
+      <itunes:duration>00:12:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>OpenAI's Enterprise Pivot and the Agent Architecture Trap</title>
