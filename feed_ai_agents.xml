@@ -32,7 +32,7 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
-      <title>ai_agents Daily Brief — April 22, 2026</title>
+      <title>Inside Google's Shift From Raw Speed to AI Agent Infrastructure</title>
       <description>Welcome back. Today we're watching something pretty fundamental shift in how companies are building AI agents—and it's not about the models themselves. It's about the infrastructure plumbing around them. So let's walk through what's happening.
 
 The big signal today comes from Google, and it's worth ...</description>
@@ -43,7 +43,7 @@ The big signal today comes from Google, and it's worth ...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 21, 2026</title>
+      <title>Agent Hype Meets Reality: What Actually Works in Production</title>
       <description>Here we go. A lot happened in the agent ecosystem this week, and most of it points to the same underlying shift: the industry is reorganizing around what actually works in production versus what looks good in demos.
 
 Let's start with what I think is the most important signal today. Anthropic is remo...</description>
@@ -54,7 +54,7 @@ Let's start with what I think is the most important signal today. Anthropic is r
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 20, 2026</title>
+      <title>Open Source Community Rewrites AI Agent Code in Two Hours</title>
       <description>Hey, welcome. Today we're watching the agent infrastructure market undergo a pretty fundamental shift—the kind that reshapes what builders actually need to win. It all started with a leak, and the response tells us something important about where this whole space is heading.
 
 Let's start with the bi...</description>
@@ -65,7 +65,7 @@ Let's start with the bi...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 19, 2026</title>
+      <title>The Agent Revolution: Why Anthropic's Move Changes Everything</title>
       <description>Welcome back. A lot's happening in the agent space right now, and I want to walk you through what I'm seeing as the most significant shift — because it's bigger than any single announcement.
 
 Let's start with the top signal, because it changes how we think about what agents are going to become. Anth...</description>
@@ -413,7 +413,7 @@ Let me start with the biggest signal. Claude Opus 4.7 is now sustaining autonomo
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 26, 2026</title>
+      <title>Agent Market Splinters Into Specialized Infrastructure Layers</title>
       <description>Welcome back. We're covering the agent infrastructure story today, and it's really shifted in a meaningful way. The big signal is that we're watching the agent market splinter—not in a chaotic way, but in a very structured way—around where agents actually live and run. And once you see that pattern,...</description>
       <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-26.mp3" length="12764684" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-97</guid>
