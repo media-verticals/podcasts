@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 02:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:27:44 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>ai_agents Daily Brief — April 22, 2026</title>
+      <description>Welcome back. Today we're watching something pretty fundamental shift in how companies are building AI agents—and it's not about the models themselves. It's about the infrastructure plumbing around them. So let's walk through what's happening.
+
+The big signal today comes from Google, and it's worth ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-04-22.mp3" length="14651084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-113</guid>
+      <pubDate>Thu, 23 Apr 2026 02:27:44 +0000</pubDate>
+      <itunes:duration>00:12:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ai_agents Daily Brief — April 21, 2026</title>
       <description>Here we go. A lot happened in the agent ecosystem this week, and most of it points to the same underlying shift: the industry is reorganizing around what actually works in production versus what looks good in demos.
