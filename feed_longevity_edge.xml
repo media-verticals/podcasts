@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://www.itunes.apple.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Longevity Edge</title>
     <link>https://media-verticals.github.io/podcasts/</link>
@@ -13,712 +8,434 @@
     <copyright>Future Scanner</copyright>
     <generator>Control Room Podcast Pipeline</generator>
     <lastBuildDate>Sat, 18 Apr 2026 03:46:48 +0000</lastBuildDate>
-    <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Future Scanner</itunes:author>
+    <link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml" />
+    <ns1:author>Future Scanner</ns1:author>
     <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
     <author>mediaverticals@proton.me (Future Scanner)</author>
-    <itunes:summary>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
-    <itunes:owner>
-      <itunes:name>Future Scanner</itunes:name>
-      <itunes:email>mediaverticals@proton.me</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png"/>
+    <ns1:summary>Cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</ns1:summary>
+    <ns1:explicit>false</ns1:explicit>
+    <ns1:type>episodic</ns1:type>
+    <ns1:owner>
+      <ns1:name>Future Scanner</ns1:name>
+      <ns1:email>mediaverticals@proton.me</ns1:email>
+    </ns1:owner>
+    <ns1:image href="https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png" />
     <image>
       <url>https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png</url>
       <title>Longevity Edge</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
-    <itunes:category text="Health &amp; Fitness"/>
+    <ns1:category text="Health &amp; Fitness" />
     <item>
       <title>Health &amp; Longevity Daily Brief — April 21, 2026</title>
       <description>Good morning. We're looking at a fascinating moment in longevity research—the field is moving from isolated discoveries into genuine synthesis. That's what grabbed my attention today, and I want to walk you through what's happening because it changes how we should think about aging itself.
 
 Let's st...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-04-21.mp3" length="13041164" type="audio/mpeg"/>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-04-21.mp3" length="13041164" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-108</guid>
       <pubDate>Wed, 22 Apr 2026 02:09:23 +0000</pubDate>
-      <itunes:duration>00:10:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <ns1:duration>00:10:51</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
     </item>
     <item>
       <title>Hydrogen peroxide is a longevity switch, not a toxin</title>
-      <itunes:title>Hydrogen peroxide is a longevity switch, not a toxin</itunes:title>
-      <itunes:subtitle>Dose-dependent oxidative stress, metformin timing, and the microbiome as drug modifier</itunes:subtitle>
+      <ns1:title>Hydrogen peroxide is a longevity switch, not a toxin</ns1:title>
+      <ns1:subtitle>Dose-dependent oxidative stress, metformin timing, and the microbiome as drug modifier</ns1:subtitle>
       <description>A Cell Reports study reveals hydrogen peroxide operates as a tunable signaling mechanism in mitochondria—low doses trigger adaptive longevity programs, while high doses cause damage—fundamentally reframing decades of antioxidant dogma. This week also covers metformin dosing optimization, GLP-1 and probiotic synergy, and emerging evidence that the microbiome modulates therapeutic response to interventions.</description>
-      <itunes:summary>A Cell Reports study reveals hydrogen peroxide operates as a tunable signaling mechanism in mitochondria—low doses trigger adaptive longevity programs, while high doses cause damage—fundamentally reframing decades of antioxidant dogma. This week also covers metformin dosing optimization, GLP-1 and probiotic synergy, and emerging evidence that the microbiome modulates therapeutic response to interventions.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode explores a major conceptual shift in oxidative stress biology and mitochondrial longevity, plus practical advances in metabolic interventions.</p><ul><li><strong>Mitochondrial H₂O₂ as a dose-dependent longevity switch:</strong> de Cubas et al. (Cell Reports) show hydrogen peroxide concentration dictates adaptive stress response vs. toxicity—challenging the blanket-antioxidant paradigm.</li><li><strong>Supersulfide metabolism and organellar resilience:</strong> Emerging work on sulfide signaling pathways and a synthesis arguing cellular compartment robustness may predict longevity better than single biomarkers.</li><li><strong>Metformin optimization for off-label longevity use:</strong> New evidence on dose-dependent mechanisms, lactic acidosis risk, and premeal vs. postmeal timing—guiding upcoming clinical guidelines.</li><li><strong>GLP-1 and probiotic synergy:</strong> Kim et al. show energy-metabolism-enhancing probiotics augment GLP-1 response, signaling the microbiome as a pharmacodynamic modifier.</li><li><strong>Pancreatic aging and SIRT2 activation:</strong> Bakal Muratoğlu et al. confirm SIRT2 as a candidate axis for age-related pancreatic decline and metabolic health.</li><li><strong>Pupillary dynamics as Alzheimer's biomarker:</strong> Festa et al. identify attenuated pupillary response during visual search as a non-invasive early-stage cognitive decline indicator.</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science and healthspan optimization.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-17.mp3" length="14093805" type="audio/mpeg"/>
+      <ns1:summary>A Cell Reports study reveals hydrogen peroxide operates as a tunable signaling mechanism in mitochondria—low doses trigger adaptive longevity programs, while high doses cause damage—fundamentally reframing decades of antioxidant dogma. This week also covers metformin dosing optimization, GLP-1 and probiotic synergy, and emerging evidence that the microbiome modulates therapeutic response to interventions.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode explores a major conceptual shift in oxidative stress biology and mitochondrial longevity, plus practical advances in metabolic interventions.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Mitochondrial H₂O₂ as a dose-dependent longevity switch:&lt;/strong&gt; de Cubas et al. (Cell Reports) show hydrogen peroxide concentration dictates adaptive stress response vs. toxicity—challenging the blanket-antioxidant paradigm.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Supersulfide metabolism and organellar resilience:&lt;/strong&gt; Emerging work on sulfide signaling pathways and a synthesis arguing cellular compartment robustness may predict longevity better than single biomarkers.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Metformin optimization for off-label longevity use:&lt;/strong&gt; New evidence on dose-dependent mechanisms, lactic acidosis risk, and premeal vs. postmeal timing—guiding upcoming clinical guidelines.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;GLP-1 and probiotic synergy:&lt;/strong&gt; Kim et al. show energy-metabolism-enhancing probiotics augment GLP-1 response, signaling the microbiome as a pharmacodynamic modifier.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Pancreatic aging and SIRT2 activation:&lt;/strong&gt; Bakal Muratoğlu et al. confirm SIRT2 as a candidate axis for age-related pancreatic decline and metabolic health.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Pupillary dynamics as Alzheimer's biomarker:&lt;/strong&gt; Festa et al. identify attenuated pupillary response during visual search as a non-invasive early-stage cognitive decline indicator.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science and healthspan optimization.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-17.mp3" length="14093805" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-173</guid>
       <pubDate>Sat, 18 Apr 2026 03:46:48 +0000</pubDate>
-      <itunes:duration>00:11:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>21</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, oxidative stress, hydrogen peroxide, mitochondria, metformin, glp-1, microbiome, sirtuin, aging biomarkers, healthspan</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:11:44</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>21</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, oxidative stress, hydrogen peroxide, mitochondria, metformin, glp-1, microbiome, sirtuin, aging biomarkers, healthspan</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Mitochondrial NAD+ as the aging master lever</title>
-      <itunes:title>Mitochondrial NAD+ as the aging master lever</itunes:title>
-      <itunes:subtitle>Why metabolic efficiency, not senescent cells, may be aging's core problem</itunes:subtitle>
+      <ns1:title>Mitochondrial NAD+ as the aging master lever</ns1:title>
+      <ns1:subtitle>Why metabolic efficiency, not senescent cells, may be aging's core problem</ns1:subtitle>
       <description>A new study proves NAD+ restoration reverses cognitive decline by improving mitochondrial energy production—validating years of NAD+ booster research and pointing to metabolic state as the primary lever for healthy aging. Plus: why centenarian immune networks suggest senolytics need to target network reorganization, not just cell death, and how ferroptosis-based approaches are showing unexpected tissue selectivity in early trials.</description>
-      <itunes:summary>A new study proves NAD+ restoration reverses cognitive decline by improving mitochondrial energy production—validating years of NAD+ booster research and pointing to metabolic state as the primary lever for healthy aging. Plus: why centenarian immune networks suggest senolytics need to target network reorganization, not just cell death, and how ferroptosis-based approaches are showing unexpected tissue selectivity in early trials.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode examines the emerging evidence that aging may be fundamentally a mitochondrial efficiency problem, and the clinical implications for NAD+ therapy, senolytic development, and your own optimization strategy.</p><ul><li><strong>Mitochondrial NAD+ restoration reverses cognitive decline</strong> — Rimal et al., <em>Aging and Disease</em>: genetic causation evidence validates NAD+ boosters (NR, NMN) in human trials</li><li><strong>Centenarian immune networks show distinct communication architecture</strong> — Qiu et al., <em>Aging Cell</em>: long-lived individuals possess reorganized immune signaling, not just healthier cells</li><li><strong>AMPK-fatty acid synthesis decoupling sustains late-life fitness</strong> — Hadj-Moussa et al., bioRxiv: challenges mTOR-only model of AMPK benefits; suggests context-dependent responders to metformin</li><li><strong>Ferroptosis-based senolytics show tissue selectivity</strong> — Wang et al., Zhao et al., <em>ACS Applied Materials & Interfaces</em>, <em>Investigative Ophthalmology</em>: selective senescent cell clearance without off-target effects; eye and respiratory tissues optimal first targets</li><li><strong>Metabolic switching as cognitive protection mechanism</strong> — convergence of fasting, NAD+ restoration, circadian alignment, and GLP-1/probiotic synergy all point to mitochondrial oxidative phosphorylation as primary aging lever</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-14.mp3" length="12517965" type="audio/mpeg"/>
+      <ns1:summary>A new study proves NAD+ restoration reverses cognitive decline by improving mitochondrial energy production—validating years of NAD+ booster research and pointing to metabolic state as the primary lever for healthy aging. Plus: why centenarian immune networks suggest senolytics need to target network reorganization, not just cell death, and how ferroptosis-based approaches are showing unexpected tissue selectivity in early trials.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode examines the emerging evidence that aging may be fundamentally a mitochondrial efficiency problem, and the clinical implications for NAD+ therapy, senolytic development, and your own optimization strategy.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Mitochondrial NAD+ restoration reverses cognitive decline&lt;/strong&gt; — Rimal et al., &lt;em&gt;Aging and Disease&lt;/em&gt;: genetic causation evidence validates NAD+ boosters (NR, NMN) in human trials&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Centenarian immune networks show distinct communication architecture&lt;/strong&gt; — Qiu et al., &lt;em&gt;Aging Cell&lt;/em&gt;: long-lived individuals possess reorganized immune signaling, not just healthier cells&lt;/li&gt;&lt;li&gt;&lt;strong&gt;AMPK-fatty acid synthesis decoupling sustains late-life fitness&lt;/strong&gt; — Hadj-Moussa et al., bioRxiv: challenges mTOR-only model of AMPK benefits; suggests context-dependent responders to metformin&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ferroptosis-based senolytics show tissue selectivity&lt;/strong&gt; — Wang et al., Zhao et al., &lt;em&gt;ACS Applied Materials &amp; Interfaces&lt;/em&gt;, &lt;em&gt;Investigative Ophthalmology&lt;/em&gt;: selective senescent cell clearance without off-target effects; eye and respiratory tissues optimal first targets&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Metabolic switching as cognitive protection mechanism&lt;/strong&gt; — convergence of fasting, NAD+ restoration, circadian alignment, and GLP-1/probiotic synergy all point to mitochondrial oxidative phosphorylation as primary aging lever&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-14.mp3" length="12517965" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-158</guid>
       <pubDate>Wed, 15 Apr 2026 02:01:40 +0000</pubDate>
-      <itunes:duration>00:10:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>20</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, NAD+, mitochondrial aging, cognitive decline, senolytics, senescent cells, AMPK, metabolic health, centenarians, healthspan, geroscience</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:10:25</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>20</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, NAD+, mitochondrial aging, cognitive decline, senolytics, senescent cells, AMPK, metabolic health, centenarians, healthspan, geroscience</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Longevity Edge: And I think this connects to something bigger we're seeing play out across...</title>
-      <description>Hey, welcome back. Let's dig into what's happening in the longevity space right now, because today's signals point toward something that feels like a meaningful shift in how we're thinking about aging at the cellular level.
-
-So the top signal today is actually pretty significant, and it's worth spen...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-14.mp3" length="12517965" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-158</guid>
-      <pubDate>Wed, 15 Apr 2026 02:01:40 +0000</pubDate>
-      <itunes:duration>00:10:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>FMO-2 and the Mitochondrial Stress Paradox</title>
-      <itunes:title>FMO-2 and the Mitochondrial Stress Paradox</itunes:title>
-      <itunes:subtitle>Why cellular damage activates longevity pathways—and what it means for fasting, exercise,</itunes:subtitle>
+      <ns1:title>FMO-2 and the Mitochondrial Stress Paradox</ns1:title>
+      <ns1:subtitle>Why cellular damage activates longevity pathways—and what it means for fasting, exercise,</ns1:subtitle>
       <description>Van Raamsdonk's team identified FMO-2 as a convergence hub where mild mitochondrial dysfunction triggers multiple lifespan-extending pathways, reframing hormesis and strategic cellular stress as core anti-aging mechanisms. New human data from CALERIE reveals metabolic heterogeneity in caloric restriction response, while comparative genomics in bowhead whales unlock cancer-resistant genes, and brain imaging shows migraine accelerates cognitive aging.</description>
-      <itunes:summary>Van Raamsdonk's team identified FMO-2 as a convergence hub where mild mitochondrial dysfunction triggers multiple lifespan-extending pathways, reframing hormesis and strategic cellular stress as core anti-aging mechanisms. New human data from CALERIE reveals metabolic heterogeneity in caloric restriction response, while comparative genomics in bowhead whales unlock cancer-resistant genes, and brain imaging shows migraine accelerates cognitive aging.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode examines the emerging understanding that cellular stress—not optimization—drives longevity, anchored by mechanistic breakthroughs in mitochondrial signaling and validated by human metabolomic data.</p><ul><li><strong>FMO-2 convergence hub:</strong> Van Raamsdonk et al. show mild mtDNA dysfunction activates overlapping longevity pathways via FMO-2, explaining why hormesis works (Frontiers in Aging, peer-reviewed).</li><li><strong>Bowhead whale tumor-suppressor genetics:</strong> Paniagua et al. identify CDKN and p53 variants protecting 200+ year lifespans from cancer—translatable mechanisms for human cancer prevention (Molecular Oncology).</li><li><strong>Brain aging in migraineurs:</strong> Liu et al. demonstrate migraine correlates with measurable brain-age acceleration on MRI, signaling neuroinflammation as a longevity drag (Brain Communications).</li><li><strong>CALERIE metabolomics:</strong> Orenduff et al. reveal heterogeneous metabolomic responses to caloric restriction in humans, explaining individual variation and pointing toward precision aging interventions (preprint).</li><li><strong>Vitamin B3 and steroid-induced muscle wasting:</strong> Mitra et al. show NAD+-dependent pathways rescue glucocorticoid-driven sarcopenia, a hidden frailty driver in aging (Journal of Bioenergetics and Biomembranes).</li><li><strong>Metformin's B12 tax:</strong> Saini and Haouzi document metformin-induced B12 deficiency and metabolic consequences; B12 monitoring should be standard protocol for longevity users.</li></ul><hr/><p>Subscribe for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-10.mp3" length="14054445" type="audio/mpeg"/>
+      <ns1:summary>Van Raamsdonk's team identified FMO-2 as a convergence hub where mild mitochondrial dysfunction triggers multiple lifespan-extending pathways, reframing hormesis and strategic cellular stress as core anti-aging mechanisms. New human data from CALERIE reveals metabolic heterogeneity in caloric restriction response, while comparative genomics in bowhead whales unlock cancer-resistant genes, and brain imaging shows migraine accelerates cognitive aging.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode examines the emerging understanding that cellular stress—not optimization—drives longevity, anchored by mechanistic breakthroughs in mitochondrial signaling and validated by human metabolomic data.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;FMO-2 convergence hub:&lt;/strong&gt; Van Raamsdonk et al. show mild mtDNA dysfunction activates overlapping longevity pathways via FMO-2, explaining why hormesis works (Frontiers in Aging, peer-reviewed).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bowhead whale tumor-suppressor genetics:&lt;/strong&gt; Paniagua et al. identify CDKN and p53 variants protecting 200+ year lifespans from cancer—translatable mechanisms for human cancer prevention (Molecular Oncology).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Brain aging in migraineurs:&lt;/strong&gt; Liu et al. demonstrate migraine correlates with measurable brain-age acceleration on MRI, signaling neuroinflammation as a longevity drag (Brain Communications).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;CALERIE metabolomics:&lt;/strong&gt; Orenduff et al. reveal heterogeneous metabolomic responses to caloric restriction in humans, explaining individual variation and pointing toward precision aging interventions (preprint).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Vitamin B3 and steroid-induced muscle wasting:&lt;/strong&gt; Mitra et al. show NAD+-dependent pathways rescue glucocorticoid-driven sarcopenia, a hidden frailty driver in aging (Journal of Bioenergetics and Biomembranes).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Metformin's B12 tax:&lt;/strong&gt; Saini and Haouzi document metformin-induced B12 deficiency and metabolic consequences; B12 monitoring should be standard protocol for longevity users.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-10.mp3" length="14054445" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-147</guid>
       <pubDate>Sat, 11 Apr 2026 02:03:29 +0000</pubDate>
-      <itunes:duration>00:11:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>19</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, mitochondria, FMO-2, hormesis, caloric restriction, metabolic flexibility, cellular stress, aging, genomics, bowhead whale, brain aging, migraine, NAD+, metformin, healthspan</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:11:42</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>19</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, mitochondria, FMO-2, hormesis, caloric restriction, metabolic flexibility, cellular stress, aging, genomics, bowhead whale, brain aging, migraine, NAD+, metformin, healthspan</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Longevity Edge: So here's what's happening. Van Raamsdonk's team identified this convergence...</title>
-      <description>Hey everyone. Welcome back. Today we're looking at some really fundamental shifts in how we think about aging at the cellular level—specifically, this idea that we've had the story backwards in some pretty important ways.
-
-Let me start with the biggest signal: there's new research showing that mild ...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-10.mp3" length="14054445" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-147</guid>
-      <pubDate>Sat, 11 Apr 2026 02:03:29 +0000</pubDate>
-      <itunes:duration>00:11:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Your Thymus Is Rewriting What We Know About Aging</title>
-      <itunes:title>Your Thymus Is Rewriting What We Know About Aging</itunes:title>
-      <itunes:subtitle>Thymus regeneration, metabolic signatures, and the immune system's longevity role.</itunes:subtitle>
+      <ns1:title>Your Thymus Is Rewriting What We Know About Aging</ns1:title>
+      <ns1:subtitle>Thymus regeneration, metabolic signatures, and the immune system's longevity role.</ns1:subtitle>
       <description>Mass General Brigham's research overturns 40 years of dogma: your thymus remains metabolically active and critical throughout life, reshaping how we think about immunity, T-cell function, and lifespan extension. Converging evidence on bile acid signatures in centenarians, Mediterranean ketogenic diet effects on Alzheimer's biomarkers, and GLP-1's cognitive benefits reveals metabolic resilience as a measurable longevity lever.</description>
-      <itunes:summary>Mass General Brigham's research overturns 40 years of dogma: your thymus remains metabolically active and critical throughout life, reshaping how we think about immunity, T-cell function, and lifespan extension. Converging evidence on bile acid signatures in centenarians, Mediterranean ketogenic diet effects on Alzheimer's biomarkers, and GLP-1's cognitive benefits reveals metabolic resilience as a measurable longevity lever.</itunes:summary>
-      <content:encoded><![CDATA[<p>How thymus regeneration, metabolic signatures, and immune surveillance are reshaping longevity science—and what it means for your intervention window.</p><ul><li><strong>Thymus regeneration:</strong> Mass General Brigham challenges 40-year dogma that adult thymus is metabolically irrelevant; reframes it as active longevity target</li><li><strong>Metabolic signatures in centenarians:</strong> Bile acid and steroid hormone profiles predict extreme longevity via FXR/TGR5 and estrogen metabolism pathways</li><li><strong>Lipid plasticity and Alzheimer's:</strong> Mediterranean ketogenic diet reverses AD lipid biomarkers in humans (Neth et al., Communications Medicine)</li><li><strong>GLP-1 and cognition:</strong> GLP-1 receptor agonists show cognitive preservation in elderly T2D beyond glucose control, signaling neuroinflammation benefits</li><li><strong>Organ-on-chip acceleration:</strong> Lab tissue models compress 40 years of aging into 4 days, enabling rapid validation of senolytics and cellular therapies</li><li><strong>Immune surveillance and senescence:</strong> T-cell and NK-cell function in detecting senescent cells emerges as complement to senolytics alone</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, biomarkers, and the research extending your healthspan.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-07.mp3" length="16145325" type="audio/mpeg"/>
+      <ns1:summary>Mass General Brigham's research overturns 40 years of dogma: your thymus remains metabolically active and critical throughout life, reshaping how we think about immunity, T-cell function, and lifespan extension. Converging evidence on bile acid signatures in centenarians, Mediterranean ketogenic diet effects on Alzheimer's biomarkers, and GLP-1's cognitive benefits reveals metabolic resilience as a measurable longevity lever.</ns1:summary>
+      <content:encoded>&lt;p&gt;How thymus regeneration, metabolic signatures, and immune surveillance are reshaping longevity science—and what it means for your intervention window.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Thymus regeneration:&lt;/strong&gt; Mass General Brigham challenges 40-year dogma that adult thymus is metabolically irrelevant; reframes it as active longevity target&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Metabolic signatures in centenarians:&lt;/strong&gt; Bile acid and steroid hormone profiles predict extreme longevity via FXR/TGR5 and estrogen metabolism pathways&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Lipid plasticity and Alzheimer's:&lt;/strong&gt; Mediterranean ketogenic diet reverses AD lipid biomarkers in humans (Neth et al., Communications Medicine)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;GLP-1 and cognition:&lt;/strong&gt; GLP-1 receptor agonists show cognitive preservation in elderly T2D beyond glucose control, signaling neuroinflammation benefits&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Organ-on-chip acceleration:&lt;/strong&gt; Lab tissue models compress 40 years of aging into 4 days, enabling rapid validation of senolytics and cellular therapies&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Immune surveillance and senescence:&lt;/strong&gt; T-cell and NK-cell function in detecting senescent cells emerges as complement to senolytics alone&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, biomarkers, and the research extending your healthspan.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-07.mp3" length="16145325" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-139</guid>
       <pubDate>Wed, 08 Apr 2026 02:03:16 +0000</pubDate>
-      <itunes:duration>00:13:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>18</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, thymus regeneration, immunology, T cells, metabolic signatures, bile acids, centenarians, Alzheimer's, GLP-1, healthspan, aging science, biomarkers</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:13:27</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>18</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, thymus regeneration, immunology, T cells, metabolic signatures, bile acids, centenarians, Alzheimer's, GLP-1, healthspan, aging science, biomarkers</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Longevity Edge: Here's why that matters. Your thymus is where T cells mature—it's the training...</title>
-      <description>Hey everyone, welcome back. We're looking at some genuinely interesting developments in longevity research today—the kind of work that actually changes how we think about aging, not just adds another supplement to the pile.
-
-Let's start with the top signal, because this one's a real watershed moment...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-07.mp3" length="16145325" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-139</guid>
-      <pubDate>Wed, 08 Apr 2026 02:03:16 +0000</pubDate>
-      <itunes:duration>00:13:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Rate of Aging: Three Converging Signals on Measuring What Actually Matters</title>
-      <itunes:title>Rate of Aging: Three Converging Signals on Measuring What Actually Matters</itunes:title>
-      <itunes:subtitle>Epigenetic clocks, metabolite signatures, and the shift from chronological age to actionab</itunes:subtitle>
+      <ns1:title>Rate of Aging: Three Converging Signals on Measuring What Actually Matters</ns1:title>
+      <ns1:subtitle>Epigenetic clocks, metabolite signatures, and the shift from chronological age to actionab</ns1:subtitle>
       <description>Three separate research findings this week—epigenetic clock pace, centenarian metabolite profiles, and behavioral biomarkers—are converging on a new framework: aging has a measurable speed independent of chronological age, and that speed is what we can actually intervene on. The discoveries point to druggable pathways (FXR, TGR5 signaling) and extend the therapeutic window for dementia prevention to 15+ years. This reframes longevity science from generic "slowing" to precision deceleration of aging rate.</description>
-      <itunes:summary>Three separate research findings this week—epigenetic clock pace, centenarian metabolite profiles, and behavioral biomarkers—are converging on a new framework: aging has a measurable speed independent of chronological age, and that speed is what we can actually intervene on. The discoveries point to druggable pathways (FXR, TGR5 signaling) and extend the therapeutic window for dementia prevention to 15+ years. This reframes longevity science from generic "slowing" to precision deceleration of aging rate.</itunes:summary>
-      <content:encoded><![CDATA[<p>Three separate research signals this week isolate the <em>rate</em> of aging as the actionable variable, independent of chronological age—shifting intervention strategy from generic slowdown to measurable, real-time deceleration.</p><ul><li>Bile acid and steroid metabolite profiles distinguish centenarians from normal-aging populations, with ~50% genetic, ~50% lifestyle drivers; pathways are druggable (FXR agonists, TGR5 modulators in clinical pipelines)</li><li>Epigenetic clock pace and behavioral patterns in animal models both predict mortality independent of age, validating metabolomic and behavioral biomarkers</li><li>Organ-on-chip technology claims to compress human aging decades into 4 days—promising for intervention testing, awaiting peer-reviewed validation</li><li>Thymus regeneration work (Mass General Brigham) challenges assumption of irreversible thymic involution; adult reactivation could address immune aging upstream of age-related disease</li><li>APOE4 carriers show circuit-level brain dysfunction years before cognitive symptoms; combined with 25-year blood-based dementia prediction, extends therapeutic window to 15+ years in high-risk populations</li><li>Hospital delirium linked to later dementia risk, suggesting acute inflammatory insults establish lasting CNS vulnerability—tractable post-delirium intervention window identified</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research that extends your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-03.mp3" length="20522925" type="audio/mpeg"/>
+      <ns1:summary>Three separate research findings this week—epigenetic clock pace, centenarian metabolite profiles, and behavioral biomarkers—are converging on a new framework: aging has a measurable speed independent of chronological age, and that speed is what we can actually intervene on. The discoveries point to druggable pathways (FXR, TGR5 signaling) and extend the therapeutic window for dementia prevention to 15+ years. This reframes longevity science from generic "slowing" to precision deceleration of aging rate.</ns1:summary>
+      <content:encoded>&lt;p&gt;Three separate research signals this week isolate the &lt;em&gt;rate&lt;/em&gt; of aging as the actionable variable, independent of chronological age—shifting intervention strategy from generic slowdown to measurable, real-time deceleration.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bile acid and steroid metabolite profiles distinguish centenarians from normal-aging populations, with ~50% genetic, ~50% lifestyle drivers; pathways are druggable (FXR agonists, TGR5 modulators in clinical pipelines)&lt;/li&gt;&lt;li&gt;Epigenetic clock pace and behavioral patterns in animal models both predict mortality independent of age, validating metabolomic and behavioral biomarkers&lt;/li&gt;&lt;li&gt;Organ-on-chip technology claims to compress human aging decades into 4 days—promising for intervention testing, awaiting peer-reviewed validation&lt;/li&gt;&lt;li&gt;Thymus regeneration work (Mass General Brigham) challenges assumption of irreversible thymic involution; adult reactivation could address immune aging upstream of age-related disease&lt;/li&gt;&lt;li&gt;APOE4 carriers show circuit-level brain dysfunction years before cognitive symptoms; combined with 25-year blood-based dementia prediction, extends therapeutic window to 15+ years in high-risk populations&lt;/li&gt;&lt;li&gt;Hospital delirium linked to later dementia risk, suggesting acute inflammatory insults establish lasting CNS vulnerability—tractable post-delirium intervention window identified&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research that extends your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-03.mp3" length="20522925" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-124</guid>
       <pubDate>Sat, 04 Apr 2026 02:10:04 +0000</pubDate>
-      <itunes:duration>00:17:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>17</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, aging, epigenetic clocks, metabolomics, bile acids, centenarians, thymus, APOE4, dementia prediction, biomarkers, healthspan, gerontology</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:17:06</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>17</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, aging, epigenetic clocks, metabolomics, bile acids, centenarians, thymus, APOE4, dementia prediction, biomarkers, healthspan, gerontology</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Longevity Edge: Let me start with the biggest picture here. Three separate findings this week...</title>
-      <description>Hey there. Welcome back. There's something really important happening in aging research right now, and I want to walk you through it because it fundamentally changes how we think about intervention.
-
-For a long time, the conversation around longevity has been pretty straightforward: you have a chron...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-03.mp3" length="20522925" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-124</guid>
-      <pubDate>Sat, 04 Apr 2026 02:10:04 +0000</pubDate>
-      <itunes:duration>00:17:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>FXR, senescence, and the nuclear receptor axis reordering aging science</title>
-      <itunes:title>FXR, senescence, and the nuclear receptor axis reordering aging science</itunes:title>
-      <itunes:subtitle>How bile acids in centenarians reveal FXR as a central aging control point</itunes:subtitle>
+      <ns1:title>FXR, senescence, and the nuclear receptor axis reordering aging science</ns1:title>
+      <ns1:subtitle>How bile acids in centenarians reveal FXR as a central aging control point</ns1:subtitle>
       <description>A new study on farnesoid X receptor (FXR) deficiency in mice shows accelerated aging, and parallel research on centenarians reveals distinctive bile acid and steroid signatures—positioning the FXR/TGR5 nuclear receptor axis as a core aging mechanism, not just a metabolic regulator. Homoharringtonine clears senescent cells and extends lifespan, klotho protects neurons in Parkinson's models, and senescent vessel cells drive systemic immune suppression, all pointing to senescence as a systemic brake on multiple organ systems.</description>
-      <itunes:summary>A new study on farnesoid X receptor (FXR) deficiency in mice shows accelerated aging, and parallel research on centenarians reveals distinctive bile acid and steroid signatures—positioning the FXR/TGR5 nuclear receptor axis as a core aging mechanism, not just a metabolic regulator. Homoharringtonine clears senescent cells and extends lifespan, klotho protects neurons in Parkinson's models, and senescent vessel cells drive systemic immune suppression, all pointing to senescence as a systemic brake on multiple organ systems.</itunes:summary>
-      <content:encoded><![CDATA[<p>This week's research reveals how cellular senescence and nuclear receptor signaling are central to aging—and how they're becoming clinical priorities.</p><ul><li><strong>FXR deficiency accelerates aging:</strong> Biogerontology study positions farnesoid X receptor as a master control hub; bile acid signatures in centenarians support the mechanism.</li><li><strong>Homoharringtonine extends lifespan via senescent cell clearance:</strong> Nature Communications reports dual action (senolytic + metabolic restoration) in diet-induced obesity models; mechanism distinct from existing senolytics.</li><li><strong>Klotho protects against Parkinson's-type cognitive decline:</strong> Journal of Neuroscience shows neuroprotection independent of aging-clock function; strengthens case for klotho induction as broad-spectrum strategy.</li><li><strong>Senescent smooth muscle cells trigger systemic immune suppression:</strong> Arteriosclerosis, Thrombosis, and Vascular Biology paper explains how local vessel senescence cascades into whole-body immunosuppression.</li><li><strong>Thymus reactivation emerges as clinical priority:</strong> Mass General Brigham studies challenge thymic involution assumption; thymic peptide market growing but faces quality control and fraud risks.</li><li><strong>mtDNA quality control > quantity:</strong> Philosophical Transactions of the Royal Society B papers show mutation load and selective segregation matter more than biogenesis hype.</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-02.mp3" length="13507245" type="audio/mpeg"/>
+      <ns1:summary>A new study on farnesoid X receptor (FXR) deficiency in mice shows accelerated aging, and parallel research on centenarians reveals distinctive bile acid and steroid signatures—positioning the FXR/TGR5 nuclear receptor axis as a core aging mechanism, not just a metabolic regulator. Homoharringtonine clears senescent cells and extends lifespan, klotho protects neurons in Parkinson's models, and senescent vessel cells drive systemic immune suppression, all pointing to senescence as a systemic brake on multiple organ systems.</ns1:summary>
+      <content:encoded>&lt;p&gt;This week's research reveals how cellular senescence and nuclear receptor signaling are central to aging—and how they're becoming clinical priorities.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;FXR deficiency accelerates aging:&lt;/strong&gt; Biogerontology study positions farnesoid X receptor as a master control hub; bile acid signatures in centenarians support the mechanism.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Homoharringtonine extends lifespan via senescent cell clearance:&lt;/strong&gt; Nature Communications reports dual action (senolytic + metabolic restoration) in diet-induced obesity models; mechanism distinct from existing senolytics.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Klotho protects against Parkinson's-type cognitive decline:&lt;/strong&gt; Journal of Neuroscience shows neuroprotection independent of aging-clock function; strengthens case for klotho induction as broad-spectrum strategy.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Senescent smooth muscle cells trigger systemic immune suppression:&lt;/strong&gt; Arteriosclerosis, Thrombosis, and Vascular Biology paper explains how local vessel senescence cascades into whole-body immunosuppression.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Thymus reactivation emerges as clinical priority:&lt;/strong&gt; Mass General Brigham studies challenge thymic involution assumption; thymic peptide market growing but faces quality control and fraud risks.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;mtDNA quality control &gt; quantity:&lt;/strong&gt; Philosophical Transactions of the Royal Society B papers show mutation load and selective segregation matter more than biogenesis hype.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-04-02.mp3" length="13507245" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-118</guid>
       <pubDate>Thu, 02 Apr 2026 20:33:03 +0000</pubDate>
-      <itunes:duration>00:11:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>16</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, aging, FXR, senescence, klotho, mitochondria, thymus, bile acids, nuclear receptors, cellular aging</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:11:15</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>16</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, aging, FXR, senescence, klotho, mitochondria, thymus, bile acids, nuclear receptors, cellular aging</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Longevity Edge: Now let's look at some of the other key developments happening in the space,...</title>
-      <description>Hey, welcome back. Today we're looking at some really interesting developments in how aging works at the cellular level, and there's a thread running through all of it that I think is going to matter for where this field goes next.
-
-Let's start with what's probably the most important finding this we...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-02.mp3" length="13507245" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-118</guid>
-      <pubDate>Thu, 02 Apr 2026 20:33:03 +0000</pubDate>
-      <itunes:duration>00:11:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Centenarian Metabolotypes &amp; the Circadian-Metabolic Coupling</title>
-      <itunes:title>Centenarian Metabolotypes &amp; the Circadian-Metabolic Coupling</itunes:title>
-      <itunes:subtitle>New biomarkers predict longevity trajectory 20 years early; thymus regeneration enters cli</itunes:subtitle>
+      <ns1:title>Centenarian Metabolotypes &amp; the Circadian-Metabolic Coupling</ns1:title>
+      <ns1:subtitle>New biomarkers predict longevity trajectory 20 years early; thymus regeneration enters cli</ns1:subtitle>
       <description>Researchers have identified distinct metabolic fingerprints in centenarians that could enable early detection of longevity trajectory by age 80—shifting aging science from random survival to measurable, interventional targets. Meanwhile, emerging evidence shows metabolic control and circadian clocks are inseparable aging mechanisms, and thymus regeneration compounds are moving toward Phase 1 trials in 2026–2027.</description>
-      <itunes:summary>Researchers have identified distinct metabolic fingerprints in centenarians that could enable early detection of longevity trajectory by age 80—shifting aging science from random survival to measurable, interventional targets. Meanwhile, emerging evidence shows metabolic control and circadian clocks are inseparable aging mechanisms, and thymus regeneration compounds are moving toward Phase 1 trials in 2026–2027.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode covers the convergence of three major longevity research directions: metabolomic signatures of extreme age, epigenetic mechanisms linking metabolism to cellular aging, and near-term clinical interventions entering human trials.</p><ul><li><strong>Centenarian metabolotypes:</strong> New England Centenarian Study identifies distinct biochemical fingerprints in 100+ individuals—enabling early risk stratification and intervention design in younger cohorts.</li><li><strong>mTOR, circadian clocks, and neuronal aging:</strong> Cell-intrinsic metabolic pathways directly control age-related structural decline in neurons; implications for metformin and circadian-phase optimization.</li><li><strong>Conserved brain network decline across mammals:</strong> Functional connectivity loss follows identical patterns in mice and humans, validating translational relevance of rodent aging models.</li><li><strong>Epigenetic silencing of mitochondrial stress response:</strong> H3K9 trimethylation blocks age-dependent organellar dysfunction in sensory neurons; suggests histone deacetylase inhibitors for sensory preservation.</li><li><strong>Thymus regeneration moving to clinical trials:</strong> Two Mass General Brigham studies challenge irreversibility of thymic involution; Phase 1 trials expected in 2026–2027 with major implications for immune reconstitution.</li><li><strong>Passion fruit derivative advances toward Alzheimer's trials:</strong> Botanical-derived molecule with clear aggregation-inhibition mechanism entering drug development; clinical trial initiation expected in 2–3 years.</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-28.mp3" length="13541325" type="audio/mpeg"/>
+      <ns1:summary>Researchers have identified distinct metabolic fingerprints in centenarians that could enable early detection of longevity trajectory by age 80—shifting aging science from random survival to measurable, interventional targets. Meanwhile, emerging evidence shows metabolic control and circadian clocks are inseparable aging mechanisms, and thymus regeneration compounds are moving toward Phase 1 trials in 2026–2027.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode covers the convergence of three major longevity research directions: metabolomic signatures of extreme age, epigenetic mechanisms linking metabolism to cellular aging, and near-term clinical interventions entering human trials.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Centenarian metabolotypes:&lt;/strong&gt; New England Centenarian Study identifies distinct biochemical fingerprints in 100+ individuals—enabling early risk stratification and intervention design in younger cohorts.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;mTOR, circadian clocks, and neuronal aging:&lt;/strong&gt; Cell-intrinsic metabolic pathways directly control age-related structural decline in neurons; implications for metformin and circadian-phase optimization.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Conserved brain network decline across mammals:&lt;/strong&gt; Functional connectivity loss follows identical patterns in mice and humans, validating translational relevance of rodent aging models.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Epigenetic silencing of mitochondrial stress response:&lt;/strong&gt; H3K9 trimethylation blocks age-dependent organellar dysfunction in sensory neurons; suggests histone deacetylase inhibitors for sensory preservation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Thymus regeneration moving to clinical trials:&lt;/strong&gt; Two Mass General Brigham studies challenge irreversibility of thymic involution; Phase 1 trials expected in 2026–2027 with major implications for immune reconstitution.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Passion fruit derivative advances toward Alzheimer's trials:&lt;/strong&gt; Botanical-derived molecule with clear aggregation-inhibition mechanism entering drug development; clinical trial initiation expected in 2–3 years.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-28.mp3" length="13541325" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-99</guid>
       <pubDate>Sat, 28 Mar 2026 05:43:44 +0000</pubDate>
-      <itunes:duration>00:11:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>15</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, centenarians, metabolomics, circadian rhythms, aging, mTOR, metformin, thymus regeneration, epigenetics, mitochondrial aging, biomarkers</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:11:16</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>15</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, centenarians, metabolomics, circadian rhythms, aging, mTOR, metformin, thymus regeneration, epigenetics, mitochondrial aging, biomarkers</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 28, 2026</title>
-      <description>Hey there. We're diving into some genuinely exciting territory today in longevity research. There's been a real shift in how we're thinking about aging at the biological level, and I want to walk you through what's changed and why it matters.
-
-Let me start with the headline finding because it's the ...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-28.mp3" length="13541325" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-99</guid>
-      <pubDate>Sat, 28 Mar 2026 05:43:44 +0000</pubDate>
-      <itunes:duration>00:11:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — March 24, 2026</title>
-      <description>Welcome back. Let's start with the research that's going to matter most this year.
-
-There's a finding coming out in PNAS that's genuinely reshaping how we think about where aging happens in the body. A team led by Ingaramo just published work showing that your fat tissue—adipose tissue, to be precis...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-24.mp3" length="15423404" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-89</guid>
-      <pubDate>Wed, 25 Mar 2026 02:11:12 +0000</pubDate>
-      <itunes:duration>00:12:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
-    </item>
-    <item>
       <title>Plastics, Mitochondria &amp; the Bottlenecks Nobody's Measuring</title>
-      <itunes:title>Plastics, Mitochondria &amp; the Bottlenecks Nobody's Measuring</itunes:title>
-      <itunes:subtitle>Why your longevity trial might be failing before it starts</itunes:subtitle>
+      <ns1:title>Plastics, Mitochondria &amp; the Bottlenecks Nobody's Measuring</ns1:title>
+      <ns1:subtitle>Why your longevity trial might be failing before it starts</ns1:subtitle>
       <description>Microplastics accumulation is emerging as an overlooked aging accelerator that may be sabotaging intervention responses across populations. Three convergent signals—from succinate dehydrogenase dysfunction to mitochondrial transplantation—suggest mitochondrial function is now the core longevity axis, while environmental toxin burden may be the rate-limiting factor blocking treatment success.</description>
-      <itunes:summary>Microplastics accumulation is emerging as an overlooked aging accelerator that may be sabotaging intervention responses across populations. Three convergent signals—from succinate dehydrogenase dysfunction to mitochondrial transplantation—suggest mitochondrial function is now the core longevity axis, while environmental toxin burden may be the rate-limiting factor blocking treatment success.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode examines why standard longevity interventions show variable results and identifies two critical blind spots in aging research: environmental plastic burden and mitochondrial dysfunction across multiple aging pathways.</p><ul><li>Moulton et al. (Journal of Xenobiotics): Micro- and nanoplastics drive oxidative stress and accelerated aging markers; xenobiotic clearance capacity may be a longevity bottleneck</li><li>Ocegueda et al. (Aging Cell): Succinate dehydrogenase dysfunction shifts immune cells toward pro-inflammatory Th17 state; restoration of mitochondrial Complex II could address both frailty and chronic inflammation</li><li>Singh et al. (Journals of Gerontology): Low-dose chronic rapamycin preserves motor function with sex-dependent effects; one-size-fits-all mTOR inhibition protocols are insufficient</li><li>Su et al. (Acta Biochimica et Biophysica Sinica): PAC1-R allosteric modulator triggers SIRT6-dependent senescent cell clearance; pharmacological alternative to genetic senolysis</li><li>Chinese mitochondrial capsule transplantation: Encapsulated mitochondrial delivery moving toward Phase I trials for age-related mitochondrial dysfunction and sarcopenia</li></ul><hr/><p>Subscribe for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-24.mp3" length="15592364" type="audio/mpeg"/>
+      <ns1:summary>Microplastics accumulation is emerging as an overlooked aging accelerator that may be sabotaging intervention responses across populations. Three convergent signals—from succinate dehydrogenase dysfunction to mitochondrial transplantation—suggest mitochondrial function is now the core longevity axis, while environmental toxin burden may be the rate-limiting factor blocking treatment success.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode examines why standard longevity interventions show variable results and identifies two critical blind spots in aging research: environmental plastic burden and mitochondrial dysfunction across multiple aging pathways.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Moulton et al. (Journal of Xenobiotics): Micro- and nanoplastics drive oxidative stress and accelerated aging markers; xenobiotic clearance capacity may be a longevity bottleneck&lt;/li&gt;&lt;li&gt;Ocegueda et al. (Aging Cell): Succinate dehydrogenase dysfunction shifts immune cells toward pro-inflammatory Th17 state; restoration of mitochondrial Complex II could address both frailty and chronic inflammation&lt;/li&gt;&lt;li&gt;Singh et al. (Journals of Gerontology): Low-dose chronic rapamycin preserves motor function with sex-dependent effects; one-size-fits-all mTOR inhibition protocols are insufficient&lt;/li&gt;&lt;li&gt;Su et al. (Acta Biochimica et Biophysica Sinica): PAC1-R allosteric modulator triggers SIRT6-dependent senescent cell clearance; pharmacological alternative to genetic senolysis&lt;/li&gt;&lt;li&gt;Chinese mitochondrial capsule transplantation: Encapsulated mitochondrial delivery moving toward Phase I trials for age-related mitochondrial dysfunction and sarcopenia&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-24.mp3" length="15592364" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-87</guid>
       <pubDate>Tue, 24 Mar 2026 20:34:03 +0000</pubDate>
-      <itunes:duration>00:12:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>13</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, plastics, microplastics, mitochondrial dysfunction, aging, senescence, rapamycin, SIRT6, immune aging, environmental toxins, xenobiotics, Complex II, Th17, senolytics</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:12:59</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>13</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, plastics, microplastics, mitochondrial dysfunction, aging, senescence, rapamycin, SIRT6, immune aging, environmental toxins, xenobiotics, Complex II, Th17, senolytics</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
       <title>Senolytics' Hidden Cost: Brain Damage Risk Reshapes Aging Drug Strategy</title>
-      <itunes:title>Senolytics' Hidden Cost: Brain Damage Risk Reshapes Aging Drug Strategy</itunes:title>
-      <itunes:subtitle>PNAS safety signal forces pivot from broad senescent cell removal to selective targeting</itunes:subtitle>
+      <ns1:title>Senolytics' Hidden Cost: Brain Damage Risk Reshapes Aging Drug Strategy</ns1:title>
+      <ns1:subtitle>PNAS safety signal forces pivot from broad senescent cell removal to selective targeting</ns1:subtitle>
       <description>A major PNAS study reveals that senolytic drugs designed to clear aging cells are triggering unexpected demyelination in the brain—forcing the field to abandon blanket senescent cell removal in favor of tissue-selective approaches. Meanwhile, GLP-1 agonists are consolidating as multi-tissue rejuvenation agents with direct CNS mechanisms beyond weight loss, including restoration of secretory tissues and activation of neuroprotective pathways.</description>
-      <itunes:summary>A major PNAS study reveals that senolytic drugs designed to clear aging cells are triggering unexpected demyelination in the brain—forcing the field to abandon blanket senescent cell removal in favor of tissue-selective approaches. Meanwhile, GLP-1 agonists are consolidating as multi-tissue rejuvenation agents with direct CNS mechanisms beyond weight loss, including restoration of secretory tissues and activation of neuroprotective pathways.</itunes:summary>
-      <content:encoded><![CDATA[<p>Today's episode covers a critical safety signal reframing senolytic therapy, and the expanding evidence that GLP-1 drugs are pleiotropic longevity interventions.</p><ul><li><strong>Senolytic Safety Signal (Lombardo et al., PNAS):</strong> Dasatinib + quercetin trigger oligodendrocyte dysfunction and corpus callosum demyelination in mice, revealing that indiscriminate senescent cell removal harms protective cellular populations.</li><li><strong>GLP-1 Central Mechanisms (Mazzaferro et al., bioRxiv):</strong> Semaglutide directly activates human hypothalamic neurons, explaining cardiometabolic and neuroprotective benefits independent of weight loss.</li><li><strong>Tissue Rejuvenation via GLP-1 (Zuo et al., Free Radical Biology & Medicine):</strong> Semaglutide restores lacrimal gland structure and function in age-related dry eye, suggesting systemic mitochondrial rejuvenation.</li><li><strong>FOXO3 Genetic Validation (Abdi et al., Journals of Gerontology):</strong> Protective FOXO3 variants predict cardiometabolic resilience independent of BMI, opening rational drug design for FOXO3 activators.</li><li><strong>mTOR Trade-off (Gudmundsen et al., bioRxiv):</strong> Rapamycin increases brain glucose metabolism but reduces synaptic density—a mechanistic caution for chronic use without neurotrophic support.</li><li><strong>Microbiota Resilience Over Diversity (Alum et al., Probiotics & Antimicrobial Proteins):</strong> Stress-response capacity of gut microbiota predicts lifespan extension more reliably than species diversity metrics.</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research reshaping how we age.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-17.mp3" length="12753644" type="audio/mpeg"/>
+      <ns1:summary>A major PNAS study reveals that senolytic drugs designed to clear aging cells are triggering unexpected demyelination in the brain—forcing the field to abandon blanket senescent cell removal in favor of tissue-selective approaches. Meanwhile, GLP-1 agonists are consolidating as multi-tissue rejuvenation agents with direct CNS mechanisms beyond weight loss, including restoration of secretory tissues and activation of neuroprotective pathways.</ns1:summary>
+      <content:encoded>&lt;p&gt;Today's episode covers a critical safety signal reframing senolytic therapy, and the expanding evidence that GLP-1 drugs are pleiotropic longevity interventions.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Senolytic Safety Signal (Lombardo et al., PNAS):&lt;/strong&gt; Dasatinib + quercetin trigger oligodendrocyte dysfunction and corpus callosum demyelination in mice, revealing that indiscriminate senescent cell removal harms protective cellular populations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;GLP-1 Central Mechanisms (Mazzaferro et al., bioRxiv):&lt;/strong&gt; Semaglutide directly activates human hypothalamic neurons, explaining cardiometabolic and neuroprotective benefits independent of weight loss.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tissue Rejuvenation via GLP-1 (Zuo et al., Free Radical Biology &amp; Medicine):&lt;/strong&gt; Semaglutide restores lacrimal gland structure and function in age-related dry eye, suggesting systemic mitochondrial rejuvenation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;FOXO3 Genetic Validation (Abdi et al., Journals of Gerontology):&lt;/strong&gt; Protective FOXO3 variants predict cardiometabolic resilience independent of BMI, opening rational drug design for FOXO3 activators.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;mTOR Trade-off (Gudmundsen et al., bioRxiv):&lt;/strong&gt; Rapamycin increases brain glucose metabolism but reduces synaptic density—a mechanistic caution for chronic use without neurotrophic support.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Microbiota Resilience Over Diversity (Alum et al., Probiotics &amp; Antimicrobial Proteins):&lt;/strong&gt; Stress-response capacity of gut microbiota predicts lifespan extension more reliably than species diversity metrics.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research reshaping how we age.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-17.mp3" length="12753644" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-66</guid>
       <pubDate>Wed, 18 Mar 2026 02:11:59 +0000</pubDate>
-      <itunes:duration>00:10:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>12</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>senolytics, senescent cells, demyelination, GLP-1 agonists, semaglutide, hypothalamus, FOXO3, rapamycin, microbiota, aging, longevity, healthspan, drug safety</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:10:37</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>12</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>senolytics, senescent cells, demyelination, GLP-1 agonists, semaglutide, hypothalamus, FOXO3, rapamycin, microbiota, aging, longevity, healthspan, drug safety</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — March 17, 2026</title>
-      <description>Welcome back. We've got some really important developments today—and I mean that specifically. There's a genuine safety signal in the field that's going to reshape how we think about one of the most popular aging interventions, and it sits right alongside some genuinely exciting news about another c...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-17.mp3" length="12753644" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-66</guid>
-      <pubDate>Wed, 18 Mar 2026 02:11:59 +0000</pubDate>
-      <itunes:duration>00:10:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Multi-Axis Biomarkers Beat Single Clocks; Behavior Predicts Lifespan</title>
-      <itunes:title>Multi-Axis Biomarkers Beat Single Clocks; Behavior Predicts Lifespan</itunes:title>
-      <itunes:subtitle>Neural networks + microbiome outperform epigenetic aging clocks; zebrafish activity foreca</itunes:subtitle>
+      <ns1:title>Multi-Axis Biomarkers Beat Single Clocks; Behavior Predicts Lifespan</ns1:title>
+      <ns1:subtitle>Neural networks + microbiome outperform epigenetic aging clocks; zebrafish activity foreca</ns1:subtitle>
       <description>A neural network trained on blood biomarkers and microbiome data outperforms traditional epigenetic aging clocks, suggesting multi-axis biomarker panels are becoming the operational standard for aging prediction. New Science research shows that midlife behavioral activity levels in zebrafish predict individual mortality risk with &gt;80% accuracy independent of genetics—a finding that could translate to human activity-tracking wearables as leading indicators of biological decline. The episode also covers tissue-specific aging mechanisms in the hea</description>
-      <itunes:summary>A neural network trained on blood biomarkers and microbiome data outperforms traditional epigenetic aging clocks, suggesting multi-axis biomarker panels are becoming the operational standard for aging prediction. New Science research shows that midlife behavioral activity levels in zebrafish predict individual mortality risk with &gt;80% accuracy independent of genetics—a finding that could translate to human activity-tracking wearables as leading indicators of biological decline. The episode also covers tissue-specific aging mechanisms in the hea</itunes:summary>
-      <content:encoded><![CDATA[<p>Aging is multidimensional—no single biomarker or clock captures the whole picture. This episode covers the shift from single-modality aging clocks toward composite biomarker architectures and tissue-specific intervention targets.</p><ul><li><strong>Multi-axis biomarker integration (Kobelyatskaya et al., Aging):</strong> Neural networks trained on blood biomarkers + microbiome data outperform epigenetic clocks alone for biological age prediction</li><li><strong>Behavior as a longevity biomarker (Bedbrook et al., Science):</strong> Midlife activity levels in zebrafish predict mortality with >80% accuracy; wearable metrics could become leading indicators of biological decline in humans</li><li><strong>Glycative stress & cardiac aging (Bou-Teen et al., Aging Cell):</strong> High blood glucose damages proteins through glycation, disrupting mitochondrial-lysosomal axis and accelerating cardiomyocyte senescence</li><li><strong>Metformin's multi-target mechanism (Vujović et al., Journal of Medical Biochemistry):</strong> Consolidates evidence that metformin restores NAD+, activates AMPK, suppresses mTOR, and optimizes mitochondrial flux</li><li><strong>Ovarian aging & reproductive senescence (Ma et al., Frontiers in Cell & Developmental Biology):</strong> cGAS-STING inflammasome hyperactivation drives ovarian aging; STING antagonists could theoretically delay reproductive senescence</li><li><strong>Oral health as longevity marker (Peres et al., Archives of Gerontology & Geriatrics):</strong> Missing teeth predict mortality risk independent of age, BMI, smoking; proxy for systemic inflammation and dysbiosis</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-13.mp3" length="18435884" type="audio/mpeg"/>
+      <ns1:summary>A neural network trained on blood biomarkers and microbiome data outperforms traditional epigenetic aging clocks, suggesting multi-axis biomarker panels are becoming the operational standard for aging prediction. New Science research shows that midlife behavioral activity levels in zebrafish predict individual mortality risk with &gt;80% accuracy independent of genetics—a finding that could translate to human activity-tracking wearables as leading indicators of biological decline. The episode also covers tissue-specific aging mechanisms in the hea</ns1:summary>
+      <content:encoded>&lt;p&gt;Aging is multidimensional—no single biomarker or clock captures the whole picture. This episode covers the shift from single-modality aging clocks toward composite biomarker architectures and tissue-specific intervention targets.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Multi-axis biomarker integration (Kobelyatskaya et al., Aging):&lt;/strong&gt; Neural networks trained on blood biomarkers + microbiome data outperform epigenetic clocks alone for biological age prediction&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Behavior as a longevity biomarker (Bedbrook et al., Science):&lt;/strong&gt; Midlife activity levels in zebrafish predict mortality with &gt;80% accuracy; wearable metrics could become leading indicators of biological decline in humans&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Glycative stress &amp; cardiac aging (Bou-Teen et al., Aging Cell):&lt;/strong&gt; High blood glucose damages proteins through glycation, disrupting mitochondrial-lysosomal axis and accelerating cardiomyocyte senescence&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Metformin's multi-target mechanism (Vujović et al., Journal of Medical Biochemistry):&lt;/strong&gt; Consolidates evidence that metformin restores NAD+, activates AMPK, suppresses mTOR, and optimizes mitochondrial flux&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ovarian aging &amp; reproductive senescence (Ma et al., Frontiers in Cell &amp; Developmental Biology):&lt;/strong&gt; cGAS-STING inflammasome hyperactivation drives ovarian aging; STING antagonists could theoretically delay reproductive senescence&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Oral health as longevity marker (Peres et al., Archives of Gerontology &amp; Geriatrics):&lt;/strong&gt; Missing teeth predict mortality risk independent of age, BMI, smoking; proxy for systemic inflammation and dysbiosis&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-13.mp3" length="18435884" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-58</guid>
       <pubDate>Sat, 14 Mar 2026 02:21:07 +0000</pubDate>
-      <itunes:duration>00:15:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>11</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, biological aging, biomarkers, epigenetic clocks, microbiome, aging mechanisms, metformin, wearables, behavioral biomarkers, personalized medicine, healthspan</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:15:21</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>11</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, biological aging, biomarkers, epigenetic clocks, microbiome, aging mechanisms, metformin, wearables, behavioral biomarkers, personalized medicine, healthspan</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — March 13, 2026</title>
-      <description>Welcome back. Today we're looking at some really interesting developments in how we're learning to measure aging, and maybe more importantly, how we're starting to see that aging isn't one process—it's a bunch of different processes happening at different speeds in different parts of your body.
-
-Let...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-13.mp3" length="18435884" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-58</guid>
-      <pubDate>Sat, 14 Mar 2026 02:21:07 +0000</pubDate>
-      <itunes:duration>00:15:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>25-Year Dementia Predictor, Cell-Type Aging, mRNA Breakthroughs</title>
-      <itunes:title>25-Year Dementia Predictor, Cell-Type Aging, mRNA Breakthroughs</itunes:title>
-      <itunes:subtitle>UC San Diego's early biomarker opens a prevention window decades wider than before.</itunes:subtitle>
+      <ns1:title>25-Year Dementia Predictor, Cell-Type Aging, mRNA Breakthroughs</ns1:title>
+      <ns1:subtitle>UC San Diego's early biomarker opens a prevention window decades wider than before.</ns1:subtitle>
       <description>UC San Diego researchers have identified a blood biomarker that predicts dementia risk up to 25 years before symptoms appear—extending the intervention window from 5-10 years to a span where cognitive reserve and vascular health can be meaningfully engineered. We also cover the COSMOS trial's finding that multivitamin supplementation slows biological aging by ~4 months, new evidence that cell-type heterogeneity (not uniform aging) drives tissue decline, and optimized mRNA vaccines that overcome immunosenescence in aged populations.</description>
-      <itunes:summary>UC San Diego researchers have identified a blood biomarker that predicts dementia risk up to 25 years before symptoms appear—extending the intervention window from 5-10 years to a span where cognitive reserve and vascular health can be meaningfully engineered. We also cover the COSMOS trial's finding that multivitamin supplementation slows biological aging by ~4 months, new evidence that cell-type heterogeneity (not uniform aging) drives tissue decline, and optimized mRNA vaccines that overcome immunosenescence in aged populations.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode examines the convergence of predictive biomarkers, cell-type-specific aging mechanisms, and clinical wins in dementia prevention and immunotherapy safety.</p><ul><li><strong>UC San Diego dementia biomarker:</strong> Blood-based signature predicts cognitive decline 25 years pre-symptomatically in women; extends intervention window for preventive architecture.</li><li><strong>COSMOS multivitamin trial:</strong> Nature Aging peer-reviewed RCT shows daily multivitamin supplementation reduces DNAm aging by ~4 months; mechanism likely B vitamins and folate supporting epigenetic maintenance.</li><li><strong>Retinal progenitor cell gatekeeper:</strong> Identification of transcription factor controlling stem cell pluripotency; epigenetic mechanism suggests small-molecule modulators could restore photoreceptor regeneration in aged retinas.</li><li><strong>mRNA immunogenicity in aging:</strong> Optimized lipid nanoparticle formulations maintain vaccine efficacy in aged and obese mice; addresses COVID-era immune response gap in elderly populations.</li><li><strong>Cell-type-specific lung aging:</strong> Research shows alveolar macrophages and club cells age faster than other lung tissue, creating functional bottlenecks and suggesting cell-type-selective interventions over pan-tissue approaches.</li><li><strong>ARIA biomarker stratification:</strong> UK team identifies blood immune fingerprint predicting amyloid-related imaging abnormalities from anti-amyloid monoclonal antibodies; enables pre-screening for lecanemab and donanemab safety.</li><li><strong>Trazodone vs. antipsychotics in delirium:</strong> Large US trial shows sleep-focused medication outperforms antipsychotics in hospitalized elderly; reshapes acute geriatric care protocols away from high-mortality dopamine antagonism.</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-10.mp3" length="11949644" type="audio/mpeg"/>
+      <ns1:summary>UC San Diego researchers have identified a blood biomarker that predicts dementia risk up to 25 years before symptoms appear—extending the intervention window from 5-10 years to a span where cognitive reserve and vascular health can be meaningfully engineered. We also cover the COSMOS trial's finding that multivitamin supplementation slows biological aging by ~4 months, new evidence that cell-type heterogeneity (not uniform aging) drives tissue decline, and optimized mRNA vaccines that overcome immunosenescence in aged populations.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode examines the convergence of predictive biomarkers, cell-type-specific aging mechanisms, and clinical wins in dementia prevention and immunotherapy safety.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;UC San Diego dementia biomarker:&lt;/strong&gt; Blood-based signature predicts cognitive decline 25 years pre-symptomatically in women; extends intervention window for preventive architecture.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;COSMOS multivitamin trial:&lt;/strong&gt; Nature Aging peer-reviewed RCT shows daily multivitamin supplementation reduces DNAm aging by ~4 months; mechanism likely B vitamins and folate supporting epigenetic maintenance.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Retinal progenitor cell gatekeeper:&lt;/strong&gt; Identification of transcription factor controlling stem cell pluripotency; epigenetic mechanism suggests small-molecule modulators could restore photoreceptor regeneration in aged retinas.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;mRNA immunogenicity in aging:&lt;/strong&gt; Optimized lipid nanoparticle formulations maintain vaccine efficacy in aged and obese mice; addresses COVID-era immune response gap in elderly populations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cell-type-specific lung aging:&lt;/strong&gt; Research shows alveolar macrophages and club cells age faster than other lung tissue, creating functional bottlenecks and suggesting cell-type-selective interventions over pan-tissue approaches.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;ARIA biomarker stratification:&lt;/strong&gt; UK team identifies blood immune fingerprint predicting amyloid-related imaging abnormalities from anti-amyloid monoclonal antibodies; enables pre-screening for lecanemab and donanemab safety.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Trazodone vs. antipsychotics in delirium:&lt;/strong&gt; Large US trial shows sleep-focused medication outperforms antipsychotics in hospitalized elderly; reshapes acute geriatric care protocols away from high-mortality dopamine antagonism.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-10.mp3" length="11949644" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-48</guid>
       <pubDate>Wed, 11 Mar 2026 02:08:52 +0000</pubDate>
-      <itunes:duration>00:09:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>10</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, dementia biomarker, aging clock, multivitamin, epigenetic aging, cell senescence, retinal regeneration, mRNA vaccine, immunosenescence, precision prevention, gerontology, healthspan</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:09:57</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>10</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, dementia biomarker, aging clock, multivitamin, epigenetic aging, cell senescence, retinal regeneration, mRNA vaccine, immunosenescence, precision prevention, gerontology, healthspan</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — March 10, 2026</title>
-      <description>Welcome back. We've got a really interesting set of developments today that I think points toward something fundamental shifting in how we think about aging and prevention.
-
-Let's start with the top signal, because this one's worth sitting with for a moment. Researchers at UC San Diego have identifi...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-10.mp3" length="11949644" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-48</guid>
-      <pubDate>Wed, 11 Mar 2026 02:08:52 +0000</pubDate>
-      <itunes:duration>00:09:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Mitochondrial Architecture Emerges as Aging's Real Bottleneck</title>
-      <itunes:title>Mitochondrial Architecture Emerges as Aging's Real Bottleneck</itunes:title>
-      <itunes:subtitle>MICOS dysfunction, ferroptosis in aging testes, and why mitochondrial shape matters more t</itunes:subtitle>
+      <ns1:title>Mitochondrial Architecture Emerges as Aging's Real Bottleneck</ns1:title>
+      <ns1:subtitle>MICOS dysfunction, ferroptosis in aging testes, and why mitochondrial shape matters more t</ns1:subtitle>
       <description>New research reveals that mitochondrial structure—not just energy production—drives aging in kidneys and other tissues. MICOS complex dysfunction in aged kidneys offers a precision intervention target for renal decline. Plus: ferroptosis, not apoptosis, drives age-dependent germ cell loss in males, opening the door to ferroptosis inhibitors as andropausal therapies.</description>
-      <itunes:summary>New research reveals that mitochondrial structure—not just energy production—drives aging in kidneys and other tissues. MICOS complex dysfunction in aged kidneys offers a precision intervention target for renal decline. Plus: ferroptosis, not apoptosis, drives age-dependent germ cell loss in males, opening the door to ferroptosis inhibitors as andropausal therapies.</itunes:summary>
-      <content:encoded><![CDATA[<p>Today's research signals a shift: mitochondrial <em>architecture</em>—the geometry of cristae and subcellular positioning—may be the rate-limiting factor in aging, not just mitochondrial capacity or energy production.</p><ul><li><strong>MICOS complex dysfunction in renal aging (Katti et al.):</strong> Age-dependent loss of mitochondrial contact site organizer complex drives cristae disorganization and oxidative stress in aged kidneys—a precision target for age-related renal decline.</li><li><strong>Ferroptosis, not apoptosis, in aged testis (Germeraad et al.):</strong> Post-meiotic germ cells undergo ferroptotic, iron-dependent cell death with age; ferroptosis inhibitors may preserve spermatogenesis and testosterone in aging males.</li><li><strong>PINK1 SUMO modification restrains mitophagy (Ramesh et al.):</strong> SUMO-2/3 conjugation suppresses mitochondrial quality control in aging; reversing this modification could restore mitochondrial turnover without broad activation.</li><li><strong>Axonal mitochondria lack mtDNA (Hirabayashi et al.):</strong> Most CNS axonal mitochondria are mtDNA-depleted and non-functional; axonal dysfunction in aging may reflect loss of transport and positioning, not primary energy crisis.</li><li><strong>Tyrosine-lifespan association in males:</strong> Higher circulating tyrosine linked to shorter lifespan in men; raises caution on BCAA supplementation and suggests sex-dimorphic amino acid metabolism in aging.</li><li><strong>GLP-1 cross-substance addiction suppression:</strong> 600,000-person cohort shows GLP-1 agonists reduce addiction risk across alcohol, opioids, and stimulants; mechanism likely involves dopamine and metabolic homeostasis.</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science and healthspan optimization.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-06.mp3" length="12335564" type="audio/mpeg"/>
+      <ns1:summary>New research reveals that mitochondrial structure—not just energy production—drives aging in kidneys and other tissues. MICOS complex dysfunction in aged kidneys offers a precision intervention target for renal decline. Plus: ferroptosis, not apoptosis, drives age-dependent germ cell loss in males, opening the door to ferroptosis inhibitors as andropausal therapies.</ns1:summary>
+      <content:encoded>&lt;p&gt;Today's research signals a shift: mitochondrial &lt;em&gt;architecture&lt;/em&gt;—the geometry of cristae and subcellular positioning—may be the rate-limiting factor in aging, not just mitochondrial capacity or energy production.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MICOS complex dysfunction in renal aging (Katti et al.):&lt;/strong&gt; Age-dependent loss of mitochondrial contact site organizer complex drives cristae disorganization and oxidative stress in aged kidneys—a precision target for age-related renal decline.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ferroptosis, not apoptosis, in aged testis (Germeraad et al.):&lt;/strong&gt; Post-meiotic germ cells undergo ferroptotic, iron-dependent cell death with age; ferroptosis inhibitors may preserve spermatogenesis and testosterone in aging males.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;PINK1 SUMO modification restrains mitophagy (Ramesh et al.):&lt;/strong&gt; SUMO-2/3 conjugation suppresses mitochondrial quality control in aging; reversing this modification could restore mitochondrial turnover without broad activation.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Axonal mitochondria lack mtDNA (Hirabayashi et al.):&lt;/strong&gt; Most CNS axonal mitochondria are mtDNA-depleted and non-functional; axonal dysfunction in aging may reflect loss of transport and positioning, not primary energy crisis.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tyrosine-lifespan association in males:&lt;/strong&gt; Higher circulating tyrosine linked to shorter lifespan in men; raises caution on BCAA supplementation and suggests sex-dimorphic amino acid metabolism in aging.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;GLP-1 cross-substance addiction suppression:&lt;/strong&gt; 600,000-person cohort shows GLP-1 agonists reduce addiction risk across alcohol, opioids, and stimulants; mechanism likely involves dopamine and metabolic homeostasis.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science and healthspan optimization.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-06.mp3" length="12335564" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-40</guid>
       <pubDate>Sat, 07 Mar 2026 03:18:29 +0000</pubDate>
-      <itunes:duration>00:10:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>9</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>mitochondria, aging, MICOS complex, ferroptosis, mitophagy, kidney aging, testosterone, amino acids, GLP-1, longevity science</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:10:16</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>9</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>mitochondria, aging, MICOS complex, ferroptosis, mitophagy, kidney aging, testosterone, amino acids, GLP-1, longevity science</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — March 6, 2026</title>
-      <description>Welcome back. Today's research is pointing us toward something that's been lurking just beneath the surface of aging biology for years, and it's starting to crystallize into something actionable. Let me walk you through what we're seeing.
-
-The biggest signal today is about mitochondrial architecture...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-06.mp3" length="12335564" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-40</guid>
-      <pubDate>Sat, 07 Mar 2026 03:18:29 +0000</pubDate>
-      <itunes:duration>00:10:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Thiolutin Rewires Aging—And Three Other Shifts in Longevity Science</title>
-      <itunes:title>Thiolutin Rewires Aging—And Three Other Shifts in Longevity Science</itunes:title>
-      <itunes:subtitle>A transcriptional reprogramming strategy sidesteps the heterogeneity problem haunting sene</itunes:subtitle>
+      <ns1:title>Thiolutin Rewires Aging—And Three Other Shifts in Longevity Science</ns1:title>
+      <ns1:subtitle>A transcriptional reprogramming strategy sidesteps the heterogeneity problem haunting sene</ns1:subtitle>
       <description>Mołoń et al. show that thiolutin extends yeast lifespan by redirecting transcriptional priorities rather than inhibiting growth—a mechanistically distinct approach that could avoid the heterogeneity failures plaguing current interventions. Plus: tissue-specific aging prediction tools, a cereal-dementia paradox, lactylation as an overlooked aging driver, and emerging evidence for multi-target epigenetic interventions.</description>
-      <itunes:summary>Mołoń et al. show that thiolutin extends yeast lifespan by redirecting transcriptional priorities rather than inhibiting growth—a mechanistically distinct approach that could avoid the heterogeneity failures plaguing current interventions. Plus: tissue-specific aging prediction tools, a cereal-dementia paradox, lactylation as an overlooked aging driver, and emerging evidence for multi-target epigenetic interventions.</itunes:summary>
-      <content:encoded><![CDATA[<p>How small molecules can reprogram aging without pathway inhibition—and why precision tissue targeting is reshaping senescence science.</p><ul><li><strong>Thiolutin & transcriptional reprogramming:</strong> Mołoń et al. (Scientific Reports) demonstrate lifespan extension via redirected gene expression rather than growth inhibition—potentially solving heterogeneity in aging trials.</li><li><strong>Tissue-specific aging prediction:</strong> Jalal et al.'s ORANGE machine learning framework predicts which tissues age fastest from transcriptomics, enabling precision senolytic targeting.</li><li><strong>Cereal consumption & dementia risk:</strong> You et al. (Dementia & Geriatric Cognitive Disorders) find inverse association between cereal intake and dementia, challenging ultra-processed food narratives.</li><li><strong>Lactylation in hearing loss:</strong> Luo et al. (Clinical Epigenetics) identify histone lactylation—not acetylation—as driver of age-related hearing loss via p53 stabilization.</li><li><strong>Multi-target epigenetic interventions:</strong> Emerging pattern suggests single-modification therapies (HDAC inhibitors alone) fail; 2027 trials should test combination approaches targeting multiple histone marks simultaneously.</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years. New episodes every morning.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-03.mp3" length="17176844" type="audio/mpeg"/>
+      <ns1:summary>Mołoń et al. show that thiolutin extends yeast lifespan by redirecting transcriptional priorities rather than inhibiting growth—a mechanistically distinct approach that could avoid the heterogeneity failures plaguing current interventions. Plus: tissue-specific aging prediction tools, a cereal-dementia paradox, lactylation as an overlooked aging driver, and emerging evidence for multi-target epigenetic interventions.</ns1:summary>
+      <content:encoded>&lt;p&gt;How small molecules can reprogram aging without pathway inhibition—and why precision tissue targeting is reshaping senescence science.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Thiolutin &amp; transcriptional reprogramming:&lt;/strong&gt; Mołoń et al. (Scientific Reports) demonstrate lifespan extension via redirected gene expression rather than growth inhibition—potentially solving heterogeneity in aging trials.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tissue-specific aging prediction:&lt;/strong&gt; Jalal et al.'s ORANGE machine learning framework predicts which tissues age fastest from transcriptomics, enabling precision senolytic targeting.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cereal consumption &amp; dementia risk:&lt;/strong&gt; You et al. (Dementia &amp; Geriatric Cognitive Disorders) find inverse association between cereal intake and dementia, challenging ultra-processed food narratives.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Lactylation in hearing loss:&lt;/strong&gt; Luo et al. (Clinical Epigenetics) identify histone lactylation—not acetylation—as driver of age-related hearing loss via p53 stabilization.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Multi-target epigenetic interventions:&lt;/strong&gt; Emerging pattern suggests single-modification therapies (HDAC inhibitors alone) fail; 2027 trials should test combination approaches targeting multiple histone marks simultaneously.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years. New episodes every morning.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-03-03.mp3" length="17176844" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-36</guid>
       <pubDate>Wed, 04 Mar 2026 03:14:58 +0000</pubDate>
-      <itunes:duration>00:14:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>8</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, aging, senescence, thiolutin, transcriptional reprogramming, tissue-specific aging, ORANGE, senolytics, epigenetic aging, histone modification, lactylation, hearing loss, cereal, dementia, precision gerontology</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:14:18</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>8</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, aging, senescence, thiolutin, transcriptional reprogramming, tissue-specific aging, ORANGE, senolytics, epigenetic aging, histone modification, lactylation, hearing loss, cereal, dementia, precision gerontology</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — March 3, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT — MARCH 3, 2026
-
-Hey, welcome back. Let's walk through what's moving in the aging research space today. There are some really interesting developments that are starting to reshape how we think about intervention strategy—and I want to walk you through them because...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-03.mp3" length="17176844" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-36</guid>
-      <pubDate>Wed, 04 Mar 2026 03:14:58 +0000</pubDate>
-      <itunes:duration>00:14:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Senescent macrophages drive male infertility—and senolytics reverse it</title>
-      <itunes:title>Senescent macrophages drive male infertility—and senolytics reverse it</itunes:title>
-      <itunes:subtitle>First causal mechanism linking senescence to reproductive aging opens human trial pathway.</itunes:subtitle>
+      <ns1:title>Senescent macrophages drive male infertility—and senolytics reverse it</ns1:title>
+      <ns1:subtitle>First causal mechanism linking senescence to reproductive aging opens human trial pathway.</ns1:subtitle>
       <description>Wang et al. identifies senescent macrophages in the epididymis as direct drivers of sperm motility decline—and shows senolytic removal restores fertility markers in mice. This is the first mechanistic proof that reproductive aging is a targetable senescence phenotype. Also: how diet buffers air pollution's aging effect, NPY restoration in blood stem cells, and why lifespan extension may increase death-timing variability instead of compressing morbidity.</description>
-      <itunes:summary>Wang et al. identifies senescent macrophages in the epididymis as direct drivers of sperm motility decline—and shows senolytic removal restores fertility markers in mice. This is the first mechanistic proof that reproductive aging is a targetable senescence phenotype. Also: how diet buffers air pollution's aging effect, NPY restoration in blood stem cells, and why lifespan extension may increase death-timing variability instead of compressing morbidity.</itunes:summary>
-      <content:encoded><![CDATA[<p>New mechanistic link between cellular senescence and reproductive aging, plus emerging patterns in tissue-specific senescence, sex-stratified interventions, and the role of nutrition in environmental aging protection.</p><ul><li><strong>Epididymal senescence mechanism:</strong> Wang et al. (Science Advances) shows senescent macrophages suppress sperm motility; senolytics restore fertility—first causal senescence link in reproductive aging.</li><li><strong>Hypoxia and senescent cells:</strong> Park et al. (Biomolecules & Therapeutics) finds mild hypoxic exposure silences inflammatory SASP genes; implications for altitude training and intermittent hypoxic conditioning.</li><li><strong>Diet buffers pollution aging:</strong> Li et al. (Aging Cell, Guangzhou Biobank) demonstrates Mediterranean-pattern diets reduce PM2.5/PM10 biological aging acceleration by ~40% via epigenetic clocks.</li><li><strong>Neuropeptide Y restores HSC function:</strong> Kamble et al. (bioRxiv) identifies NPY decline as driver of blood stem cell aging; NPY administration partially restores self-renewal in aged mice.</li><li><strong>Lifespan extension increases death variability:</strong> Fulton et al. (Biology Letters) meta-analysis shows longevity interventions increase heterogeneity in age-at-death, contradicting "squaring the curve" goal—demands precision gerontology.</li></ul><hr/><p>Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-27.mp3" length="15706604" type="audio/mpeg"/>
+      <ns1:summary>Wang et al. identifies senescent macrophages in the epididymis as direct drivers of sperm motility decline—and shows senolytic removal restores fertility markers in mice. This is the first mechanistic proof that reproductive aging is a targetable senescence phenotype. Also: how diet buffers air pollution's aging effect, NPY restoration in blood stem cells, and why lifespan extension may increase death-timing variability instead of compressing morbidity.</ns1:summary>
+      <content:encoded>&lt;p&gt;New mechanistic link between cellular senescence and reproductive aging, plus emerging patterns in tissue-specific senescence, sex-stratified interventions, and the role of nutrition in environmental aging protection.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Epididymal senescence mechanism:&lt;/strong&gt; Wang et al. (Science Advances) shows senescent macrophages suppress sperm motility; senolytics restore fertility—first causal senescence link in reproductive aging.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hypoxia and senescent cells:&lt;/strong&gt; Park et al. (Biomolecules &amp; Therapeutics) finds mild hypoxic exposure silences inflammatory SASP genes; implications for altitude training and intermittent hypoxic conditioning.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Diet buffers pollution aging:&lt;/strong&gt; Li et al. (Aging Cell, Guangzhou Biobank) demonstrates Mediterranean-pattern diets reduce PM2.5/PM10 biological aging acceleration by ~40% via epigenetic clocks.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Neuropeptide Y restores HSC function:&lt;/strong&gt; Kamble et al. (bioRxiv) identifies NPY decline as driver of blood stem cell aging; NPY administration partially restores self-renewal in aged mice.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Lifespan extension increases death variability:&lt;/strong&gt; Fulton et al. (Biology Letters) meta-analysis shows longevity interventions increase heterogeneity in age-at-death, contradicting "squaring the curve" goal—demands precision gerontology.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on longevity science, healthspan optimization, and the research extending your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-27.mp3" length="15706604" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-31</guid>
       <pubDate>Sat, 28 Feb 2026 03:26:13 +0000</pubDate>
-      <itunes:duration>00:13:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>7</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, senescence, senolytics, male fertility, reproductive aging, epididymis, hematopoietic stem cells, neuropeptide Y, air pollution, Mediterranean diet, epigenetic aging, cellular aging mechanisms</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:13:05</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>7</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, senescence, senolytics, male fertility, reproductive aging, epididymis, hematopoietic stem cells, neuropeptide Y, air pollution, Mediterranean diet, epigenetic aging, cellular aging mechanisms</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — February 27, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST — February 27, 2026
-
-Hey, thanks for tuning in. We've got a really solid day of aging research to walk through—and honestly, some of this is pushing the conversation in directions I think we need to be paying closer attention to.
-
-Let's start with what I think is the mos...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-27.mp3" length="15706604" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-31</guid>
-      <pubDate>Sat, 28 Feb 2026 03:26:13 +0000</pubDate>
-      <itunes:duration>00:13:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Centenarian Biomarkers, Brain NAD+ Patterns, and Sex-Stratified Aging</title>
-      <itunes:title>Centenarian Biomarkers, Brain NAD+ Patterns, and Sex-Stratified Aging</itunes:title>
-      <itunes:subtitle>Early screening for exceptional longevity, tissue-specific redox dysfunction, and why agin</itunes:subtitle>
+      <ns1:title>Centenarian Biomarkers, Brain NAD+ Patterns, and Sex-Stratified Aging</ns1:title>
+      <ns1:subtitle>Early screening for exceptional longevity, tissue-specific redox dysfunction, and why agin</ns1:subtitle>
       <description>The SWISS100 cohort has identified measurable blood biomarker signatures in centenarians that could enable predictive screening in younger populations—shifting longevity science from retrospective case studies to prospective risk stratification. New research reveals that NAD+ redox dysregulation in aging occurs in tissue-specific patterns, particularly in the brain, and that males and females age at different rates at the transcriptomic level, suggesting future interventions must be sex-stratified rather than one-size-fits-all.</description>
-      <itunes:summary>The SWISS100 cohort has identified measurable blood biomarker signatures in centenarians that could enable predictive screening in younger populations—shifting longevity science from retrospective case studies to prospective risk stratification. New research reveals that NAD+ redox dysregulation in aging occurs in tissue-specific patterns, particularly in the brain, and that males and females age at different rates at the transcriptomic level, suggesting future interventions must be sex-stratified rather than one-size-fits-all.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode explores breakthrough findings in extreme longevity biomarkers, metabolic aging mechanisms, and the emerging recognition that aging biology differs by sex.</p><ul><li>SWISS100 centenarian blood biomarkers enable prospective longevity risk stratification in younger cohorts</li><li>Jamerson et al.: NAD+/NADH redox imbalance in aging brain shows region-specific patterns; dietary restriction partially restores only certain areas (prefrontal cortex, hippocampus)</li><li>Tennant et al.: Transcriptomic aging clock reveals males and females age at different rates across tissues—implication for sex-stratified clinical trials</li><li>Ciotta et al.: BOD1L-SETD1A histone complex sustains DNA repair despite reduced H3K4 methylation—potential target for genoprotective therapies</li><li>Klothea Phase 1b trial: First human safety study of recombinant klotho therapy; PK/PD data expected Q3 2026</li><li>FDA accelerates gene therapy approval pathway, enabling faster translation of senescence-targeting therapies</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science, healthspan research, and the mechanisms that extend your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-24.mp3" length="14311724" type="audio/mpeg"/>
+      <ns1:summary>The SWISS100 cohort has identified measurable blood biomarker signatures in centenarians that could enable predictive screening in younger populations—shifting longevity science from retrospective case studies to prospective risk stratification. New research reveals that NAD+ redox dysregulation in aging occurs in tissue-specific patterns, particularly in the brain, and that males and females age at different rates at the transcriptomic level, suggesting future interventions must be sex-stratified rather than one-size-fits-all.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode explores breakthrough findings in extreme longevity biomarkers, metabolic aging mechanisms, and the emerging recognition that aging biology differs by sex.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;SWISS100 centenarian blood biomarkers enable prospective longevity risk stratification in younger cohorts&lt;/li&gt;&lt;li&gt;Jamerson et al.: NAD+/NADH redox imbalance in aging brain shows region-specific patterns; dietary restriction partially restores only certain areas (prefrontal cortex, hippocampus)&lt;/li&gt;&lt;li&gt;Tennant et al.: Transcriptomic aging clock reveals males and females age at different rates across tissues—implication for sex-stratified clinical trials&lt;/li&gt;&lt;li&gt;Ciotta et al.: BOD1L-SETD1A histone complex sustains DNA repair despite reduced H3K4 methylation—potential target for genoprotective therapies&lt;/li&gt;&lt;li&gt;Klothea Phase 1b trial: First human safety study of recombinant klotho therapy; PK/PD data expected Q3 2026&lt;/li&gt;&lt;li&gt;FDA accelerates gene therapy approval pathway, enabling faster translation of senescence-targeting therapies&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science, healthspan research, and the mechanisms that extend your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-24.mp3" length="14311724" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-27</guid>
       <pubDate>Wed, 25 Feb 2026 03:28:08 +0000</pubDate>
-      <itunes:duration>00:11:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>6</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, centenarians, biomarkers, NAD+, redox metabolism, aging clock, sex differences, epigenetics, DNA repair, klotho, gerontology, aging biology</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:11:55</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>6</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, centenarians, biomarkers, NAD+, redox metabolism, aging clock, sex differences, epigenetics, DNA repair, klotho, gerontology, aging biology</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — February 24, 2026</title>
-      <description># HEALTH &amp; LONGEVITY — February 24, 2026
-
-Hey, welcome. Today we're looking at some really important developments in how we understand extreme aging and the biological mechanisms that might let us intervene earlier than we've ever been able to. There's some genuine signal here—both in terms of what ...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-24.mp3" length="14311724" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-27</guid>
-      <pubDate>Wed, 25 Feb 2026 03:28:08 +0000</pubDate>
-      <itunes:duration>00:11:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Mitochondrial Contact Sites: The Unified Aging Mechanism</title>
-      <itunes:title>Mitochondrial Contact Sites: The Unified Aging Mechanism</itunes:title>
-      <itunes:subtitle>Cellular infrastructure breakdown links muscle loss, blindness, and neurodegeneration</itunes:subtitle>
+      <ns1:title>Mitochondrial Contact Sites: The Unified Aging Mechanism</ns1:title>
+      <ns1:subtitle>Cellular infrastructure breakdown links muscle loss, blindness, and neurodegeneration</ns1:subtitle>
       <description>Researchers have identified structural deterioration of mitochondrial-endoplasmic reticulum contact sites (MAMs) as a root cause of multiple age-related diseases—from sarcopenia to macular degeneration. Rather than treating muscle loss, vision decline, and cognitive aging as separate problems, this convergent evidence suggests a single therapeutic lever: stabilizing these organellar interfaces. Plus: caloric restriction response is 40-60% heritable, reshaping how personalized longevity protocols should work.</description>
-      <itunes:summary>Researchers have identified structural deterioration of mitochondrial-endoplasmic reticulum contact sites (MAMs) as a root cause of multiple age-related diseases—from sarcopenia to macular degeneration. Rather than treating muscle loss, vision decline, and cognitive aging as separate problems, this convergent evidence suggests a single therapeutic lever: stabilizing these organellar interfaces. Plus: caloric restriction response is 40-60% heritable, reshaping how personalized longevity protocols should work.</itunes:summary>
-      <content:encoded><![CDATA[<p>Today we explore the emerging unification of aging mechanisms at the cellular level, with implications for sarcopenia, retinal disease, and precision interventions.</p><ul><li><strong>Mitochondrial-ER contact sites (MAMs) in sarcopenia:</strong> Unten et al. show structural MERC dysfunction—not just protein synthesis failure—drives age-related muscle loss in human cells</li><li><strong>DAPL1 and age-related macular degeneration:</strong> Li et al. (PNAS) identify calcium mishandling at organellar interfaces as a primary AMD driver, separate from oxidative stress narratives</li><li><strong>Convergent pattern:</strong> Calcium and lipid dysregulation at MAMs appears in muscle, retina, and neurons—suggesting one therapeutic target could address multiple age-related phenotypes</li><li><strong>Genetic heritability of caloric restriction:</strong> Luciano et al. quantify 40-60% heritable variation in CR response, supporting shift toward genotype-guided fasting protocols by 2026-27</li><li><strong>First MERC-targeted drug candidates expected in IND stage by 2027</strong></li><li><strong>Japan authorizes iPSC therapy for Parkinson's and heart failure:</strong> Regulatory inflection point opening preventive aging market within 18 months</li></ul><hr/><p>Subscribe for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-20.mp3" length="15597644" type="audio/mpeg"/>
+      <ns1:summary>Researchers have identified structural deterioration of mitochondrial-endoplasmic reticulum contact sites (MAMs) as a root cause of multiple age-related diseases—from sarcopenia to macular degeneration. Rather than treating muscle loss, vision decline, and cognitive aging as separate problems, this convergent evidence suggests a single therapeutic lever: stabilizing these organellar interfaces. Plus: caloric restriction response is 40-60% heritable, reshaping how personalized longevity protocols should work.</ns1:summary>
+      <content:encoded>&lt;p&gt;Today we explore the emerging unification of aging mechanisms at the cellular level, with implications for sarcopenia, retinal disease, and precision interventions.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Mitochondrial-ER contact sites (MAMs) in sarcopenia:&lt;/strong&gt; Unten et al. show structural MERC dysfunction—not just protein synthesis failure—drives age-related muscle loss in human cells&lt;/li&gt;&lt;li&gt;&lt;strong&gt;DAPL1 and age-related macular degeneration:&lt;/strong&gt; Li et al. (PNAS) identify calcium mishandling at organellar interfaces as a primary AMD driver, separate from oxidative stress narratives&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Convergent pattern:&lt;/strong&gt; Calcium and lipid dysregulation at MAMs appears in muscle, retina, and neurons—suggesting one therapeutic target could address multiple age-related phenotypes&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Genetic heritability of caloric restriction:&lt;/strong&gt; Luciano et al. quantify 40-60% heritable variation in CR response, supporting shift toward genotype-guided fasting protocols by 2026-27&lt;/li&gt;&lt;li&gt;&lt;strong&gt;First MERC-targeted drug candidates expected in IND stage by 2027&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Japan authorizes iPSC therapy for Parkinson's and heart failure:&lt;/strong&gt; Regulatory inflection point opening preventive aging market within 18 months&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on cutting-edge longevity science, healthspan optimization, and the research that extends your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-20.mp3" length="15597644" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-19</guid>
       <pubDate>Sat, 21 Feb 2026 03:20:06 +0000</pubDate>
-      <itunes:duration>00:12:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>5</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>aging, mitochondria, sarcopenia, macular degeneration, calcium signaling, MERCS, epigenetics, caloric restriction, longevity, healthspan, cellular aging, iPSC therapy</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:12:59</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>5</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>aging, mitochondria, sarcopenia, macular degeneration, calcium signaling, MERCS, epigenetics, caloric restriction, longevity, healthspan, cellular aging, iPSC therapy</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — February 20, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST — FEBRUARY 20, 2026
-
-Hey there. Welcome back. Today we're looking at some genuinely fascinating developments in how we understand aging at the cellular level—and what that might mean for actual interventions that could slow or even reverse some of the hallmarks of gettin...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-20.mp3" length="15597644" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-19</guid>
-      <pubDate>Sat, 21 Feb 2026 03:20:06 +0000</pubDate>
-      <itunes:duration>00:12:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>NAD+ Redox Balance, Healthspan Over Lifespan, GLP-1 Neuroprotection</title>
-      <itunes:title>NAD+ Redox Balance, Healthspan Over Lifespan, GLP-1 Neuroprotection</itunes:title>
-      <itunes:subtitle>Why your NAD+ supplement may be biochemically incomplete</itunes:subtitle>
+      <ns1:title>NAD+ Redox Balance, Healthspan Over Lifespan, GLP-1 Neuroprotection</ns1:title>
+      <ns1:subtitle>Why your NAD+ supplement may be biochemically incomplete</ns1:subtitle>
       <description>New research shows NAD+ supplementation strategies like NMN and NR may miss the critical mechanism: the NAD+/NADH redox ratio, not just absolute NAD+ levels, drives metabolic outcomes in hepatocytes—suggesting current protocols need electron transport chain modulators to work properly. We also explore why lifespan and healthspan are mechanistically distinct (interventions that extend lifespan don't always improve functional health), emerging evidence that GLP-1 agonists may protect against neurodegeneration, and the mitochondrial-neurogenesis b</description>
-      <itunes:summary>New research shows NAD+ supplementation strategies like NMN and NR may miss the critical mechanism: the NAD+/NADH redox ratio, not just absolute NAD+ levels, drives metabolic outcomes in hepatocytes—suggesting current protocols need electron transport chain modulators to work properly. We also explore why lifespan and healthspan are mechanistically distinct (interventions that extend lifespan don't always improve functional health), emerging evidence that GLP-1 agonists may protect against neurodegeneration, and the mitochondrial-neurogenesis b</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode breaks down why optimizing for NAD+ quantity alone is incomplete science—and what to add to your protocol instead.</p><ul><li><strong>NAD+ Redox State & Hepatocyte Metabolism:</strong> Vinten et al. (FASEB J.) show reduced vs. oxidized NAD+ activate different pathways; current NMN/NR strategies may need ubiquinol or carnitine derivatives to shift redox balance</li><li><strong>Lifespan ≠ Healthspan:</strong> Kashtanova et al. (Aging and Disease) meta-analysis finds caloric restriction and rapamycin extend lifespan but don't guarantee functional health; future trials must measure disability-adjusted life years independently</li><li><strong>Caveolin-1 & Neurogenesis:</strong> Stephen et al. (bioRxiv) link lipid raft organization to mitochondrial dynamics in hippocampal progenitors; Cav-1 modulators emerging as potential cognitive aging targets</li><li><strong>GLP-1 Agonists for Neuroprotection:</strong> Athauda et al. (J. Clin. Invest.) review evidence that semaglutide, tirzepatide reduce neuroinflammation and α-synuclein aggregation; Phase 2b human trials expected mid-2026</li><li><strong>Inhalable Gene Therapy Fast-Tracked:</strong> FDA expedites review of lung-delivered transgenes; pulmonary delivery may bypass systemic immune barriers for senescent cell clearance and mitochondrial repair interventions</li><li><strong>Protein Intake & Disability Risk:</strong> Ishikawa-Takata et al. (J. Health Pop. Nutr.) find inverted-U relationship; excess amino acids may accelerate frailty in some contexts, contradicting "more protein" dogma</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge aging science, healthspan optimization, and the research extending your best years.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-17.mp3" length="19416044" type="audio/mpeg"/>
+      <ns1:summary>New research shows NAD+ supplementation strategies like NMN and NR may miss the critical mechanism: the NAD+/NADH redox ratio, not just absolute NAD+ levels, drives metabolic outcomes in hepatocytes—suggesting current protocols need electron transport chain modulators to work properly. We also explore why lifespan and healthspan are mechanistically distinct (interventions that extend lifespan don't always improve functional health), emerging evidence that GLP-1 agonists may protect against neurodegeneration, and the mitochondrial-neurogenesis b</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode breaks down why optimizing for NAD+ quantity alone is incomplete science—and what to add to your protocol instead.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;NAD+ Redox State &amp; Hepatocyte Metabolism:&lt;/strong&gt; Vinten et al. (FASEB J.) show reduced vs. oxidized NAD+ activate different pathways; current NMN/NR strategies may need ubiquinol or carnitine derivatives to shift redox balance&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Lifespan ≠ Healthspan:&lt;/strong&gt; Kashtanova et al. (Aging and Disease) meta-analysis finds caloric restriction and rapamycin extend lifespan but don't guarantee functional health; future trials must measure disability-adjusted life years independently&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Caveolin-1 &amp; Neurogenesis:&lt;/strong&gt; Stephen et al. (bioRxiv) link lipid raft organization to mitochondrial dynamics in hippocampal progenitors; Cav-1 modulators emerging as potential cognitive aging targets&lt;/li&gt;&lt;li&gt;&lt;strong&gt;GLP-1 Agonists for Neuroprotection:&lt;/strong&gt; Athauda et al. (J. Clin. Invest.) review evidence that semaglutide, tirzepatide reduce neuroinflammation and α-synuclein aggregation; Phase 2b human trials expected mid-2026&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Inhalable Gene Therapy Fast-Tracked:&lt;/strong&gt; FDA expedites review of lung-delivered transgenes; pulmonary delivery may bypass systemic immune barriers for senescent cell clearance and mitochondrial repair interventions&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Protein Intake &amp; Disability Risk:&lt;/strong&gt; Ishikawa-Takata et al. (J. Health Pop. Nutr.) find inverted-U relationship; excess amino acids may accelerate frailty in some contexts, contradicting "more protein" dogma&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe to Longevity Edge for daily intelligence on cutting-edge aging science, healthspan optimization, and the research extending your best years.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-17.mp3" length="19416044" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-14</guid>
       <pubDate>Wed, 18 Feb 2026 03:18:48 +0000</pubDate>
-      <itunes:duration>00:16:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>NAD+, healthspan, lifespan, GLP-1 agonists, mitochondrial dynamics, Caveolin-1, redox balance, neurogenesis, neuroprotection, aging biomarkers, semaglutide, tirzepatide, longevity science</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:16:10</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>4</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>NAD+, healthspan, lifespan, GLP-1 agonists, mitochondrial dynamics, Caveolin-1, redox balance, neurogenesis, neuroprotection, aging biomarkers, semaglutide, tirzepatide, longevity science</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — February 17, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT
-## February 17, 2026
-
----
-
-Hey, welcome back. Today we've got some really interesting signals coming through on the aging research front, and there's one thing in particular that I think is going to make a lot of people reconsider how they're approaching NAD+ supp...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-17.mp3" length="19416044" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-14</guid>
-      <pubDate>Wed, 18 Feb 2026 03:18:48 +0000</pubDate>
-      <itunes:duration>00:16:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>ORANGE: Machine Learning Cracks the Aging Code</title>
-      <itunes:title>ORANGE: Machine Learning Cracks the Aging Code</itunes:title>
-      <itunes:subtitle>Transcriptomics + AI predicts tissue aging without waiting years</itunes:subtitle>
+      <ns1:title>ORANGE: Machine Learning Cracks the Aging Code</ns1:title>
+      <ns1:subtitle>Transcriptomics + AI predicts tissue aging without waiting years</ns1:subtitle>
       <description>A new machine learning model called ORANGE can predict mortality risk and tissue-specific aging rates from gene expression data alone—no longitudinal cohorts needed. We also break down why your hippocampal memory circuits depend on recurrent inhibition, not just synaptic plasticity; why emotional aging might actually improve with age; and how mitochondrial health in immune cells is reshaping inflammaging treatment strategy.</description>
-      <itunes:summary>A new machine learning model called ORANGE can predict mortality risk and tissue-specific aging rates from gene expression data alone—no longitudinal cohorts needed. We also break down why your hippocampal memory circuits depend on recurrent inhibition, not just synaptic plasticity; why emotional aging might actually improve with age; and how mitochondrial health in immune cells is reshaping inflammaging treatment strategy.</itunes:summary>
-      <content:encoded><![CDATA[<p>This episode covers the convergence of mitochondrial biology, immune aging, and cognitive decline—and why tissue-specific aging prediction is about to accelerate drug screening and personalized longevity medicine.</p><ul><li><strong>ORANGE transcriptomics model:</strong> Machine learning extracts tissue aging from cross-sectional gene expression, enabling mortality prediction without longitudinal data</li><li><strong>Hippocampal CA3 recurrent circuits:</strong> Memory stability depends on local recurrent inhibition, not feedforward architecture—reshapes cognitive aging intervention targets</li><li><strong>Treg mitochondrial integrity & inflammaging:</strong> TFAM-mediated mitochondrial quality control in regulatory T cells restrains systemic immune dysregulation</li><li><strong>Emotional resilience in late adulthood:</strong> Brain's emotion regulation networks show increased integration in 55+ cohorts, decoupling emotional from cognitive aging</li><li><strong>Urolithin A & Magtein:</strong> Practical signals on mitochondrial-targeting polyphenol and magnesium formulations gaining clinical validation and real-world adoption</li><li><strong>Patient-derived organoid screening:</strong> iPSC organoid platforms now enabling personalized drug testing for aging-related diseases, expanding beyond cystic fibrosis</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science and research-backed healthspan optimization strategies.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-13.mp3" length="20657804" type="audio/mpeg"/>
+      <ns1:summary>A new machine learning model called ORANGE can predict mortality risk and tissue-specific aging rates from gene expression data alone—no longitudinal cohorts needed. We also break down why your hippocampal memory circuits depend on recurrent inhibition, not just synaptic plasticity; why emotional aging might actually improve with age; and how mitochondrial health in immune cells is reshaping inflammaging treatment strategy.</ns1:summary>
+      <content:encoded>&lt;p&gt;This episode covers the convergence of mitochondrial biology, immune aging, and cognitive decline—and why tissue-specific aging prediction is about to accelerate drug screening and personalized longevity medicine.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;ORANGE transcriptomics model:&lt;/strong&gt; Machine learning extracts tissue aging from cross-sectional gene expression, enabling mortality prediction without longitudinal data&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hippocampal CA3 recurrent circuits:&lt;/strong&gt; Memory stability depends on local recurrent inhibition, not feedforward architecture—reshapes cognitive aging intervention targets&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Treg mitochondrial integrity &amp; inflammaging:&lt;/strong&gt; TFAM-mediated mitochondrial quality control in regulatory T cells restrains systemic immune dysregulation&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Emotional resilience in late adulthood:&lt;/strong&gt; Brain's emotion regulation networks show increased integration in 55+ cohorts, decoupling emotional from cognitive aging&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Urolithin A &amp; Magtein:&lt;/strong&gt; Practical signals on mitochondrial-targeting polyphenol and magnesium formulations gaining clinical validation and real-world adoption&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Patient-derived organoid screening:&lt;/strong&gt; iPSC organoid platforms now enabling personalized drug testing for aging-related diseases, expanding beyond cystic fibrosis&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe to Longevity Edge for daily intelligence on cutting-edge longevity science and research-backed healthspan optimization strategies.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-13.mp3" length="20657804" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-10</guid>
       <pubDate>Sat, 14 Feb 2026 03:29:29 +0000</pubDate>
-      <itunes:duration>00:17:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, aging, machine learning, transcriptomics, ORANGE model, hippocampus, memory, inflammaging, mitochondrial biology, regulatory T cells, Treg, neurodegeneration, cognitive aging, emotional resilience, urolithin A, magtein, organoids, personalized</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:17:12</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>3</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, aging, machine learning, transcriptomics, ORANGE model, hippocampus, memory, inflammaging, mitochondrial biology, regulatory T cells, Treg, neurodegeneration, cognitive aging, emotional resilience, urolithin A, magtein, organoids, personalized</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — February 13, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT
-## February 13, 2026
-
----
-
-Hey, welcome back. Quick heads-up on what we're walking through today: we've got some really important methodological breakthroughs that are going to accelerate how we measure aging, some emerging mechanistic clarity on why aging happens...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-13.mp3" length="20657804" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-10</guid>
-      <pubDate>Sat, 14 Feb 2026 03:29:29 +0000</pubDate>
-      <itunes:duration>00:17:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Melatonin's Inflammasome Switch, Mitochondrial Dynamics Converge, CHIP Becomes a Clinical Risk Factor</title>
-      <itunes:title>Melatonin's Inflammasome Switch, Mitochondrial Dynamics Converge, CHIP Becomes a Clinical Risk Factor</itunes:title>
-      <itunes:subtitle>How cellular aging mechanisms are consolidating into actionable intervention targets.</itunes:subtitle>
+      <ns1:title>Melatonin's Inflammasome Switch, Mitochondrial Dynamics Converge, CHIP Becomes a Clinical Risk Factor</ns1:title>
+      <ns1:subtitle>How cellular aging mechanisms are consolidating into actionable intervention targets.</ns1:subtitle>
       <description>Melatonin's newly validated NLRP3 inflammasome suppression reveals it functions as a mitochondrial aging brake beyond sleep regulation—with potential applications in stroke and cardiac event prevention. Meanwhile, DRP1-driven mitochondrial fission emerges as a central mechanism across reproductive aging, metabolic disease, and immune dysfunction, while the American Heart Association formally recognizes clonal hematopoiesis (CHIP) as an independent cardiovascular risk factor, moving somatic mutation screening toward preventive medicine standards</description>
-      <itunes:summary>Melatonin's newly validated NLRP3 inflammasome suppression reveals it functions as a mitochondrial aging brake beyond sleep regulation—with potential applications in stroke and cardiac event prevention. Meanwhile, DRP1-driven mitochondrial fission emerges as a central mechanism across reproductive aging, metabolic disease, and immune dysfunction, while the American Heart Association formally recognizes clonal hematopoiesis (CHIP) as an independent cardiovascular risk factor, moving somatic mutation screening toward preventive medicine standards</itunes:summary>
-      <content:encoded><![CDATA[<p>Today's episode maps the convergence of mitochondrial dynamics, immune aging, and metabolic dysfunction—and where clinical interventions are moving in 2026-2027.</p><ul><li><strong>Melatonin's NLRP3 inflammasome suppression:</strong> Beyond sleep, melatonin protects against ischemia-reperfusion injury by scavenging oxidative stress and suppressing innate immune activation—expanding its role as a broad-spectrum aging brake.</li><li><strong>DRP1 in reproductive aging:</strong> Dynamin-related protein 1 dysregulation drives mitochondrial fission imbalance in aging oocytes and spermatogonia, exemplifying mitochondrial dynamics as a central aging axis.</li><li><strong>CHIP as cardiovascular risk:</strong> American Heart Association scientific statement formalizes clonal hematopoiesis of indeterminate potential as an independent risk factor independent of traditional markers, validating somatic mutations as aging clocks.</li><li><strong>Amino acid metabolism in type 2 diabetes:</strong> Stable isotope tracer study reveals arginine, citrulline, and glutamine dysmetabolism in T2D, linking nitric oxide and polyamine pathway impairment to accelerated aging independent of glycemic control.</li><li><strong>Thalamic volume as aging biomarker:</strong> Multi-site MRI study identifies thalamic nuclei shrinkage as a trans-diagnostic neurological aging marker, suggesting volumetric thalamic MRI could become a rapid non-invasive aging screen.</li><li><strong>GLP-1 supply chain consolidation:</strong> FDA regulatory pressure on compounded Wegovy equivalents (Hims halt) will tighten access and increase costs for metabolic longevity optimization in the near term.</li></ul><hr/><p>Subscribe for daily intelligence on Longevity Edge—cutting-edge research, clinical signals, and actionable insights on healthspan and longevity science.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-10.mp3" length="20124044" type="audio/mpeg"/>
+      <ns1:summary>Melatonin's newly validated NLRP3 inflammasome suppression reveals it functions as a mitochondrial aging brake beyond sleep regulation—with potential applications in stroke and cardiac event prevention. Meanwhile, DRP1-driven mitochondrial fission emerges as a central mechanism across reproductive aging, metabolic disease, and immune dysfunction, while the American Heart Association formally recognizes clonal hematopoiesis (CHIP) as an independent cardiovascular risk factor, moving somatic mutation screening toward preventive medicine standards</ns1:summary>
+      <content:encoded>&lt;p&gt;Today's episode maps the convergence of mitochondrial dynamics, immune aging, and metabolic dysfunction—and where clinical interventions are moving in 2026-2027.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Melatonin's NLRP3 inflammasome suppression:&lt;/strong&gt; Beyond sleep, melatonin protects against ischemia-reperfusion injury by scavenging oxidative stress and suppressing innate immune activation—expanding its role as a broad-spectrum aging brake.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;DRP1 in reproductive aging:&lt;/strong&gt; Dynamin-related protein 1 dysregulation drives mitochondrial fission imbalance in aging oocytes and spermatogonia, exemplifying mitochondrial dynamics as a central aging axis.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;CHIP as cardiovascular risk:&lt;/strong&gt; American Heart Association scientific statement formalizes clonal hematopoiesis of indeterminate potential as an independent risk factor independent of traditional markers, validating somatic mutations as aging clocks.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Amino acid metabolism in type 2 diabetes:&lt;/strong&gt; Stable isotope tracer study reveals arginine, citrulline, and glutamine dysmetabolism in T2D, linking nitric oxide and polyamine pathway impairment to accelerated aging independent of glycemic control.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Thalamic volume as aging biomarker:&lt;/strong&gt; Multi-site MRI study identifies thalamic nuclei shrinkage as a trans-diagnostic neurological aging marker, suggesting volumetric thalamic MRI could become a rapid non-invasive aging screen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;GLP-1 supply chain consolidation:&lt;/strong&gt; FDA regulatory pressure on compounded Wegovy equivalents (Hims halt) will tighten access and increase costs for metabolic longevity optimization in the near term.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe for daily intelligence on Longevity Edge—cutting-edge research, clinical signals, and actionable insights on healthspan and longevity science.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-10.mp3" length="20124044" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-6</guid>
       <pubDate>Wed, 11 Feb 2026 03:17:06 +0000</pubDate>
-      <itunes:duration>00:16:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, melatonin, inflammasome, mitochondrial dynamics, DRP1, CHIP, clonal hematopoiesis, cardiovascular aging, metabolic disease, reproductive aging, type 2 diabetes, thalamic volume, GLP-1, ischemia-reperfusion injury</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:16:46</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>2</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, melatonin, inflammasome, mitochondrial dynamics, DRP1, CHIP, clonal hematopoiesis, cardiovascular aging, metabolic disease, reproductive aging, type 2 diabetes, thalamic volume, GLP-1, ischemia-reperfusion injury</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — February 10, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT — February 10, 2026
-
----
-
-Hey, welcome back. It's February 10th, and we've got some really interesting signals coming through today—things that are moving the dial on how we understand aging, and more importantly, what we might actually do about it.
-
-Let me give y...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-10.mp3" length="20124044" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-6</guid>
-      <pubDate>Wed, 11 Feb 2026 03:17:06 +0000</pubDate>
-      <itunes:duration>00:16:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
     </item>
     <item>
       <title>Genes Now Drive 50% of Lifespan—and Everything Changes</title>
-      <itunes:title>Genes Now Drive 50% of Lifespan—and Everything Changes</itunes:title>
-      <itunes:subtitle>Heritability doubled. The mitochondrial-immune axis emerges as aging's master lever.</itunes:subtitle>
+      <ns1:title>Genes Now Drive 50% of Lifespan—and Everything Changes</ns1:title>
+      <ns1:subtitle>Heritability doubled. The mitochondrial-immune axis emerges as aging's master lever.</ns1:subtitle>
       <description>Genetic contribution to human lifespan has doubled from 20–25% to ~50%, fundamentally reshaping longevity science away from lifestyle-only approaches toward polygenic screening and stratified interventions. Three converging research threads reveal the mitochondrial-immune axis—TFAM-dependent Treg stability, mTOR-mediated metabolic rescue, and cholesterol-independent atherosclerotic pathology—as the dominant mechanism driving inflammaging and age-related disease.</description>
-      <itunes:summary>Genetic contribution to human lifespan has doubled from 20–25% to ~50%, fundamentally reshaping longevity science away from lifestyle-only approaches toward polygenic screening and stratified interventions. Three converging research threads reveal the mitochondrial-immune axis—TFAM-dependent Treg stability, mTOR-mediated metabolic rescue, and cholesterol-independent atherosclerotic pathology—as the dominant mechanism driving inflammaging and age-related disease.</itunes:summary>
-      <content:encoded><![CDATA[<p>This week's brief examines the seismic shift in longevity architecture: genetic heritability has doubled, forcing a recalibration of what lifestyle optimization can actually achieve.</p><ul><li><strong>Heritability doubles to ~50%:</strong> Environmental compression in developed nations makes inherited variation the dominant remaining variable; expect polygenic screening and family-stratified prevention protocols to replace lifestyle-only approaches.</li><li><strong>Rapamycin reverses hepatic metabolic stress in aging:</strong> Havas et al., <em>Aging Cell</em>, Feb 2026—mTOR inhibition shows larger efficacy in older animals, validating mechanism and signaling human trials for metabolic syndrome in 65+ populations.</li><li><strong>TFAM controls Treg stability in aging:</strong> Guo et al., bioRxiv—mitochondrial gene expression transcription factor TFAM determines regulatory T cell function, linking bioenergetics to inflammaging suppressors.</li><li><strong>Cholesterol lowering alone fails to resolve atherosclerotic plaque:</strong> Gannon et al., <em>FASEB Journal</em>, Feb 2026—statin monotherapy does not resolve necrotic core pathology, challenging LDL-centric model and suggesting combination or plaque-directed therapies.</li><li><strong>Circadian timing amplifies exercise adaptations:</strong> Morning endurance training outperforms afternoon training; chronotherapy may rival pharmacological interventions in effect size for longevity protocols.</li><li><strong>Early hippocampal spatial coding deficits precede cognitive decline:</strong> Li et al., bioRxiv—place cell dysfunction in CA1 before behavioral memory loss opens earlier intervention window for Alzheimer's prevention.</li></ul><hr/><p>Subscribe to Longevity Edge for daily intelligence on cutting-edge healthspan science, mechanisms of aging, and research-backed longevity strategies.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-07.mp3" length="17486444" type="audio/mpeg"/>
+      <ns1:summary>Genetic contribution to human lifespan has doubled from 20–25% to ~50%, fundamentally reshaping longevity science away from lifestyle-only approaches toward polygenic screening and stratified interventions. Three converging research threads reveal the mitochondrial-immune axis—TFAM-dependent Treg stability, mTOR-mediated metabolic rescue, and cholesterol-independent atherosclerotic pathology—as the dominant mechanism driving inflammaging and age-related disease.</ns1:summary>
+      <content:encoded>&lt;p&gt;This week's brief examines the seismic shift in longevity architecture: genetic heritability has doubled, forcing a recalibration of what lifestyle optimization can actually achieve.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Heritability doubles to ~50%:&lt;/strong&gt; Environmental compression in developed nations makes inherited variation the dominant remaining variable; expect polygenic screening and family-stratified prevention protocols to replace lifestyle-only approaches.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Rapamycin reverses hepatic metabolic stress in aging:&lt;/strong&gt; Havas et al., &lt;em&gt;Aging Cell&lt;/em&gt;, Feb 2026—mTOR inhibition shows larger efficacy in older animals, validating mechanism and signaling human trials for metabolic syndrome in 65+ populations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;TFAM controls Treg stability in aging:&lt;/strong&gt; Guo et al., bioRxiv—mitochondrial gene expression transcription factor TFAM determines regulatory T cell function, linking bioenergetics to inflammaging suppressors.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Cholesterol lowering alone fails to resolve atherosclerotic plaque:&lt;/strong&gt; Gannon et al., &lt;em&gt;FASEB Journal&lt;/em&gt;, Feb 2026—statin monotherapy does not resolve necrotic core pathology, challenging LDL-centric model and suggesting combination or plaque-directed therapies.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Circadian timing amplifies exercise adaptations:&lt;/strong&gt; Morning endurance training outperforms afternoon training; chronotherapy may rival pharmacological interventions in effect size for longevity protocols.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Early hippocampal spatial coding deficits precede cognitive decline:&lt;/strong&gt; Li et al., bioRxiv—place cell dysfunction in CA1 before behavioral memory loss opens earlier intervention window for Alzheimer's prevention.&lt;/li&gt;&lt;/ul&gt;&lt;hr/&gt;&lt;p&gt;Subscribe to Longevity Edge for daily intelligence on cutting-edge healthspan science, mechanisms of aging, and research-backed longevity strategies.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_longevity_edge_2026-02-07.mp3" length="17486444" type="audio/mpeg" />
       <guid isPermaLink="false">brief-podcast-3</guid>
       <pubDate>Mon, 09 Feb 2026 15:46:59 +0000</pubDate>
-      <itunes:duration>00:14:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, heritability, genetics, aging, mitochondria, inflammaging, rapamycin, statins, cardiovascular health, regulatory T cells, TFAM, mTOR, biomarkers, preventive medicine</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
+      <ns1:duration>00:14:34</ns1:duration>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>1</ns1:episode>
+      <ns1:season>1</ns1:season>
+      <ns1:keywords>longevity, heritability, genetics, aging, mitochondria, inflammaging, rapamycin, statins, cardiovascular health, regulatory T cells, TFAM, mTOR, biomarkers, preventive medicine</ns1:keywords>
+      <ns1:author>Future Scanner</ns1:author>
       <author>mediaverticals@proton.me</author>
       <dc:creator>Future Scanner</dc:creator>
     </item>
-    <item>
-      <title>Health &amp; Longevity Daily Brief — February 9, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST — February 7, 2026
-
----
-
-So here's what jumped out to me this week: we might need to completely rethink how we talk about living longer. And it's not because we've discovered some new miracle drug or biohack. It's actually the opposite. It's because the old way of thinki...</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-07.mp3" length="17486444" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-3</guid>
-      <pubDate>Mon, 09 Feb 2026 15:46:59 +0000</pubDate>
-      <itunes:duration>00:14:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Media Verticals</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Media Verticals</dc:creator>
-    </item>
-  </channel>
+    </channel>
 </rss>
