@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:56:07 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Real Winner in AI Isn't What You Think It Is</title>
+      <description>Good morning. Today's briefing is really interesting because it tells us something important about how the AI race is actually being won right now—and it's not the story most people are watching.
+
+Let's start with the headline: OpenAI released GPT-5.5 today. Now, if you've been following this space ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-23.mp3" length="10938284" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-115</guid>
+      <pubDate>Fri, 24 Apr 2026 01:56:07 +0000</pubDate>
+      <itunes:duration>00:09:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — April 22, 2026</title>
       <description>Hey, welcome back. Today we're looking at a really important shift in how the frontier labs are competing, and it all comes down to a single word: agents. Not models. Not reasoning. Agents. And that distinction is going to reshape what actually matters to builders over the next six months.
