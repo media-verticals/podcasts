@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 03:27:56 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI's API Layer Is Quietly Collapsing Now</title>
+      <description>Welcome to the show. Today, we're looking at what might be the most consequential shift in how AI actually gets built and deployed—and it's happening faster than the venture playbooks can even document.
+
+Let's start with the headline: the API layer is collapsing, and most people still don't realize ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-04-23.mp3" length="13100684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-118</guid>
+      <pubDate>Fri, 24 Apr 2026 03:27:56 +0000</pubDate>
+      <itunes:duration>00:10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — April 22, 2026</title>
       <description>Hey, thanks for tuning in. We've got a lot happening in the creator space today, and it's worth paying attention to because the conversation is shifting in a pretty meaningful direction. Let's walk through what's moving the needle.
