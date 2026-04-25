@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 03:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 03:28:50 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,19 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Shifts From Capability to Real-World Problem Solving</title>
+      <description>Hey everyone, welcome back.
+
+There's a real inflection happening right now in how AI is being used to actually build things, and I want to walk you through what we're seeing because it reshapes some fundamental assumptions about where this technology is headed.
+
+Let's start with the biggest signal. ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-04-24.mp3" length="14348684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-122</guid>
+      <pubDate>Sat, 25 Apr 2026 03:28:50 +0000</pubDate>
+      <itunes:duration>00:11:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How AI's API Layer Is Quietly Collapsing Now</title>
       <description>Welcome to the show. Today, we're looking at what might be the most consequential shift in how AI actually gets built and deployed—and it's happening faster than the venture playbooks can even document.
