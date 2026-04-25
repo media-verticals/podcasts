@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 02:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 02:15:07 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,19 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How Aging Rewires Your Immune System</title>
+      <description>Welcome back. We've got some really important shifts happening in how we understand aging itself, and I want to walk you through what I'm seeing today.
+
+Let's start with the top signal, because this one genuinely reframes how we should be thinking about the immune system in older people.
+
+For decade...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-04-24.mp3" length="14947244" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-120</guid>
+      <pubDate>Sat, 25 Apr 2026 02:15:07 +0000</pubDate>
+      <itunes:duration>00:12:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — April 21, 2026</title>
       <description>Good morning. We're looking at a fascinating moment in longevity research—the field is moving from isolated discoveries into genuine synthesis. That's what grabbed my attention today, and I want to walk you through what's happening because it changes how we should think about aging itself.
