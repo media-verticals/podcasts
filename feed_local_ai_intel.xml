@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 02:28:40 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Voice Agents Move From Hype to Commodity</title>
+      <description>Hey, welcome back. We're diving into what's happening in the AI services marketplace today—and there's a pretty clear story emerging about where agencies are winning and where they're running into friction.
+
+Let me start with the thing that's been top of mind for a lot of people I've been seeing in ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_local_ai_intel_2026-04-24.mp3" length="13470764" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-121</guid>
+      <pubDate>Sat, 25 Apr 2026 02:28:40 +0000</pubDate>
+      <itunes:duration>00:11:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Local AI Intel Daily Brief — April 22, 2026</title>
       <description>Hey, welcome back. We're taking a look at the AI services marketplace today—specifically what's happening with agencies right now as the platforms they depend on are shipping features that used to be their entire service offering. It's a critical moment, and there's a clear pattern emerging about ho...</description>
