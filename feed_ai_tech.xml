@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 02:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 02:07:37 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>DeepSeek's Shocking Speed: AI Competition Just Changed Forever</title>
+      <description>Welcome back. Today we're looking at a fundamental shift in how AI competition actually works, and it's moving faster than most people realize.
+
+Here's what caught my attention this morning: DeepSeek released V4, and within hours — literally the same day — it matched or exceeded OpenAI's GPT-5.5 on ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-25.mp3" length="20221484" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-123</guid>
+      <pubDate>Sun, 26 Apr 2026 02:07:37 +0000</pubDate>
+      <itunes:duration>00:16:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI Race Just Shifted From Capability to Something Else</title>
       <description>Welcome back. There's a really important inflection point happening in AI right now, and it's not what people think it is.
