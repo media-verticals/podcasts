@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 02:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 02:25:54 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Production Teams Are Rebuilding Agent Architecture</title>
+      <description>Good morning. Let's talk about agents—and specifically, how the people actually building them in production are fundamentally rethinking what agent architectures should look like.
+
+There's a really important shift happening right now, and it's not about model capability. It's about execution pattern...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-04-25.mp3" length="16492364" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-124</guid>
+      <pubDate>Sun, 26 Apr 2026 02:25:54 +0000</pubDate>
+      <itunes:duration>00:13:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agent Infrastructure Debate Fundamentally Shifts After Claude Code Success</title>
       <description>Hey everyone. Today we're looking at a moment where the agent infrastructure conversation is fundamentally shifting. And I think understanding that shift is actually pretty crucial if you're building in this space.
