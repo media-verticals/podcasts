@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 03:28:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 03:26:33 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude's Coding Dominance Ends as GPT-5.5 Takes Over</title>
+      <description>Welcome back. Let's walk through what's happening in the creator ecosystem right now, because there are some genuinely important shifts buried in today's signal mix.
+
+We're starting with something that feels subtle on the surface but actually represents the first real model hierarchy change we've se...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-04-25.mp3" length="11556044" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-125</guid>
+      <pubDate>Sun, 26 Apr 2026 03:26:33 +0000</pubDate>
+      <itunes:duration>00:09:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Shifts From Capability to Real-World Problem Solving</title>
       <description>Hey everyone, welcome back.
