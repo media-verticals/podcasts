@@ -1,185 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breakthrough Medicine</title>
     <link>https://media-verticals.github.io/podcasts/</link>
-    <description>The breakthroughs changing medicine right now. Clinical trials, new treatments, and what is coming next.</description>
+    <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <copyright>Future Scanner</copyright>
-    <generator>Control Room Podcast Pipeline</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 20:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 02:42:01 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Future Scanner</itunes:author>
-    <managingEditor>mediaverticals@proton.me (Future Scanner)</managingEditor>
-    <author>mediaverticals@proton.me (Future Scanner)</author>
-    <itunes:summary>The breakthroughs changing medicine right now. Clinical trials, new treatments, and what is coming next.</itunes:summary>
+    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Future Scanner</itunes:name>
-      <itunes:email>mediaverticals@proton.me</itunes:email>
+      <itunes:name>Knowledge Studio</itunes:name>
+      <itunes:email>placeholder@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://media-verticals.github.io/podcasts/covers/breakthrough_medicine_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/future_medicine_podcast_cover.png"/>
     <image>
-      <url>https://media-verticals.github.io/podcasts/covers/breakthrough_medicine_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/future_medicine_podcast_cover.png</url>
       <title>Breakthrough Medicine</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
     <item>
-      <title>CAR-NK Cracks the Manufacturing Bottleneck: Cell Therapy Goes Off-the-Shelf</title>
+      <title>Pancreatic Cancer Vaccine Offers New Hope for Patients</title>
+      <description>Welcome. We're covering some genuinely transformative developments in medicine today—the kind of signals that don't just represent incremental progress, but shifts in how we're fundamentally approaching disease. Let's start with what I think is the most important story.
+
+There's a pancreatic cancer ...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-23.mp3" length="17481164" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-117</guid>
+      <pubDate>Fri, 24 Apr 2026 02:42:01 +0000</pubDate>
+      <itunes:duration>00:14:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>future_medicine Daily Brief — April 20, 2026</title>
       <description>Hello, and welcome. Today we're watching what might be the most important inflection point in medicine since mRNA vaccines proved themselves in the real world. We're not just seeing advances in cancer treatment anymore—we're watching an entire economic model shift. Cell therapy is becoming a commodi...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_future_medicine_2026-04-20.mp3" length="14568524" type="audio/mpeg"/>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-20.mp3" length="14568524" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-105</guid>
       <pubDate>Tue, 21 Apr 2026 02:39:12 +0000</pubDate>
       <itunes:duration>00:12:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Gene-edited porcine livers in patients: The organ shortage is finally a biotechnology problem</title>
-      <itunes:title>Gene-edited porcine livers in patients: The organ shortage is finally a biotechnology problem</itunes:title>
-      <itunes:subtitle>Xenotransplant clinical trials, off-the-shelf CAR-T acceleration, and the mitochondrial lo</itunes:subtitle>
-      <description>Gene-edited porcine livers are being perfused in acute liver failure patients at Xijing Hospital—the first clinical validation that xenotransplant organs can bridge or replace human transplantation, compressing waitlist timelines from years to weeks. Parallel breakthroughs in off-the-shelf cell therapies (FT836, CTX131) and mitochondrial biology are reshaping treatment accessibility and longevity pathways.</description>
-      <itunes:summary>Gene-edited porcine livers are being perfused in acute liver failure patients at Xijing Hospital—the first clinical validation that xenotransplant organs can bridge or replace human transplantation, compressing waitlist timelines from years to weeks. Parallel breakthroughs in off-the-shelf cell therapies (FT836, CTX131) and mitochondrial biology are reshaping treatment accessibility and longevity pathways.</itunes:summary>
-      <content:encoded><![CDATA[<p>Medicine at an inflection point: 20-year-old concepts crossing from lab to clinic simultaneously.</p><ul><li>Gene-edited porcine liver xenotransplantation (Xijing Hospital): Active ex vivo perfusion trial; if successful, expanded access within 18–24 months</li><li>CTX131 (CRISPR Therapeutics) CAR-T for lymphomas: Phase I/II completed; regulatory submission likely 12–18 months out</li><li>FT836 (Fate Therapeutics) off-the-shelf NK cell therapy: Direct infusion, no ex vivo engineering; Phase I data expected Q4 2026</li><li>FMO-2 as longevity hub: Van Raamsdonk identifies mild mitochondrial dysfunction as lifespan trigger; FMO-2 activators in preclinical pipelines</li><li>Bowhead whale tumor suppressors: Paniagua et al. map CDKN and p53 variants translatable to human cancer prevention protocols</li><li>EV-D68 protease and acute flaccid myelitis: Zinn et al. open specific protease inhibition targets for post-viral neurological recovery</li></ul><hr/><p>Subscribe for daily intelligence on Breakthrough Medicine.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-15.mp3" length="15444045" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-161</guid>
-      <pubDate>Wed, 15 Apr 2026 20:42:45 +0000</pubDate>
-      <itunes:duration>00:12:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>7</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>organ transplantation, xenotransplant, gene editing, CAR-T therapy, cell therapy, mitochondria, longevity, CRISPR, clinical trials, cancer immunotherapy</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>mRNA stops being emergency tech, becomes platform for cancer</title>
-      <itunes:title>mRNA stops being emergency tech, becomes platform for cancer</itunes:title>
-      <itunes:subtitle>Personalized neoantigen vaccines enter human trials as manufacturing constraints ease.</itunes:subtitle>
-      <description>mRNA platforms have solved critical stability problems, moving beyond infectious disease into personalized cancer vaccines—with Phase I trials actively recruiting in Shanghai. Simultaneously, CRISPR is transitioning from cell engineering to direct tissue injection, achieving 50% tumor elimination in head-and-neck cancers with single injections. Thymus regeneration research is unlocking immune durability, creating a convergence that reshapes how gene therapies work.</description>
-      <itunes:summary>mRNA platforms have solved critical stability problems, moving beyond infectious disease into personalized cancer vaccines—with Phase I trials actively recruiting in Shanghai. Simultaneously, CRISPR is transitioning from cell engineering to direct tissue injection, achieving 50% tumor elimination in head-and-neck cancers with single injections. Thymus regeneration research is unlocking immune durability, creating a convergence that reshapes how gene therapies work.</itunes:summary>
-      <content:encoded><![CDATA[<p>The convergence of mRNA platform maturation, CRISPR tissue injection, and thymus regeneration signals a fundamental shift in how engineered medicine scales and lasts.</p><ul><li>mRNA stability breakthroughs (Teng et al., Advanced Science) enable durable intracellular translation; m⁶Am inhibitors solve vaccine storage durability within 18 months</li><li>Shanghai Jiao Tong Phase I trial (mRNA-0523-L001) recruits patients for personalized neoantigen cancer vaccines in endocrine tumors</li><li>CRISPR direct injection achieves 50% tumor elimination in head-and-neck cancers; prime editing advances toward mammalian systems without double-strand breaks</li><li>Thymus regeneration in adults unlocks CAR-T durability and immunotherapy longevity; clinical trials targeting FXR/TGR5 pathways begin late 2026</li><li>CTX131 (CRISPR Therapeutics) completes Phase 1/2 in lymphomas and AML; allogeneic platform removes manufacturing bottleneck for off-the-shelf therapies</li><li>AI-guided protein design and regulatory harmonization accelerate pediatric gene therapy timelines; compassionate access arms embed during Phase I</li></ul><hr/><p>Subscribe for daily intelligence on Breakthrough Medicine.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-09.mp3" length="13412685" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-144</guid>
-      <pubDate>Fri, 10 Apr 2026 02:33:58 +0000</pubDate>
-      <itunes:duration>00:11:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>6</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>mrna, crispr, personalized medicine, cancer vaccines, gene therapy, cell therapy, neoantigen, thymus regeneration, immunotherapy, allogeneic car-t</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>CAR-T goes point-of-care: manufacturing moves inside the patient</title>
-      <itunes:title>CAR-T goes point-of-care: manufacturing moves inside the patient</itunes:title>
-      <itunes:subtitle>In-body cell engineering collapses the 4-6 week bottleneck to days</itunes:subtitle>
-      <description>Researchers have demonstrated CAR-T cells can now be engineered directly inside patients, eliminating the weeks-long manufacturing timeline and specialized facility requirement that made cell therapy rare and expensive. Three parallel approaches—in-body manufacturing, off-the-shelf allogeneic cells, and point-of-care engineering—are converging to make CAR-T accessible at scale by 2027-2028. Meanwhile, gene therapy and RNA vaccines are solving similar infrastructure bottlenecks through lipid nanoparticles and self-amplifying RNA.</description>
-      <itunes:summary>Researchers have demonstrated CAR-T cells can now be engineered directly inside patients, eliminating the weeks-long manufacturing timeline and specialized facility requirement that made cell therapy rare and expensive. Three parallel approaches—in-body manufacturing, off-the-shelf allogeneic cells, and point-of-care engineering—are converging to make CAR-T accessible at scale by 2027-2028. Meanwhile, gene therapy and RNA vaccines are solving similar infrastructure bottlenecks through lipid nanoparticles and self-amplifying RNA.</itunes:summary>
-      <content:encoded><![CDATA[<p>Cell therapies are moving from specialized manufacturing centers to point-of-care and in-body engineering, collapsing timelines and opening access.</p><ul><li>In-body CAR-T manufacturing: patient injection triggers immune cell engineering within days, no extraction or centralized facility required</li><li>Off-the-shelf allogeneic CAR-T: pre-manufactured universal cells from healthy donors, no HLA matching, scales from $300K bespoke to manufacturing economies</li><li>Multi-sponsor convergence: Baylor, NCI B7-H3, NCI CD70 programs validating in-vivo engineering across neuroblastoma, small-cell lung cancer, solid tumors; Phase I readouts expected late 2026</li><li>UCLA lipid nanoparticle gene therapy: full-length CFTR gene delivery for cystic fibrosis without CRISPR size constraints; Phase I trials within 12-18 months</li><li>Arcturus self-amplifying RNA vaccines (ARCT-2304): Phase I complete for pandemic influenza; Phase II Q3 2026 with durable immunity without integration risk</li><li>AI cardiovascular risk stratification from routine retinal imaging, enabling primary care risk screening through existing optometry infrastructure</li></ul><hr/><p>Subscribe for daily intelligence on Breakthrough Medicine.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-06.mp3" length="16491405" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-136</guid>
-      <pubDate>Tue, 07 Apr 2026 02:36:10 +0000</pubDate>
-      <itunes:duration>00:13:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>5</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>car-t cell therapy, gene therapy, in-vivo manufacturing, cystic fibrosis, nanoparticles, rna vaccines, cell immunotherapy, precision oncology, clinical trials, accessible medicine</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>The bottleneck moves: AI collapses mRNA vaccine timelines</title>
-      <itunes:title>The bottleneck moves: AI collapses mRNA vaccine timelines</itunes:title>
-      <itunes:subtitle>From 18 months to weeks—and regulators are the new constraint</itunes:subtitle>
-      <description>A non-specialist used AI to design an mRNA cancer vaccine for his dog, got it manufactured, and it worked—signaling that the hard part of medicine is no longer discovery, but regulatory permission. Meanwhile, senotherapy research converges on FXR, homoharringtonine, and klotho as systematic aging interventions, and CRISPR therapies are moving from rare disease into real-world clinical scale.</description>
-      <itunes:summary>A non-specialist used AI to design an mRNA cancer vaccine for his dog, got it manufactured, and it worked—signaling that the hard part of medicine is no longer discovery, but regulatory permission. Meanwhile, senotherapy research converges on FXR, homoharringtonine, and klotho as systematic aging interventions, and CRISPR therapies are moving from rare disease into real-world clinical scale.</itunes:summary>
-      <content:encoded><![CDATA[<p>The medical bottleneck has shifted from <em>can we design it</em> to <em>will regulators allow it</em>. What this means for mRNA vaccines, senotherapy, and gene editing in 2026.</p><ul><li><strong>AI-designed mRNA vaccines:</strong> Large language models and open-source bioCAD tools collapse preclinical-to-IND timelines from 18+ months to weeks; CDMOs now accessible to non-specialists</li><li><strong>FXR as aging hub:</strong> Farnesoid X Receptor emerges as central intervention target for systemic aging reversal; bile acid/steroid signaling bridges metabolic disease and aging pathways (Biogerontology)</li><li><strong>Homoharringtonine as senotherapeutic:</strong> Traditional compound shows senescent cell clearance + metabolic restoration, extending lifespan in diet-induced obesity; human trials feasible within 18 months (Nature Communications)</li><li><strong>Klotho's pleiotropism:</strong> Neuroprotective function independent of aging-clock; therapeutic feasibility 3–5 years (Journal of Neuroscience)</li><li><strong>CTX001 CRISPR expansion:</strong> Vertex's approved base editing therapy moving to Phase III for expanded indications; approvals 2026–2027; patient access within 18–24 months post-approval</li><li><strong>S-SELeCT serine integrase:</strong> Large-cargo genome integration without off-target cutting; Phase I candidate within 12–18 months for muscular dystrophies and gene diseases (Nucleic Acids Research)</li></ul><hr/><p>Subscribe for daily intelligence on Breakthrough Medicine.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-02.mp3" length="14847885" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-121</guid>
-      <pubDate>Fri, 03 Apr 2026 02:35:00 +0000</pubDate>
-      <itunes:duration>00:12:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>mRNA vaccines, ai medicine, gene editing, crispr, senotherapy, aging, fxr signaling, homoharringtonine, klotho, ctx001, cdmo manufacturing, regulatory bottleneck</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>Centenarian metabolotypes shift longevity from prediction to intervention</title>
-      <itunes:title>Centenarian metabolotypes shift longevity from prediction to intervention</itunes:title>
-      <itunes:subtitle>New metabolic fingerprints enable 100+ year trajectories to be identified—and potentially</itunes:subtitle>
-      <description>Researchers have identified distinct metabolic signatures in centenarians that can now be detected before age 80, shifting longevity science from observation to active intervention with metformin, circadian entrainment, and targeted probiotics. Convergent findings across model organisms reveal a circadian-mTOR-mitochondrial axis controlling aging, suggesting stacked interventions could begin human testing within 18 months. Meanwhile, CRISPR specificity breakthroughs and phase II trials in gene editing and xenotransplantation are removing regula</description>
-      <itunes:summary>Researchers have identified distinct metabolic signatures in centenarians that can now be detected before age 80, shifting longevity science from observation to active intervention with metformin, circadian entrainment, and targeted probiotics. Convergent findings across model organisms reveal a circadian-mTOR-mitochondrial axis controlling aging, suggesting stacked interventions could begin human testing within 18 months. Meanwhile, CRISPR specificity breakthroughs and phase II trials in gene editing and xenotransplantation are removing regula</itunes:summary>
-      <content:encoded><![CDATA[<p>New England Centenarian Study isolates metabolic fingerprints predictive of extreme longevity decades before age 100, opening interventional pathways in aging.</p><ul><li>Centenarian metabolotypes enable longevity prediction and intervention strategy before age 80 (Monti et al., GeroScience 2026)</li><li>Circadian-mTOR axis controls neuronal aging; metformin reshapes liver circadian function to decelerate metabolic aging (Whitley et al., Zhang et al. 2026)</li><li>Epigenetic silencing of mitochondrial stress response in aging neurons—histone deacetylase inhibitors could preserve sensory function (Muñoz-Carvajal et al., eLife 2026)</li><li>CrisprPr AI framework reduces off-target uncertainty, accelerating CRISPR clinical trial timelines by 6–12 months (Wu et al., Briefings in Bioinformatics 2026)</li><li>In-vivo CRISPR liver editing for hereditary angioedema enters Phase II; xenotransplantation for end-stage renal disease recruiting now</li><li>Brain network decline validated across mammals, predicting human neurodegeneration and opening 3–5 year pathway to network-protective Phase II trials</li></ul><hr/><p>Subscribe for daily intelligence on Breakthrough Medicine.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-03-30.mp3" length="15217965" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-110</guid>
-      <pubDate>Tue, 31 Mar 2026 02:35:24 +0000</pubDate>
-      <itunes:duration>00:12:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>longevity, aging, metabolomics, centenarians, metformin, circadian rhythm, mTOR, CRISPR, gene therapy, xenotransplantation, hereditary angioedema, neurodegeneration, epigenetics</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>mRNA Manufacturing Goes Open Source—The Pharma Gatekeeping Collapse</title>
-      <itunes:title>mRNA Manufacturing Goes Open Source—The Pharma Gatekeeping Collapse</itunes:title>
-      <itunes:subtitle>A dog's tumor shrunk 75%. Now simplified chemistry threatens to democratize vaccine produc</itunes:subtitle>
-      <description>An AI-assisted individual manufactured a personalized mRNA cancer vaccine outside any pharma infrastructure, validated by simplified lipid nanoparticle chemistry published this week in Science Advances. We're tracking the structural collapse of traditional pharmaceutical gatekeeping, plus convergent longevity science pointing to druggable metabolic targets, GLP-1 agonists slowing Alzheimer's cognitive decline, and CRISPR therapies entering the regulatory endgame.</description>
-      <itunes:summary>An AI-assisted individual manufactured a personalized mRNA cancer vaccine outside any pharma infrastructure, validated by simplified lipid nanoparticle chemistry published this week in Science Advances. We're tracking the structural collapse of traditional pharmaceutical gatekeeping, plus convergent longevity science pointing to druggable metabolic targets, GLP-1 agonists slowing Alzheimer's cognitive decline, and CRISPR therapies entering the regulatory endgame.</itunes:summary>
-      <content:encoded><![CDATA[<p>The future of medicine is becoming accessible. This episode maps the inflection point where mRNA vaccine manufacturing, gene editing, and personalized cancer immunotherapy move from elite pharma infrastructure to distributed, AI-enabled production.</p><ul><li><strong>mRNA manufacturing decentralization:</strong> Ona et al. (Science Advances, March 27) simplify lipid nanoparticle chemistry; verified case of non-expert mRNA cancer vaccine design for dog with 75% tumor response</li><li><strong>Personalized neoantigen vaccines:</strong> Liu et al. show dendritic cell-targeting improves mRNA oncology efficacy; Phase III trials underway for precision cancer immunotherapy</li><li><strong>Metabolic longevity breakthroughs:</strong> Monti and Ingaramo independently identify druggable metabolic targets (adipose Dicer-1, circadian modulation) in centenarians; Phase II trials 2027–2028</li><li><strong>GLP-1 neuroprotection:</strong> Cummings et al. (Lancet, March 19) show semaglutide slows Alzheimer's cognitive decline 25% in Phase III; FDA approval expected Q3–Q4 2026</li><li><strong>CRISPR cell therapy endgame:</strong> CTX001 (Vertex) approved in EU, FDA 2026; cost $2.1–2.7M per patient; medical tourism acceleration documented</li><li><strong>CD8 PET imaging biomarkers:</strong> Postow et al. (Journal for Immunotherapy of Cancer, March 27) enable checkpoint blockade patient stratification pre-treatment; rational de-escalation pathway</li></ul><hr/><p>Subscribe for daily intelligence on Breakthrough Medicine.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-03-28.mp3" length="14182125" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-100</guid>
-      <pubDate>Sat, 28 Mar 2026 05:53:32 +0000</pubDate>
-      <itunes:duration>00:11:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>mRNA vaccines, lipid nanoparticles, CRISPR gene therapy, personalized cancer vaccines, GLP-1 agonists, Alzheimer's disease, cell therapy, longevity science, pharma manufacturing, immunotherapy, dendritic cell targeting, metabolic aging</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
-    </item>
-    <item>
-      <title>mRNA Cancer Vaccines Hit 50% Survival Gain—The Inflection Point</title>
-      <itunes:title>mRNA Cancer Vaccines Hit 50% Survival Gain—The Inflection Point</itunes:title>
-      <itunes:subtitle>Moderna/Merck's five-year data reshapes oncology as design and manufacturing timelines col</itunes:subtitle>
-      <description>Moderna and Merck's personalized mRNA melanoma vaccine just demonstrated 50% reduction in death and recurrence risk over five years—moving from trial to standard-of-care territory. Simultaneously, AI-driven drug discovery, immunopeptidomics, and CRISPR gene therapy are compressing development timelines across oncology and rare disease. By 2028, the entire design-to-patient cycle for personalized mRNA therapies could reach 6–8 weeks.</description>
-      <itunes:summary>Moderna and Merck's personalized mRNA melanoma vaccine just demonstrated 50% reduction in death and recurrence risk over five years—moving from trial to standard-of-care territory. Simultaneously, AI-driven drug discovery, immunopeptidomics, and CRISPR gene therapy are compressing development timelines across oncology and rare disease. By 2028, the entire design-to-patient cycle for personalized mRNA therapies could reach 6–8 weeks.</itunes:summary>
-      <content:encoded><![CDATA[<p>The breakthroughs reshaping cancer treatment and gene therapy right now—and why the acceleration is structural, not incremental.</p><ul><li>Moderna/Merck mRNA melanoma vaccine: 50% OS/recurrence reduction over 5 years; expansion to breast, pancreatic, lung cancers underway</li><li>AI-driven molecular screening: 69-billion-candidate platforms collapse lead discovery from 3–5 years to &lt;12 months</li><li>Immunopeptidomics neoantigen ID: personalized vaccine design compressed from 8 weeks to 2–3 weeks with &gt;80% response rates</li><li>CTX001 (Vertex/CRISPR): CRISPR-edited T-cell therapy for sickle cell showing &gt;90% durable remission; commercial launch Q4 2026/Q1 2027</li><li>Organoid-first validation: patient-derived tissue models now primary proof-of-concept before IND filings, shortening translational timeline by 12–18 months</li><li>The three-part mRNA collapse: design (12 weeks → 2 weeks), manufacturing (2–3 weeks), regulatory (breakthrough pathways); full cycle projected 6–8 weeks by 2028</li></ul><hr/><p>Subscribe for daily intelligence on Breakthrough Medicine.</p>]]></content:encoded>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-03-24.mp3" length="12719564" type="audio/mpeg"/>
+      <title>future_medicine Daily Brief — March 24, 2026</title>
+      <description>Welcome back. We're going to walk through what's happening in medicine right now, and I think you're going to see why this moment feels different. There's a genuine inflection point forming—not just incremental progress, but compression happening across multiple dimensions at once. That's what I wan...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-03-24.mp3" length="12719564" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-86</guid>
       <pubDate>Tue, 24 Mar 2026 18:01:36 +0000</pubDate>
       <itunes:duration>00:10:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:keywords>mrna vaccines, personalized medicine, moderna, merck, cancer immunotherapy, crispr gene therapy, ai drug discovery, clinical trials, neoantigen, oncology</itunes:keywords>
-      <itunes:author>Future Scanner</itunes:author>
-      <author>mediaverticals@proton.me</author>
-      <dc:creator>Future Scanner</dc:creator>
     </item>
-    
   </channel>
 </rss>
