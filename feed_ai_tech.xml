@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 02:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:34:07 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>GitHub's Critical Security Crisis Exposes AI Infrastructure Vulnerabilities</title>
+      <description>Hey there. There's a lot of moving in the AI infrastructure layer today, and a lot of it connects to something we've all been kind of ignoring. So let's dig in.
+
+The biggest thing happening right now is GitHub is having a legitimately serious infrastructure crisis. We're talking multiple security vu...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-04-29.mp3" length="12571245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-126</guid>
+      <pubDate>Wed, 29 Apr 2026 14:34:07 +0000</pubDate>
+      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>DeepSeek's Shocking Speed: AI Competition Just Changed Forever</title>
       <description>Welcome back. Today we're looking at a fundamental shift in how AI competition actually works, and it's moving faster than most people realize.
