@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>YouTube Intelligence Brief</title>
-    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2026 03:26:33 +0000</lastBuildDate>
@@ -14,14 +17,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Knowledge Studio</itunes:name>
-      <itunes:email>placeholder@example.com</itunes:email>
+      <itunes:name>Future Scanner</itunes:name>
+      <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/ks_youtube_podcast_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/ks_youtube_podcast_cover.png"/>
     <image>
-      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/ks_youtube_podcast_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/ks_youtube_podcast_cover.png</url>
       <title>YouTube Intelligence Brief</title>
-      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+      <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
     <item>
@@ -104,68 +107,124 @@ For the last year, the narrative's been locked in place: pick your platform. Cla
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 25, 2026</title>
-      <description>Welcome back. We've got a significant pivot happening across the AI and creator economy right now, and it's worth understanding because it fundamentally changes who wins and loses in the next 18 months.
-
-Let me start with what's probably the most important signal: OpenAI is no longer building produc...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-25.mp3" length="13673804" type="audio/mpeg"/>
+      <title>OpenAI's Enterprise Pivot and the Agent Architecture Trap</title>
+      <itunes:title>OpenAI's Enterprise Pivot and the Agent Architecture Trap</itunes:title>
+      <itunes:subtitle>Sora shutdown signals compute shift to enterprise; mismatched agent types are the new tech</itunes:subtitle>
+      <description>OpenAI is consolidating around enterprise infrastructure—Sora is shutting down, compute is redirecting to Codeex and a speculated "Spud" model, and leadership is restructured around AGI Deployment. Meanwhile, the agent architecture ecosystem is creating a new class of production failures: builders are mismatching framework types to problems, causing $50K–500K consequences. Four creators are converging on a repeatable $1,500–5,000/month local business automation playbook using OpenClaw and Claude Computer Use.</description>
+      <itunes:summary>OpenAI is consolidating around enterprise infrastructure—Sora is shutting down, compute is redirecting to Codeex and a speculated "Spud" model, and leadership is restructured around AGI Deployment. Meanwhile, the agent architecture ecosystem is creating a new class of production failures: builders are mismatching framework types to problems, causing $50K–500K consequences. Four creators are converging on a repeatable $1,500–5,000/month local business automation playbook using OpenClaw and Claude Computer Use.</itunes:summary>
+      <content:encoded><![CDATA[<p>OpenAI's resource reallocation away from consumer products and toward enterprise infrastructure, and how architectural mismatches are now the #1 cause of agent deployment failure.</p><ul><li>Sora shutdown: compute reallocation signal toward Codeex, "Spud" speculation, and OpenAI's enterprise-only pivot (The AI Daily Brief, Wes Roth)</li><li>Agent architecture taxonomy: coding harnesses, dark factories, auto-research systems, and orchestration layers—and why most builders choose wrong (Nate B Jones, AI News & Strategy Daily)</li><li>Local business automation economics: $1,500–5,000/month deployments now plug-and-play for dentistry, real estate, restaurants (JohnnyTube, Build In Public, Julian Goldie, Sean Kochel)</li><li>Claude integrated into Google Workspace: marginal cost production collapse and $700–5,000/month budget template economics on Etsy</li><li>Anthropic's 18-month enterprise obsession vs. OpenAI's new alignment; ComputUse deployment speed and implicit "Claude OS" strategy</li><li>Solo founder thesis pivot: from builder to deployment reseller; B2B2C model where AI companies build layers and entrepreneurs sell into local markets</li></ul><hr/><p>Subscribe to YouTube Intelligence Brief for daily synthesis of AI, creator economy, and enterprise automation trends across 53-channel monitoring network.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-25.mp3" length="13673804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-95</guid>
       <pubDate>Thu, 26 Mar 2026 03:28:27 +0000</pubDate>
       <itunes:duration>00:11:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>openai, anthropic, claude, agents, sora, enterprise ai, agent architecture, local business automation, deployment, codeex</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 24, 2026</title>
-      <description>Welcome back. We've got a lot moving today, and I want to walk you through what's actually changing underneath all the noise.
-
-Let's start with the biggest structural shift, because it ties everything else together. Claude just released a set of updates that on the surface look like feature addition...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-24.mp3" length="13313804" type="audio/mpeg"/>
+      <title>The Agent Stack Is Collapsing—And PKM Just Became Legacy</title>
+      <itunes:title>The Agent Stack Is Collapsing—And PKM Just Became Legacy</itunes:title>
+      <itunes:subtitle>Claude's unified interface, the 92-gigawatt constraint, and why tool categories are dissol</itunes:subtitle>
+      <description>Claude's latest updates—computer control, task scheduling, memory persistence—signal the complete dissolution of modular agent architecture. The real moat isn't frameworks; it's vertical integration and data access. Meanwhile, infrastructure constraints (power, geopolitics) are reshaping where AI runs, and the K-shaped divide isn't about job loss—it's about who owns repeatable processes.</description>
+      <itunes:summary>Claude's latest updates—computer control, task scheduling, memory persistence—signal the complete dissolution of modular agent architecture. The real moat isn't frameworks; it's vertical integration and data access. Meanwhile, infrastructure constraints (power, geopolitics) are reshaping where AI runs, and the K-shaped divide isn't about job loss—it's about who owns repeatable processes.</itunes:summary>
+      <content:encoded><![CDATA[<p>How the unified agent interface is collapsing entire tool categories, what's really constraining AI capability growth, and why 2026's winners aren't learning to code—they're learning to delegate judgment.</p><ul><li><strong>Agent stack dissolution:</strong> Claude Code unifies five layers (model, orchestration, memory, scheduling, UI) into one interface; PKM category at existential risk</li><li><strong>The moat shift:</strong> Nvidia Nemo Claw, Firecrawl, OpenAI's SuperApp reveal winner owns vertical integration + clean data access, not the framework</li><li><strong>The 92-gigawatt problem:</strong> Eric Schmidt names power availability and inference cost as binding constraints on capability growth, not algorithms</li><li><strong>Geopolitical bifurcation:</strong> Nation-state competition for power infrastructure explains rush to local models; expect cloud (reasoning) vs. local (24/7 agents) split in 2026</li><li><strong>The actual K-divide:</strong> Brendan Dell, Silicon Valley Girl, Sunny Lenarduzzi align on real tension: who owns repeatable processes vs. who executes within them; winners delegate judgment, keep equity</li><li><strong>Builder playbook:</strong> Start YouTube channel while employed, productize expertise, build email list, use paycheck as R&D funding</li></ul><hr/><p>Subscribe for daily intelligence on YouTube Intelligence Brief.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-24.mp3" length="13313804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-91</guid>
       <pubDate>Wed, 25 Mar 2026 03:28:28 +0000</pubDate>
       <itunes:duration>00:11:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, claude code, agent architecture, pki tools, notion obsidian, eric schmidt, infrastructure constraint, local models, geopolitics ai, builder economy, k-shaped divide</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 23, 2026</title>
-      <description>Hey, welcome back. Today we're looking at a really important inflection point in how AI agents are being built and deployed. And honestly, it's a lot more nuanced than the headlines suggest.
-
-Let me start with what's probably the biggest shift: the agent orchestration layer just became the real prod...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-23.mp3" length="15445964" type="audio/mpeg"/>
+      <title>Agent Orchestration Is the Real Product Now</title>
+      <itunes:title>Agent Orchestration Is the Real Product Now</itunes:title>
+      <itunes:subtitle>Claude Teams, OpenClaw swarms, and the economics of where agents actually run.</itunes:subtitle>
+      <description>The AI builder market has moved past "should we use agents?" to "how do we coordinate multiple agents reliably." Claude Code's Agent Teams, OpenClaw's ecosystem, and the rise of cost-optimized deployment strategies signal that orchestration—not single-agent automation—is now the constraint. Meanwhile, Google's Stitch + Claude Code pipeline is collapsing the entire design-to-code tool category.</description>
+      <itunes:summary>The AI builder market has moved past "should we use agents?" to "how do we coordinate multiple agents reliably." Claude Code's Agent Teams, OpenClaw's ecosystem, and the rise of cost-optimized deployment strategies signal that orchestration—not single-agent automation—is now the constraint. Meanwhile, Google's Stitch + Claude Code pipeline is collapsing the entire design-to-code tool category.</itunes:summary>
+      <content:encoded><![CDATA[<p>The agent orchestration layer just became the competitive battleground. Builders are shifting from single autonomous agents to multi-agent coordination, optimized deployment strategies, and the collapse of design tools.</p><ul><li>Claude Code Agent Teams ship production-ready orchestration with per-agent model selection and adjustable thinking levels (Cole Medin, Nate Herk)</li><li>OpenClaw ecosystem explodes: Claw Team hits 2,600 GitHub stars in one week; persistent AI teammates integrate with Obsidian and Linear (Jason Cyr, Build In Public)</li><li>Agent economics invert: builders now optimize where agents run (cloud vs. local) and cost-per-task, not whether to use them (Chase AI, Mark Kashef, David Ondrej, AgentZero)</li><li>Design layer collapses: Google Stitch + Claude Code eliminates design tools entirely with pixel-perfect UI generation and production code in minutes (WorldofAI)</li><li>Cost bifurcation: MiniMax M2.7 at $2K/year inference signals open-model dominance in long-tail agent workloads while frontier models own high-value reasoning (Caleb Writes Code)</li><li>CRISPR reversibility enters human trials: Harvard's David Sinclair launching March 2026 gene therapy trials with 75% cellular age reversal demonstrated in animals (Cleo Abram, Diary of a CEO)</li></ul><hr/><p>Subscribe to YouTube Intelligence Brief for daily synthesis of trends, hot topics, and cross-channel convergence from our 53-channel YouTube monitoring network.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-23.mp3" length="15445964" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-85</guid>
       <pubDate>Tue, 24 Mar 2026 03:30:26 +0000</pubDate>
       <itunes:duration>00:12:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, claude code, agent orchestration, openai, agent teams, multi-agent systems, agentic workflows, design-to-code, ai infrastructure, model optimization</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
-      <description>Welcome back. We're tracking some really interesting shifts in the AI infrastructure world right now, and I want to walk you through what's actually happening beneath the headlines. Because there's a story here about markets bifurcating, data becoming the real bottleneck, and the economics of automa...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-22.mp3" length="12844844" type="audio/mpeg"/>
+      <title>Agent Markets Bifurcate, Data Becomes the Bottleneck</title>
+      <itunes:title>Agent Markets Bifurcate, Data Becomes the Bottleneck</itunes:title>
+      <itunes:subtitle>Three incompatible economies, a $1T constraint, and why simplicity is winning.</itunes:subtitle>
+      <description>The AI agent infrastructure market has split into three tiered ecosystems—Manus Computer for casual users, OpenClaw for builders, Abacus Claw for zero-code teams—signaling adoption driven by complexity tolerance, not capability. The real constraint to $1 trillion in agent commerce by 2030 isn't AI performance; it's making entire company data layers agent-readable. Plus: NotebookLM's video generation is collapsing content production timelines.</description>
+      <itunes:summary>The AI agent infrastructure market has split into three tiered ecosystems—Manus Computer for casual users, OpenClaw for builders, Abacus Claw for zero-code teams—signaling adoption driven by complexity tolerance, not capability. The real constraint to $1 trillion in agent commerce by 2030 isn't AI performance; it's making entire company data layers agent-readable. Plus: NotebookLM's video generation is collapsing content production timelines.</itunes:summary>
+      <content:encoded><![CDATA[<p>How agent infrastructure markets are stratifying, what's replacing DevOps teams, and why data architecture is the trillion-dollar bottleneck.</p><ul><li><strong>Agent infrastructure tiers:</strong> Manus Computer (Meta, casual), OpenClaw (builders, free teams), Abacus Claw (zero-code enterprises)</li><li><strong>DevOps automation at scale:</strong> Solo engineers replacing 5-person teams with agent swarms at $300/month; Build In Public case study</li><li><strong>NotebookLM cinematic video:</strong> Documents to 1-3 minute animated films in 15-20 minutes; production timelines collapsing</li><li><strong>$1 trillion agent commerce constraint:</strong> McKinsey projects massive flows by 2030, but bottleneck is schema-consistent, agent-readable data—not AI capability</li><li><strong>Claude Certified Architect emerging:</strong> Anthropic's formal exam establishing five foundational rules for production agent deployment</li></ul><hr/><p>Subscribe for daily intelligence on YouTube Intelligence Brief.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-22.mp3" length="12844844" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-81</guid>
       <pubDate>Mon, 23 Mar 2026 03:27:58 +0000</pubDate>
       <itunes:duration>00:10:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, infrastructure, openai, openclaw, manus computer, devops automation, agent commerce, data architecture, notebooklm, mckinsey</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 21, 2026</title>
-      <description>Hey, welcome back. We've got a lot to dig into today, and honestly, this is one of those days where the signal density is really high—there are some genuine inflection points happening in how people are actually building things right now.
-
-Let's start with what's probably the most important thing I'...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-21.mp3" length="12078284" type="audio/mpeg"/>
+      <title>Agent OS Wars: Three Paths to Production AI</title>
+      <itunes:title>Agent OS Wars: Three Paths to Production AI</itunes:title>
+      <itunes:subtitle>Claude, OpenClaw, and Google split the automation market—none competing for the same user.</itunes:subtitle>
+      <description>AI agents have moved from experimental to default deployment, but the infrastructure layer is bifurcating into three genuinely different economies: Anthropic's managed Claude ecosystem, OpenClaw/Ollama's local-first sovereignty model, and Google's no-code speed play. Meanwhile, self-improving AI systems are shipping in production—Minimax M2.7 self-improved 30%, and creators are running autonomous optimization loops that close engagement gaps without human intervention.</description>
+      <itunes:summary>AI agents have moved from experimental to default deployment, but the infrastructure layer is bifurcating into three genuinely different economies: Anthropic's managed Claude ecosystem, OpenClaw/Ollama's local-first sovereignty model, and Google's no-code speed play. Meanwhile, self-improving AI systems are shipping in production—Minimax M2.7 self-improved 30%, and creators are running autonomous optimization loops that close engagement gaps without human intervention.</itunes:summary>
+      <content:encoded><![CDATA[<p>The infrastructure battle for AI agent deployment is consolidating around three viable paths, each winning in different lanes.</p><ul><li><strong>Claude Projects dominance:</strong> Anthropic's ecosystem (persistent context, scheduled tasks, mobile control) capturing reliability-first users like Julian Goldie and Brock Mesarich shipping production YouTube automation</li><li><strong>OpenClaw + Ollama sovereignty play:</strong> Local-first creators trading simplicity for complete data control and zero API costs; Jack Roberts and income-stream builders running fully functional agents on personal hardware</li><li><strong>Google's no-code acceleration:</strong> Stitch, AI Studio, Antigravity removing technical barriers; WorldofAI documenting production apps in hours with free full-stack generation</li><li><strong>Drag-and-drop automation collapse:</strong> Make and n8n losing relevance as natural language interfaces to agents prove strictly superior; competency compression via LLM wiring</li><li><strong>Self-improving systems in production:</strong> Minimax M2.7 autonomous 30% improvement; Andrew Karpathy-style autoresearch loops closing 10-point engagement gaps on YouTube without manual optimization</li><li><strong>Economics inversion:</strong> Manual optimization requires hiring; AI self-optimization requires one prompt; Peter Diamandis signals institutional shift toward autonomous systems as compute costs drop</li></ul><hr/><p>Subscribe for daily intelligence on YouTube Intelligence Brief—synthesizing trends and cross-channel convergence from 53-channel YouTube monitoring.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-21.mp3" length="12078284" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-78</guid>
       <pubDate>Sun, 22 Mar 2026 03:27:36 +0000</pubDate>
       <itunes:duration>00:10:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, claude, anthropic, openai, google, ollama, agentic ai, automation, self-improving systems, youtube creators</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>YouTube Intelligence Brief — March 19, 2026</title>
-      <description>Welcome to the show. We're covering a lot of ground today, and honestly, it feels like we're watching a major inflection point happen in real time—the moment when AI agents stop being experimental tools and become actual infrastructure that people are building real businesses on.
-
-Let's start with w...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-19.mp3" length="13895084" type="audio/mpeg"/>
+      <title>Claude Dispatch vs. OpenClaw: The Infrastructure Fracture</title>
+      <itunes:title>Claude Dispatch vs. OpenClaw: The Infrastructure Fracture</itunes:title>
+      <itunes:subtitle>Local-first agents, self-improving models, and the $37K–$1M validation</itunes:subtitle>
+      <description>Anthropic's Claude Dispatch positions local-sandbox agents against OpenClaw's open-source stack one week before a $1.4M funding deadline—signaling a structural bet on deployment model over capability. Simultaneously, Minimax's M2.7 autonomously self-improved through 100+ cycles, building 30–50% of its own capabilities on a $3–7K GPU and validating 32 documented businesses already making $37K to six figures monthly on agent infrastructure.</description>
+      <itunes:summary>Anthropic's Claude Dispatch positions local-sandbox agents against OpenClaw's open-source stack one week before a $1.4M funding deadline—signaling a structural bet on deployment model over capability. Simultaneously, Minimax's M2.7 autonomously self-improved through 100+ cycles, building 30–50% of its own capabilities on a $3–7K GPU and validating 32 documented businesses already making $37K to six figures monthly on agent infrastructure.</itunes:summary>
+      <content:encoded><![CDATA[<p>The AI agent market has crossed from experimental to operational, with infrastructure consolidating around two competing ecosystems: Claude's local-first sandbox model versus open-source OpenClaw/Minimax. Whether agents live on your machine or in the cloud now determines economics, control, and regulatory exposure.</p><ul><li><strong>Claude Dispatch</strong>: Anthropic launches phone-controlled local AI agents (3M tweet views, 9K bookmarks); early testers report 90% OpenClaw feature parity with better security isolation.</li><li><strong>M2.7 Self-Improvement</strong>: Minimax model autonomously built 30–50% of itself via 100+ recursive cycles; freely available March 31; scores 66.6% on OpenAI MLE Bench on single $3–7K GPU.</li><li><strong>Agent Monetization Validated</strong>: Build In Public documents 32 businesses making $37K–$1M+ MRR on Claude/OpenClaw stacks; $1.4M startup program closes April 6.</li><li><strong>Modular Skills Over Prompts</strong>: Industry shifting from monolithic system prompts to plug-and-play skill taxonomy; production systems require seven automation patterns (heartbeat monitors, watchdogs, memory maintenance).</li><li><strong>Multi-Agent Orchestration Baseline</strong>: Google Canvas, Replit Agent 4, OpenClaw-native systems now coordinate 20+ agents simultaneously; canonical abstraction layer crystallizing.</li><li><strong>Market Reallocation</strong>: Meta laying off 16,000 people to fund AI infrastructure; Jensen Huang declares "every CEO needs an OpenClaw strategy."</li></ul><hr/><p>Subscribe for daily intelligence on YouTube Intelligence Brief—synthesizing trends and cross-channel convergence from 53-channel YouTube monitoring.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-19.mp3" length="13895084" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-73</guid>
       <pubDate>Fri, 20 Mar 2026 03:39:38 +0000</pubDate>
       <itunes:duration>00:11:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, anthropic, claude, openai, minimax, openclose, local-first architecture, ai infrastructure, self-improving models, agent monetization, modular skills, multi-agent systems</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
   </channel>
 </rss>

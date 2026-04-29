@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>AI Agents Brief</title>
-    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <title>AI Agents Daily</title>
+    <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2026 02:25:54 +0000</lastBuildDate>
@@ -14,14 +17,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Knowledge Studio</itunes:name>
-      <itunes:email>placeholder@example.com</itunes:email>
+      <itunes:name>Future Scanner</itunes:name>
+      <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/ai_agents_podcast_cover.png"/>
+    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/ai_agents_podcast_cover.png"/>
     <image>
-      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/ai_agents_podcast_cover.png</url>
-      <title>AI Agents Brief</title>
-      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+      <url>https://tomtresearch-ops.github.io/ks-podcasts/ai_agents_podcast_cover.png</url>
+      <title>AI Agents Daily</title>
+      <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
     <item>
@@ -111,101 +114,184 @@ Let's start with what's winning mindshare right now, because it's te...</descrip
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 25, 2026</title>
-      <description>Welcome back. Today we're watching the agent infrastructure market start to really mature, and it's a shift worth understanding because it changes where the actual competitive advantage is going to be.
-
-Let's start with what feels like the most significant signal: Swift agents are breaking out of th...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-25.mp3" length="13135244" type="audio/mpeg"/>
+      <title>Swift breaks the Python monoculture; infrastructure becomes the competitive moat</title>
+      <itunes:title>Swift breaks the Python monoculture; infrastructure becomes the competitive moat</itunes:title>
+      <itunes:subtitle>Local agents, runtime safety, and why Kubernetes is now table stakes</itunes:subtitle>
+      <description>Swift coding agents are breaking Python's dominance in the agentic toolkit ecosystem, signaling a shift toward native, device-based deployment over cloud services. But the real story is that production agent teams have stopped optimizing for model capability and started building infrastructure: runtime safety enforcement, local-first observability, and Kubernetes orchestration are now the competitive vectors. Long-running agents also reveal a critical constraint: persistent external memory, not context windows, determines cost and reliability.</description>
+      <itunes:summary>Swift coding agents are breaking Python's dominance in the agentic toolkit ecosystem, signaling a shift toward native, device-based deployment over cloud services. But the real story is that production agent teams have stopped optimizing for model capability and started building infrastructure: runtime safety enforcement, local-first observability, and Kubernetes orchestration are now the competitive vectors. Long-running agents also reveal a critical constraint: persistent external memory, not context windows, determines cost and reliability.</itunes:summary>
+      <content:encoded><![CDATA[<p>Agent infrastructure is maturing beyond model selection. This episode maps the consolidation: where deployment is moving, how production teams enforce safety, and why builders are rejecting vendor-hosted observability.</p><ul><li><strong>Swift agents break Python monoculture:</strong> Native agent implementations signal shift from cloud-bound to device-local deployment with lower latency and privacy</li><li><strong>Runtime safety enforcement replaces prompt engineering:</strong> Production teams deploy safety fuses and action validators in orchestration layers, not prompt guardrails</li><li><strong>Local-first observability consolidating:</strong> Builders rejecting SaaS dashboards for offline tracing, local eval frameworks, and owned execution data</li><li><strong>Kubernetes becomes agent deployment standard:</strong> Tools like Optio show coding agents graduating from CLI scripts to infrastructure-managed workloads</li><li><strong>External state management non-negotiable:</strong> Long-running agents waste 70%+ of tokens re-reading context; persistent databases (Linear, PostgreSQL, Obsidian) required for cost control</li><li><strong>MCP market fragmenting:</strong> API wrappers losing to stateful integrations; demo use cases won't port to production without architectural rework</li></ul><hr/><p>Subscribe to AI Agents Brief for daily intelligence on autonomous systems, agentic deployment patterns, and the infrastructure reshaping AI agent development.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-25.mp3" length="13135244" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-94</guid>
       <pubDate>Thu, 26 Mar 2026 02:23:45 +0000</pubDate>
       <itunes:duration>00:10:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, infrastructure, swift, python, kubernetes, agent safety, observability, claude, coding agents, agent orchestration</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 24, 2026</title>
-      <description>Welcome. Today we're looking at a meaningful shift in how agents are actually being deployed in production, and it centers on a single insight: agents now need to verify their own work before anything ships.
-
-Let's start with the headline development. There's a tool called ProofShot that just hit 11...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-24.mp3" length="14965484" type="audio/mpeg"/>
+      <title>Agent Verification Just Became Production Standard</title>
+      <itunes:title>Agent Verification Just Became Production Standard</itunes:title>
+      <itunes:subtitle>ProofShot's vision layer, Cloudflare's 100x faster sandboxing, and the real constraint hol</itunes:subtitle>
+      <description>ProofShot gives coding agents the ability to visually verify their own work before shipping—solving the hallucination problem that's blocked autonomous deployment. Cloudflare's dynamic workers architecture enables agent sandboxing at near-zero cold start, making agent-as-a-service viable. Across production deployments, builders are discovering the real bottleneck isn't reasoning capability—it's persistent memory and architectural discipline around token consumption.</description>
+      <itunes:summary>ProofShot gives coding agents the ability to visually verify their own work before shipping—solving the hallucination problem that's blocked autonomous deployment. Cloudflare's dynamic workers architecture enables agent sandboxing at near-zero cold start, making agent-as-a-service viable. Across production deployments, builders are discovering the real bottleneck isn't reasoning capability—it's persistent memory and architectural discipline around token consumption.</itunes:summary>
+      <content:encoded><![CDATA[<p>Agent verification and sandboxing have emerged as the primary constraints on production deployment, not model capability.</p><ul><li><strong>ProofShot (115 HN points):</strong> Vision layer lets coding agents validate UI output before shipping, enabling self-correction without human review</li><li><strong>Cloudflare dynamic workers:</strong> 100x faster sandboxing for untrusted agent code, making agent-as-a-service platforms viable at scale</li><li><strong>Video-to-test-code conversion:</strong> Agents now learn specific workflows from QA recordings and emit production-ready test code matching repo structure</li><li><strong>LiteLLM supply chain compromise:</strong> Compromised PyPI packages expose agent framework attack surface; regulated industries need dependency auditing</li><li><strong>Claude Code `/schedule` token patterns:</strong> Persistent looping agents spending majority tokens on context re-reading, not reasoning—signals persistent memory is the real constraint</li><li><strong>Runtime behavioral middleware:</strong> Prompt-based guardrails failing; production deployments now enforce forbidden operations at architecture level, not prompt level</li></ul><hr/><p>Subscribe for daily intelligence on AI Agents Brief.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-24.mp3" length="14965484" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-90</guid>
       <pubDate>Wed, 25 Mar 2026 02:25:58 +0000</pubDate>
       <itunes:duration>00:12:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, autonomous systems, proofshot, cloudflare, agent verification, sandboxing, claude code, agent deployment, multi-agent orchestration, agentic ai</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 23, 2026</title>
-      <description>Hey, welcome back. We're looking at a pretty significant inflection point in how AI agents are actually being used—and I want to start with what I think is the most important signal of the week.
-
-Agent teams are shipping in production right now. Not as experiments, not as proofs of concept—actual pr...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-23.mp3" length="12305804" type="audio/mpeg"/>
+      <title>Agent teams hit production, research cycles collapse 100x</title>
+      <itunes:title>Agent teams hit production, research cycles collapse 100x</itunes:title>
+      <itunes:subtitle>Multi-agent orchestration, autonomous ML experiments, and the cost-architecture tradeoff</itunes:subtitle>
+      <description>Agent teams are shipping in production with Claude Code orchestrating 3-5 specialized agents in parallel to build full-stack applications—validating a shift from single-agent architectures to distributed workflows. Autonomous research agents ran 748 ML experiments in 48 hours (75-100x faster than human iteration), while OpenClaw's per-agent model selection cuts costs 70-90%, unlocking previously uneconomical workflows. Persistent agent memory and tool integration now outperform stateless architectures, making external system access the binding</description>
+      <itunes:summary>Agent teams are shipping in production with Claude Code orchestrating 3-5 specialized agents in parallel to build full-stack applications—validating a shift from single-agent architectures to distributed workflows. Autonomous research agents ran 748 ML experiments in 48 hours (75-100x faster than human iteration), while OpenClaw's per-agent model selection cuts costs 70-90%, unlocking previously uneconomical workflows. Persistent agent memory and tool integration now outperform stateless architectures, making external system access the binding</itunes:summary>
+      <content:encoded><![CDATA[<p>How agent team architectures are replacing single-agent deployments, cost optimization unlocks new workflows, and the shifting priorities in building reliable agent systems.</p><ul><li>Claude Code multi-agent orchestration in production: QA, dev, backend agents shipping full-stack apps with N× cost multiplier</li><li>Autonomous research agents: 748 ML experiments in 48 hours, 75-100x faster iteration catching bugs experts missed</li><li>Video-to-skill extraction: Multimodal vision APIs capture procedural logic from screen recordings, 10x faster workflow onboarding</li><li>OpenClaw cost optimization: Per-agent model selection cuts inference costs 70-90%, 1M token context windows decouple cost from reasoning capability</li><li>Persistent agent memory: Tool integration (Obsidian, Linear, code repos) improves task completion 10-20% over stateless agents</li><li>RAG black box unsolved: Production agents lack causality in retrieval decisions; frameworks need to surface *why* agents choose documents</li></ul><hr/><p>Subscribe for daily intelligence on AI agents, autonomous systems, and the agentic AI landscape. AI Agents Brief.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-23.mp3" length="12305804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-84</guid>
       <pubDate>Tue, 24 Mar 2026 02:31:28 +0000</pubDate>
       <itunes:duration>00:10:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, multi-agent systems, autonomous agents, claude code, agent orchestration, ml automation, agent cost optimization, persistent memory, rag agents, production deployment</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 22, 2026</title>
-      <description>Welcome back. Today's agent ecosystem is crystallizing around something pretty fundamental, and it's a shift worth understanding if you're watching how this technology actually deploys in the real world.
-
-The big headline is this: we're moving away from the idea that better reasoning means better ag...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-22.mp3" length="16543244" type="audio/mpeg"/>
+      <title>Skills Over Reasoning: How Agent Architecture Just Shifted</title>
+      <itunes:title>Skills Over Reasoning: How Agent Architecture Just Shifted</itunes:title>
+      <itunes:subtitle>Composable skills replace monolithic reasoning; OpenClaw security audit accelerates produc</itunes:subtitle>
+      <description>The constraint on agent reliability has fundamentally shifted: builders are moving from chasing better reasoning to composing discrete, pre-validated skills into predictable workflows. Security vulnerabilities in OpenClaw underscore why infrastructure-level safety beats bolted-on guardrails, while structured JSON formatting is cutting token overhead 46% and eliminating agent hedging behavior.</description>
+      <itunes:summary>The constraint on agent reliability has fundamentally shifted: builders are moving from chasing better reasoning to composing discrete, pre-validated skills into predictable workflows. Security vulnerabilities in OpenClaw underscore why infrastructure-level safety beats bolted-on guardrails, while structured JSON formatting is cutting token overhead 46% and eliminating agent hedging behavior.</itunes:summary>
+      <content:encoded><![CDATA[<p>Today's episode maps the architectural inversion reshaping agent deployment: skills libraries now matter more than base model capability.</p><ul><li><strong>Skills become the atomic unit:</strong> Discrete, composable, pre-validated functionality replaces freeform reasoning chains across frameworks like LangChain, Claude Code, and local Ollama stacks</li><li><strong>OpenClaw security audit (Composio):</strong> Fundamental authorization vulnerability reveals the cost of prioritizing integration breadth over security-by-default; production teams pivoting to Claude Code Channels and local alternatives</li><li><strong>Structured JSON reasoning:</strong> 46% token reduction and elimination of hedging behavior via six-band decision schemas; frameworks embedding output schemas and Pydantic enforcement outpace custom implementations</li><li><strong>Agent-to-agent marketplaces:</strong> Distributed task allocation and autonomous negotiation moving from concept to builder implementations; agents becoming economic peers requiring incentive mechanisms</li><li><strong>Local-first deployments winning on unit economics:</strong> Cloud API dependency compressed by Ollama, local voice agents, and offline-capable architectures; margin pressure on incumbent tooling</li><li><strong>Reliability hierarchy inverted:</strong> Production deployments now reward operational stability, debugging transparency, and budget control over reasoning benchmarks</li></ul><hr/><p>Subscribe for daily intelligence on AI Agents Brief.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-22.mp3" length="16543244" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-80</guid>
       <pubDate>Mon, 23 Mar 2026 02:26:25 +0000</pubDate>
       <itunes:duration>00:13:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, agent architecture, composable skills, openai, composio, claude code, ollama, langchain, agent security, autonomous systems, agentic ai, structured reasoning</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 21, 2026</title>
-      <description>Hey, welcome back. There's something genuinely interesting happening right now in how agents are actually being built and deployed in production, and it's almost nothing like what the headlines are telling you it's about.
-
-So let me start with the thing that caught my attention most today. For the l...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-21.mp3" length="13642124" type="audio/mpeg"/>
+      <title>Agent networks move past orchestration, security becomes infrastructure</title>
+      <itunes:title>Agent networks move past orchestration, security becomes infrastructure</itunes:title>
+      <itunes:subtitle>Messaging layers, OpenShell guardrails, and Google's free deployment pipeline reshape prod</itunes:subtitle>
+      <description>Agent coordination is shifting from orchestration to distributed messaging infrastructure—Claude Channels, Pilot Protocol, and Chrome extension patterns signal agents working as peers rather than subordinates. Nvidia's OpenShell embeds security guardrails into the runtime itself, making policy enforcement non-negotiable for enterprise deployments. Meanwhile, Google AI Studio 2.0's free autonomous code generation is compressing margins on incumbent platforms and signaling that consumer-grade agents have reached maturity.</description>
+      <itunes:summary>Agent coordination is shifting from orchestration to distributed messaging infrastructure—Claude Channels, Pilot Protocol, and Chrome extension patterns signal agents working as peers rather than subordinates. Nvidia's OpenShell embeds security guardrails into the runtime itself, making policy enforcement non-negotiable for enterprise deployments. Meanwhile, Google AI Studio 2.0's free autonomous code generation is compressing margins on incumbent platforms and signaling that consumer-grade agents have reached maturity.</itunes:summary>
+      <content:encoded><![CDATA[<p>The binding constraints in agent deployment have moved from reasoning capability to cost, security, and reliability. Messaging infrastructure is replacing orchestration as the core architectural problem.</p><ul><li><strong>Distributed agent networks:</strong> Claude Code Channels, Telegram/Discord integrations, and Pilot Protocol enable 24/7 autonomous teams without cloud orchestration overhead.</li><li><strong>Security as infrastructure:</strong> Nvidia's OpenShell embeds role-based access control and action blacklists into the execution kernel, addressing production security gaps.</li><li><strong>Free tier competitive war:</strong> Google AI Studio 2.0 ships autonomous code generation and GitHub deployment at zero cost, creating margin pressure on per-artifact pricing models.</li><li><strong>Production cost optimization:</strong> Builders are deploying route-first filtering layers to reduce 37% Model Context Protocol overhead, using cheaper models as gatekeepers.</li><li><strong>Browser automation pattern:</strong> Chrome extension + agent integrations treating agents as peripherals embedded in human UIs rather than isolated services.</li><li><strong>Memory persistence gap:</strong> LangGraph still lacks cross-session memory at the framework level, requiring custom 30-line fixes in production deployments.</li></ul><hr/><p>Subscribe for daily intelligence on AI agents, autonomous systems, and the agentic AI landscape.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-21.mp3" length="13642124" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-77</guid>
       <pubDate>Sun, 22 Mar 2026 02:23:34 +0000</pubDate>
       <itunes:duration>00:11:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, distributed systems, messaging infrastructure, security, claude code channels, pilot protocol, google ai studio, nvidia openshell, model context protocol, autonomous agents</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 20, 2026</title>
-      <description>Good morning. Let's walk through what's happening in the agent ecosystem today, because there's a real architectural shift taking place—and it's not about model capability. It's about how agents get deployed into the real world.
-
-The headline: Claude Code just shipped native integration with Telegra...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-20.mp3" length="11384684" type="audio/mpeg"/>
+      <title>Claude Code Channels, M2.7's Cost Shock, and the Agent Orchestration Gap</title>
+      <itunes:title>Claude Code Channels, M2.7's Cost Shock, and the Agent Orchestration Gap</itunes:title>
+      <itunes:subtitle>Messaging integration collapses deployment friction; cost arbitrage forces framework recko</itunes:subtitle>
+      <description>Claude Code's native Telegram/Discord integration transforms agents from tools you invoke into ambient background workers—collapsing the deployment friction that kept agents confined to enterprise workflows. Simultaneously, MiniMax M2.7 is forcing a cost reckoning: 1/50th the price of Claude Opus with identical autonomous self-correction capability, creating a two-tier market splitting on cost and transparency. Production teams are consolidating around LangGraph+LangSmith orchestration patterns, but the real crisis emerging is per-customer LLM</description>
+      <itunes:summary>Claude Code's native Telegram/Discord integration transforms agents from tools you invoke into ambient background workers—collapsing the deployment friction that kept agents confined to enterprise workflows. Simultaneously, MiniMax M2.7 is forcing a cost reckoning: 1/50th the price of Claude Opus with identical autonomous self-correction capability, creating a two-tier market splitting on cost and transparency. Production teams are consolidating around LangGraph+LangSmith orchestration patterns, but the real crisis emerging is per-customer LLM</itunes:summary>
+      <content:encoded><![CDATA[<p>Anthropic's messaging integration, MiniMax's cost breakthrough, and the production infrastructure consolidating around multi-agent orchestration.</p><ul><li>Claude Code Channels (Telegram/Discord) removes deployment friction; agents operate autonomously without cloud infrastructure or DevOps overhead.</li><li>MiniMax M2.7 ships autonomous self-correction at 1/50th Claude Opus cost, forcing immediate vendor pricing and framework selection pressure.</li><li>LangGraph + LangSmith ecosystem crystallizes; production teams consolidate on unified orchestration and observability patterns.</li><li>Meta AI data leak surfaces policy enforcement as production hazard; agents following instructions in sensitive contexts cause unintended disclosure.</li><li>Per-customer LLM cost opacity is #1 monetization blocker; frameworks shipping cost tracking and budget gates win adoption velocity.</li><li>Agent credibility has migrated from model intelligence to orchestration reliability; framework maturity, not reasoning capability, is now the binding constraint.</li></ul><hr/><p>Subscribe for daily intelligence on AI agents, autonomous systems, and the agentic AI landscape on AI Agents Brief.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-20.mp3" length="11384684" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-75</guid>
       <pubDate>Sat, 21 Mar 2026 02:21:17 +0000</pubDate>
       <itunes:duration>00:09:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, anthropic, claude, minimax, langgraph, multi-agent orchestration, autonomous systems, cost efficiency, messaging integration, framework consolidation</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 19, 2026</title>
-      <description>So we're watching agents move from experimental to infrastructure, and that shift is creating some really specific problems that are worth your attention. Let me walk through what's happening.
-
-The headline today is that Claude Code just shipped something called context_fork that genuinely solves on...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-19.mp3" length="13118924" type="audio/mpeg"/>
+      <title>Context Windows, Production Failures, and the Orchestration Problem</title>
+      <itunes:title>Context Windows, Production Failures, and the Orchestration Problem</itunes:title>
+      <itunes:subtitle>Claude's context_fork solves agent degradation; LangGraph vulnerabilities expose framework</itunes:subtitle>
+      <description>Claude Code ships context_fork to isolate resource-heavy agent operations, solving the critical production bottleneck of context degradation in multi-hour workflows. LangGraph security vulnerabilities (CVE-2026-28277, CVE-2026-27022) signal the ecosystem hasn't fully moved past research-code thinking, while multi-agent coordination gaps and routing cost explosions reveal that agent failures are now orchestration problems, not model problems.</description>
+      <itunes:summary>Claude Code ships context_fork to isolate resource-heavy agent operations, solving the critical production bottleneck of context degradation in multi-hour workflows. LangGraph security vulnerabilities (CVE-2026-28277, CVE-2026-27022) signal the ecosystem hasn't fully moved past research-code thinking, while multi-agent coordination gaps and routing cost explosions reveal that agent failures are now orchestration problems, not model problems.</itunes:summary>
+      <content:encoded><![CDATA[<p>How agents are moving from experimental automation into irreplaceable infrastructure—and what breaks in the process.</p><ul><li><strong>Claude Code context_fork:</strong> Isolates expensive operations (document processing, data transformation) into separate context windows, returning only summaries to main agent thread. Table-stakes for multi-hour autonomous workflows.</li><li><strong>Voltair and Canary (YC W26):</strong> Agents crossing into hardware and mission-critical domains—drone infrastructure inspection and CI/CD QA—signaling shift from nice-to-have automation to irreplaceable infrastructure requiring non-negotiable production safety.</li><li><strong>LangGraph security vulnerabilities:</strong> Unsafe msgpack deserialization and Redis query injection expose checkpoint flaws in the most widely-used agent orchestration framework. Signals acceleration toward managed services (LangSmith) over homegrown Redis setups.</li><li><strong>Multi-agent coordination gap:</strong> 4–22 agent systems failing silently due to lack of temporal synchronization primitives. Teams building custom cron-like task coordinators; frameworks expected to ship declarative scheduling (Airflow for agents) within Q2.</li><li><strong>Two-tier routing pattern:</strong> Cost explosions from expensive routing models; teams cutting costs 80% by using fast cheap models (Haiku) for filtering, expensive models (Sonnet) only for serious reasoning. Framework adoption will follow.</li><li><strong>Production failures are orchestration, not models:</strong> Reddit consensus: model capability is sufficient; crashes come from routing, context management, checkpoint corruption, coordination bugs. Competitive advantage shifts from model vendors to framework builders.</li></ul><hr/><p>Subscribe to AI Agents Brief for daily intelligence on autonomous systems, agent frameworks, and the agentic AI landscape.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-19.mp3" length="13118924" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-72</guid>
       <pubDate>Fri, 20 Mar 2026 02:24:05 +0000</pubDate>
       <itunes:duration>00:10:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, claude, context management, langgraph, production reliability, multi-agent systems, agent orchestration, api routing costs, autonomous systems, infrastructure</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 18, 2026</title>
-      <description>Hello and welcome. Today we're tracking a significant shift in how autonomous agents operate in the real world. And honestly, this is where the conversation gets more interesting than the hype cycle would suggest.
-
-Let's start with the biggest structural development: Stripe just announced something ...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-18.mp3" length="12817004" type="audio/mpeg"/>
+      <title>Machine Payments Protocol: Agents become economic actors</title>
+      <itunes:title>Machine Payments Protocol: Agents become economic actors</itunes:title>
+      <itunes:subtitle>Stripe's MPP, Google's kernel-level agents, and the policy enforcement gap</itunes:subtitle>
+      <description>Stripe's Machine Payments Protocol positions autonomous agents as economic principals who can hold balances and settle transactions—a structural shift that makes payment infrastructure a deployment requirement. Google deployed Sashiko for Linux kernel code review, signaling agents have crossed into mission-critical trust. But teams shipping to production are hitting a wall: prompt-based safety doesn't scale, and policy enforcement frameworks are becoming non-negotiable for regulated industries.</description>
+      <itunes:summary>Stripe's Machine Payments Protocol positions autonomous agents as economic principals who can hold balances and settle transactions—a structural shift that makes payment infrastructure a deployment requirement. Google deployed Sashiko for Linux kernel code review, signaling agents have crossed into mission-critical trust. But teams shipping to production are hitting a wall: prompt-based safety doesn't scale, and policy enforcement frameworks are becoming non-negotiable for regulated industries.</itunes:summary>
+      <content:encoded><![CDATA[<p>This episode maps the infrastructure layer emerging around agent deployment: payment settlement, debuggability, compliance, and the fragmentation between vision-based and API-based control architectures.</p><ul><li><strong>Machine Payments Protocol (Stripe):</strong> Agents as economic actors with autonomous settlement capability—a prerequisite for multi-agent markets</li><li><strong>Sashiko (Google):</strong> Production-grade agentic code review in the Linux kernel—agents reaching mission-critical trust</li><li><strong>LangGraph Studio time-travel debugging:</strong> State edit and decision replay solving the reproducibility crisis in agent reliability</li><li><strong>Browser control fragmentation:</strong> Vision-based agents hitting scaling walls; convergence on Chrome DevTools Protocol for API-level access</li><li><strong>Policy enforcement gap:</strong> Prompt-based safety doesn't scale; teams demand structured policy layers and audit frameworks for compliance</li><li><strong>Multi-agent orchestration patterns:</strong> LangGraph + parallel fan-out with LLM fallback routing emerging as production standard</li></ul><hr/><p>Subscribe to AI Agents Brief for daily intelligence on autonomous systems, agentic workflows, and the infrastructure reshaping agent deployment.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-18.mp3" length="12817004" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-70</guid>
       <pubDate>Thu, 19 Mar 2026 02:23:55 +0000</pubDate>
       <itunes:duration>00:10:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, autonomous systems, stripe, machine payments protocol, google, sashiko, langgraph, agent safety, compliance, agentic ai</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 17, 2026</title>
-      <description>Welcome back. Today we're looking at something genuinely significant: the agent ecosystem just made a fundamental shift, and it happened quietly across five or six different product launches in the span of maybe two weeks. The kind of shift that doesn't feel dramatic when it's happening but will loo...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-17.mp3" length="13678604" type="audio/mpeg"/>
+      <title>Local-First Agents: The Cloud Model's Expiration Date</title>
+      <itunes:title>Local-First Agents: The Cloud Model's Expiration Date</itunes:title>
+      <itunes:subtitle>OpenClaw, Perplexity, and NVIDIA signal production agents shift from APIs to your hardware</itunes:subtitle>
+      <description>The agent ecosystem has fundamentally shifted from cloud-dependent to local-first execution as baseline infrastructure. OpenClaw, Perplexity's Mac Mini compute, and NVIDIA's NemoClaw all launched within weeks, signaling that production agents now run on user hardware—reshaping competitive advantage from model access to orchestration. Multi-agent systems are solving capability ceilings faster than single-model scaling, while security infrastructure (FireClaw, Keypo, zero-trust OS) moves from optional to table stakes.</description>
+      <itunes:summary>The agent ecosystem has fundamentally shifted from cloud-dependent to local-first execution as baseline infrastructure. OpenClaw, Perplexity's Mac Mini compute, and NVIDIA's NemoClaw all launched within weeks, signaling that production agents now run on user hardware—reshaping competitive advantage from model access to orchestration. Multi-agent systems are solving capability ceilings faster than single-model scaling, while security infrastructure (FireClaw, Keypo, zero-trust OS) moves from optional to table stakes.</itunes:summary>
+      <content:encoded><![CDATA[<p>The agent ecosystem is moving from cloud-dependent APIs to local-first execution as the baseline production architecture, with major implications for cost, security, and competitive advantage.</p><ul><li><strong>Local-first execution is becoming mandatory:</strong> OpenClaw + Ollama, Perplexity Mac Mini compute, Manus (local file access), NVIDIA NemoClaw all shipped within weeks, signaling the shift from cloud to on-device agents.</li><li><strong>Orchestration is replacing monolithic scaling:</strong> Multi-agent systems (subagents, multi-agent debate) show 60% performance gains on complex tasks; builders are solving capability ceilings via coordination, not larger models.</li><li><strong>Security infrastructure moves from optional to table stakes:</strong> FireClaw (prompt injection defense), Keypo (encrypted secrets), zero-trust firewalls, and permission-gated execution now required for production agents; wild west phase closing.</li><li><strong>Browser agents shift to real controllers:</strong> Tandem and Perplexity's ComputAgent use Chrome DevTools Protocol instead of brittle vision-based UI simulation, eliminating brittleness and enabling native API access.</li><li><strong>Claude Code's capability vs. production risk:</strong> Garry Tan's framework leads, but Claude Code data loss and generated bugs highlight need for integration patterns—validation, staged deployment, human checkpoints—rather than standalone agentic use.</li><li><strong>Context decay is the bottleneck:</strong> Builder reports show Claude performance drops noticeably at 50% context fill; session management, memory pruning, and sub-agent decomposition are required for high-reliability agents.</li></ul><hr/><p>Subscribe for daily intelligence on AI agents, autonomous systems, and the agentic AI landscape—AI Agents Brief.</p>]]></content:encoded>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-17.mp3" length="13678604" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-67</guid>
       <pubDate>Wed, 18 Mar 2026 02:25:43 +0000</pubDate>
       <itunes:duration>00:11:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:keywords>ai agents, local inference, agent orchestration, multi-agent systems, claude code, security, production agents, agent framework, ollama, perplexity</itunes:keywords>
+      <itunes:author>Future Scanner</itunes:author>
+      <author>mediaverticals@proton.me</author>
+      <dc:creator>Future Scanner</dc:creator>
     </item>
   </channel>
 </rss>
