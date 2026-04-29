@@ -36,8 +36,8 @@ Let me start with the thing that's been top of mind for a lot of people I've bee
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Local AI Intel Daily Brief — April 22, 2026</title>
-      <description>Hey, welcome back. We're taking a look at the AI services marketplace today—specifically what's happening with agencies right now as the platforms they depend on are shipping features that used to be their entire service offering. It's a critical moment, and there's a clear pattern emerging about ho...</description>
+      <title>The AI Agent Squeeze: How Agencies Survive Platform Feature Parity</title>
+      <description>GoHighLevel just released a native AI Operations agent that handles inbound calls, lead qualification, and CRM routing—the exact service many agencies built their entire business around. We break down what this shift means for agencies positioning themselves as implementation layers, and explore the two strategic plays that actually work when platforms start shipping your core offerings for free.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-22.mp3" length="13859084" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-112</guid>
       <pubDate>Thu, 23 Apr 2026 02:12:53 +0000</pubDate>
@@ -45,10 +45,8 @@ Let me start with the thing that's been top of mind for a lot of people I've bee
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Local AI Intel Daily Brief — April 20, 2026</title>
-      <description>Welcome back. We've got a really interesting story unfolding in the AI services space right now, and it's fundamentally reshaping how agencies should be thinking about their positioning and their pricing. So let's walk through what's happening.
-
-The headline here is that the floor has dropped out of...</description>
+      <title>The AI Commoditization Crisis: Why Generic Agents Are Dead</title>
+      <description>Generic AI services are collapsing in value as clients demand vertical-specific integration and compliance expertise instead of standalone chatbots and voice agents. Agencies winning 40-60% premiums are positioning themselves as integration specialists who understand their clients' existing systems and regulatory landscapes—and platforms like GoHighLevel are opening a 12-18 month window for agencies to build proprietary layers before native features arrive.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-20.mp3" length="11754284" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-103</guid>
       <pubDate>Tue, 21 Apr 2026 02:09:09 +0000</pubDate>
@@ -56,10 +54,8 @@ The headline here is that the floor has dropped out of...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Local AI Intel Daily Brief — March 25, 2026</title>
-      <description>Hey everyone, welcome back. Today we're looking at something that's genuinely shifted in the agency AI space over the last week or two, and it's worth paying close attention to because it changes how you should be thinking about positioning your services.
-
-The headline is this: the conversation has ...</description>
+      <title>The AI Agent Shift: Why Integration Beats Generic Automation</title>
+      <description>The agency AI space has fundamentally changed—generic voice agents are becoming commodities while integrated agents that connect directly to clients' existing systems command 3-5x higher margins. This episode breaks down the Model Context Protocol movement, real examples like GoHighLevel calendar integrations, and why building defensible solutions means focusing on specific business tooling rather than one-size-fits-all automation.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-03-25.mp3" length="12918284" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-93</guid>
       <pubDate>Thu, 26 Mar 2026 02:08:14 +0000</pubDate>
@@ -67,10 +63,8 @@ The headline is this: the conversation has ...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Local AI Intel Daily Brief — March 23, 2026</title>
-      <description>Hey, welcome back. Let's talk about what's actually happening in the AI services space right now, because it's shifted in a really important way and I think a lot of agencies haven't noticed yet.
-
-The big inflection point we're seeing is that the market has moved past "how do we build an agent" into...</description>
+      <title>Why AI Agencies Are Switching From Projects to Managed Services</title>
+      <description>The AI services market has fundamentally shifted from building one-off agents to managing them reliably at scale—and agencies that haven't adapted are losing out. We break down how infrastructure decisions like n8n's tunnel discontinuation are forcing agencies to choose between becoming managed service providers (capturing $1,500–$3,000/month retainers) or pivoting to alternative platforms, and why this sorting mechanism is reshaping the entire competitive landscape.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-03-23.mp3" length="14634764" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-83</guid>
       <pubDate>Tue, 24 Mar 2026 02:13:26 +0000</pubDate>
@@ -78,8 +72,8 @@ The big inflection point we're seeing is that the market has moved past "how do 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Local AI Intel Daily Brief — March 18, 2026</title>
-      <description>Welcome back. We're looking at the AI services marketplace today, and there's something pretty significant happening right now: the entire value proposition of what agencies sell has fundamentally shifted. We're not talking about building agents anymore. We're talking about running them reliably, pr...</description>
+      <title>The Death of One-Off AI Agent Builds: Why Agencies Must Become Service Operators</title>
+      <description>The AI services marketplace has fundamentally shifted from selling one-time agent builds to selling managed, reliable operations at scale. Agencies that can now offer observability, cost control, compliance, and ongoing optimization justify recurring retainers of $1,500-$3,000/month instead of single transactions—and this shift is already separating thriving firms from those getting left behind. This episode breaks down why infrastructure decisions (like n8n's discontinuation of free tunnels) are forcing agencies to level up or be outcompeted by mature managed services providers.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-03-18.mp3" length="13726604" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-69</guid>
       <pubDate>Thu, 19 Mar 2026 02:10:34 +0000</pubDate>

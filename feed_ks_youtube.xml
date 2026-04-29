@@ -60,10 +60,8 @@ Let's start with the headline: the API layer is collapsing, and most people stil
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — April 22, 2026</title>
-      <description>Hey, thanks for tuning in. We've got a lot happening in the creator space today, and it's worth paying attention to because the conversation is shifting in a pretty meaningful direction. Let's walk through what's moving the needle.
-
-The biggest story right now is that the design-to-code pipeline—the...</description>
+      <title>The Design-to-Code Pipeline is Collapsing Into a Single Prompt</title>
+      <description>OpenAI's new GPT Image 2.0 model is benchmarking 24 points ahead of competitors with exceptional UI understanding, while Claude Design and a new batched code generation approach called Bart mode are now enabling end-to-end frontend creation from a single text prompt—eliminating weeks of designer-developer handoffs. Six independent creators are already reporting this infrastructure shift across different use cases, marking a fundamental change in how frontend products get built.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-22.mp3" length="16443884" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-114</guid>
       <pubDate>Thu, 23 Apr 2026 03:34:31 +0000</pubDate>
@@ -71,10 +69,8 @@ The biggest story right now is that the design-to-code pipeline—the...</descri
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — April 21, 2026</title>
-      <description>Welcome back. We're covering a lot of ground today because the AI landscape just shifted in a way that feels significant—and most of the conversation is focused on the wrong thing.
-
-Let's start with what everyone's talking about: GPT-5.5 ships in 48 hours, and it's supposed to be a major breakthroug...</description>
+      <title>The Real AI War Isn't About Capability Rankings</title>
+      <description>GPT-5.5's imminent launch signals a shift in AI competition that goes far beyond model performance. New analysis reveals that major AI companies are intentionally constraining their models—sacrificing creativity and token efficiency to reduce costs and legal liability—while racing toward major financial milestones like Anthropic's October IPO. Understanding these strategic architectural choices matters more than tracking which chatbot wins the next capability benchmark.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-21.mp3" length="13225004" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-110</guid>
       <pubDate>Wed, 22 Apr 2026 03:28:07 +0000</pubDate>
@@ -82,10 +78,8 @@ Let's start with what everyone's talking about: GPT-5.5 ships in 48 hours, and i
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — April 20, 2026</title>
-      <description>Hey, welcome back. So we've got a genuinely interesting week shaping up in the AI tooling space, and I want to walk you through what's actually happening underneath the announcement noise.
-
-Let me start with the thing that's probably going to matter most: OpenAI is shipping GPT-5.5 this week. They'r...</description>
+      <title>OpenAI's GPT-5.5 Challenge to Claude's Developer Dominance</title>
+      <description>OpenAI is releasing GPT-5.5 this week as a direct challenge to Claude Opus's three-month reign as the default model for developers building agents and code generation tools. The release combines improved capability with better token efficiency and cheaper costs—a deliberate play to disrupt the consensus that's formed around Claude in the builder community. If the benchmarks hold up, this could force developers to reconsider infrastructure decisions they've locked in around Opus workflows.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-20.mp3" length="9444524" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-106</guid>
       <pubDate>Tue, 21 Apr 2026 03:24:10 +0000</pubDate>
@@ -93,10 +87,8 @@ Let me start with the thing that's probably going to matter most: OpenAI is ship
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 26, 2026</title>
-      <description>Welcome. We're looking at a market where the ground just shifted under the biggest conversation everyone's been having, and I want to walk you through what that means.
-
-For the last year, the narrative's been locked in place: pick your platform. Claude or OpenAI or Anthropic or whoever else. Build y...</description>
+      <title>Why Platform Lock-In Just Became Irrelevant</title>
+      <description>The AI builder ecosystem has fundamentally shifted: independent developers are shipping identical outputs and workflows across completely different platforms—Claude, OpenRouter, custom orchestrations—proving that model differences have collapsed into technical irrelevance. This marks the end of a two-year narrative about picking sides and building moats, replacing it with a new game where interoperability and orchestration matter more than any single platform's superiority.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-26.mp3" length="14995724" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-98</guid>
       <pubDate>Fri, 27 Mar 2026 03:29:33 +0000</pubDate>
@@ -104,10 +96,8 @@ For the last year, the narrative's been locked in place: pick your platform. Cla
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 25, 2026</title>
-      <description>Welcome back. We've got a significant pivot happening across the AI and creator economy right now, and it's worth understanding because it fundamentally changes who wins and loses in the next 18 months.
-
-Let me start with what's probably the most important signal: OpenAI is no longer building produc...</description>
+      <title>OpenAI's Enterprise Pivot: Why Creators Are About to Lose</title>
+      <description>OpenAI has quietly stopped building for creators and is restructuring around enterprise infrastructure—killing consumer products like Sora while consolidating resources into 'AGI Deployment' and a mysterious new model called 'Spud.' We break down the evidence that the entire AI industry is bifurcating into infrastructure layers and enterprise resellers, fundamentally reshaping the creator economy and the solo founder thesis over the next 18 months.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-25.mp3" length="13673804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-95</guid>
       <pubDate>Thu, 26 Mar 2026 03:28:27 +0000</pubDate>
@@ -115,10 +105,8 @@ Let me start with what's probably the most important signal: OpenAI is no longer
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 24, 2026</title>
-      <description>Welcome back. We've got a lot moving today, and I want to walk you through what's actually changing underneath all the noise.
-
-Let's start with the biggest structural shift, because it ties everything else together. Claude just released a set of updates that on the surface look like feature addition...</description>
+      <title>The Agent Stack Is Dead: Who Owns the Operating System</title>
+      <description>Claude's unified agent capabilities aren't just feature additions—they signal the complete collapse of modular agent architecture and the shift toward integrated agent-native systems. We break down why the real competitive moat is vertical integration and clean data access, examine how Nvidia, OpenAI, and others are racing to own the entire agent input/output layer before user habits calcify, and what this means for builders.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-24.mp3" length="13313804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-91</guid>
       <pubDate>Wed, 25 Mar 2026 03:28:28 +0000</pubDate>
@@ -126,10 +114,8 @@ Let's start with the biggest structural shift, because it ties everything else t
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 23, 2026</title>
-      <description>Hey, welcome back. Today we're looking at a really important inflection point in how AI agents are being built and deployed. And honestly, it's a lot more nuanced than the headlines suggest.
-
-Let me start with what's probably the biggest shift: the agent orchestration layer just became the real prod...</description>
+      <title>The Agent Orchestration Layer Is the Real Product Now</title>
+      <description>As AI agent frameworks mature, the industry has shifted from asking "should we use agents?" to "how do we coordinate multiple agents reliably?" This episode breaks down why orchestration—getting agents to share context, coordinate tasks, and hand off work without losing state—is becoming the actual constraint and competitive battleground, with platforms like Claude's Agent Teams and OpenAI's Claw Team leading the charge toward production-ready multi-agent systems.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-23.mp3" length="15445964" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-85</guid>
       <pubDate>Tue, 24 Mar 2026 03:30:26 +0000</pubDate>
@@ -137,8 +123,8 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
-      <description>Welcome back. We're tracking some really interesting shifts in the AI infrastructure world right now, and I want to walk you through what's actually happening beneath the headlines. Because there's a story here about markets bifurcating, data becoming the real bottleneck, and the economics of automa...</description>
+      <title>Why the AI Agent Market Is Splitting Into Three Completely Different Worlds</title>
+      <description>The infrastructure market for AI agents has bifurcated into three distinct tiers—Meta's Manus (plug-and-play simplicity), OpenClaw (powerful but complex), and Abacus (zero-code enterprise)—each capturing different user segments. This split reveals that adoption is no longer driven by raw capability but by friction: casual users want things that work today, developers want customization, and enterprises want managed solutions. Understanding this three-tiered landscape matters because it shows AI adoption won't follow the winner-take-all consolidation pattern of past tech waves, but instead stabilize around fundamentally different tools for different use cases.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-22.mp3" length="12844844" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-81</guid>
       <pubDate>Mon, 23 Mar 2026 03:27:58 +0000</pubDate>
@@ -146,10 +132,8 @@ Let me start with what's probably the biggest shift: the agent orchestration lay
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>YouTube Intelligence Daily Brief — March 21, 2026</title>
-      <description>Hey, welcome back. We've got a lot to dig into today, and honestly, this is one of those days where the signal density is really high—there are some genuine inflection points happening in how people are actually building things right now.
-
-Let's start with what's probably the most important thing I'...</description>
+      <title>The AI Agent Infrastructure Split: Three Winning Approaches</title>
+      <description>AI agents have moved from experimental to default for automation, but the infrastructure layer has fragmented into three distinct camps—each dominating their own niche. This episode breaks down how Anthropic's Claude ecosystem is winning on managed simplicity and reliability, while local-first approaches like OpenClaw and Ollama are capturing creators who prioritize data sovereignty and zero ongoing costs, with real production examples from creators shipping YouTube automation and content systems today.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-21.mp3" length="12078284" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-78</guid>
       <pubDate>Sun, 22 Mar 2026 03:27:36 +0000</pubDate>

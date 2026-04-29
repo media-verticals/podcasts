@@ -26,9 +26,7 @@
     <itunes:category text="Technology"/>
     <item>
       <title>How Production Teams Are Rebuilding Agent Architecture</title>
-      <description>Good morning. Let's talk about agents—and specifically, how the people actually building them in production are fundamentally rethinking what agent architectures should look like.
-
-There's a really important shift happening right now, and it's not about model capability. It's about execution pattern...</description>
+      <description>Good morning. Let's talk about agents—and specifically, how the people actually building them in production are fundamentally rethinking what agent architectures should look like.  There's a really important shift happening right now, and it's not about model capability. It's about execution...</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-25.mp3" length="16492364" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-124</guid>
       <pubDate>Sun, 26 Apr 2026 02:25:54 +0000</pubDate>
@@ -47,10 +45,8 @@ Let's start with the biggest signal today, because it's one of those rare pieces
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 22, 2026</title>
-      <description>Welcome back. Today we're watching something pretty fundamental shift in how companies are building AI agents—and it's not about the models themselves. It's about the infrastructure plumbing around them. So let's walk through what's happening.
-
-The big signal today comes from Google, and it's worth ...</description>
+      <title>Google's New TPUs Signal a Fundamental Shift From Fast Inference to Agent-First Infrastructure</title>
+      <description>Google's eighth-generation TPUs reveal how the entire industry is redesigning hardware around AI agents rather than traditional language models. Unlike conventional LLM serving that prioritizes speed and throughput, agents require sustained execution loops that can run for hours—shifting the optimization problem from "how fast?" to "how cheaply over time?" This architectural inversion means cloud infrastructure is now being built around agent constraints, fundamentally changing what builders need to prioritize when deploying agentic systems.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-22.mp3" length="14651084" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-113</guid>
       <pubDate>Thu, 23 Apr 2026 02:27:44 +0000</pubDate>
@@ -58,10 +54,8 @@ The big signal today comes from Google, and it's worth ...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 21, 2026</title>
-      <description>Here we go. A lot happened in the agent ecosystem this week, and most of it points to the same underlying shift: the industry is reorganizing around what actually works in production versus what looks good in demos.
-
-Let's start with what I think is the most important signal today. Anthropic is remo...</description>
+      <title>Why AI Companies Are Abandoning Commodity Agent Tools</title>
+      <description>Anthropic's removal of Claude Code from its Pro tier signals a fundamental market shift: raw agent runtimes are commoditizing too fast to be profitable, forcing AI companies to retreat to managed, proprietary agent infrastructure instead. We examine what's actually working in production—like Google's Deep Research Max—and why the future belongs to companies that control the execution environment, not those selling generic tooling.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-21.mp3" length="15347084" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-109</guid>
       <pubDate>Wed, 22 Apr 2026 02:24:51 +0000</pubDate>
@@ -69,10 +63,8 @@ Let's start with what I think is the most important signal today. Anthropic is r
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 20, 2026</title>
-      <description>Hey, welcome. Today we're watching the agent infrastructure market undergo a pretty fundamental shift—the kind that reshapes what builders actually need to win. It all started with a leak, and the response tells us something important about where this whole space is heading.
-
-Let's start with the bi...</description>
+      <title>The Claude Code Leak Just Killed Proprietary Agent Runtimes</title>
+      <description>When Claude Code's source code leaked, the open-source community shipped a clean-room rewrite in two hours that hit 200,000 GitHub stars—proving that proprietary agent runtime architectures are now a commodity. This episode breaks down what the leak reveals about the real competitive advantages in agent infrastructure: it's not the code itself, but the underlying model quality, skill libraries, orchestration tools, and governance layers that actually matter to builders.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-20.mp3" length="13329164" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-104</guid>
       <pubDate>Tue, 21 Apr 2026 02:22:57 +0000</pubDate>
@@ -80,10 +72,8 @@ Let's start with the bi...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 19, 2026</title>
-      <description>Welcome back. A lot's happening in the agent space right now, and I want to walk you through what I'm seeing as the most significant shift — because it's bigger than any single announcement.
-
-Let's start with the top signal, because it changes how we think about what agents are going to become. Anth...</description>
+      <title>Anthropic's Managed Agents: Why the Platform, Not the Model, Is the Real Shift</title>
+      <description>Anthropic just launched Claude Managed Agents—a fully hosted, production-ready agent platform that eliminates the infrastructure complexity that's been holding back widespread adoption. This changes the game because it removes the engineering barrier: no deployment, no orchestration work, no persistent state management required. We break down why this shift from "best model" to "best platform" matters competitively, and what it means for how teams will actually build and deploy agents going forward.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-19.mp3" length="21080204" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-101</guid>
       <pubDate>Mon, 20 Apr 2026 02:33:59 +0000</pubDate>
@@ -91,10 +81,8 @@ Let's start with the top signal, because it changes how we think about what agen
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — April 19, 2026</title>
-      <description>Welcome back. We've got a fascinating day in the agent infrastructure space, and honestly, it feels like the ground is shifting underneath some pretty fundamental assumptions about how AI agents should actually work in production.
-
-Let's start with what's winning mindshare right now, because it's te...</description>
+      <title>Why Cheap Beats Smart: The Agent Infrastructure Reckoning</title>
+      <description>The AI agent market is shifting away from expensive cloud infrastructure toward lean, cost-effective alternatives—a $7/month VPS running IRC is outcompeting sophisticated hosted solutions because economics trump capability. We examine how builders are rethinking agent architecture around real constraints like Claude's five-hour session limits, moving to orchestrated multi-session workflows that challenge conventional assumptions about what infrastructure agents actually need.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-19.mp3" length="11752844" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-99</guid>
       <pubDate>Sun, 19 Apr 2026 20:39:16 +0000</pubDate>
@@ -102,8 +90,8 @@ Let's start with what's winning mindshare right now, because it's te...</descrip
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 26, 2026</title>
-      <description>Welcome back. We're covering the agent infrastructure story today, and it's really shifted in a meaningful way. The big signal is that we're watching the agent market splinter—not in a chaotic way, but in a very structured way—around where agents actually live and run. And once you see that pattern,...</description>
+      <title>The Agent Infrastructure Splinter: Where Agents Live Now Matters More Than Which Model They Use</title>
+      <description>The assumption that AI agents need expensive cloud infrastructure is breaking down as builders discover that cheaper, decentralized deployment options—from $7/month VPS instances to desktop runners—can outcompete resource-heavy alternatives. This shift is reframing the competitive question from model capability to execution location and cost efficiency, marking a real inflection point in how agent infrastructure gets built and deployed.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-26.mp3" length="12764684" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-97</guid>
       <pubDate>Fri, 27 Mar 2026 02:22:34 +0000</pubDate>
@@ -111,10 +99,8 @@ Let's start with what's winning mindshare right now, because it's te...</descrip
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 25, 2026</title>
-      <description>Welcome back. Today we're watching the agent infrastructure market start to really mature, and it's a shift worth understanding because it changes where the actual competitive advantage is going to be.
-
-Let's start with what feels like the most significant signal: Swift agents are breaking out of th...</description>
+      <title>The Agent Infrastructure Layer Is Hardening—And It's Not About Models Anymore</title>
+      <description>The agent market is maturing with a fundamental shift: deployment is moving from cloud services to native platforms (Swift on iOS/macOS), and safety is shifting from prompt-based refusals to runtime-enforced guardrails. Builders deploying production agents with system access are now using circuit-breaker patterns and action validation layers to intercept and control agent behavior before execution—a critical infrastructure move that signals where competitive advantage actually lies.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-25.mp3" length="13135244" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-94</guid>
       <pubDate>Thu, 26 Mar 2026 02:23:45 +0000</pubDate>
@@ -122,10 +108,8 @@ Let's start with what feels like the most significant signal: Swift agents are b
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 24, 2026</title>
-      <description>Welcome. Today we're looking at a meaningful shift in how agents are actually being deployed in production, and it centers on a single insight: agents now need to verify their own work before anything ships.
-
-Let's start with the headline development. There's a tool called ProofShot that just hit 11...</description>
+      <title>The Verification Layer: Why Agents Now Need to See Their Own Work</title>
+      <description>Coding agents are entering a new phase of deployment, one where self-verification replaces blind trust in internal reasoning. ProofShot's vision layer lets agents see what they've actually built and catch hallucinations before code ships, while infrastructure changes like Cloudflare's dynamic workers approach enable safer autonomous execution. This shift from model reasoning to ground-truth validation is the key unlock for truly autonomous full-stack deployment without human gatekeeping.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-24.mp3" length="14965484" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-90</guid>
       <pubDate>Wed, 25 Mar 2026 02:25:58 +0000</pubDate>
@@ -133,10 +117,8 @@ Let's start with the headline development. There's a tool called ProofShot that 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 23, 2026</title>
-      <description>Hey, welcome back. We're looking at a pretty significant inflection point in how AI agents are actually being used—and I want to start with what I think is the most important signal of the week.
-
-Agent teams are shipping in production right now. Not as experiments, not as proofs of concept—actual pr...</description>
+      <title>Agent Teams Are Going to Production—and the Economics Are Shifting</title>
+      <description>Multi-agent systems are moving from experimental to production deployments, with specialized agent teams handling complex workflows in parallel—but at significantly higher inference costs. We explore why builders are paying the multiplier to escape single-agent bottlenecks, and examine autonomous research agents that completed 748 ML experiments in 48 hours, catching bugs that human experts with decades of experience had missed.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-23.mp3" length="12305804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-84</guid>
       <pubDate>Tue, 24 Mar 2026 02:31:28 +0000</pubDate>
@@ -144,10 +126,8 @@ Agent teams are shipping in production right now. Not as experiments, not as pro
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 22, 2026</title>
-      <description>Welcome back. Today's agent ecosystem is crystallizing around something pretty fundamental, and it's a shift worth understanding if you're watching how this technology actually deploys in the real world.
-
-The big headline is this: we're moving away from the idea that better reasoning means better ag...</description>
+      <title>Why Agent Reasoning Isn't the Bottleneck Anymore</title>
+      <description>The agent ecosystem is shifting from chasing better reasoning models to building libraries of reliable, composable skills. This episode explores why production deployments show that discrete, pre-validated functionality—not raw reasoning capacity—is what actually determines whether agents succeed at real work without hallucinating or failing unexpectedly.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-22.mp3" length="16543244" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-80</guid>
       <pubDate>Mon, 23 Mar 2026 02:26:25 +0000</pubDate>
@@ -155,10 +135,8 @@ The big headline is this: we're moving away from the idea that better reasoning 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 21, 2026</title>
-      <description>Hey, welcome back. There's something genuinely interesting happening right now in how agents are actually being built and deployed in production, and it's almost nothing like what the headlines are telling you it's about.
-
-So let me start with the thing that caught my attention most today. For the l...</description>
+      <title>Why Agent Architecture is Moving to Messaging Infrastructure</title>
+      <description>The real bottleneck in deploying AI agents isn't orchestration—it's messaging. As agents move from being subordinates in call chains to peers in distributed systems, the winners are embedding themselves directly into existing communication channels like Telegram, Discord, and browser extensions rather than building custom integration layers. This shift from centralized orchestration to asynchronous, queue-based messaging fundamentally changes how production agent systems should be designed.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-21.mp3" length="13642124" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-77</guid>
       <pubDate>Sun, 22 Mar 2026 02:23:34 +0000</pubDate>
@@ -166,10 +144,8 @@ So let me start with the thing that caught my attention most today. For the l...
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 20, 2026</title>
-      <description>Good morning. Let's walk through what's happening in the agent ecosystem today, because there's a real architectural shift taking place—and it's not about model capability. It's about how agents get deployed into the real world.
-
-The headline: Claude Code just shipped native integration with Telegra...</description>
+      <title>The Agent Architecture Shift: Why Messaging Integration Changes Everything</title>
+      <description>Claude Code's native Telegram and Discord integration collapses the operational burden of deploying autonomous agents—no cloud infrastructure, no DevOps overhead, just ambient workers in the messaging layers teams already use. Meanwhile, MiniMax's M2.7 model is delivering identical agentic capability at 1/50th the cost of Claude Opus, creating simultaneous pressure on both friction and price that's about to reshape how enterprises think about agent deployment.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-20.mp3" length="11384684" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-75</guid>
       <pubDate>Sat, 21 Mar 2026 02:21:17 +0000</pubDate>
@@ -177,10 +153,8 @@ The headline: Claude Code just shipped native integration with Telegra...</descr
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 19, 2026</title>
-      <description>So we're watching agents move from experimental to infrastructure, and that shift is creating some really specific problems that are worth your attention. Let me walk through what's happening.
-
-The headline today is that Claude Code just shipped something called context_fork that genuinely solves on...</description>
+      <title>When Agents Go Live: How Context_Fork Changes Autonomous Infrastructure</title>
+      <description>Claude's new context_fork feature solves a critical scaling problem for long-running agents—context window degradation—by isolating expensive operations into separate contexts while keeping the main agent thread clean. With companies like Voltair and Canary now deploying agents to control physical hardware and CI/CD pipelines respectively, reliable agent infrastructure has stopped being experimental and become business-critical.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-19.mp3" length="13118924" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-72</guid>
       <pubDate>Fri, 20 Mar 2026 02:24:05 +0000</pubDate>
@@ -188,10 +162,8 @@ The headline today is that Claude Code just shipped something called context_for
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 18, 2026</title>
-      <description>Hello and welcome. Today we're tracking a significant shift in how autonomous agents operate in the real world. And honestly, this is where the conversation gets more interesting than the hype cycle would suggest.
-
-Let's start with the biggest structural development: Stripe just announced something ...</description>
+      <title>Autonomous Agents Just Became Economic Players</title>
+      <description>Stripe's new Machine Payments Protocol marks a fundamental shift: autonomous agents are no longer just tools executing tasks, but actual economic actors that can hold balances, process transactions, and settle accounts independently. Combined with Google's deployment of an AI agent for Linux kernel code review, we're seeing agents move from experimental territory into mission-critical infrastructure—which means the architecture, payment infrastructure, and settlement mechanisms you build today will determine whether your agents can compete in multi-agent markets.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-18.mp3" length="12817004" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-70</guid>
       <pubDate>Thu, 19 Mar 2026 02:23:55 +0000</pubDate>
@@ -199,8 +171,8 @@ Let's start with the biggest structural development: Stripe just announced somet
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ai_agents Daily Brief — March 17, 2026</title>
-      <description>Welcome back. Today we're looking at something genuinely significant: the agent ecosystem just made a fundamental shift, and it happened quietly across five or six different product launches in the span of maybe two weeks. The kind of shift that doesn't feel dramatic when it's happening but will loo...</description>
+      <title>Agents Are Going Local: The Quiet Shift Away From Cloud Infrastructure</title>
+      <description>A wave of product launches from OpenAI, Perplexity, NVIDIA, and others reveal a fundamental architectural shift: AI agents are moving from cloud-dependent APIs to local hardware. This transition—driven by cost economics (10x cheaper at scale) and competitive necessity—reshapes what actually matters in agent competition: no longer API access and model quality, but orchestration, decision-making, and integration with your actual environment. Understanding this shift now is critical for anyone building or evaluating agent infrastructure.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-03-17.mp3" length="13678604" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-67</guid>
       <pubDate>Wed, 18 Mar 2026 02:25:43 +0000</pubDate>

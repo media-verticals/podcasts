@@ -17,9 +17,9 @@
       <itunes:name>Knowledge Studio</itunes:name>
       <itunes:email>placeholder@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://media-verticals.github.io/podcasts/covers/health_podcast_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png"/>
     <image>
-      <url>https://media-verticals.github.io/podcasts/covers/health_podcast_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png</url>
       <title>Longevity Edge</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
@@ -49,10 +49,8 @@ For decade...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — April 21, 2026</title>
-      <description>Good morning. We're looking at a fascinating moment in longevity research—the field is moving from isolated discoveries into genuine synthesis. That's what grabbed my attention today, and I want to walk you through what's happening because it changes how we should think about aging itself.
-
-Let's st...</description>
+      <title>The SIRT6 Shortcut: Why Direct Brain Protein Repair Might Beat NAD+ Boosters</title>
+      <description>Researchers at Ben-Gurion University have discovered that SIRT6, a protein in the brain, can prevent cognitive decline by stopping protein clumping—and it works independently of NAD+ metabolism, the canonical pathway that has dominated longevity science. This finding suggests a cleaner, more targeted approach to brain aging with fewer metabolic side effects than broad-spectrum NAD+ boosters like resveratrol and NMN. The critical question ahead is whether direct SIRT6 activators will outperform the NAD+-boosting compounds already in clinical trials.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-04-21.mp3" length="13041164" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-108</guid>
       <pubDate>Wed, 22 Apr 2026 02:09:23 +0000</pubDate>
@@ -60,10 +58,8 @@ Let's st...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 24, 2026</title>
-      <description>Welcome back. Let's start with the research that's going to matter most this year.
-
-There's a finding coming out in PNAS that's genuinely reshaping how we think about where aging happens in the body. A team led by Ingaramo just published work showing that your fat tissue—adipose tissue, to be precis...</description>
+      <title>Fat Tissue Is a Longevity Control Center—And It Could Change How We Treat Aging</title>
+      <description>New research in PNAS reveals that adipose tissue regulates lifespan through a microRNA processing mechanism independent of previously known aging pathways, positioning fat tissue as a "longevity hub" that controls insulin signaling and glucose homeostasis across the body. If this mechanism translates to humans, it could enable a new class of aging drugs that work like insulin sensitizers without the growth-suppressing side effects that plague current interventions.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-24.mp3" length="15423404" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-89</guid>
       <pubDate>Wed, 25 Mar 2026 02:11:12 +0000</pubDate>
@@ -71,10 +67,8 @@ There's a finding coming out in PNAS that's genuinely reshaping how we think abo
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 24, 2026</title>
-      <description>Hey, welcome back. There's something really important happening right now in aging research, and it's not where most people are looking. Let me walk you through what's going on.
-
-The biggest signal today is honestly kind of unsettling once you think about it through. Researchers at Moulton just publ...</description>
+      <title>The Plastic Accumulation Problem Nobody's Measuring in Longevity Research</title>
+      <description>New research from Moulton reveals that micro and nanoplastics accumulate throughout your lifetime and actively accelerate aging at the cellular level—through oxidative stress, mitochondrial dysfunction, and measurable aging markers. This discovery suggests that detoxification capacity may be a critical bottleneck in longevity interventions that researchers have been overlooking, potentially explaining why some people respond to anti-aging treatments while others don't, and why future trials need to measure baseline plastic burden and genetic variations in detox enzymes.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-24.mp3" length="15592364" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-87</guid>
       <pubDate>Tue, 24 Mar 2026 20:34:03 +0000</pubDate>
@@ -82,8 +76,8 @@ The biggest signal today is honestly kind of unsettling once you think about it 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 17, 2026</title>
-      <description>Welcome back. We've got some really important developments today—and I mean that specifically. There's a genuine safety signal in the field that's going to reshape how we think about one of the most popular aging interventions, and it sits right alongside some genuinely exciting news about another c...</description>
+      <title>The Dark Side of Senolytic Drugs: Brain Damage From Popular Anti-Aging Compounds</title>
+      <description>A new study from the University of Minnesota published in PNAS reveals that senolytic drugs—compounds designed to clear senescent cells and slow aging—are causing demyelination and nerve damage in the brain. Researchers found that dasatinib and quercetin, already being used by longevity enthusiasts, inadvertently destroy protective cells alongside senescent ones, potentially causing the very neurological harm people are trying to prevent. This finding challenges the mainstream longevity narrative and raises urgent questions about whether popular anti-aging interventions need fundamental redesign.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-17.mp3" length="12753644" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-66</guid>
       <pubDate>Wed, 18 Mar 2026 02:11:59 +0000</pubDate>
@@ -91,10 +85,8 @@ The biggest signal today is honestly kind of unsettling once you think about it 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 13, 2026</title>
-      <description>Welcome back. Today we're looking at some really interesting developments in how we're learning to measure aging, and maybe more importantly, how we're starting to see that aging isn't one process—it's a bunch of different processes happening at different speeds in different parts of your body.
-
-Let...</description>
+      <title>Aging Isn't One Clock—It's Many Systems Declining at Different Speeds</title>
+      <description>New research combining blood biomarkers, microbiome data, and machine learning can predict biological age far better than existing epigenetic clocks, revealing that aging happens simultaneously across multiple biological systems—metabolism, immune function, and gut bacteria—each moving at different rates. This shift from single-biomarker measurements to comprehensive aging profiles is changing how researchers think about aging interventions and who will actually experience health decline.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-13.mp3" length="18435884" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-58</guid>
       <pubDate>Sat, 14 Mar 2026 02:21:07 +0000</pubDate>
@@ -102,10 +94,8 @@ Let...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 10, 2026</title>
-      <description>Welcome back. We've got a really interesting set of developments today that I think points toward something fundamental shifting in how we think about aging and prevention.
-
-Let's start with the top signal, because this one's worth sitting with for a moment. Researchers at UC San Diego have identifi...</description>
+      <title>The 25-Year Warning: New Blood Test Could Predict Dementia Decades Early</title>
+      <description>UC San Diego researchers have discovered a blood biomarker that can identify dementia risk up to 25 years before symptoms appear—a dramatic expansion of our current 5-10 year prediction window. The episode explores what this breakthrough means for prevention strategy and examines why our ability to predict disease is outpacing our capacity to actually prevent it, plus findings from the COSMOS trial showing multivitamins measurably slow biological aging.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-10.mp3" length="11949644" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-48</guid>
       <pubDate>Wed, 11 Mar 2026 02:08:52 +0000</pubDate>
@@ -113,10 +103,8 @@ Let's start with the top signal, because this one's worth sitting with for a mom
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 6, 2026</title>
-      <description>Welcome back. Today's research is pointing us toward something that's been lurking just beneath the surface of aging biology for years, and it's starting to crystallize into something actionable. Let me walk you through what we're seeing.
-
-The biggest signal today is about mitochondrial architecture...</description>
+      <title>Mitochondrial Shape, Not Size, Is the Real Aging Clock in Your Kidneys</title>
+      <description>New research reveals that mitochondrial architecture—specifically the organization of inner membrane folds maintained by the MICOS complex—deteriorates with age in kidney cells, driving tissue aging independently of energy production. Since kidney decline triggers cascading dysfunction throughout the body, targeting MICOS stability could become the first precision intervention against age-related renal failure, filling a critical gap where current medicine has only generic treatments.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-06.mp3" length="12335564" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-40</guid>
       <pubDate>Sat, 07 Mar 2026 03:18:29 +0000</pubDate>
@@ -124,10 +112,8 @@ The biggest signal today is about mitochondrial architecture...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — March 3, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT — MARCH 3, 2026
-
-Hey, welcome back. Let's walk through what's moving in the aging research space today. There are some really interesting developments that are starting to reshape how we think about intervention strategy—and I want to walk you through them because...</description>
+      <title>Beyond Slowing Down: How Thiolutin Rewires Cells for Longevity</title>
+      <description>A new study from Scientific Reports reveals a fundamentally different approach to extending lifespan—one that doesn't suppress metabolism but redirects it. Rather than slowing growth pathways like previous breakthroughs (mTOR inhibition, rapamycin), thiolutin rewires how cells prioritize gene expression, shifting resources toward stress resistance and efficiency. This discovery may explain why aging interventions produce wildly different results across individuals and opens a new strategic direction for longevity research.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-03-03.mp3" length="17176844" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-36</guid>
       <pubDate>Wed, 04 Mar 2026 03:14:58 +0000</pubDate>
@@ -135,12 +121,8 @@ Hey, welcome back. Let's walk through what's moving in the aging research space 
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — February 27, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST — February 27, 2026
-
-Hey, thanks for tuning in. We've got a really solid day of aging research to walk through—and honestly, some of this is pushing the conversation in directions I think we need to be paying closer attention to.
-
-Let's start with what I think is the mos...</description>
+      <title>The Senescence Link: How Aging Cells Destroy Male Fertility—and How to Reverse It</title>
+      <description>A groundbreaking study identifies the exact biological mechanism behind male reproductive decline: senescent cells accumulating in the epididymis actively suppress sperm motility through inflammation. Researchers show this damage is reversible using senolytics, opening a direct pathway from mouse studies to human clinical trials and positioning reproductive aging as an overlooked but targetable frontier in longevity research.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-27.mp3" length="15706604" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-31</guid>
       <pubDate>Sat, 28 Feb 2026 03:26:13 +0000</pubDate>
@@ -148,10 +130,8 @@ Let's start with what I think is the mos...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — February 24, 2026</title>
-      <description># HEALTH &amp; LONGEVITY — February 24, 2026
-
-Hey, welcome. Today we're looking at some really important developments in how we understand extreme aging and the biological mechanisms that might let us intervene earlier than we've ever been able to. There's some genuine signal here—both in terms of what ...</description>
+      <title>The Blood Signatures of Centenarians: Early Intervention Before You're Old</title>
+      <description>New research from the SWISS100 cohort has identified distinct blood biomarker patterns in centenarians that separate them from normal aging populations—revealing measurable signatures around metabolic resilience and inflammation. Rather than studying extreme longevity as retrospective curiosity, scientists can now use these biomarkers to identify younger people tracking toward exceptional aging and intervene early, shifting longevity research from case studies to scalable preventive medicine.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-24.mp3" length="14311724" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-27</guid>
       <pubDate>Wed, 25 Feb 2026 03:28:08 +0000</pubDate>
@@ -159,10 +139,8 @@ Hey, welcome. Today we're looking at some really important developments in how w
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — February 20, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST — FEBRUARY 20, 2026
-
-Hey there. Welcome back. Today we're looking at some genuinely fascinating developments in how we understand aging at the cellular level—and what that might mean for actual interventions that could slow or even reverse some of the hallmarks of gettin...</description>
+      <title>The Hidden Architecture of Muscle Aging: Why Protein Isn't the Whole Story</title>
+      <description>New research reveals that muscle loss in aging isn't just about declining protein synthesis—it's rooted in the physical deterioration of mitochondrial-endoplasmic reticulum contact sites within cells, structures essential for energy management and cellular signaling. This discovery suggests that current interventions focused solely on protein intake and resistance training may be missing a deeper cellular mechanism, potentially opening the door to entirely new therapeutic approaches for reversing age-related muscle decline.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-20.mp3" length="15597644" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-19</guid>
       <pubDate>Sat, 21 Feb 2026 03:20:06 +0000</pubDate>
@@ -170,13 +148,8 @@ Hey there. Welcome back. Today we're looking at some genuinely fascinating devel
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — February 17, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT
-## February 17, 2026
-
----
-
-Hey, welcome back. Today we've got some really interesting signals coming through on the aging research front, and there's one thing in particular that I think is going to make a lot of people reconsider how they're approaching NAD+ supp...</description>
+      <title>Why Your NAD+ Supplement Might Not Be Working</title>
+      <description>New research reveals that NAD+ supplementation effectiveness depends less on total NAD+ levels and more on the NAD+/NADH ratio—the balance between oxidized and reduced forms. This mechanistic finding suggests current longevity protocols using NMN and NR may miss critical metabolic outcomes unless combined with redox-balancing compounds like ubiquinol, fundamentally shifting how aging-focused supplement strategies should be designed.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-17.mp3" length="19416044" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-14</guid>
       <pubDate>Wed, 18 Feb 2026 03:18:48 +0000</pubDate>
@@ -184,13 +157,8 @@ Hey, welcome back. Today we've got some really interesting signals coming throug
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — February 13, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT
-## February 13, 2026
-
----
-
-Hey, welcome back. Quick heads-up on what we're walking through today: we've got some really important methodological breakthroughs that are going to accelerate how we measure aging, some emerging mechanistic clarity on why aging happens...</description>
+      <title>The Machine Learning Breakthrough That Predicts Aging in Any Tissue</title>
+      <description>A new tool called ORANGE uses gene expression data and machine learning to map tissue-specific aging patterns without requiring years of longitudinal studies—potentially accelerating our ability to measure and predict mortality risk. The episode explores this methodological breakthrough alongside emerging connections between mitochondrial dysfunction, immune aging, and cognitive decline that could reshape how we approach anti-aging interventions.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-13.mp3" length="20657804" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-10</guid>
       <pubDate>Sat, 14 Feb 2026 03:29:29 +0000</pubDate>
@@ -198,14 +166,8 @@ Hey, welcome back. Quick heads-up on what we're walking through today: we've got
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — February 10, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST SCRIPT — February 10, 2026
-
----
-
-Hey, welcome back. It's February 10th, and we've got some really interesting signals coming through today—things that are moving the dial on how we understand aging, and more importantly, what we might actually do about it.
-
-Let me give y...</description>
+      <title>Melatonin's Hidden Power: How It Rewires Cellular Inflammation and Aging</title>
+      <description>New research reveals melatonin does far more than regulate sleep—it actively suppresses the NLRP3 inflammasome, a key driver of cellular damage during oxygen deprivation events like heart attacks and strokes. This discovery points to mitochondrial function as the unified mechanism underlying multiple aging diseases, suggesting melatonin's real value may be as a cellular protectant rather than a sleep aid.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-10.mp3" length="20124044" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-6</guid>
       <pubDate>Wed, 11 Feb 2026 03:17:06 +0000</pubDate>
@@ -213,12 +175,8 @@ Let me give y...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Health &amp; Longevity Daily Brief — February 9, 2026</title>
-      <description># HEALTH &amp; LONGEVITY PODCAST — February 7, 2026
-
----
-
-So here's what jumped out to me this week: we might need to completely rethink how we talk about living longer. And it's not because we've discovered some new miracle drug or biohack. It's actually the opposite. It's because the old way of thinki...</description>
+      <title>Why Your Genes Matter More Than Ever (And What That Actually Means)</title>
+      <description>New research shows heritability of human lifespan has doubled from 25% to 50%—not because genes changed, but because modern medicine and living standards have leveled the environmental playing field. When basic survival factors like clean water, food, and healthcare become universal in developed countries, genetic variation emerges as a more visible factor in longevity differences. Understanding this shift changes how we should think about our own healthspan and what we can actually control.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-02-07.mp3" length="17486444" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-3</guid>
       <pubDate>Mon, 09 Feb 2026 15:46:59 +0000</pubDate>

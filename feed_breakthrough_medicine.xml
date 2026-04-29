@@ -17,9 +17,9 @@
       <itunes:name>Knowledge Studio</itunes:name>
       <itunes:email>placeholder@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://media-verticals.github.io/podcasts/covers/future_medicine_podcast_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/breakthrough_medicine_cover.png"/>
     <image>
-      <url>https://media-verticals.github.io/podcasts/covers/future_medicine_podcast_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/breakthrough_medicine_cover.png</url>
       <title>Breakthrough Medicine</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
@@ -36,8 +36,8 @@ There's a pancreatic cancer ...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>future_medicine Daily Brief — April 20, 2026</title>
-      <description>Hello, and welcome. Today we're watching what might be the most important inflection point in medicine since mRNA vaccines proved themselves in the real world. We're not just seeing advances in cancer treatment anymore—we're watching an entire economic model shift. Cell therapy is becoming a commodi...</description>
+      <title>CAR-NK Cells: How Cancer Therapy Went from Boutique to Commodity</title>
+      <description>CAR-T cell therapy proved that engineered immune cells could cure certain cancers, but the process of customizing each dose for individual patients kept it confined to a handful of specialized centers worldwide. Now CAR-NK cells—which work just as effectively but can be manufactured from healthy donors in scalable batches—are opening Phase I trials and threatening to upend the entire economics of cellular immunotherapy. This shift from personalized to off-the-shelf treatment could make life-saving cancer therapies accessible to thousands of patients by 2028.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-04-20.mp3" length="14568524" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-105</guid>
       <pubDate>Tue, 21 Apr 2026 02:39:12 +0000</pubDate>
@@ -45,8 +45,62 @@ There's a pancreatic cancer ...</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>future_medicine Daily Brief — March 24, 2026</title>
-      <description>Welcome back. We're going to walk through what's happening in medicine right now, and I think you're going to see why this moment feels different. There's a genuine inflection point forming—not just incremental progress, but compression happening across multiple dimensions at once. That's what I wan...</description>
+      <title>Gene-edited porcine livers in patients: The organ shortage is finally a biotechnology problem</title>
+      <description>Gene-edited porcine livers are being perfused in acute liver failure patients at Xijing Hospital—the first clinical validation that xenotransplant organs can bridge or replace human transplantation, compressing waitlist timelines from years to weeks. Parallel breakthroughs in off-the-shelf cell therapies (FT836, CTX131) and mitochondrial biology are reshaping treatment accessibility and longevity pathways.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-15.mp3" length="15444045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-133</guid>
+      <pubDate>Wed, 15 Apr 2026 20:42:45 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>mRNA stops being emergency tech, becomes platform for cancer</title>
+      <description>mRNA platforms have solved critical stability problems, moving beyond infectious disease into personalized cancer vaccines—with Phase I trials actively recruiting in Shanghai. Simultaneously, CRISPR is transitioning from cell engineering to direct tissue injection, achieving 50% tumor elimination in head-and-neck cancers with single injections. Thymus regeneration research is unlocking immune durability, creating a convergence that reshapes how gene therapies work.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-09.mp3" length="13412685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-132</guid>
+      <pubDate>Fri, 10 Apr 2026 02:33:58 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>CAR-T goes point-of-care: manufacturing moves inside the patient</title>
+      <description>Researchers have demonstrated CAR-T cells can now be engineered directly inside patients, eliminating the weeks-long manufacturing timeline and specialized facility requirement that made cell therapy rare and expensive. Three parallel approaches—in-body manufacturing, off-the-shelf allogeneic cells, and point-of-care engineering—are converging to make CAR-T accessible at scale by 2027-2028. Meanwhile, gene therapy and RNA vaccines are solving similar infrastructure bottlenecks through lipid nanoparticles and self-amplifying RNA.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-06.mp3" length="16491405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-131</guid>
+      <pubDate>Tue, 07 Apr 2026 02:36:10 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The bottleneck moves: AI collapses mRNA vaccine timelines</title>
+      <description>A non-specialist used AI to design an mRNA cancer vaccine for his dog, got it manufactured, and it worked—signaling that the hard part of medicine is no longer discovery, but regulatory permission. Meanwhile, senotherapy research converges on FXR, homoharringtonine, and klotho as systematic aging interventions, and CRISPR therapies are moving from rare disease into real-world clinical scale.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-04-02.mp3" length="14847885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-130</guid>
+      <pubDate>Fri, 03 Apr 2026 02:35:00 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Centenarian metabolotypes shift longevity from prediction to intervention</title>
+      <description>Researchers have identified distinct metabolic signatures in centenarians that can now be detected before age 80, shifting longevity science from observation to active intervention with metformin, circadian entrainment, and targeted probiotics. Convergent findings across model organisms reveal a circadian-mTOR-mitochondrial axis controlling aging, suggesting stacked interventions could begin human testing within 18 months. Meanwhile, CRISPR specificity breakthroughs and phase II trials in gene editing and xenotransplantation are removing regulatory blockers.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-03-30.mp3" length="15217965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-129</guid>
+      <pubDate>Tue, 31 Mar 2026 02:35:24 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>mRNA Cancer Vaccines Hit 50% Survival Gain—The Inflection Point</title>
+      <description>Moderna and Merck's personalized mRNA melanoma vaccine just demonstrated 50% reduction in death and recurrence risk over five years—moving from trial to standard-of-care territory. Simultaneously, AI-driven drug discovery, immunopeptidomics, and CRISPR gene therapy are compressing development timelines across oncology and rare disease. By 2028, the entire design-to-patient cycle for personalized mRNA therapies could reach 6–8 weeks.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_breakthrough_medicine_2026-03-28.mp3" length="14182125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-128</guid>
+      <pubDate>Sat, 28 Mar 2026 05:53:32 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Personalized Cancer Vaccine Inflection Point</title>
+      <description>Moderna and Merck's personalized mRNA cancer vaccine has achieved a landmark 50% reduction in death and recurrence risk over five years in melanoma patients—moving from promising research to standard-of-care treatment. This episode explores why this moment represents a genuine inflection point in oncology: personalized neoantigen vaccines, designed by sequencing individual tumors and training the immune system to attack specific mutations, are now backed by durable survival data and scaling infrastructure, fundamentally changing how we treat solid tumors.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-03-24.mp3" length="12719564" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-86</guid>
       <pubDate>Tue, 24 Mar 2026 18:01:36 +0000</pubDate>
