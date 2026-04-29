@@ -26,9 +26,7 @@
     <itunes:category text="Technology"/>
     <item>
       <title>Claude's Coding Dominance Ends as GPT-5.5 Takes Over</title>
-      <description>Welcome back. Let's walk through what's happening in the creator ecosystem right now, because there are some genuinely important shifts buried in today's signal mix.
-
-We're starting with something that feels subtle on the surface but actually represents the first real model hierarchy change we've se...</description>
+      <description>GPT-5.5 Codex is displacing Claude as the dominant coding model not through superior reasoning but through integrated tooling—a desktop app with native action-taking, image generation, and computer use that eliminates context-switching friction for development workflows. This shift signals that practical integration and user experience now matter more than raw capability metrics, forcing Anthropic to match with a competitive desktop environment or risk losing developer mindshare. The episode breaks down why architectural elegance loses to workflow friction and what the creator economy prioritizes when choosing AI tools in 2026.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-25.mp3" length="11556044" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-125</guid>
       <pubDate>Sun, 26 Apr 2026 03:26:33 +0000</pubDate>
@@ -37,11 +35,7 @@ We're starting with something that feels subtle on the surface but actually repr
     </item>
     <item>
       <title>AI Shifts From Capability to Real-World Problem Solving</title>
-      <description>Hey everyone, welcome back.
-
-There's a real inflection happening right now in how AI is being used to actually build things, and I want to walk you through what we're seeing because it reshapes some fundamental assumptions about where this technology is headed.
-
-Let's start with the biggest signal. ...</description>
+      <description>OpenAI's new GPT-5.5 prioritizes complex multi-step workflows and agentic reasoning over raw speed or cost, delivering 75% fewer output tokens than its predecessor and fundamentally reshaping how teams deploy AI for production work. While GPT-5.5 dominates on orchestration and computational efficiency, Anthropic's Claude Opus maintains superiority in creative and visual tasks, creating a market bifurcation where teams now choose models based on workflow type rather than overall capability. This shift signals that AI competition is moving from "best general model" to specialized tools optimized for specific problem categories, with profound implications for how enterprises architect their AI infrastructure.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-24.mp3" length="14348684" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-122</guid>
       <pubDate>Sat, 25 Apr 2026 03:28:50 +0000</pubDate>
@@ -50,9 +44,7 @@ Let's start with the biggest signal. ...</description>
     </item>
     <item>
       <title>How AI's API Layer Is Quietly Collapsing Now</title>
-      <description>Welcome to the show. Today, we're looking at what might be the most consequential shift in how AI actually gets built and deployed—and it's happening faster than the venture playbooks can even document.
-
-Let's start with the headline: the API layer is collapsing, and most people still don't realize ...</description>
+      <description>GPT-5.5's native OS-level screen control eliminates the need for APIs, allowing AI agents to automate any application by directly reading and interacting with screens—making the traditional API integration layer economically obsolete. This shift destroys the five-year-old playbook where companies built competitive moats through proprietary APIs and integration ecosystems, forcing a fundamental rethink of software automation strategy. Understanding this collapse is critical because it signals a seismic reorganization of how software interoperability works and where competitive advantage actually lies in an AI-native future.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-23.mp3" length="13100684" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-118</guid>
       <pubDate>Fri, 24 Apr 2026 03:27:56 +0000</pubDate>
@@ -142,9 +134,7 @@ Let's start with the headline: the API layer is collapsing, and most people stil
     </item>
     <item>
       <title>YouTube Intelligence Brief — March 19, 2026</title>
-      <description>Welcome to the show. We're covering a lot of ground today, and honestly, it feels like we're watching a major inflection point happen in real time—the moment when AI agents stop being experimental tools and become actual infrastructure that people are building real businesses on.
-
-Let's start with w...</description>
+      <description>This episode examines the major industry shift toward AI agents as foundational business infrastructure, focusing on how deployment model—local-first versus cloud-based—now matters more than raw capability. We break down Anthropic's new Claude Dispatch feature and why its approach to running isolated AI agents on your own hardware represents a critical solution to the security and control challenges that have hindered agent adoption, while analyzing the emerging two-ecosystem competitive landscape between Claude's local architecture and the open-source OpenClaw/Minimax stack.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-03-19.mp3" length="13895084" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-73</guid>
       <pubDate>Fri, 20 Mar 2026 03:39:38 +0000</pubDate>

@@ -26,7 +26,7 @@
     <itunes:category text="Technology"/>
     <item>
       <title>How Production Teams Are Rebuilding Agent Architecture</title>
-      <description>Good morning. Let's talk about agents—and specifically, how the people actually building them in production are fundamentally rethinking what agent architectures should look like.  There's a really important shift happening right now, and it's not about model capability. It's about execution...</description>
+      <description>Learn how production teams are replacing end-of-process approval workflows with agent-in-the-loop architectures that insert human oversight at critical decision points during execution rather than after completion. This structural shift decouples agent autonomy from human oversight, allowing agents to handle edge cases independently while escalating only decisions that genuinely require human judgment, fundamentally changing how AI systems and humans collaborate in real workflows.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-25.mp3" length="16492364" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-124</guid>
       <pubDate>Sun, 26 Apr 2026 02:25:54 +0000</pubDate>
@@ -35,9 +35,7 @@
     </item>
     <item>
       <title>Agent Infrastructure Debate Fundamentally Shifts After Claude Code Success</title>
-      <description>Hey everyone. Today we're looking at a moment where the agent infrastructure conversation is fundamentally shifting. And I think understanding that shift is actually pretty crucial if you're building in this space.
-
-Let's start with the biggest signal today, because it's one of those rare pieces of ...</description>
+      <description>Anthropic's postmortem on Claude Code revealed that production failures stem not from model limitations but from infrastructure gaps—cache timeouts, context saturation, and prompt formatting edge cases—fundamentally shifting how builders should approach agent development. This discovery means the competitive advantage in agent infrastructure now lies in observability, state management, and robust architecture rather than model intelligence alone, with tools like LangGraph's caching and state persistence emerging as key differentiators. For builders, this reframes production challenges as solvable infrastructure problems rather than capability limitations, opening a clearer path to reliable agents.</description>
       <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-23.mp3" length="14250764" type="audio/mpeg"/>
       <guid isPermaLink="false">brief-podcast-116</guid>
       <pubDate>Fri, 24 Apr 2026 02:23:48 +0000</pubDate>
