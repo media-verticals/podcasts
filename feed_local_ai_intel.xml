@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 02:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:21:23 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Agency Moat Is Crumbling: Custom AI Automation</title>
+      <description>Welcome back. Let's dig into what's happening in the AI services marketplace right now, because there's a pretty significant shift underway—and it's not the one most agencies think they're preparing for.
+
+The thing that jumped out to me this week is that we're watching the end of an era. For the las...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-04-29.mp3" length="17315565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-136</guid>
+      <pubDate>Thu, 30 Apr 2026 02:21:23 +0000</pubDate>
+      <itunes:duration>00:14:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Voice Agents Move From Hype to Commodity</title>
       <description>Voice agents have shifted from a competitive advantage to a commodity as free tutorials and production-ready tools make them accessible to anyone, meaning agencies now win by optimizing latency and response time rather than building capability—a distinction that's creating a new $500-1K/month recurring revenue opportunity through specialized performance tuning services that clients perceive as the difference between professional and obviously automated interactions.</description>
