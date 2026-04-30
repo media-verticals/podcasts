@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 02:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:09:43 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>When AI Agents Go Live, Things Get Risky</title>
+      <description>Hey, welcome back. Let's talk about what's actually happening in the agent space right now, because today has some really important signals that tell us the whole dynamic has shifted. We've moved from agents being something you build and show off to agents being something you deploy and then pray do...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-04-29.mp3" length="11159085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-135</guid>
+      <pubDate>Thu, 30 Apr 2026 02:09:43 +0000</pubDate>
+      <itunes:duration>00:09:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Production Teams Are Rebuilding Agent Architecture</title>
       <description>Learn how production teams are replacing end-of-process approval workflows with agent-in-the-loop architectures that insert human oversight at critical decision points during execution rather than after completion. This structural shift decouples agent autonomy from human oversight, allowing agents to handle edge cases independently while escalating only decisions that genuinely require human judgment, fundamentally changing how AI systems and humans collaborate in real workflows.</description>
