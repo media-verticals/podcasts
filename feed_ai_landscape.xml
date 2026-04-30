@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:02:08 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Speed Over Safety: When Tech Giants Move Too Fast</title>
+      <description>Hey, welcome back. Today's one of those days where the landscape is actually shifting under our feet. There's a billing bug that blew up on Hacker News, but the bug itself is almost beside the point. What matters is what it reveals about how fast these companies are moving, and at what cost. We're g...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-29.mp3" length="21121005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-134</guid>
+      <pubDate>Thu, 30 Apr 2026 02:02:08 +0000</pubDate>
+      <itunes:duration>00:17:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>GitHub's Critical Security Crisis Exposes AI Infrastructure Vulnerabilities</title>
       <description>Explore how GitHub's critical security vulnerabilities and remote code execution flaws expose a dangerous concentration risk in AI infrastructure—where a single platform controls model training, deployments, and collaboration across the entire AI ecosystem with no viable alternatives. Discover why this crisis matters beyond typical outages and how major players like Google are simultaneously locking in strategic partnerships (including a sweeping Pentagon deal) to harden chokepoints around AI infrastructure, creating switching costs that could reshape the competitive landscape for years to come.</description>
