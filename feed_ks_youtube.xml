@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 03:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 03:35:58 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Ground Shifts as Claude Loses Developer Default Status</title>
+      <description>Hey, welcome back. We've got a really interesting day in the creator space—and the signal is pretty clear that the ground has shifted under the AI tooling market in a way that's worth understanding if you're actually building anything.
+
+Let me start with the biggest story, because it's the kind of t...</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-29.mp3" length="16235565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-137</guid>
+      <pubDate>Thu, 30 Apr 2026 03:35:58 +0000</pubDate>
+      <itunes:duration>00:13:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude's Coding Dominance Ends as GPT-5.5 Takes Over</title>
       <description>GPT-5.5 Codex is displacing Claude as the dominant coding model not through superior reasoning but through integrated tooling—a desktop app with native action-taking, image generation, and computer use that eliminates context-switching friction for development workflows. This shift signals that practical integration and user experience now matter more than raw capability metrics, forcing Anthropic to match with a competitive desktop environment or risk losing developer mindshare. The episode breaks down why architectural elegance loses to workflow friction and what the creator economy prioritizes when choosing AI tools in 2026.</description>
