@@ -17,9 +17,9 @@
       <itunes:name>Knowledge Studio</itunes:name>
       <itunes:email>placeholder@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://media-verticals.github.io/podcasts/covers/ai_landscape_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/ai_agents_podcast_cover.png"/>
     <image>
-      <url>https://media-verticals.github.io/podcasts/covers/ai_landscape_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/ai_agents_podcast_cover.png</url>
       <title>AI Agents Brief</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
