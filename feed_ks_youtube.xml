@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 03:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 03:31:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The AI Subsidy Era Ends, Reshaping Everything</title>
+      <description>The AI subsidy era has ended as companies shift from free or heavily subsidized usage-based pricing to models where every API call carries real cost, forcing organizations to measure ROI and fundamentally changing adoption patterns. GPT-5.5 paired with Codex has emerged as the dominant blueprint for shipping full-stack applications, with independent builders reporting 3-5x better cost efficiency than Claude Code while delivering comparable results on complex multi-domain tasks including code generation, automation, UI testing, and image generation. The economic calculus of AI deployment is now decoupling from narrative hype—while Claude Code won 2025's discourse around capabilities, cost-conscious developers are switching to Codex based on measurable speed and efficiency gains. This pricing-driven reshuffling signals a broader market maturation where practical economics, not feature announcements, will determine which AI tools dominate enterprise and builder workflows.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-04-30.mp3" length="10078125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-141</guid>
+      <pubDate>Fri, 01 May 2026 03:31:54 +0000</pubDate>
+      <itunes:duration>00:08:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Shifts as Claude Loses Developer Default Status</title>
       <description>Claude's default status in AI-assisted development is shifting as GPT-5.5 and Codeex gain traction among independent builders for production code requiring sustained reasoning across complex iterations, while Claude remains the preferred choice for rapid creative asset generation. Independent developers like Alex Finn and Wes Roth are moving their production stacks based on measurable performance differences rather than marketing narratives, signaling a market stratification where each model serves distinct use cases. This shift matters because it reflects real builder behavior—the most reliable signal of actual capability differences in the AI tooling space.</description>
