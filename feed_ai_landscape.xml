@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 02:00:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude AI Starts Charging Extra for Competitor Mentions</title>
+      <description>Anthropic's Claude just crossed a line that changes everything: they're now charging extra for mentions of competitors and actively refusing certain integrations. At the same time, both Claude and OpenAI's models have mysteriously degraded in quality—and that combination reveals something unsettling about what's really driving the AI market right now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-04-30.mp3" length="18163725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-138</guid>
+      <pubDate>Fri, 01 May 2026 02:00:12 +0000</pubDate>
+      <itunes:duration>00:15:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Speed Over Safety: When Tech Giants Move Too Fast</title>
       <description>Hey, welcome back. Today's one of those days where the landscape is actually shifting under our feet. There's a billing bug that blew up on Hacker News, but the bug itself is almost beside the point. What matters is what it reveals about how fast these companies are moving, and at what cost. We're g...</description>
