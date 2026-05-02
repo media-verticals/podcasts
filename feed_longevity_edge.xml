@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 02:12:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Brain's Aging Immune Cells Hold Key to Longevity</title>
+      <description>For a decade, we've blamed amyloid buildup for brain aging—but new research reveals that's only half the story. The real culprit may be your brain's own immune cells actively dismantling the system designed to clear toxic waste, and understanding this mechanism could fundamentally reshape how we approach longevity and cognitive decline.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-05-01.mp3" length="14492205" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-144</guid>
+      <pubDate>Sat, 02 May 2026 02:12:00 +0000</pubDate>
+      <itunes:duration>00:12:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Longevity Research Flips: Suppressing Stress Actually Extends Life</title>
       <description>A landmark PNAS study challenges 15 years of longevity dogma by showing that suppressing the GCN2-ATF4 stress pathway—rather than activating it—extends lifespan in fruit flies, suggesting chronic low-level stress activation drives aging. This finding has major implications for longevity supplements and interventions marketed around activating cellular stress responses, though replication in mammals is needed before fundamentally shifting the field's approach. The research points to a potential inflection point in aging science where less stress signaling, not more, may be the key to extending human lifespan.</description>
