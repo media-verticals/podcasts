@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 03:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 03:33:02 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Unsexy AI Gold Rush: Where Real Money Actually Is</title>
+      <description>Non-technical founders are capturing substantial B2B contracts ($15K-$40K+) in unsexy verticals like auto repair, fire inspection, dental, and HVAC by using Claude Code to solve manual, unglamorous problems—data entry, compliance friction, system integration—that companies will pay aggressively to fix. The repeatable pattern is simple: identify a boring problem through discovery calls, build a solution in one to two weekends, and land recurring revenue ($1.5K-$3K/month) that scales to $50K-$150K annually with just a handful of clients. This represents a fundamental shift away from the VC-dependent startup model, eliminating the need for venture capital, technical co-founders, or seed rounds—the real AI arbitrage is in neglected B2B niches where willingness to pay is extreme, not in consumer apps or flashy tools.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-01.mp3" length="11712045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-146</guid>
+      <pubDate>Sat, 02 May 2026 03:33:02 +0000</pubDate>
+      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI Subsidy Era Ends, Reshaping Everything</title>
       <description>The AI subsidy era has ended as companies shift from free or heavily subsidized usage-based pricing to models where every API call carries real cost, forcing organizations to measure ROI and fundamentally changing adoption patterns. GPT-5.5 paired with Codex has emerged as the dominant blueprint for shipping full-stack applications, with independent builders reporting 3-5x better cost efficiency than Claude Code while delivering comparable results on complex multi-domain tasks including code generation, automation, UI testing, and image generation. The economic calculus of AI deployment is now decoupling from narrative hype—while Claude Code won 2025's discourse around capabilities, cost-conscious developers are switching to Codex based on measurable speed and efficiency gains. This pricing-driven reshuffling signals a broader market maturation where practical economics, not feature announcements, will determine which AI tools dominate enterprise and builder workflows.</description>
