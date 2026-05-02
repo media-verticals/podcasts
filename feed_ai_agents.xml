@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 02:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 02:02:08 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Code Agents Become Enterprise Reality, Budget Burned Fast</title>
+      <description>Enterprise AI agents just became real—and the companies winning aren't the ones with smarter models, they're the ones who solved the unsexy problem that's silently killing agents in production. When a major tech company burns through an entire year's AI budget in four months on a single agent runtime, and access to the underlying capability becomes the actual bottleneck, the entire game has shifted from capability to reliability—and most teams still don't know what they're building for.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-01.mp3" length="10731885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-143</guid>
+      <pubDate>Sat, 02 May 2026 02:02:08 +0000</pubDate>
+      <itunes:duration>00:08:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Find Their Operating System in Claude</title>
       <description>A hidden standard is quietly winning the agent wars—and it's not about whose AI thinks the fastest. Discover why production teams are abandoning custom integrations en masse, what token efficiency gains reveal about the real competitive edge, and why one protocol just became the operating system that every serious agent builder is betting their future on.</description>
