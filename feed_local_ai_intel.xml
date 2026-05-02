@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 02:22:39 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Voice Agents Become Standard, Real Money Moves to Workflow</title>
+      <description>Voice agents have become table stakes—but the agencies capturing real revenue are those orchestrating entire workflows, not selling point solutions. Discover the inflection point separating $3K-per-month service providers from those hitting $10K+ and why the gap is only widening.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-01.mp3" length="15645165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-145</guid>
+      <pubDate>Sat, 02 May 2026 02:22:39 +0000</pubDate>
+      <itunes:duration>00:13:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Agency Moat Is Crumbling: Custom AI Automation</title>
       <description>Welcome back. Let's dig into what's happening in the AI services marketplace right now, because there's a pretty significant shift underway—and it's not the one most agencies think they're preparing for.
