@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 03:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:24:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agent Framework Wars End as Market Consolidates</title>
+      <description>The agent framework debate has effectively ended as empirical testing reveals performance differences stem from underlying models rather than orchestration layers—Claude Opus significantly outperforms GPT-4 on complex reasoning tasks regardless of whether developers use Hermes or OpenClaw. This signals that agent infrastructure has become commoditized, shifting competitive differentiation from framework selection to model access and deployment strategy. Developers should prioritize securing reliable Claude inference through APIs or local deployment rather than optimizing around framework choice. Meanwhile, frameworks like Hermes are advancing toward production-grade capabilities with parallel multi-agent execution and persistent goal management, establishing the new baseline for infrastructure competition.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-02.mp3" length="14353005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-149</guid>
+      <pubDate>Sun, 03 May 2026 03:24:57 +0000</pubDate>
+      <itunes:duration>00:11:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Unsexy AI Gold Rush: Where Real Money Actually Is</title>
       <description>Non-technical founders are capturing substantial B2B contracts ($15K-$40K+) in unsexy verticals like auto repair, fire inspection, dental, and HVAC by using Claude Code to solve manual, unglamorous problems—data entry, compliance friction, system integration—that companies will pay aggressively to fix. The repeatable pattern is simple: identify a boring problem through discovery calls, build a solution in one to two weekends, and land recurring revenue ($1.5K-$3K/month) that scales to $50K-$150K annually with just a handful of clients. This represents a fundamental shift away from the VC-dependent startup model, eliminating the need for venture capital, technical co-founders, or seed rounds—the real AI arbitrage is in neglected B2B niches where willingness to pay is extreme, not in consumer apps or flashy tools.</description>
