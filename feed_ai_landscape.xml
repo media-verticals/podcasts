@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 01:54:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 01:53:19 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Microsoft Quietly Changes How We Credit AI Code Work</title>
+      <description>Microsoft just made a move that looks like simple attribution but is actually reshaping how the entire industry thinks about code authorship—and what counts as "modern development." Discover why this seemingly small change to VS Code's commit messages has ignited developer backlash and why it matters far more than a feature toggle ever could.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-02.mp3" length="12363405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-147</guid>
+      <pubDate>Sun, 03 May 2026 01:53:19 +0000</pubDate>
+      <itunes:duration>00:10:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Industry Splits Into Two Competing Business Models</title>
       <description>The AI industry is quietly splitting into two fundamentally different business models—and the winner won't necessarily be decided by whose AI is smartest. A major tech giant just revealed which side they're betting on, signaling a seismic shift in how AI will actually reach consumers that most people are completely missing.</description>
