@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 02:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:02:04 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Agent Architecture Shift: From Serial to Parallel Execution</title>
+      <description>The way teams are actually building agents in production has fundamentally shifted—and if you're still thinking in serial workflows, you're leaving 10 to 50x performance on the table. Discover what changed, why model choice is now reshaping entire architectures, and the cognitive leap that separates demos from what's actually winning in the real world.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-03.mp3" length="13015245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-151</guid>
+      <pubDate>Mon, 04 May 2026 02:02:04 +0000</pubDate>
+      <itunes:duration>00:10:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Single-Agent Era Quietly Ends Today</title>
       <description>For years, agents worked alone—one task, one tool, one completion cycle. That era just ended, and the infrastructure shift is happening faster than most realize. The frameworks reshaping production AI are standardizing on something entirely different, and if you're building with agents, this changes your architecture, your debugging, and your cost model.</description>
