@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 02:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:09:46 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agent Cost Control Problem Finally Gets Solved</title>
+      <description>For months, agent builders have been paralyzed by runaway costs—but multiple teams just shipped production solutions with benchmarks proving 30-77% cost reduction is now achievable. This is the infrastructure breakthrough that finally unlocks scaling agents without financial risk, and it's reshaping which problems builders can actually tackle next.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-04.mp3" length="21357645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-154</guid>
+      <pubDate>Tue, 05 May 2026 02:09:46 +0000</pubDate>
+      <itunes:duration>00:17:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Agent Architecture Shift: From Serial to Parallel Execution</title>
       <description>The way teams are actually building agents in production has fundamentally shifted—and if you're still thinking in serial workflows, you're leaving 10 to 50x performance on the table. Discover what changed, why model choice is now reshaping entire architectures, and the cognitive leap that separates demos from what's actually winning in the real world.</description>
