@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 01:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 01:52:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>OpenAI Achieves Real-Time Voice AI at Production Scale</title>
+      <description>The latency barrier that kept voice AI from feeling genuinely conversational just fell—and OpenAI didn't just solve it, they've deployed it at scale, fundamentally shifting which company controls how billions of people will actually *experience* AI agents every single day. This changes everything about who wins the race to become the default interface layer.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-04.mp3" length="10709805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-153</guid>
+      <pubDate>Tue, 05 May 2026 01:52:28 +0000</pubDate>
+      <itunes:duration>00:08:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Academic AI Researchers Question Future of Their Field</title>
       <description>As academic publishing timelines stretch to eighteen months while industry ships breakthroughs monthly, top researchers are abandoning the institutions that built modern AI—and asking whether their work even matters anymore. What happens to the future of the field when the best minds stop seeing academia as worth their time, and what gets lost when research culture moves entirely into corporate labs?</description>
