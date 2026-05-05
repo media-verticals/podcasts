@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 02:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:28:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Services Market Fractures as GoHighLevel Dominates SMB Space</title>
+      <description>The AI services market is fracturing in ways that are creating entirely new competitive dynamics—and most agencies are still playing by the old rules. Discover what's actually winning right now, why the dominant platform strategy might be limiting your growth potential, and the hidden layer that's reshaping how premium agencies build sustainable, high-margin businesses.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-04.mp3" length="12513645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-156</guid>
+      <pubDate>Tue, 05 May 2026 02:28:07 +0000</pubDate>
+      <itunes:duration>00:10:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Voice Agents Become Standard, Real Money Moves to Workflow</title>
       <description>Voice agents have become table stakes—but the agencies capturing real revenue are those orchestrating entire workflows, not selling point solutions. Discover the inflection point separating $3K-per-month service providers from those hitting $10K+ and why the gap is only widening.</description>
