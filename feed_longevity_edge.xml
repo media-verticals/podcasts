@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 02:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:18:34 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Senescent Cells Finally Move From Theory to Human Treatment</title>
+      <description>For years, senolytics have worked brilliantly in mice—but human biology doesn't always cooperate. Until now. A landmark paper published today proves that clearing senescent cells doesn't just theoretically improve aging—it measurably restores critical structures in living human systems, finally validating a decade of research and shifting an entire field from possibility to clinical reality.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-05-05.mp3" length="20773485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-160</guid>
+      <pubDate>Wed, 06 May 2026 02:18:34 +0000</pubDate>
+      <itunes:duration>00:17:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Brain's Aging Immune Cells Hold Key to Longevity</title>
       <description>For a decade, we've blamed amyloid buildup for brain aging—but new research reveals that's only half the story. The real culprit may be your brain's own immune cells actively dismantling the system designed to clear toxic waste, and understanding this mechanism could fundamentally reshape how we approach longevity and cognitive decline.</description>
