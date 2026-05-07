@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 02:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:00:58 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI Companies Are Racing to Build Better Agents</title>
+      <description>The race to build better AI agents just fundamentally shifted—and it's no longer about raw model power. Companies are discovering that production reliability depends on something entirely different, which means the competitive advantage is moving to an unexpected place, and teams that don't adapt their approach right now could fall dangerously behind.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-06.mp3" length="12851085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-163</guid>
+      <pubDate>Thu, 07 May 2026 02:00:58 +0000</pubDate>
+      <itunes:duration>00:10:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agent Infrastructure Settles as Claude Code Becomes Foundation</title>
       <description>The infrastructure powering AI agents is fundamentally shifting—and it's not about new models or frameworks, it's about what becomes the foundation everyone builds on. Discover why Claude Code's emergence as the substrate layer matters far more than the agent framework wars, and what just changed to make production-grade agents actually viable for enterprise work.</description>
