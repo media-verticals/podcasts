@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 02:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:09:21 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agency Market Splits Into Two Competing Tiers</title>
+      <description>The AI agency market is fracturing into two distinct tiers—and one path leads to commoditized race-to-the-bottom pricing while the other commands 3-5x margins through deeper integration work. Discover what just shifted in how successful agencies are positioning their services, and why the conventional wisdom about all-AI solutions is costing clients (and agencies) far more than it should.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-06.mp3" length="12157005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-164</guid>
+      <pubDate>Thu, 07 May 2026 02:09:21 +0000</pubDate>
+      <itunes:duration>00:10:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Services Market Fractures as GoHighLevel Dominates SMB Space</title>
       <description>The AI services market is fracturing in ways that are creating entirely new competitive dynamics—and most agencies are still playing by the old rules. Discover what's actually winning right now, why the dominant platform strategy might be limiting your growth potential, and the hidden layer that's reshaping how premium agencies build sustainable, high-margin businesses.</description>
