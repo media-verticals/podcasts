@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 01:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 01:52:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Compute Shortage Reshapes Who Wins in AI</title>
+      <description>The AI winners aren't determined by who built the best model anymore—they're determined by who can access the most compute. When Anthropic instantly doubled Claude's capabilities by tapping into SpaceX's infrastructure, it exposed a brutal truth: the product limitations you thought were fundamental were actually just infrastructure constraints, and that shift is completely reshaping which companies can compete at scale.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-06.mp3" length="10460685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-162</guid>
+      <pubDate>Thu, 07 May 2026 01:52:09 +0000</pubDate>
+      <itunes:duration>00:08:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Meta's Copyright Battle Reveals AI Industry's True Direction</title>
       <description>Meta's copyright lawsuit just revealed something the AI industry has been hiding: major players are now openly willing to absorb legal costs as a routine business expense if it means faster capability development. This isn't a legal sideshow—it's a calculated bet that will determine whether the entire industry pivots toward aggressive data acquisition practices or faces real constraints on how AI models are built.</description>
