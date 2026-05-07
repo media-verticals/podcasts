@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 03:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 03:23:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's Surprise Compute Deal Reshapes AI Competition</title>
+      <description>Anthropic has secured unconstrained GPU capacity through a lease agreement with SpaceX's Colossus supercomputer, eliminating the compute scarcity that has constrained Claude's training and iteration for the past 18 months—a structural shift that redistributes competitive advantage away from OpenAI's scale-based moat toward execution and go-to-market capabilities. Elon Musk's decision to prioritize Anthropic over reinforcing OpenAI's position signals a strategic bet that embodied AI and robotics represent the real frontier rather than chatbot optimization, reshaping how power concentrates in the AI race. As compute ceases to be a primary bottleneck for top labs by July, the competitive differentiation will pivot from raw capability scaling to deployment strategy, user experience, and market capture—fundamentally resetting the dynamics of AI competition.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-06.mp3" length="12541965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-165</guid>
+      <pubDate>Thu, 07 May 2026 03:23:32 +0000</pubDate>
+      <itunes:duration>00:10:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Open-Source AI Agents Find Their Consolidation Winner</title>
       <description>Hermes Agent has emerged as the consolidation winner in the open-source AI agent market, driven by superior speed, an intelligent Curator feature for task-specific agent selection, and a friction-reducing desktop app that appeals to builders outside the OpenAI ecosystem. The market is stratifying rather than fragmenting, with proprietary agents (Claude, GPT) dominating reasoning-intensive work where cost is secondary, open-source solutions like Hermes winning on automation and scalability where speed and repeatability matter, and alternatives like OpenClaw holding ground only on specific high-complexity, one-shot tasks. This consolidation reflects a broader shift in how builders evaluate AI tools: usability and iteration speed now outweigh marginal technical superiority, reshaping the competitive dynamics across the creator and e-commerce landscapes.</description>
