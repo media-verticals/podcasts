@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 02:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:21:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Scientists Find First Direct Evidence Senescent Cells Cause Aging</title>
+      <description>For decades, senescent cells have been a compelling theory about aging—but scientists lacked direct proof they actually cause disease in living humans. That just changed, and the implications could reshape how we treat age-related neurological decline, vascular disease, and metabolic dysfunction within the next few years.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-05-07.mp3" length="14872845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-168</guid>
+      <pubDate>Fri, 08 May 2026 02:21:28 +0000</pubDate>
+      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mount Sinai Researchers Overturn Basic mRNA Vaccine Assumptions</title>
       <description>For years, we've assumed mRNA vaccines work the same way regardless of where they land in your body—but Mount Sinai researchers just discovered the organ itself is actively deciding whether immunity gets amplified or suppressed, overturning a foundational assumption that's been shaping vaccine design all along. This single insight is already reframing how we'll build everything from cancer therapies to personalized medicine—and it suggests we've been leaving critical performance on the table.</description>
