@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 03:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:39:05 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Machine GDP: The New Tradable Asset Class Emerges</title>
+      <description>Machine GDP is emerging as a tradable asset class as AI agent inference costs collapse toward microcentages per day, creating an economic inflection point where machine capital allocation becomes cheaper and more rational than human management across all investment horizons within 12-18 months. This represents not incremental AI adoption but macroeconomic restructuring—once operational costs cross below human wage equivalents, the rational actor in markets transitions from human to machine, fundamentally reshaping how capital flows and competitive advantage accrues. Industry builders like Arpan Nanavati and Yoni Assia are grounding this argument in cost physics rather than capability speculation, signaling that the shift from human to machine economic participation is driven by pure economic rationality. The infrastructure implications of machines accumulating wealth and coordinating at scale are already becoming visible across creator networks, suggesting this transition is underway rather than theoretical.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-07.mp3" length="15846285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-169</guid>
+      <pubDate>Fri, 08 May 2026 03:39:05 +0000</pubDate>
+      <itunes:duration>00:13:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic's Surprise Compute Deal Reshapes AI Competition</title>
       <description>Anthropic has secured unconstrained GPU capacity through a lease agreement with SpaceX's Colossus supercomputer, eliminating the compute scarcity that has constrained Claude's training and iteration for the past 18 months—a structural shift that redistributes competitive advantage away from OpenAI's scale-based moat toward execution and go-to-market capabilities. Elon Musk's decision to prioritize Anthropic over reinforcing OpenAI's position signals a strategic bet that embodied AI and robotics represent the real frontier rather than chatbot optimization, reshaping how power concentrates in the AI race. As compute ceases to be a primary bottleneck for top labs by July, the competitive differentiation will pivot from raw capability scaling to deployment strategy, user experience, and market capture—fundamentally resetting the dynamics of AI competition.</description>
