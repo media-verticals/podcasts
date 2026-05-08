@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 02:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:10:04 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AWS Gives AI Agents Direct Access to Real Money</title>
+      <description>For the first time, AI agents can move real money without human intervention—AWS just shipped production-ready access to transactional wallets through Bedrock, and the infrastructure is finally here to support it. This isn't theoretical anymore; autonomous financial workflows are live, and the implications for procurement, payments, and market participation just became impossible to ignore.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-07.mp3" length="13627725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-167</guid>
+      <pubDate>Fri, 08 May 2026 02:10:04 +0000</pubDate>
+      <itunes:duration>00:11:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How AI Companies Are Racing to Build Better Agents</title>
       <description>The race to build better AI agents just fundamentally shifted—and it's no longer about raw model power. Companies are discovering that production reliability depends on something entirely different, which means the competitive advantage is moving to an unexpected place, and teams that don't adapt their approach right now could fall dangerously behind.</description>
