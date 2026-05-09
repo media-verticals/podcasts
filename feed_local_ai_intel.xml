@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 02:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:18:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The AI Services Marketplace: Who's Actually Scaling</title>
+      <description>The AI services marketplace is experiencing a critical realignment—some agencies are hitting hard scaling walls while others break through, and the difference isn't what you'd expect. If you're building client solutions on current platforms without understanding the hidden compliance risks and architectural shifts happening right now, you're leaving money on the table and exposing your clients to account suspensions you'll be forced to manage.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-08.mp3" length="12388845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-173</guid>
+      <pubDate>Sat, 09 May 2026 02:18:54 +0000</pubDate>
+      <itunes:duration>00:10:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agency Market Splits Into Two Competing Tiers</title>
       <description>The AI agency market is fracturing into two distinct tiers—and one path leads to commoditized race-to-the-bottom pricing while the other commands 3-5x margins through deeper integration work. Discover what just shifted in how successful agencies are positioning their services, and why the conventional wisdom about all-AI solutions is costing clients (and agencies) far more than it should.</description>
