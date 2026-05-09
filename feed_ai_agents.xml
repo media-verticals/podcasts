@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 02:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:00:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Infrastructure Finally Catches Up to AI Agent Ambitions</title>
+      <description>For years, AI agents have been held back by a fundamental constraint: the infrastructure simply wasn't there to run them economically or reliably at scale. That's just changed. Model abstraction at runtime, version-controlled execution histories, and a wave of production-grade tooling have finally arrived—and they're unlocking a new class of agent applications that were theoretically possible but practically impossible just months ago.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-08.mp3" length="11019405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-171</guid>
+      <pubDate>Sat, 09 May 2026 02:00:57 +0000</pubDate>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AWS Gives AI Agents Direct Access to Real Money</title>
       <description>For the first time, AI agents can move real money without human intervention—AWS just shipped production-ready access to transactional wallets through Bedrock, and the infrastructure is finally here to support it. This isn't theoretical anymore; autonomous financial workflows are live, and the implications for procurement, payments, and market participation just became impossible to ignore.</description>
