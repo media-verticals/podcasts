@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 01:53:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 01:51:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>DeepSeek V4 reveals the open-source AI breakthrough everyone feared</title>
+      <description>DeepSeek's newly published V4 methodology just shattered the assumption that frontier AI requires tens of billions in capital—revealing reproducible techniques that cut training costs by 40-60% and fundamentally reshaping who can compete at the highest level. What happens to the AI landscape when the economic moat around capability suddenly collapses?</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-09.mp3" length="10260045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-175</guid>
+      <pubDate>Sun, 10 May 2026 01:51:57 +0000</pubDate>
+      <itunes:duration>00:08:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic's Power Move Masks Deeper AI Industry Vulnerability</title>
       <description>As Anthropic makes its boldest moves yet—infinite context windows, doubled rate limits, native multi-agent tools—a quieter crisis is unfolding beneath the headlines: open-source alternatives built on Claude's own architecture are already outperforming it on speed and cost, signaling that AI's reasoning capability has shifted from competitive advantage to commodity baseline. What Anthropic's aggressive platform integration really reveals is a defensive scramble against commoditization, and why this moment could reshape which players actually win the AI infrastructure race.</description>
