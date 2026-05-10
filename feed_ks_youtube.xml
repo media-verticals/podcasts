@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 03:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 03:22:56 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Builders' Real Advantage: Architecture Over Raw Capability</title>
+      <description>Most AI builders focus on raw capability differences, but the real competitive advantage lies in architectural knowledge—understanding which tool solves which problem across the five-layer scaffolding stack (prompts, skills, plugins, MCPs, and scripts). Architectural mismatches cost builders roughly 40% of productive time, as they attempt to solve problems with the wrong layer, compounding reliability and latency issues. Non-technical operators who entered AI building from product and operations backgrounds are already shipping production solutions by mastering this architecture-first mindset, rather than defaulting to coding solutions. In 2026, architectural literacy across the agent stack has become table-stakes for shipping, replacing raw coding ability as the baseline skill for effective AI builders.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-09.mp3" length="11785005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-177</guid>
+      <pubDate>Sun, 10 May 2026 03:22:56 +0000</pubDate>
+      <itunes:duration>00:09:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Consolidates Lead as AI Competition Enters New Phase</title>
       <description>Claude is consolidating AI market leadership through superior performance across reasoning, coding, and analysis tasks rather than brand loyalty, with builders migrating entire tech stacks wholesale due to measurable output quality gains. Anthropic's integrated ecosystem—combining web chat, desktop, extensions, API, and specialized code mode—creates frictionless user experience and switching costs that contrast with OpenAI's more modular architecture. The competitive phase is shifting from model release cycles to deployment advantage and platform lock-in, where institutional memory, custom workflows, and API optimization around Claude's reasoning patterns become defensible moats. This signals a transition from commodity model competition to ecosystem winner-take-most dynamics in enterprise AI adoption.</description>
