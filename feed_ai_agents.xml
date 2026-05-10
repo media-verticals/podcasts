@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 02:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 01:58:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agent Infrastructure Takes Center Stage as Reliability Becomes Critical</title>
+      <description>As agents move from experimental prototypes to production workloads, infrastructure reliability has become the decisive competitive advantage—and the industry just experienced a seismic shift in what "winning" actually means. Discover which foundational technology choice is reshaping the entire landscape and why the companies racing to match it understand something critical about where the real bottleneck has moved.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-09.mp3" length="9772365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-176</guid>
+      <pubDate>Sun, 10 May 2026 01:58:38 +0000</pubDate>
+      <itunes:duration>00:08:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Infrastructure Finally Catches Up to AI Agent Ambitions</title>
       <description>For years, AI agents have been held back by a fundamental constraint: the infrastructure simply wasn't there to run them economically or reliably at scale. That's just changed. Model abstraction at runtime, version-controlled execution histories, and a wave of production-grade tooling have finally arrived—and they're unlocking a new class of agent applications that were theoretically possible but practically impossible just months ago.</description>
