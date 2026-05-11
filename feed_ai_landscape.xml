@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 01:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 01:51:25 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Infrastructure Breaks Under Weight of AI Data Centers</title>
+      <description>The infrastructure sustaining AI's explosive growth is cracking—and Maryland just filed a $2 billion complaint that exposes why throwing more money at the problem won't work. This marks the first time regulators have publicly acknowledged that the real bottleneck isn't compute or power, but who pays for it and who profits, and once other states follow Maryland's playbook, the entire economics of AI infrastructure could be forced to restructure.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-10.mp3" length="9414285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-178</guid>
+      <pubDate>Mon, 11 May 2026 01:51:25 +0000</pubDate>
+      <itunes:duration>00:07:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>DeepSeek V4 reveals the open-source AI breakthrough everyone feared</title>
       <description>DeepSeek's newly published V4 methodology just shattered the assumption that frontier AI requires tens of billions in capital—revealing reproducible techniques that cut training costs by 40-60% and fundamentally reshaping who can compete at the highest level. What happens to the AI landscape when the economic moat around capability suddenly collapses?</description>
