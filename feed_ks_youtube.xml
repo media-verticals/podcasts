@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 03:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:23:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Enterprise AI Sales Break Through Procurement Walls</title>
+      <description>Enterprise AI adoption is hitting a critical inflection point as traditional software procurement processes fail to accommodate autonomous agents that operate across systems without human permission gates. A February security breach exposed the fundamental gap: enterprises lack frameworks for vetting and deploying agents that don't follow standard security review chains or respect organizational hierarchies. Major vendors including Anthropic, OpenAI, SAP, Salesforce, ServiceNow, and Pinecone simultaneously launched enterprise agent services, signaling an industry-wide pivot from selling model capabilities to selling deployment architectures that integrate agents into existing corporate infrastructure. The companies that crack this procurement-and-governance problem—not model superiority—will dominate enterprise AI sales.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-10.mp3" length="13045485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-180</guid>
+      <pubDate>Mon, 11 May 2026 03:23:54 +0000</pubDate>
+      <itunes:duration>00:10:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Builders' Real Advantage: Architecture Over Raw Capability</title>
       <description>Most AI builders focus on raw capability differences, but the real competitive advantage lies in architectural knowledge—understanding which tool solves which problem across the five-layer scaffolding stack (prompts, skills, plugins, MCPs, and scripts). Architectural mismatches cost builders roughly 40% of productive time, as they attempt to solve problems with the wrong layer, compounding reliability and latency issues. Non-technical operators who entered AI building from product and operations backgrounds are already shipping production solutions by mastering this architecture-first mindset, rather than defaulting to coding solutions. In 2026, architectural literacy across the agent stack has become table-stakes for shipping, replacing raw coding ability as the baseline skill for effective AI builders.</description>
