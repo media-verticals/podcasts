@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 01:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:00:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Building Agents That Learn and Remember Their Own Skills</title>
+      <description>Most teams are still betting on model superiority to win in AI, but a fundamental shift is happening in agent infrastructure that rewrites the entire competitive landscape—and if you're building anything with agents, where you're placing your bets matters far more than you think. Discover why the runtime, not the model, is becoming the real moat in agentic systems, and what that means for your strategy.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-10.mp3" length="14094765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-179</guid>
+      <pubDate>Mon, 11 May 2026 02:00:57 +0000</pubDate>
+      <itunes:duration>00:11:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agent Infrastructure Takes Center Stage as Reliability Becomes Critical</title>
       <description>As agents move from experimental prototypes to production workloads, infrastructure reliability has become the decisive competitive advantage—and the industry just experienced a seismic shift in what "winning" actually means. Discover which foundational technology choice is reshaping the entire landscape and why the companies racing to match it understand something critical about where the real bottleneck has moved.</description>
