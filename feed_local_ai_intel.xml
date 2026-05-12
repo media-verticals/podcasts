@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 02:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 02:20:08 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Services Market Shifts as Agencies Question Building Decisions</title>
+      <description>Agencies built their AI service businesses on a popular platform's promise of simplicity—but hidden costs and architectural constraints are forcing a reckoning that could reshape the entire market. Discover why the real competitive advantage is no longer the tool itself, and why some of the biggest players are quietly exploring alternatives that change everything about how AI services get priced and delivered.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-11.mp3" length="13865805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-184</guid>
+      <pubDate>Tue, 12 May 2026 02:20:08 +0000</pubDate>
+      <itunes:duration>00:11:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI Services Marketplace: Who's Actually Scaling</title>
       <description>The AI services marketplace is experiencing a critical realignment—some agencies are hitting hard scaling walls while others break through, and the difference isn't what you'd expect. If you're building client solutions on current platforms without understanding the hidden compliance risks and architectural shifts happening right now, you're leaving money on the table and exposing your clients to account suspensions you'll be forced to manage.</description>
