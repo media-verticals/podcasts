@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 02:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 02:01:29 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agents Move From Experiment to Production Reality</title>
+      <description>Agents are moving from theoretical possibility to operational necessity—and the engineering challenges keeping teams up at night have completely changed. What started as "can this work?" has become "how do we actually debug, improve, and scale this in production," and the ecosystem is responding with tools that suggest the real bottleneck was never capability, it was observability and persistence.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-11.mp3" length="11886765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-182</guid>
+      <pubDate>Tue, 12 May 2026 02:01:29 +0000</pubDate>
+      <itunes:duration>00:09:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Building Agents That Learn and Remember Their Own Skills</title>
       <description>Most teams are still betting on model superiority to win in AI, but a fundamental shift is happening in agent infrastructure that rewrites the entire competitive landscape—and if you're building anything with agents, where you're placing your bets matters far more than you think. Discover why the runtime, not the model, is becoming the real moat in agentic systems, and what that means for your strategy.</description>
