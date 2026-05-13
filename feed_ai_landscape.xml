@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 01:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:52:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title># AI Companies Fight Over Control, Not Just Innovation</title>
+      <description>The AI industry's competitive battlefield just shifted from racing to release toward controlling access—and one major lab's sudden move to restrict their most powerful model reveals what they actually believe about the future of AI power. What started as a safety precaution is reshaping how every frontier lab thinks about margins, moats, and who gets to build what comes next.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-12.mp3" length="11192685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-186</guid>
+      <pubDate>Wed, 13 May 2026 01:52:32 +0000</pubDate>
+      <itunes:duration>00:09:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI-Powered Hackers Discovering Zero-Day Vulnerabilities at Scale</title>
       <description>Criminal hackers are now using AI to discover zero-day vulnerabilities faster than companies can patch them—and Google just disrupted an active campaign proving this isn't theoretical anymore. When the pace of automated attack discovery outpaces human remediation, the entire security perimeter collapses, and the industry's fundamental assumptions about defense crumble with it.</description>
