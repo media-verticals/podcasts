@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 02:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 02:10:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Brain Blood Vessels Show Surprising Role in Aging</title>
+      <description>For decades, we've assumed brain aging follows a simple story: blood vessels wither, blood flow fades, and cognitive decline inevitably follows. New research just upended that model—revealing the brain is actively misbehaving in ways that are not only reversible, but point to a completely different intervention strategy that could bypass the dead ends of current dementia research.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-05-12.mp3" length="14202765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-188</guid>
+      <pubDate>Wed, 13 May 2026 02:10:09 +0000</pubDate>
+      <itunes:duration>00:11:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Senolytic Drug Shows Promise, But Aging Formula Remains Elusive</title>
       <description>Senolytics showed a real win against aging—but not the one researchers hoped for. Discover why a promising drug cocktail's success in one area is forcing scientists to abandon the "silver bullet" approach to aging, and what this pattern reveals about why most longevity breakthroughs fall short of the hype.</description>
