@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 02:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 02:15:08 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Middle Is Collapsing: AI's New Agency Divide</title>
+      <description>The AI services market is undergoing a brutal restructuring—the comfortable middle ground where generalist agencies once thrived is evaporating, replaced by two starkly different survival strategies. If your agency (or the one you work with) isn't decisively moving toward one of these poles, you're already losing ground to competitors who have.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-13.mp3" length="17910285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-192</guid>
+      <pubDate>Thu, 14 May 2026 02:15:08 +0000</pubDate>
+      <itunes:duration>00:14:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Services Market Shifts as Agencies Question Building Decisions</title>
       <description>Agencies built their AI service businesses on a popular platform's promise of simplicity—but hidden costs and architectural constraints are forcing a reckoning that could reshape the entire market. Discover why the real competitive advantage is no longer the tool itself, and why some of the biggest players are quietly exploring alternatives that change everything about how AI services get priced and delivered.</description>
