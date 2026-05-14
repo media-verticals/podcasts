@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 02:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 02:02:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>From Experiments to Operations: AI Agents Go Real</title>
+      <description>AI agents have quietly crossed from lab curiosities into production systems—and the infrastructure to support them is being rebuilt from the ground up. What just shifted in how the market prices, deploys, and thinks about autonomous agents reveals we're entering an entirely different era of AI deployment.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-13.mp3" length="14160045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-191</guid>
+      <pubDate>Thu, 14 May 2026 02:02:53 +0000</pubDate>
+      <itunes:duration>00:11:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Get the Infrastructure Layer They've Always Needed</title>
       <description>For months, the bottleneck in AI agents wasn't intelligence—it was infrastructure. Anthropic just proved it by shipping Agent View, a platform that treats agents as deployable systems rather than experimental features, signaling a fundamental shift in how production AI will actually work. This episode unpacks why the constraint moved from model capability to orchestration layer, and what that means for anyone building with AI agents.</description>
