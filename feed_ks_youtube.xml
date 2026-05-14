@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 03:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 03:21:50 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The AI Economic Model Just Flipped Upside Down</title>
+      <description>The AI economic model has fundamentally inverted: the managed SaaS subscription model that dominated the past 18 months—paying platforms like GoHighLevel monthly fees to run AI agents with API-based pricing—is collapsing as creators demonstrate fully autonomous agent systems running on local hardware using open-source models like Qwen with only electricity costs. Multiple independent creators are simultaneously discovering that pairing unlimited context windows (1M+ tokens) with locally-deployed Chinese models eliminates per-token billing entirely, shifting incentives away from cloud API consumption toward hardware ownership. This infrastructure shift resets the entire business model for AI agent builders, replacing recurring SaaS fees with one-time hardware investment, fundamentally changing who profits and how AI systems scale.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-13.mp3" length="10150605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-193</guid>
+      <pubDate>Thu, 14 May 2026 03:21:50 +0000</pubDate>
+      <itunes:duration>00:08:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Hidden Infrastructure Crisis Reshaping Creator Economy</title>
       <description>The creator economy faces a critical infrastructure crisis centered on agent authorization standards rather than AI execution capability. With 900 million ChatGPT users theoretically able to deploy autonomous agents for commerce and operations, six incompatible protocol camps—spanning OpenAI/Stripe, Shopify/Google, stablecoin networks, and legacy payment systems—have created a trillion-dollar chokepoint reminiscent of 2014-15 payments fragmentation. The competitive advantage will accrue not to companies building the best agents, but to those controlling the validator layer that authorizes transactions between AI decisions and real-world execution. Anthropic and the open-source community are pursuing fundamentally different architectural approaches to solve this standardization problem, signaling a market split that will determine which infrastructure winners emerge from this critical juncture.</description>
