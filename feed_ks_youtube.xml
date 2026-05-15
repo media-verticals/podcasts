@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 03:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:24:08 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Infrastructure and Crypto Converge in Major Market Reshuffling</title>
+      <description>Anthropic's shift to paid credits for third-party agents—representing a 10-40x cost increase for certain workflows—has created a trust fracture among developers now actively exploring alternatives like Codex, Manus, and open-source solutions. The more structural signal is that coding itself is no longer the scarce or defensible skill; instead, control over agentic workflow design and implementation has become the new competitive moat as AI systems handle continuous execution. This shift from individual developer velocity to cross-disciplinary generalists managing autonomous agent loops is reshaping value accrual across AI infrastructure, creating new pressure points for enterprise automation and convergence opportunities with crypto-native infrastructure for managing decentralized workflows.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-14.mp3" length="12897165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-197</guid>
+      <pubDate>Fri, 15 May 2026 03:24:08 +0000</pubDate>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI Economic Model Just Flipped Upside Down</title>
       <description>The AI economic model has fundamentally inverted: the managed SaaS subscription model that dominated the past 18 months—paying platforms like GoHighLevel monthly fees to run AI agents with API-based pricing—is collapsing as creators demonstrate fully autonomous agent systems running on local hardware using open-source models like Qwen with only electricity costs. Multiple independent creators are simultaneously discovering that pairing unlimited context windows (1M+ tokens) with locally-deployed Chinese models eliminates per-token billing entirely, shifting incentives away from cloud API consumption toward hardware ownership. This infrastructure shift resets the entire business model for AI agent builders, replacing recurring SaaS fees with one-time hardware investment, fundamentally changing who profits and how AI systems scale.</description>
