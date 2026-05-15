@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 02:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:08:29 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Become Infrastructure, Not Just Chat Features</title>
+      <description>The infrastructure layer around AI agents is fundamentally shifting—and the moves happening right now signal a pricing and positioning revolution that will reshape how builders plan their entire stacks. If you've been treating agentic capabilities as a bundled feature, this episode reveals the inflection point that's about to force a complete rethinking of your costs, architecture, and vendor strategy.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-14.mp3" length="17188845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-195</guid>
+      <pubDate>Fri, 15 May 2026 02:08:29 +0000</pubDate>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>From Experiments to Operations: AI Agents Go Real</title>
       <description>AI agents have quietly crossed from lab curiosities into production systems—and the infrastructure to support them is being rebuilt from the ground up. What just shifted in how the market prices, deploys, and thinks about autonomous agents reveals we're entering an entirely different era of AI deployment.</description>
