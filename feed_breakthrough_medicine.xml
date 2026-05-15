@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 02:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:19:11 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Amyloid Alone Can't Explain Cognitive Decline</title>
+      <description>For a decade, amyloid has dominated Alzheimer's research—but emerging evidence suggests the real culprit behind cognitive decline may be entirely different, reversible, and hiding in plain sight within your brain's blood vessels. This shift could fundamentally change how we approach brain aging and what we think is actually treatable.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-05-14.mp3" length="15656685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-196</guid>
+      <pubDate>Fri, 15 May 2026 02:19:11 +0000</pubDate>
+      <itunes:duration>00:13:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI-Designed Cancer Vaccine Enters Human Clinical Trials</title>
       <description>For the first time, an AI-designed cancer vaccine is moving into human clinical trials—compressed from years of traditional development into months—forcing us to confront whether the real bottleneck in medicine was never the science, but everything that comes after. What this trial reveals about the future of drug development could reshape which diseases get treated first and how fast we can respond to them.</description>
