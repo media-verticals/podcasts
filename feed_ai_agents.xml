@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 02:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 01:58:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agent Memory Becomes the New Infrastructure Standard</title>
+      <description>Agent memory just stopped being a framework afterthought and became the foundational infrastructure layer—and that shift is forcing every tool in your stack to either specialize or disappear. This episode breaks down why the death of monolithic frameworks and the rise of fine-tuned agent behavior means you're about to rebuild how you think about AI reliability.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-15.mp3" length="9255885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-199</guid>
+      <pubDate>Sat, 16 May 2026 01:58:47 +0000</pubDate>
+      <itunes:duration>00:07:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Become Infrastructure, Not Just Chat Features</title>
       <description>The infrastructure layer around AI agents is fundamentally shifting—and the moves happening right now signal a pricing and positioning revolution that will reshape how builders plan their entire stacks. If you've been treating agentic capabilities as a bundled feature, this episode reveals the inflection point that's about to force a complete rethinking of your costs, architecture, and vendor strategy.</description>
