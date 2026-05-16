@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 03:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 03:22:21 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Code Transforms From Tool Into Business Model</title>
+      <description>Claude Code has evolved from a coding tool into a foundational business architecture layer, with creators like Austin Marchese, Gary Tan, and the Income Stream Surfers team restructuring entire operations around agentic execution rather than task-based prompting. The convergence point across independent creators isn't improved code generation capacity, but a shift toward building persistent, compounding knowledge systems that treat Claude as a discipline with defined roles and autonomous capabilities. Boris Chny's approach of maintaining continuously rewritten skills that feed into autonomous agents exemplifies this evolution—moving from "Can AI code?" to "How do I architect my entire business around agentic execution?" This mental model shift signals a fundamental restructuring of how technical work gets organized and paid for in the creator economy.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-15.mp3" length="10930605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-202</guid>
+      <pubDate>Sat, 16 May 2026 03:22:21 +0000</pubDate>
+      <itunes:duration>00:09:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Infrastructure and Crypto Converge in Major Market Reshuffling</title>
       <description>Anthropic's shift to paid credits for third-party agents—representing a 10-40x cost increase for certain workflows—has created a trust fracture among developers now actively exploring alternatives like Codex, Manus, and open-source solutions. The more structural signal is that coding itself is no longer the scarce or defensible skill; instead, control over agentic workflow design and implementation has become the new competitive moat as AI systems handle continuous execution. This shift from individual developer velocity to cross-disciplinary generalists managing autonomous agent loops is reshaping value accrual across AI infrastructure, creating new pressure points for enterprise automation and convergence opportunities with crypto-native infrastructure for managing decentralized workflows.</description>
