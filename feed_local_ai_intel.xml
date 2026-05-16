@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 02:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 02:16:30 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Services Shift From Flat Fees to Usage-Based Pricing</title>
+      <description>As major SaaS platforms abandon flat fees for usage-based pricing, agencies built on unlimited-for-one-price models face an imminent margin crisis—and the market is already signaling where the real value is shifting. Learn what's forcing this reckoning and why your pricing strategy might be obsolete sooner than you think.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-15.mp3" length="13285485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-201</guid>
+      <pubDate>Sat, 16 May 2026 02:16:30 +0000</pubDate>
+      <itunes:duration>00:11:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Middle Is Collapsing: AI's New Agency Divide</title>
       <description>The AI services market is undergoing a brutal restructuring—the comfortable middle ground where generalist agencies once thrived is evaporating, replaced by two starkly different survival strategies. If your agency (or the one you work with) isn't decisively moving toward one of these poles, you're already losing ground to competitors who have.</description>
