@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 01:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 01:52:19 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>When AI Companies Value Themselves Very Differently</title>
+      <description>The valuations AI companies are assigning themselves have suddenly diverged by billions of dollars—and the explanation matters far more than the number itself, because it reveals whether industry leadership is driven by principle or by desperation. What just surfaced in a legal filing suggests the story the world believes about AI safety and responsible innovation may need urgent revision.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-15.mp3" length="10781325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-198</guid>
+      <pubDate>Sat, 16 May 2026 01:52:19 +0000</pubDate>
+      <itunes:duration>00:08:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Companies Quietly Shift Business Models Away From Free</title>
       <description>The free tier of AI is disappearing—not with announcements, but through pricing restructures and buried policy changes that reveal a darker truth about inference economics. What started as a race to offer cheap access is quietly becoming a gatekeeping mechanism, and understanding why matters if you're building on top of these platforms or betting your company on their cost structure.</description>
