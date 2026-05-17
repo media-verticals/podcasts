@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 03:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:22:59 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's Mythos Outperforms OpenAI in Security Testing</title>
+      <description>Anthropic's Mythos model is outperforming OpenAI's GPT-5.5 in real-world cybersecurity attack chain testing, marking a significant competitive shift as AI's capacity to identify and execute security exploits at scale becomes practically viable. Rather than a single dominant AI platform emerging, the industry is fragmenting into specialized, use-case-specific agents optimized for individual tasks—exemplified by advances like Hermes Agent's native Kanban orchestration, which enables composable worker systems rather than direct human replacement. This shift from winner-take-all competition to specialized agent ecosystems represents a fundamental change in how AI capabilities will be deployed and integrated across enterprise and security infrastructure.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-16.mp3" length="11869485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-205</guid>
+      <pubDate>Sun, 17 May 2026 03:22:59 +0000</pubDate>
+      <itunes:duration>00:09:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Code Transforms From Tool Into Business Model</title>
       <description>Claude Code has evolved from a coding tool into a foundational business architecture layer, with creators like Austin Marchese, Gary Tan, and the Income Stream Surfers team restructuring entire operations around agentic execution rather than task-based prompting. The convergence point across independent creators isn't improved code generation capacity, but a shift toward building persistent, compounding knowledge systems that treat Claude as a discipline with defined roles and autonomous capabilities. Boris Chny's approach of maintaining continuously rewritten skills that feed into autonomous agents exemplifies this evolution—moving from "Can AI code?" to "How do I architect my entire business around agentic execution?" This mental model shift signals a fundamental restructuring of how technical work gets organized and paid for in the creator economy.</description>
