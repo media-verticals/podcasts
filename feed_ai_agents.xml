@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 01:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 02:02:37 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Unglamorous Truth Behind Scaling AI Agents</title>
+      <description>Everyone's been talking about agent capabilities, but the real bottleneck emerging in production systems has nothing to do with what agents can do—it's about managing what they actually do at scale, and the tooling gap is about to reshape the entire category. If you're building or investing in AI infrastructure, this shift from capability to configuration management will determine which approaches survive the next 18 months.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-16.mp3" length="14276205" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-204</guid>
+      <pubDate>Sun, 17 May 2026 02:02:37 +0000</pubDate>
+      <itunes:duration>00:11:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agent Memory Becomes the New Infrastructure Standard</title>
       <description>Agent memory just stopped being a framework afterthought and became the foundational infrastructure layer—and that shift is forcing every tool in your stack to either specialize or disappear. This episode breaks down why the death of monolithic frameworks and the rise of fine-tuned agent behavior means you're about to rebuild how you think about AI reliability.</description>
