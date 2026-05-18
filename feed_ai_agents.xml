@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 02:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 02:16:42 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Multi-Agent AI Tasks Move From Research Into Real Infrastructure</title>
+      <description>Multi-agent systems are graduating from lab experiments to production infrastructure—and the shift reveals what actually matters when agents meet real-world complexity. As new tools tackle the unsexy-but-critical problems of coordination and context efficiency, the entire conversation around what makes agents useful is fundamentally changing.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-17.mp3" length="13205805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-207</guid>
+      <pubDate>Mon, 18 May 2026 02:16:42 +0000</pubDate>
+      <itunes:duration>00:11:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Unglamorous Truth Behind Scaling AI Agents</title>
       <description>Everyone's been talking about agent capabilities, but the real bottleneck emerging in production systems has nothing to do with what agents can do—it's about managing what they actually do at scale, and the tooling gap is about to reshape the entire category. If you're building or investing in AI infrastructure, this shift from capability to configuration management will determine which approaches survive the next 18 months.</description>
