@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 03:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:29:34 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Builders Abandon the Cloud-Versus-Local Binary Choice</title>
+      <description>AI builders are moving beyond the cloud-versus-local binary by adopting hybrid infrastructure strategies: using cost-effective cloud services for planning and architectural work while running local models on affordable hardware ($600-$3,200) for execution, prioritizing speed and cost-per-inference over raw capability. This shift is creating margin pressure on cloud-only SaaS vendors as customers increasingly self-host their own models. Meanwhile, autonomous agents are reaching production maturity through dual-agent architectures—like Claude's new `/goal` command—that pair executor agents with validator agents to solve trust and reliability problems that previously blocked adoption. Together, these trends signal a fundamental recalibration of AI infrastructure away from centralized vendor dependency toward distributed, cost-optimized production systems.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-18.mp3" length="16731405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-213</guid>
+      <pubDate>Tue, 19 May 2026 03:29:34 +0000</pubDate>
+      <itunes:duration>00:13:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Creator Economy's Quiet Wealth Transfer to Automation Builders</title>
       <description>The creator economy is experiencing a quiet wealth transfer toward automation builders as open-source AI agents (Hermes, OpenClaw, Dogra, Mistral Vibe) simultaneously fracture proprietary platform dominance by offering self-hosted alternatives at dramatically lower costs—developers have collectively rejected vendor lock-in. The real money is shifting away from comparison-video creators toward builders shipping automation to actual customers, a divergence the broader network is only now recognizing. Rather than consolidation around single platforms, the market is specializing into use-case-optimized agent companies (voice, coding, scheduling), where open-source winners succeed by being deliberately specific while proprietary vendors fail trying to be everything—mirroring the dynamics that killed paid video hosting.</description>
