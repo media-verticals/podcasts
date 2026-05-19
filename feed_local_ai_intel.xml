@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 02:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:24:16 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Enterprise Giants Bet Big on AI Workflow Orchestration</title>
+      <description>Enterprise software giants aren't investing billions in AI chatbots—they're consolidating control over workflow orchestration, and the economic implications for agencies are massive. If you're still competing on voicebot volume, you're already losing to a fundamental shift in where AI margins actually exist.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-18.mp3" length="14087565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-212</guid>
+      <pubDate>Tue, 19 May 2026 02:24:16 +0000</pubDate>
+      <itunes:duration>00:11:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Services Shift From Flat Fees to Usage-Based Pricing</title>
       <description>As major SaaS platforms abandon flat fees for usage-based pricing, agencies built on unlimited-for-one-price models face an imminent margin crisis—and the market is already signaling where the real value is shifting. Learn what's forcing this reckoning and why your pricing strategy might be obsolete sooner than you think.</description>
