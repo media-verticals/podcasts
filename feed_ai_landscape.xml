@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 02:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 01:53:04 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Legal Technicality Shields OpenAI From Founding Mission Challenge</title>
+      <description>OpenAI just won a lawsuit—but not because they proved they're still pursuing their founding mission. A legal technicality shielded them from the real question entirely, and now there's nothing stopping their pivot to pure profit maximization. Meanwhile, Anthropic is making a stealth move that suggests they understand exactly what's coming next.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-18.mp3" length="11612685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-209</guid>
+      <pubDate>Tue, 19 May 2026 01:53:04 +0000</pubDate>
+      <itunes:duration>00:09:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Surpasses ChatGPT as AI Market Leader</title>
       <description>The AI market's power structure just shifted—Claude is now the measurable leader across revenue, adoption, and business use. But OpenAI's response reveals a completely different strategy unfolding, and understanding which approach actually wins long-term could reshape how you think about AI's future.</description>
