@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 02:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:02:45 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Unglamorous Infrastructure Behind AI's Enterprise Takeover</title>
+      <description>Autonomous radio stations are already running live in production—and it's not about smarter AI, it's about the invisible infrastructure finally catching up. Enterprise adoption of AI agents just crossed a threshold where the conversation shifts from "can they work?" to "why aren't we using them everywhere?"—but only if you understand what actually had to be built behind the scenes to make that possible.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-18.mp3" length="14390925" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-210</guid>
+      <pubDate>Tue, 19 May 2026 02:02:45 +0000</pubDate>
+      <itunes:duration>00:11:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Multi-Agent AI Tasks Move From Research Into Real Infrastructure</title>
       <description>Multi-agent systems are graduating from lab experiments to production infrastructure—and the shift reveals what actually matters when agents meet real-world complexity. As new tools tackle the unsexy-but-critical problems of coordination and context efficiency, the entire conversation around what makes agents useful is fundamentally changing.</description>
