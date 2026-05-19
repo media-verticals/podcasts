@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 02:19:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:14:26 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Gene-Editing Breakthrough: CRISPR Finally Reaches the Clinic</title>
+      <description>After years of hitting a biological wall, researchers have finally figured out how to deliver CRISPR directly into the beating human heart—and the implications are staggering. For the first time, genetic heart diseases that have only ever been managed are now potentially curable, and this breakthrough could move from lab to patient faster than anyone expected.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-05-18.mp3" length="17250765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-211</guid>
+      <pubDate>Tue, 19 May 2026 02:14:26 +0000</pubDate>
+      <itunes:duration>00:14:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amyloid Alone Can't Explain Cognitive Decline</title>
       <description>For a decade, amyloid has dominated Alzheimer's research—but emerging evidence suggests the real culprit behind cognitive decline may be entirely different, reversible, and hiding in plain sight within your brain's blood vessels. This shift could fundamentally change how we approach brain aging and what we think is actually treatable.</description>
