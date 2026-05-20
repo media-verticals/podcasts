@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 01:53:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:51:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Karpathy's Move to Anthropic Signals AI's Next Inflection Point</title>
+      <description>When one of AI's most pivotal architects abandons the sidelines to join Anthropic, it signals the industry has crossed a threshold—and the convergence of this move with Google's newly unveiled agent stack reveals what comes next isn't incremental progress, it's a fundamental shift in how AI gets built and deployed. This is the moment the inflection point becomes undeniable.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-19.mp3" length="8761485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-214</guid>
+      <pubDate>Wed, 20 May 2026 01:51:07 +0000</pubDate>
+      <itunes:duration>00:07:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Legal Technicality Shields OpenAI From Founding Mission Challenge</title>
       <description>OpenAI just won a lawsuit—but not because they proved they're still pursuing their founding mission. A legal technicality shielded them from the real question entirely, and now there's nothing stopping their pivot to pure profit maximization. Meanwhile, Anthropic is making a stealth move that suggests they understand exactly what's coming next.</description>
