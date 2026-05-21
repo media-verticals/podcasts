@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 02:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:26:36 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Automation Market Consolidates as n8n Doubles Valuation</title>
+      <description>The no-code automation market just hit an inflection point—enterprise giants are betting billions on consolidated platforms while AI is learning to build workflows from plain English, and if you're selling custom automation to SMBs, your pricing model and positioning are about to face pressure you haven't seen before. This episode breaks down what's actually changing in the market, why it matters faster than you think, and what agencies need to do right now to stay ahead of the consolidation.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-20.mp3" length="16158285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-220</guid>
+      <pubDate>Thu, 21 May 2026 02:26:36 +0000</pubDate>
+      <itunes:duration>00:13:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enterprise Giants Bet Big on AI Workflow Orchestration</title>
       <description>Enterprise software giants aren't investing billions in AI chatbots—they're consolidating control over workflow orchestration, and the economic implications for agencies are massive. If you're still competing on voicebot volume, you're already losing to a fundamental shift in where AI margins actually exist.</description>
