@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 03:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 03:24:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's Biggest Bottleneck Just Got Demolished</title>
+      <description>Anthropic's Claude Code achieved a 10x rate limit increase (input tokens 30K→300K/min, output tokens 8K→80K/min) following a 220,000 GPU deal with SpaceX, moving the model from prototype to enterprise-ready production deployment and enabling multi-agent workflows previously impossible. The competitive advantage in AI development has fundamentally shifted from raw model intelligence to "harness engineering"—the architectural design of interfaces, permission scoping, skill chaining, and rule execution that allows autonomous agents to operate effectively at scale. This represents a critical inflection point where the human value proposition in AI systems increasingly depends on orchestration and control mechanisms rather than underlying model capability, changing how developers and enterprises approach AI deployment.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-20.mp3" length="14040525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-221</guid>
+      <pubDate>Thu, 21 May 2026 03:24:38 +0000</pubDate>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Evolve From Chat Tools Into Desktop Assistants</title>
       <description>AI agents are transitioning from isolated chat interfaces to integrated desktop assistants with native file access and computer control capabilities, as evidenced by Google's Gemini 3.5 Flash desktop application and Hermes Agent v8's task delegation features. Three protocols—MCP, A2A, and AGUI—have crystallized as industry standards, ending the fragmentation era and establishing the infrastructure layer for interoperable AI agent ecosystems. This standardization represents a critical inflection point comparable to Kubernetes' role in container orchestration, enabling seamless agent-to-agent communication and unified computer control workflows. Local-first deployment models are shifting from niche privacy solutions to production defaults, fundamentally changing how enterprises will integrate AI agents into their operational infrastructure.</description>
