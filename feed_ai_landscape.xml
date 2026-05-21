@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 01:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 01:59:39 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's Surprising Pivot Away From Raw Intelligence Gains</title>
+      <description>For years, the race to build smarter AI has been measured by benchmarks and leaderboards—but that's changing. Discover why frontier labs are pivoting away from raw intelligence metrics toward something far harder to game: the ability to solve genuinely unsolved problems that require real reasoning. This shift changes everything about how we should evaluate AI's actual capabilities—and what it means for the next phase of competition.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-20.mp3" length="17686605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-218</guid>
+      <pubDate>Thu, 21 May 2026 01:59:39 +0000</pubDate>
+      <itunes:duration>00:14:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Karpathy's Move to Anthropic Signals AI's Next Inflection Point</title>
       <description>When one of AI's most pivotal architects abandons the sidelines to join Anthropic, it signals the industry has crossed a threshold—and the convergence of this move with Google's newly unveiled agent stack reveals what comes next isn't incremental progress, it's a fundamental shift in how AI gets built and deployed. This is the moment the inflection point becomes undeniable.</description>
