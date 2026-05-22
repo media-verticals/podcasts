@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 03:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:36:44 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Agent Era Is Here—And Already Splitting Three Ways</title>
+      <description>The agent era has arrived and is fragmenting into three distinct directions. First, the economics of AI deployment have fundamentally shifted—independent builders are now creating production-grade agentic workflows with zero API costs using open-source models like Claude Code, Owl Alpha, and Hermes combined with persistent memory systems, democratizing access that previously required expensive enterprise spending. Second, the proliferation of free and cheaper frontier models (Qwen 3.7-Max with a million-token context, Gemini 3.5 Flash at reduced cost) combined with intelligent task routing across multiple models is replacing the old paradigm where success meant affording one expensive model to handle everything. Third, development tools like Cursor Composer are bringing agent capabilities directly into production IDEs, further lowering barriers to deployment.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-21.mp3" length="13620045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-226</guid>
+      <pubDate>Fri, 22 May 2026 03:36:44 +0000</pubDate>
+      <itunes:duration>00:11:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Race to Control Your AI Workflow</title>
       <description>Tech companies and independent builders have discovered that the economics of AI production workflows have fundamentally shifted—expensive frontier models are no longer necessary as builders successfully deploy agent stacks using free or near-free components (open-source Claude forks, free token allocations, orchestration tools, and persistent memory solutions) at feature parity with hundred-dollar-per-month commercial offerings. Simultaneously, major model releases from Qwen, Google, and Anthropic are commoditizing raw compute power through free models, faster inference, and dramatically lower costs, suggesting the competitive advantage in AI workflows is no longer access to premium models but rather the ability to intelligently route tasks across multiple models and manage context efficiently. This shift signals we've moved past debating whether AI agents will exist to determining which ecosystem—defined by orchestration capabilities rather than model quality alone—will control how users integrate AI into their workflows.</description>
