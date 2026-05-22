@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 03:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:25:48 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Race to Control Your AI Workflow</title>
+      <description>Tech companies and independent builders have discovered that the economics of AI production workflows have fundamentally shifted—expensive frontier models are no longer necessary as builders successfully deploy agent stacks using free or near-free components (open-source Claude forks, free token allocations, orchestration tools, and persistent memory solutions) at feature parity with hundred-dollar-per-month commercial offerings. Simultaneously, major model releases from Qwen, Google, and Anthropic are commoditizing raw compute power through free models, faster inference, and dramatically lower costs, suggesting the competitive advantage in AI workflows is no longer access to premium models but rather the ability to intelligently route tasks across multiple models and manage context efficiently. This shift signals we've moved past debating whether AI agents will exist to determining which ecosystem—defined by orchestration capabilities rather than model quality alone—will control how users integrate AI into their workflows.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-21.mp3" length="12889485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-225</guid>
+      <pubDate>Fri, 22 May 2026 03:25:48 +0000</pubDate>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI's Biggest Bottleneck Just Got Demolished</title>
       <description>Anthropic's Claude Code achieved a 10x rate limit increase (input tokens 30K→300K/min, output tokens 8K→80K/min) following a 220,000 GPU deal with SpaceX, moving the model from prototype to enterprise-ready production deployment and enabling multi-agent workflows previously impossible. The competitive advantage in AI development has fundamentally shifted from raw model intelligence to "harness engineering"—the architectural design of interfaces, permission scoping, skill chaining, and rule execution that allows autonomous agents to operate effectively at scale. This represents a critical inflection point where the human value proposition in AI systems increasingly depends on orchestration and control mechanisms rather than underlying model capability, changing how developers and enterprises approach AI deployment.</description>
