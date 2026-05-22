@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 02:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:05:37 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Open Source Agents Reshape The AI Infrastructure Landscape</title>
+      <description>The infrastructure powering AI agents is fundamentally inverting from proprietary control to open source—and this shift is happening faster than improvements to the models themselves, reshaping what actually matters for teams building at scale. Discover why sandboxing, orchestration, and tool integration are becoming the real competitive moat, and what it means that production concerns now matter more than raw capability.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-21.mp3" length="12430605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-223</guid>
+      <pubDate>Fri, 22 May 2026 02:05:37 +0000</pubDate>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents' Real Bottleneck Isn't Model Size Anymore</title>
       <description>If you've been betting on bigger models to solve AI agents, you're already behind—the real bottleneck has moved entirely, and the teams dominating 2026 already know where it is. This episode reveals the architectural shift that's making model size almost irrelevant and why the companies getting this right are seeing 35x efficiency gains while others are still chasing benchmark scores.</description>
