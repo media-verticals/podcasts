@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 02:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:19:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Precision Medicine Breakthroughs: CRISPR Accuracy Reaches New Heights</title>
+      <description>For years, CRISPR promised to revolutionize medicine but stumbled on a critical flaw: precision. Researchers just shattered that barrier with results so clean they're moving directly into human trials—and it's exposing an entirely new timeline for therapies we thought were still years away. This is the moment the field stops theorizing and starts delivering.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-05-21.mp3" length="17735085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-224</guid>
+      <pubDate>Fri, 22 May 2026 02:19:28 +0000</pubDate>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gene-Editing Breakthrough: CRISPR Finally Reaches the Clinic</title>
       <description>After years of hitting a biological wall, researchers have finally figured out how to deliver CRISPR directly into the beating human heart—and the implications are staggering. For the first time, genetic heart diseases that have only ever been managed are now potentially curable, and this breakthrough could move from lab to patient faster than anyone expected.</description>
