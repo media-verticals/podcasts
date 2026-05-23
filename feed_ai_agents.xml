@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 02:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 02:10:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agent Licensing Model Collapses as Infrastructure Shifts</title>
+      <description>The licensing model that powered AI agent tools just collapsed—and Microsoft canceling Claude Code licenses is only the visible symptom. What's actually happening is a seismic shift in where real value lives in this market, and it fundamentally changes how builders should be thinking about their infrastructure today.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-22.mp3" length="12901005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-228</guid>
+      <pubDate>Sat, 23 May 2026 02:10:53 +0000</pubDate>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Open Source Agents Reshape The AI Infrastructure Landscape</title>
       <description>The infrastructure powering AI agents is fundamentally inverting from proprietary control to open source—and this shift is happening faster than improvements to the models themselves, reshaping what actually matters for teams building at scale. Discover why sandboxing, orchestration, and tool integration are becoming the real competitive moat, and what it means that production concerns now matter more than raw capability.</description>
