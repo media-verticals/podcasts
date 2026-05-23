@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 03:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 03:26:36 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's Real Battle: Infrastructure Over Intelligence</title>
+      <description>The AI competition has fundamentally shifted from raw model intelligence to infrastructure—specifically, who builds the operating system enabling AI agents to run continuously, learn from experience, and execute real work autonomously. OpenAI, Google, Anthropic, and Alibaba have converged on nearly identical product architectures featuring background task execution, persistent memory, and multi-agent orchestration, signaling the market has unified around a singular solution model. Google's rollout of agents across nine consumer products simultaneously—Gmail, Search, Android, desktop, CLI, and APIs—represents a coordinated platform-layer strategy positioning agents as the definitive UI for human-computer interaction, not as scattered experimental features. The competitive battleground has moved decisively from capability parity to infrastructure ownership, where the vendor controlling the agent operating system will dominate the next computing era.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-22.mp3" length="13747245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-231</guid>
+      <pubDate>Sat, 23 May 2026 03:26:36 +0000</pubDate>
+      <itunes:duration>00:11:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Agent Era Is Here—And Already Splitting Three Ways</title>
       <description>The agent era has arrived and is fragmenting into three distinct directions. First, the economics of AI deployment have fundamentally shifted—independent builders are now creating production-grade agentic workflows with zero API costs using open-source models like Claude Code, Owl Alpha, and Hermes combined with persistent memory systems, democratizing access that previously required expensive enterprise spending. Second, the proliferation of free and cheaper frontier models (Qwen 3.7-Max with a million-token context, Gemini 3.5 Flash at reduced cost) combined with intelligent task routing across multiple models is replacing the old paradigm where success meant affording one expensive model to handle everything. Third, development tools like Cursor Composer are bringing agent capabilities directly into production IDEs, further lowering barriers to deployment.</description>
