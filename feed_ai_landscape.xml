@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 02:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 02:00:11 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Solves 80-Year Math Mystery By Breaking All Rules</title>
+      <description>A breakthrough that's stumped mathematicians for 80 years just fell—not because AI reasoned better than humans, but because it connected knowledge in ways our specialized brains literally can't. What this reveals about how AI actually works (and where it's genuinely useful) could reshape how every industry thinks about problem-solving.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-23.mp3" length="18572685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-233</guid>
+      <pubDate>Sun, 24 May 2026 02:00:11 +0000</pubDate>
+      <itunes:duration>00:15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Google's Gemini Spark Reaches 900 Million Users Overnight</title>
       <description>Google just put autonomous agents into the hands of 900 million people overnight—not as an optional add-on, but as the default operating system of their platform. This isn't a product feature; it's a fundamental shift in how AI gets deployed at scale, and it reveals a strategy that changes everything about who wins in the agent economy.</description>
