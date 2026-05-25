@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 02:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 02:14:43 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Hermes Agent OS Emerges as Unexpected Production System Leader</title>
+      <description>The agentic AI landscape just inverted—and the winner isn't who everyone bet on. Discover why production teams are abandoning raw model capability for architectural completeness, and what this seismic shift reveals about where autonomous systems are actually headed.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-24.mp3" length="15378285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-238</guid>
+      <pubDate>Mon, 25 May 2026 02:14:43 +0000</pubDate>
+      <itunes:duration>00:12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hermes Agent Becomes New Production Standard for AI</title>
       <description>The production AI world just shifted—and most people haven't noticed yet. Discover what's actually winning in real-world autonomous systems, why it's not what conventional wisdom suggests, and what this means for how you'll build AI agents from now on.</description>
