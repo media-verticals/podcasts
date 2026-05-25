@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 03:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 03:34:40 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Move From Demos Into Real Production Systems</title>
+      <description>AI agents are transitioning from interactive demos to ambient background infrastructure, with Claude's computer use capability now operating as a non-intrusive OS-level feature that works in parallel with user activity rather than blocking attention. Multiple platforms—including Hermes Agent OS and Google's AntiGravity 2.0—are converging on the same architectural shift: moving from dashboard-based workflows to autonomous background operation where users specify desired outcomes and agents handle execution mechanics invisibly. The competitive baseline has fundamentally shifted from interactive execution speed to reliable, parallel background operation, eliminating context-switching costs for solo operators and small teams who can now delegate tasks to agents running asynchronously while they focus on other work.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-24.mp3" length="12651405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-241</guid>
+      <pubDate>Mon, 25 May 2026 03:34:40 +0000</pubDate>
+      <itunes:duration>00:10:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Shift From Tools You Watch to Autonomous Workers</title>
       <description>AI agents have undergone a fundamental architectural shift from interactive foreground tools you monitor to autonomous background workers that operate in parallel with your primary tasks. Recent developments like Hermes Agent OS, Google's AntiGravity 2.0, and Claude's computer use capability converge on the same insight: agents can run invisibly without keyboard blocking, cursor takeover, or context switching, completing objectives like desktop organization or research management while you work on other things. This transition requires builders to rethink their entire design philosophy—moving from sequential task completion interfaces to interference-free parallel execution systems. Memory architecture emerges as the critical but often-overlooked foundation enabling agents to operate at scale in this autonomous background layer.</description>
