@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 02:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 01:59:14 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI Companies Learned to Win Without Biggest Budgets</title>
+      <description>The largest AI labs are no longer winning on spending alone—and one recent hire just revealed how the competitive game has fundamentally shifted toward algorithmic efficiency and autonomous improvement. What used to require massive capital budgets and GPU clusters might now be achievable through smarter iteration, and that's about to reshape who can actually compete in AI.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-24.mp3" length="10637805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-236</guid>
+      <pubDate>Mon, 25 May 2026 01:59:14 +0000</pubDate>
+      <itunes:duration>00:08:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Solves 80-Year Math Mystery By Breaking All Rules</title>
       <description>A breakthrough that's stumped mathematicians for 80 years just fell—not because AI reasoned better than humans, but because it connected knowledge in ways our specialized brains literally can't. What this reveals about how AI actually works (and where it's genuinely useful) could reshape how every industry thinks about problem-solving.</description>
