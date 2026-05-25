@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 01:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 02:01:25 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's Karpathy Hire Signals AI's Self-Improvement Race</title>
+      <description>The race to build self-improving AI just entered a new phase—and the player with the smallest budget might have figured out how to win. Anthropic's move signals a fundamental shift in competitive strategy that could reshape which labs survive the trillion-dollar AI arms race.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-24.mp3" length="16429485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-237</guid>
+      <pubDate>Mon, 25 May 2026 02:01:25 +0000</pubDate>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How AI Companies Learned to Win Without Biggest Budgets</title>
       <description>The largest AI labs are no longer winning on spending alone—and one recent hire just revealed how the competitive game has fundamentally shifted toward algorithmic efficiency and autonomous improvement. What used to require massive capital budgets and GPU clusters might now be achievable through smarter iteration, and that's about to reshape who can actually compete in AI.</description>
