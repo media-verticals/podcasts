@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 02:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 02:17:30 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Builders Choose Hermes Despite Weaker AI Models</title>
+      <description>The infrastructure layer is quietly eating the model layer. Builders are abandoning best-in-class AI for mediocre-but-integrated systems, and a single breakthrough in prompt caching economics just made that tradeoff irreversible—here's why the entire agent stack is about to reorganize around what actually ships versus what scores highest on benchmarks.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-24.mp3" length="12292845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-239</guid>
+      <pubDate>Mon, 25 May 2026 02:17:30 +0000</pubDate>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hermes Agent OS Emerges as Unexpected Production System Leader</title>
       <description>The agentic AI landscape just inverted—and the winner isn't who everyone bet on. Discover why production teams are abandoning raw model capability for architectural completeness, and what this seismic shift reveals about where autonomous systems are actually headed.</description>
