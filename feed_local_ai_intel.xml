@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 02:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 02:25:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Services Market Consolidates While Budget Tier Crumbles</title>
+      <description>The AI services market is experiencing a dramatic structural shift—infrastructure platforms are consolidating around agent orchestration while the budget tier that's sustained thousands of agencies is quietly collapsing. If you're still competing on cheap implementations, 2027 is already here; if you understand where the real money is moving, you're about to see exactly why a $5.2 billion valuation just rewrote the playbook for who survives the next consolidation wave.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-25.mp3" length="16995885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-245</guid>
+      <pubDate>Tue, 26 May 2026 02:25:24 +0000</pubDate>
+      <itunes:duration>00:14:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Services Market Splits Into Two Competing Layers</title>
       <description>The AI services market is fracturing into two distinct battlegrounds—enterprise automation consolidating upward into Microsoft, Google, and SAP's ecosystems, while SMB services remain radically undersaturated—and there's a shrinking 12-24 month window before incumbents lock in their dominance and close off the agency opportunity entirely. If you're still positioning yourself as a commodity automation builder, you're already on the wrong side of this split, and the moves you make in the next quarter will determine whether you own a vertical or disappear into margin compression.</description>
