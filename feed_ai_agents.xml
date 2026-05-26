@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 02:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 02:03:44 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Graduate From Demos to Real Business Tools</title>
+      <description>For years, AI agents have been stuck in demo purgatory—impressive in controlled conditions but falling apart in the real world. We're now at the exact moment that changes, as production-grade agent operating systems ship and expose the specific architectural patterns that separate what actually works from what looks good on Twitter.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-25.mp3" length="14307405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-243</guid>
+      <pubDate>Tue, 26 May 2026 02:03:44 +0000</pubDate>
+      <itunes:duration>00:11:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Builders Choose Hermes Despite Weaker AI Models</title>
       <description>The infrastructure layer is quietly eating the model layer. Builders are abandoning best-in-class AI for mediocre-but-integrated systems, and a single breakthrough in prompt caching economics just made that tradeoff irreversible—here's why the entire agent stack is about to reorganize around what actually ships versus what scores highest on benchmarks.</description>
