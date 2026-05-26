@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 02:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 01:53:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Pope's AI Encyclical Signals Power Shift Away From Tech</title>
+      <description>The Vatican just entered the AI governance conversation in a way that made Silicon Valley listen—and that signals a fundamental power shift away from tech companies writing their own rules. When institutions with actual enforcement authority start weighing in, the entire calculus of AI development changes overnight, and the industry's response is already telling us how they're preparing for a world they no longer control.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-25.mp3" length="13099725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-242</guid>
+      <pubDate>Tue, 26 May 2026 01:53:54 +0000</pubDate>
+      <itunes:duration>00:10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic's Karpathy Hire Signals AI's Self-Improvement Race</title>
       <description>The race to build self-improving AI just entered a new phase—and the player with the smallest budget might have figured out how to win. Anthropic's move signals a fundamental shift in competitive strategy that could reshape which labs survive the trillion-dollar AI arms race.</description>
