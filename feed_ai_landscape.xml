@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 01:53:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 01:51:04 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's Price Collapse Moment: Twenty-to-One Cost Revolution</title>
+      <description>The economics of AI just inverted: frontier model costs are skyrocketing while alternatives deliver equivalent results for a fraction of the price, forcing a reckoning that will reshape how every company builds. When a twenty-to-one cost gap emerges overnight and major players like Uber start burning entire budgets on token consumption, something fundamental breaks—and the companies that move first will own the next era of AI infrastructure.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-26.mp3" length="8847885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-247</guid>
+      <pubDate>Wed, 27 May 2026 01:51:04 +0000</pubDate>
+      <itunes:duration>00:07:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Pope's AI Encyclical Signals Power Shift Away From Tech</title>
       <description>The Vatican just entered the AI governance conversation in a way that made Silicon Valley listen—and that signals a fundamental power shift away from tech companies writing their own rules. When institutions with actual enforcement authority start weighing in, the entire calculus of AI development changes overnight, and the industry's response is already telling us how they're preparing for a world they no longer control.</description>
