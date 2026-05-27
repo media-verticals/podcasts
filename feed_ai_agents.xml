@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 02:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 02:01:05 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Builders Are Converging on One Standard Architecture</title>
+      <description>The fragmentation in AI tooling that defined the last year and a half has become unsustainable—and independent builders across the industry have quietly converged on the same seven-layer architecture without coordinating with each other. This organic standardization signals a critical inflection point: the infrastructure pattern that will define the next eighteen months is crystallizing right now, and understanding it could be the difference between building at scale or rebuilding constantly.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-26.mp3" length="14558925" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-248</guid>
+      <pubDate>Wed, 27 May 2026 02:01:05 +0000</pubDate>
+      <itunes:duration>00:12:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Graduate From Demos to Real Business Tools</title>
       <description>For years, AI agents have been stuck in demo purgatory—impressive in controlled conditions but falling apart in the real world. We're now at the exact moment that changes, as production-grade agent operating systems ship and expose the specific architectural patterns that separate what actually works from what looks good on Twitter.</description>
