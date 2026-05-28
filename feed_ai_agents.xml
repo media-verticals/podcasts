@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 02:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 02:19:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Coding Agents Split Into Two Completely Different Markets</title>
+      <description>The agent market just split in two—and it's not about which model is smartest anymore. Discover why production reliability has become the decisive factor, how the economics of building agents have fundamentally changed, and why the winners aren't the ones you'd expect.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-27.mp3" length="26568525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-252</guid>
+      <pubDate>Thu, 28 May 2026 02:19:24 +0000</pubDate>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Builders Are Converging on One Standard Architecture</title>
       <description>The fragmentation in AI tooling that defined the last year and a half has become unsustainable—and independent builders across the industry have quietly converged on the same seven-layer architecture without coordinating with each other. This organic standardization signals a critical inflection point: the infrastructure pattern that will define the next eighteen months is crystallizing right now, and understanding it could be the difference between building at scale or rebuilding constantly.</description>
