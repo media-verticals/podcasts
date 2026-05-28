@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 01:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:55:46 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Battle for AI Customer Relationships Begins</title>
+      <description>Two AI giants just made completely opposite bets on who owns the customer relationship in an agentic future—and one of these strategies will likely define the next era of AI dominance. The shift has already started, and it fundamentally changes how value flows through the entire AI ecosystem.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-27.mp3" length="16338765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-251</guid>
+      <pubDate>Thu, 28 May 2026 01:55:46 +0000</pubDate>
+      <itunes:duration>00:13:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI's Price Collapse Moment: Twenty-to-One Cost Revolution</title>
       <description>The economics of AI just inverted: frontier model costs are skyrocketing while alternatives deliver equivalent results for a fraction of the price, forcing a reckoning that will reshape how every company builds. When a twenty-to-one cost gap emerges overnight and major players like Uber start burning entire budgets on token consumption, something fundamental breaks—and the companies that move first will own the next era of AI infrastructure.</description>
