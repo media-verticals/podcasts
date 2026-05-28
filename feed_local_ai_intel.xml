@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 02:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 02:30:55 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Services Agencies Abandon Legacy Platforms for Specialized Tools</title>
+      <description>The AI services agency landscape is experiencing a seismic shift as platform limitations force a reckoning—discover why the tools agencies relied on yesterday are becoming obsolete today, and what the smartest operators are doing instead to capture the real margins in AI operations.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-05-27.mp3" length="17039565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-253</guid>
+      <pubDate>Thu, 28 May 2026 02:30:55 +0000</pubDate>
+      <itunes:duration>00:14:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Services Market Consolidates While Budget Tier Crumbles</title>
       <description>The AI services market is experiencing a dramatic structural shift—infrastructure platforms are consolidating around agent orchestration while the budget tier that's sustained thousands of agencies is quietly collapsing. If you're still competing on cheap implementations, 2027 is already here; if you understand where the real money is moving, you're about to see exactly why a $5.2 billion valuation just rewrote the playbook for who survives the next consolidation wave.</description>
