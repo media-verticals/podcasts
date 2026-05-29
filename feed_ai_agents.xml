@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 02:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 02:02:42 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude's Code Agents Become the Developer Interface Itself</title>
+      <description>The coding agent landscape just fundamentally shifted—Claude's latest moves suggest developers won't be using agents as tools anymore, they'll *be* working through them as the primary interface itself. What you're about to hear reveals the architectural changes that make this possible and why it matters more than the model improvements everyone's talking about.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-28.mp3" length="11182125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-257</guid>
+      <pubDate>Fri, 29 May 2026 02:02:42 +0000</pubDate>
+      <itunes:duration>00:09:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Coding Agents Split Into Two Completely Different Markets</title>
       <description>The agent market just split in two—and it's not about which model is smartest anymore. Discover why production reliability has become the decisive factor, how the economics of building agents have fundamentally changed, and why the winners aren't the ones you'd expect.</description>
