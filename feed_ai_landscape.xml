@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 01:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 02:02:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's New AI Model Reframes the Agentic Future</title>
+      <description>As frontier AI labs race toward autonomous agents, one company just fundamentally rewired how their model thinks—trading safety theater for radical honesty, and it changes everything about what actually works in production. This shift could either be the moment we finally built AI systems you can trust unsupervised, or the moment the industry admitted the old guardrails were never the real solution.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-28.mp3" length="12126285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-256</guid>
+      <pubDate>Fri, 29 May 2026 02:02:32 +0000</pubDate>
+      <itunes:duration>00:10:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic's Trillion-Dollar Bet Reshapes AI Competition</title>
       <description>As Anthropic crosses into trillion-dollar territory with a historic funding round, the real shock isn't the valuation—it's the seismic shift in how AI competition works now, and what it means for every startup, investor, and incumbent watching the space. This capital influx signals a brutal new reality where only labs with multi-billion-dollar runways can afford to take the risks that define the next era of AI, and everyone else is playing a fundamentally different game.</description>
