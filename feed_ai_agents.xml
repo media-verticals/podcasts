@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 02:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 02:24:30 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Finally Learning How to Actually Work</title>
+      <description>For years, AI agents have promised autonomy but delivered frustration—until now. The breakthrough isn't smarter models or flashier features; it's a fundamental architectural shift that's already proving itself in production systems, and it rewrites everything we thought we knew about what actually makes agents work at scale.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-28.mp3" length="13998765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-259</guid>
+      <pubDate>Fri, 29 May 2026 02:24:30 +0000</pubDate>
+      <itunes:duration>00:11:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude's Code Agents Become the Developer Interface Itself</title>
       <description>The coding agent landscape just fundamentally shifted—Claude's latest moves suggest developers won't be using agents as tools anymore, they'll *be* working through them as the primary interface itself. What you're about to hear reveals the architectural changes that make this possible and why it matters more than the model improvements everyone's talking about.</description>
