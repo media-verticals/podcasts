@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 02:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 02:14:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Gene Editing Therapy Slashes Cholesterol in Single Dose</title>
+      <description>For decades, treating high cholesterol meant a daily pill regimen for life—but this week, a single injection just rewrote that entire playbook, and the implications stretch far beyond one drug. We're witnessing the moment gene-editing technology breaks through from laboratory promise into real human medicine, with consequences that could reshape how we think about chronic disease management itself.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-05-28.mp3" length="14483565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-258</guid>
+      <pubDate>Fri, 29 May 2026 02:14:47 +0000</pubDate>
+      <itunes:duration>00:12:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gene Therapy Breakthrough: Delivering CRISPR Directly to Brain</title>
       <description>For decades, getting gene therapy into the human brain has been the impossible problem—we could edit the genes, but the immune system kept shutting it down. A breakthrough just crossed that barrier, and it's about to unlock an entire class of therapies that were stuck in limbo. This is the moment the field actually shifts from lab to patient.</description>
