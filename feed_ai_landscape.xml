@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 02:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 01:52:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's Compute Crunch Finally Breaks Open</title>
+      <description>The compute bottleneck that's constrained AI development for months may finally be cracking—and one major player's latest move signals they've solved it in a way that fundamentally changes what's possible with AI agents. This shift isn't just about faster models; it's about who controls the next phase of AI competition, and the window to understand what's happening is closing fast.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-29.mp3" length="11891085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-261</guid>
+      <pubDate>Sat, 30 May 2026 01:52:57 +0000</pubDate>
+      <itunes:duration>00:09:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic's New AI Model Reframes the Agentic Future</title>
       <description>As frontier AI labs race toward autonomous agents, one company just fundamentally rewired how their model thinks—trading safety theater for radical honesty, and it changes everything about what actually works in production. This shift could either be the moment we finally built AI systems you can trust unsupervised, or the moment the industry admitted the old guardrails were never the real solution.</description>
