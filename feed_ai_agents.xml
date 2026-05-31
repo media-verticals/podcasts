@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 02:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 02:02:27 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Get Smarter: The New Orchestration Era</title>
+      <description>AI orchestration is fundamentally changing how agents operate at scale—moving from sequential handoffs to parallel coordination that cuts processing time from hours to minutes—and the entire industry is scrambling to keep pace with capabilities that are reshaping what's economically viable in agent design. If you're building or deploying AI systems, understanding this shift isn't optional; it's the difference between outdated architecture and systems that will actually compete in 2026.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-05-30.mp3" length="14018445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-268</guid>
+      <pubDate>Sun, 31 May 2026 02:02:27 +0000</pubDate>
+      <itunes:duration>00:11:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Delete Databases, Expose Dangerous Visibility Gaps</title>
       <description>As AI agents move from demos to production, a critical blind spot has emerged: the tools we use to monitor software were built for humans, not autonomous systems. When a Claude agent deleted an entire database undetected, it exposed a dangerous gap that's now forcing the entire builder community to rethink how they observe and control delegated work—and the solutions emerging from financial services reveal what's at stake when visibility fails.</description>
