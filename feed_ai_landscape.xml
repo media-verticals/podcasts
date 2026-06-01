@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 01:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 01:53:34 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Quiet Revolution: Why AI Companies Stopped Shouting</title>
+      <description>The AI industry's loudest players just went silent—and it's reshaping how companies actually compete. Discover what this quiet shift reveals about which capabilities have stopped mattering, what's become genuinely scarce, and why the next winner in AI might be the company that stops trying to win your attention.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-05-31.mp3" length="12958125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-270</guid>
+      <pubDate>Mon, 01 Jun 2026 01:53:34 +0000</pubDate>
+      <itunes:duration>00:10:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic Overtakes OpenAI in Valuation Race</title>
       <description>The competitive hierarchy of AI just shifted in ways that will reshape enterprise spending decisions for years to come — and it has nothing to do with raw model capability. Discover what metric actually determines who wins the AI race, and why one company's breakthrough in a completely different dimension just made everyone else's approach to scaling look obsolete.</description>
