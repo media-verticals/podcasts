@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 03:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 03:23:36 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The AI Infrastructure Everyone Is Missing</title>
+      <description>The AI infrastructure narrative has shifted from theoretical capability improvements to practical deployment at scale. Abacus AI's SuperComputer—a $10/month service running Claude, GPT-4, and Gemini in persistent Linux environments with databases and public URLs—represents a critical inflection point where AI agents have moved from code generation to actual production software deployment. Enterprise adoption will lag behind technical capability saturation by 18+ months, not because the technology is insufficient, but because integrating these systems into existing workflows requires fundamental operational restructuring. This infrastructure gap means the real competitive advantage in AI over the next two years belongs to organizations that can architect and deploy agent-based systems into production environments, not those waiting for incrementally better models.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-05-31.mp3" length="12436365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-272</guid>
+      <pubDate>Mon, 01 Jun 2026 03:23:36 +0000</pubDate>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Infrastructure Consolidation: The Quiet Shift Reshaping Everything</title>
       <description>AI infrastructure is entering a consolidation phase as the agentic layer crystallizes around shared reference architectures, evidenced by independent teams (Hermes Agent, Anthropic, Ghost AI) converging on similar solutions to parallel agent execution—lazy-loaded tool schemas, dynamic workflows, and state contamination prevention. The industry bottleneck has shifted from capability (reasoning, context) to production-grade engineering challenges like running multiple agents simultaneously without system degradation. This convergence signals the field is moving past experimentation toward standardized approaches for production agentic workflows, reshaping how organizations will deploy AI infrastructure at scale.</description>
