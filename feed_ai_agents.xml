@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 02:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:57:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Microsoft's Shift: Agents Become the Primary Operating Model</title>
+      <description>Microsoft's bet on agents as core infrastructure—not tools—signals a fundamental rewiring of how software gets built and operated. As hallucinations and memory failures cascade into real-world failures, the industry is converging on a single solution that's moving from research papers to production code faster than most realize, forcing every builder to reconsider their entire stack.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-03.mp3" length="10371405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-274</guid>
+      <pubDate>Thu, 04 Jun 2026 01:57:53 +0000</pubDate>
+      <itunes:duration>00:08:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Now Spawn Teams in Radical Parallel Shift</title>
       <description>AI agents just learned to build their own teams—autonomously spinning up dozens of other agents to solve a single problem, fundamentally reshaping how these systems execute and compete. The infrastructure powering this shift is fragmenting rapidly across specialized tools, signaling a seismic change in how builders architect intelligence systems that most people haven't noticed yet.</description>
