@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 03:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 03:21:22 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Builder Infrastructure Shifts From Model Selection to Model Composition</title>
+      <description>Builder infrastructure is shifting from model selection to model composition—where the question isn't "which model is best" but "which model for which task," with specialized models handling reasoning, code generation, and other domains based on latency and cost rather than benchmark scores. This represents a maturity inflection point where differentiation moves downstream from the models themselves to orchestration layers and workflows. Hermes Agent has crossed from viral interest to genuine operational deployment, with production users like Clearmud running 22 independent agents live and migrating revenue-generating systems to the platform—a signal that the infrastructure has solved a real design problem at scale. These two trends indicate the AI builder ecosystem is moving beyond model wars toward pragmatic, task-optimized composition systems.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-03.mp3" length="8963085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-276</guid>
+      <pubDate>Thu, 04 Jun 2026 03:21:22 +0000</pubDate>
+      <itunes:duration>00:07:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI Infrastructure Everyone Is Missing</title>
       <description>The AI infrastructure narrative has shifted from theoretical capability improvements to practical deployment at scale. Abacus AI's SuperComputer—a $10/month service running Claude, GPT-4, and Gemini in persistent Linux environments with databases and public URLs—represents a critical inflection point where AI agents have moved from code generation to actual production software deployment. Enterprise adoption will lag behind technical capability saturation by 18+ months, not because the technology is insufficient, but because integrating these systems into existing workflows requires fundamental operational restructuring. This infrastructure gap means the real competitive advantage in AI over the next two years belongs to organizations that can architect and deploy agent-based systems into production environments, not those waiting for incrementally better models.</description>
