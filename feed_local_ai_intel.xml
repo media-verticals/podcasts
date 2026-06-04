@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 02:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 02:09:44 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agencies Shift Focus to Instagram Lead Generation Automation</title>
+      <description>The AI agency landscape is undergoing a seismic shift—and if you're still selling yesterday's solutions, you're already losing. Discover why Instagram lead generation automation and voice agents are now capturing the revenue that chatbots and website builders used to own, and what this generational pivot reveals about what clients actually want to pay for.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-03.mp3" length="17565165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-275</guid>
+      <pubDate>Thu, 04 Jun 2026 02:09:44 +0000</pubDate>
+      <itunes:duration>00:14:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enterprise AI Agents Fail: Small Business Adoption at Risk</title>
       <description>Enterprise AI agents are quietly failing at scale—and small business owners are noticing. As 40% of enterprises plan to shut down their autonomous AI systems, the pitch that won agencies millions in deals is suddenly under scrutiny. What separates the agencies thriving from those scrambling to rebrand their AI solutions?</description>
