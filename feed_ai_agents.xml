@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 01:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:04:19 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Evolve From Tools Into Autonomous Operating Systems</title>
+      <description>As AI agents graduate from tools that execute tasks into autonomous operating systems that orchestrate entire workflows, the implications for how work actually gets done are reshaping faster than most realize—and if you're building or deploying AI systems, understanding this architectural shift isn't optional anymore. The constraints that have plagued agent builders for years are suddenly solvable, which means the ceiling for what these systems can reliably accomplish just got a lot higher.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-04.mp3" length="16228845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-278</guid>
+      <pubDate>Fri, 05 Jun 2026 02:04:19 +0000</pubDate>
+      <itunes:duration>00:13:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Microsoft's Shift: Agents Become the Primary Operating Model</title>
       <description>Microsoft's bet on agents as core infrastructure—not tools—signals a fundamental rewiring of how software gets built and operated. As hallucinations and memory failures cascade into real-world failures, the industry is converging on a single solution that's moving from research papers to production code faster than most realize, forcing every builder to reconsider their entire stack.</description>
