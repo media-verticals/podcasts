@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 03:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 03:23:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Code Moves From Hype to Actual Creator Operations</title>
+      <description>Claude Code has moved from experimental hype to production-ready creator operations, marked by two critical shifts: Nate Herk's 500-hour feature analysis reveals that actual creator adoption centers on unglamorous but reliable infrastructure like Skills, Routines, and task recurrence—not flashy capabilities. Mark Kashef's framework for multi-agent architecture solves the production failure problem that's plagued AI agents for months by isolating agents into specific harnesses (classify-and-act, fan-out-and-synthesize, adversarial verification, tournament filtering) that catch failures before they propagate. The inflection point isn't better base models or more guardrails—it's boring, reliable system design that transforms agents from interesting experiments into tools companies actually deploy at scale. Creator engagement metrics confirm the market has already decided: builder focus has shifted from "can we build agents" to "how do we run them reliably," signaling the transition</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-04.mp3" length="12380685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-280</guid>
+      <pubDate>Fri, 05 Jun 2026 03:23:24 +0000</pubDate>
+      <itunes:duration>00:10:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Builder Infrastructure Shifts From Model Selection to Model Composition</title>
       <description>Builder infrastructure is shifting from model selection to model composition—where the question isn't "which model is best" but "which model for which task," with specialized models handling reasoning, code generation, and other domains based on latency and cost rather than benchmark scores. This represents a maturity inflection point where differentiation moves downstream from the models themselves to orchestration layers and workflows. Hermes Agent has crossed from viral interest to genuine operational deployment, with production users like Clearmud running 22 independent agents live and migrating revenue-generating systems to the platform—a signal that the infrastructure has solved a real design problem at scale. These two trends indicate the AI builder ecosystem is moving beyond model wars toward pragmatic, task-optimized composition systems.</description>
