@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 02:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:16:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Lab Breakthroughs Finally Work: mRNA Cancer Vaccines Arrive</title>
+      <description>After years of lab promises, mRNA cancer vaccines are finally delivering durable results in actual patients—and multiple independent teams are publishing the same breakthrough simultaneously, signaling we've crossed from hype into reproducible reality. This is the moment the industry has been chasing for a decade, and understanding what's different this time could change how we think about personalized medicine entirely.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-06-04.mp3" length="17994285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-279</guid>
+      <pubDate>Fri, 05 Jun 2026 02:16:53 +0000</pubDate>
+      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gene Editing Therapy Slashes Cholesterol in Single Dose</title>
       <description>For decades, treating high cholesterol meant a daily pill regimen for life—but this week, a single injection just rewrote that entire playbook, and the implications stretch far beyond one drug. We're witnessing the moment gene-editing technology breaks through from laboratory promise into real human medicine, with consequences that could reshape how we think about chronic disease management itself.</description>
