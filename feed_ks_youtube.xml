@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 03:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:23:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI Actually Gets Used: Beyond the Benchmarks</title>
+      <description>Claude is now writing 80% of Anthropic's shipped code and solving research problems autonomously at a 76% success rate, with task duration doubling every four months—demonstrating recursive self-improvement moving from theory into production. Independent analysts agree that AGI by practical definition has already arrived; the constraint is no longer capability but novel ideation, as Claude can execute research brilliantly but cannot yet determine its own research direction, creating a narrow window before that gap closes. This inflection point explains why Anthropic is simultaneously addressing bioweapon screening and recursive self-improvement risks—not as separate concerns but as two sides of the same fundamental shift. The episode reveals a disconnect between benchmark scores and real-world AI deployment, where practical autonomous research and self-directed improvement are already operational despite what traditional performance metrics would suggest.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-05.mp3" length="12705165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-285</guid>
+      <pubDate>Sat, 06 Jun 2026 03:23:47 +0000</pubDate>
+      <itunes:duration>00:10:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Code Moves From Hype to Actual Creator Operations</title>
       <description>Claude Code has moved from experimental hype to production-ready creator operations, marked by two critical shifts: Nate Herk's 500-hour feature analysis reveals that actual creator adoption centers on unglamorous but reliable infrastructure like Skills, Routines, and task recurrence—not flashy capabilities. Mark Kashef's framework for multi-agent architecture solves the production failure problem that's plagued AI agents for months by isolating agents into specific harnesses (classify-and-act, fan-out-and-synthesize, adversarial verification, tournament filtering) that catch failures before they propagate. The inflection point isn't better base models or more guardrails—it's boring, reliable system design that transforms agents from interesting experiments into tools companies actually deploy at scale. Creator engagement metrics confirm the market has already decided: builder focus has shifted from "can we build agents" to "how do we run them reliably," signaling the transition</description>
