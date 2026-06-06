@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 02:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:03:22 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude's Design Pattern Reshapes How Production Agents Work</title>
+      <description>The assumption that the most powerful reasoning model makes the best production agent just broke. Builders are shipping Claude Code-based agents over technically superior alternatives—and it's not because of raw capability, but because of a fundamental design pattern that changes how state, persistence, and control actually work at scale.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-05.mp3" length="16435725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-282</guid>
+      <pubDate>Sat, 06 Jun 2026 02:03:22 +0000</pubDate>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Evolve From Tools Into Autonomous Operating Systems</title>
       <description>As AI agents graduate from tools that execute tasks into autonomous operating systems that orchestrate entire workflows, the implications for how work actually gets done are reshaping faster than most realize—and if you're building or deploying AI systems, understanding this architectural shift isn't optional anymore. The constraints that have plagued agent builders for years are suddenly solvable, which means the ceiling for what these systems can reliably accomplish just got a lot higher.</description>
