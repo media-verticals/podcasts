@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 02:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:13:02 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Viral Infections May Hold Key to Faster Aging</title>
+      <description>Researchers just discovered a direct mechanistic link between viral infections and accelerated aging—and it's not just correlation anymore. What was once separated into two distinct fields of study now reveals a clear causal pathway that could fundamentally change how we understand why some people age faster than others, and more importantly, what we might actually be able to do about it.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-06-05.mp3" length="14340525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-283</guid>
+      <pubDate>Sat, 06 Jun 2026 02:13:02 +0000</pubDate>
+      <itunes:duration>00:11:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Aging May Not Be Random—It's Programmable</title>
       <description>For decades, aging was treated as random cellular decay—inevitable entropy we couldn't read, let alone rewrite. New evidence from independent biological systems is converging on something that changes everything: aging isn't random at all, it's programmable, which means it's potentially controllable.</description>
