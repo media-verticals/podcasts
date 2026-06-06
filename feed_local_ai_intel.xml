@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 02:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:23:36 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title># The Real Bottleneck in Local AI Services Revealed</title>
+      <description>Agencies are making 2-3x more money by solving a problem that has nothing to do with AI technology itself—and if you're still competing on features, you're already behind. Discover what's actually separating six-figure agencies from the rest, and why the real bottleneck just shifted from building to operating.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-05.mp3" length="15579885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-284</guid>
+      <pubDate>Sat, 06 Jun 2026 02:23:36 +0000</pubDate>
+      <itunes:duration>00:12:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agencies Shift Focus to Instagram Lead Generation Automation</title>
       <description>The AI agency landscape is undergoing a seismic shift—and if you're still selling yesterday's solutions, you're already losing. Discover why Instagram lead generation automation and voice agents are now capturing the revenue that chatbots and website builders used to own, and what this generational pivot reveals about what clients actually want to pay for.</description>
