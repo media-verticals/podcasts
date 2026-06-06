@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 01:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 01:52:13 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Leaders Push Pause While Racing Forward</title>
+      <description>The world's most powerful AI companies are publicly calling for a global pause on development while simultaneously racing to prove their systems are advancing faster than ever—and the timing raises a hard question about whether the responsibility messaging is genuine caution or sophisticated narrative control designed to shape regulation before it arrives.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-05.mp3" length="10453485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-281</guid>
+      <pubDate>Sat, 06 Jun 2026 01:52:13 +0000</pubDate>
+      <itunes:duration>00:08:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Safety Advocates Call Pause While Pushing Ahead</title>
       <description>As AI safety advocates publicly call for development pauses, the industry's biggest players are quietly executing moves that suggest the opposite—revealing a stark gap between what companies say about slowing down and what their actual strategy reveals about their confidence and competitive positioning. What looks like moral leadership might actually be a calculated competitive advantage play that could reshape the entire AI landscape.</description>
