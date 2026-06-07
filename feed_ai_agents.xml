@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 02:07:39 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Moving From Cloud to Your Desktop</title>
+      <description>The infrastructure powering AI agents is undergoing a radical reversal: after months of betting on cloud-hosted solutions, production systems are rapidly shifting to local, desktop-first architectures—and the reason has nothing to do with hype and everything to do with cost control, reliability, and the brutal economics of agents running wild in the cloud. Discover what changed in just six months, why builders are abandoning the hosted agent economy, and what this shift reveals about the real bottleneck blocking AI agents from going mainstream.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-06.mp3" length="19671885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-287</guid>
+      <pubDate>Sun, 07 Jun 2026 02:07:39 +0000</pubDate>
+      <itunes:duration>00:16:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude's Design Pattern Reshapes How Production Agents Work</title>
       <description>The assumption that the most powerful reasoning model makes the best production agent just broke. Builders are shipping Claude Code-based agents over technically superior alternatives—and it's not because of raw capability, but because of a fundamental design pattern that changes how state, persistence, and control actually work at scale.</description>
