@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 01:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 01:51:37 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's Safety Push Masks IPO Timing Strategy</title>
+      <description>As Anthropic races toward a billion-dollar valuation, their sudden pivot to public safety warnings raises a troubling question: is their governance push genuine concern or strategic positioning designed to justify closed systems and premium pricing while neutralizing regulatory threats? Discover how one company's "responsible AI" narrative may actually be the most profitable moat in tech—and what Meta's chatbot security breach reveals about the real risks being buried beneath corporate safety theater.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-06.mp3" length="9573165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-286</guid>
+      <pubDate>Sun, 07 Jun 2026 01:51:37 +0000</pubDate>
+      <itunes:duration>00:07:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Leaders Push Pause While Racing Forward</title>
       <description>The world's most powerful AI companies are publicly calling for a global pause on development while simultaneously racing to prove their systems are advancing faster than ever—and the timing raises a hard question about whether the responsibility messaging is genuine caution or sophisticated narrative control designed to shape regulation before it arrives.</description>
