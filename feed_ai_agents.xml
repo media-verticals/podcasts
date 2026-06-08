@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 02:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 02:03:35 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The AI Agent Crisis Nobody's Talking About Yet</title>
+      <description>As AI agents move from demos to real production environments, teams are discovering the crisis isn't about model intelligence—it's about fundamental architectural problems nobody prepared for: token economics are collapsing, reliability is unpredictable, and the industry's assumed solution (bigger context windows) is actually making everything worse. We're seeing a quiet but decisive shift away from "smarter agents" toward a completely different design philosophy that's already winning in production, and if you're building or deploying AI agents, understanding this shift before it becomes obvious is what separates success from costly failure.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-07.mp3" length="15274605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-290</guid>
+      <pubDate>Mon, 08 Jun 2026 02:03:35 +0000</pubDate>
+      <itunes:duration>00:12:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Moving From Cloud to Your Desktop</title>
       <description>The infrastructure powering AI agents is undergoing a radical reversal: after months of betting on cloud-hosted solutions, production systems are rapidly shifting to local, desktop-first architectures—and the reason has nothing to do with hype and everything to do with cost control, reliability, and the brutal economics of agents running wild in the cloud. Discover what changed in just six months, why builders are abandoning the hosted agent economy, and what this shift reveals about the real bottleneck blocking AI agents from going mainstream.</description>
