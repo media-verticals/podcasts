@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 02:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:02:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Move From Hype to Production Reality</title>
+      <description>The era of "maybe someday" for AI agents is over — teams have moved past wondering if they work and are now shipping them at scale, with specific architectural breakthroughs that make enterprise deployment suddenly viable. Discover what fundamentally shifted in how agents are built and deployed, what's actually working in production today, and why the next 12 months will separate the companies that move fast from those still experimenting.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-08.mp3" length="11742285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-293</guid>
+      <pubDate>Tue, 09 Jun 2026 02:02:12 +0000</pubDate>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI Agent Crisis Nobody's Talking About Yet</title>
       <description>As AI agents move from demos to real production environments, teams are discovering the crisis isn't about model intelligence—it's about fundamental architectural problems nobody prepared for: token economics are collapsing, reliability is unpredictable, and the industry's assumed solution (bigger context windows) is actually making everything worse. We're seeing a quiet but decisive shift away from "smarter agents" toward a completely different design philosophy that's already winning in production, and if you're building or deploying AI agents, understanding this shift before it becomes obvious is what separates success from costly failure.</description>
