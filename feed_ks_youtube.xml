@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 03:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 03:30:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI Tooling Economics Just Completely Flipped</title>
+      <description>The economics of AI tooling have fundamentally inverted—proprietary cloud APIs like GPT-4 and Claude are now the luxury option, while open-source alternatives deliver equivalent performance at 10-20x lower cost. Minimax's M3 model matches Claude/GPT-4.5 performance for $20/month with 1.7B tokens, with weights opening June 10 for local deployment, while DeepSeek's desktop app cuts costs by 75% by moving inference entirely on-device. This shift is enabling a new wave of autonomous agent and workflow builders like Hermes Agent to integrate local AI with memory systems and task orchestration, fundamentally changing how builders choose their stack based on cost and control rather than capability alone.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-08.mp3" length="18180525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-296</guid>
+      <pubDate>Tue, 09 Jun 2026 03:30:07 +0000</pubDate>
+      <itunes:duration>00:15:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Real Story Behind Claude's Next Major Release</title>
       <description>Anthropic's Claude Mythos 5 launch signals a fundamental shift in AI competition—moving from raw speed and benchmark comparisons toward frontier capabilities like single-prompt game world generation and photorealistic 3D rendering that competitors cannot yet replicate. Simultaneously, the Opus 4.8 update represents a strategic pivot toward model honesty and failure admission, indicating that reliability and transparency are becoming competitive differentiators in production systems. This dual release reveals the real race is no longer about which model is fastest, but which can perform genuinely novel tasks and behave more truthfully about its limitations. The pricing strategy (25-125 dollars per million tokens for Mythos 5) and synchronized rollout suggest Anthropic is closing specific capability gaps while repositioning the entire productivity conversation around AI utility beyond raw intelligence metrics.</description>
