@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 02:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:15:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Cell Therapy Revolution: Making Expensive Treatments Finally Accessible</title>
+      <description>For a decade, cell therapies have saved lives—but at a price tag that puts them out of reach for most patients. A fundamental shift is happening right now that could democratize access to these treatments by attacking the one bottleneck that's made them impossibly expensive to manufacture. This is the moment the economics of medicine are being rewritten.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-06-08.mp3" length="19042605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-294</guid>
+      <pubDate>Tue, 09 Jun 2026 02:15:00 +0000</pubDate>
+      <itunes:duration>00:15:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lab Breakthroughs Finally Work: mRNA Cancer Vaccines Arrive</title>
       <description>After years of lab promises, mRNA cancer vaccines are finally delivering durable results in actual patients—and multiple independent teams are publishing the same breakthrough simultaneously, signaling we've crossed from hype into reproducible reality. This is the moment the industry has been chasing for a decade, and understanding what's different this time could change how we think about personalized medicine entirely.</description>
