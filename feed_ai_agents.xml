@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 02:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:07:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Break Free From Token Limits With Claude's New Feature</title>
+      <description>Anthropic just fundamentally changed how AI agents handle complexity—and it's not about bigger models or longer context windows, it's about agents that can now work like teams instead of solo performers. If you're building or deploying agents in production, this shift from single-threaded reasoning to parallel task decomposition changes everything about what's actually possible.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-09.mp3" length="17609325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-298</guid>
+      <pubDate>Wed, 10 Jun 2026 02:07:38 +0000</pubDate>
+      <itunes:duration>00:14:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Move From Hype to Production Reality</title>
       <description>The era of "maybe someday" for AI agents is over — teams have moved past wondering if they work and are now shipping them at scale, with specific architectural breakthroughs that make enterprise deployment suddenly viable. Discover what fundamentally shifted in how agents are built and deployed, what's actually working in production today, and why the next 12 months will separate the companies that move fast from those still experimenting.</description>
