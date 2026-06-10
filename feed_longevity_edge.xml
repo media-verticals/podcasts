@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:15:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Longevity Breakthrough: Combining Two Therapies Extends Lifespan</title>
+      <description>For years, longevity research has chased single solutions—but a breakthrough trial just proved that's backwards, showing lifespan extension only happens when two critical pathways work together. Discover why this combination changes everything about how we approach aging, and the unexpected mechanism that makes periodic fasting rewrite your cells at the epigenetic level.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-06-09.mp3" length="11554125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-299</guid>
+      <pubDate>Wed, 10 Jun 2026 02:15:53 +0000</pubDate>
+      <itunes:duration>00:09:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Viral Infections May Hold Key to Faster Aging</title>
       <description>Researchers just discovered a direct mechanistic link between viral infections and accelerated aging—and it's not just correlation anymore. What was once separated into two distinct fields of study now reveals a clear causal pathway that could fundamentally change how we understand why some people age faster than others, and more importantly, what we might actually be able to do about it.</description>
