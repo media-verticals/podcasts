@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 01:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 01:52:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Leaders Battle for Control Beyond Raw Computing Power</title>
+      <description>As AI leaders move beyond raw capability races, one company just revealed what they actually believe is the real constraint on frontier models—and it's not what anyone expected. The market is quietly restructuring around control, pricing power, and regulatory positioning, and the winners won't be decided by whose model is smartest.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-09.mp3" length="11826285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-297</guid>
+      <pubDate>Wed, 10 Jun 2026 01:52:57 +0000</pubDate>
+      <itunes:duration>00:09:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI's Secret IPO Filing Reveals AI's True Direction</title>
       <description>OpenAI's surprise IPO filing signals a fundamental shift in their business model—they're no longer betting on chatbots, but on autonomous agents that execute work at scale, and the implications for labor automation and AI's role in the economy are far more radical than the headlines suggest. What Apple just revealed moments after raises even bigger questions about who controls the infrastructure layer in this new AI economy.</description>
