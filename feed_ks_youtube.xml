@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 03:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 03:23:40 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's New Reasoning Mode Changes Everything About Access</title>
+      <description>Anthropic's Claude Fable 5 introduces a fundamentally new mode of AI operation: autonomous reasoning loops that work iteratively without constant human intervention, as demonstrated by Stripe completing a two-month migration in one day and independent builders automating complex tasks. This shift represents a move beyond faster task completion to genuine autonomous work under human supervision—a capability change rather than a specs upgrade. However, the pricing structure (up to $1,000 per autonomous task at scale) creates a stark accessibility divide, putting advanced agent-based AI development within reach only for well-funded companies while pricing out solo founders and smaller teams. This economic gatekeeping may define the next phase of AI development, where capability leaders and those who can afford compute costs separate from the broader builder ecosystem.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-09.mp3" length="12971565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-300</guid>
+      <pubDate>Wed, 10 Jun 2026 03:23:40 +0000</pubDate>
+      <itunes:duration>00:10:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How AI Tooling Economics Just Completely Flipped</title>
       <description>The economics of AI tooling have fundamentally inverted—proprietary cloud APIs like GPT-4 and Claude are now the luxury option, while open-source alternatives deliver equivalent performance at 10-20x lower cost. Minimax's M3 model matches Claude/GPT-4.5 performance for $20/month with 1.7B tokens, with weights opening June 10 for local deployment, while DeepSeek's desktop app cuts costs by 75% by moving inference entirely on-device. This shift is enabling a new wave of autonomous agent and workflow builders like Hermes Agent to integrate local AI with memory systems and task orchestration, fundamentally changing how builders choose their stack based on cost and control rather than capability alone.</description>
