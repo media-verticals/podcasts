@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 02:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:17:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Services Shift From Technology to Reliable Delivery</title>
+      <description>The AI arms race is over—and the winners aren't the ones building better technology. Discover why agencies are now competing on a completely different battlefield, and how this seismic shift is creating a lucrative new business model that most practitioners still haven't noticed.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-10.mp3" length="12889485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-303</guid>
+      <pubDate>Thu, 11 Jun 2026 02:17:24 +0000</pubDate>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Agencies Are Losing Control of Their AI Business Model</title>
       <description>As agencies scale AI workflows, clients are demanding ownership instead of ongoing management—forcing a fundamental shift from selling services to selling systems. The agencies that master this transition are commanding 2-3x premiums, while those still competing on labor and commoditized solutions watch their margins disappear entirely.</description>
