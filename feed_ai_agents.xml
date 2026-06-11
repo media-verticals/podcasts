@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 02:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:08:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agents Move From Hype to Actual Production Reality</title>
+      <description>The agent hype cycle is hitting a wall—and the real work is just beginning. As the industry shifts from "can we build agents?" to "can we actually run them reliably in production?", a completely different set of priorities is reshaping the entire stack, and the tools gaining traction reveal what builders actually need versus what they were promised.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-10.mp3" length="19612365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-302</guid>
+      <pubDate>Thu, 11 Jun 2026 02:08:47 +0000</pubDate>
+      <itunes:duration>00:16:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Break Free From Token Limits With Claude's New Feature</title>
       <description>Anthropic just fundamentally changed how AI agents handle complexity—and it's not about bigger models or longer context windows, it's about agents that can now work like teams instead of solo performers. If you're building or deploying agents in production, this shift from single-threaded reasoning to parallel task decomposition changes everything about what's actually possible.</description>
