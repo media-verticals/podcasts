@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 02:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 02:03:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Code's Real-World Performance Reveals AI Agent Reality Gap</title>
+      <description>As AI agents move from hype to production, a stark reality is emerging: the gap between benchmark performance and real-world reliability is forcing teams to make infrastructure choices they never expected to make. Discover what's actually breaking in deployed agents, why model upgrades are becoming downgrades, and what builders are shipping just to keep systems from collapsing.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-11.mp3" length="13518765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-306</guid>
+      <pubDate>Fri, 12 Jun 2026 02:03:09 +0000</pubDate>
+      <itunes:duration>00:11:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agents Move From Hype to Actual Production Reality</title>
       <description>The agent hype cycle is hitting a wall—and the real work is just beginning. As the industry shifts from "can we build agents?" to "can we actually run them reliably in production?", a completely different set of priorities is reshaping the entire stack, and the tools gaining traction reveal what builders actually need versus what they were promised.</description>
