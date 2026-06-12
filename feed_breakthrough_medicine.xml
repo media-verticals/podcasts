@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 02:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 02:13:04 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Dual Approach to Aging: Scientists Extend Human Lifespan</title>
+      <description>For decades, aging research pursued single solutions—clear out damaged cells OR rebuild tissue. New human-relevant trials just proved that strategy fundamentally wrong, showing lifespan extension only happens when you attack aging on multiple fronts simultaneously, upending billions in ongoing drug development and forcing a strategic reckoning across the industry. This isn't incremental progress; it's a complete reorientation of how medicine will approach aging by 2027.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-06-11.mp3" length="14534925" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-307</guid>
+      <pubDate>Fri, 12 Jun 2026 02:13:04 +0000</pubDate>
+      <itunes:duration>00:12:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Cell Therapy Revolution: Making Expensive Treatments Finally Accessible</title>
       <description>For a decade, cell therapies have saved lives—but at a price tag that puts them out of reach for most patients. A fundamental shift is happening right now that could democratize access to these treatments by attacking the one bottleneck that's made them impossibly expensive to manufacture. This is the moment the economics of medicine are being rewritten.</description>
