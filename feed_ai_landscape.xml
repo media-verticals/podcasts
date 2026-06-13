@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 01:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 01:51:48 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Trump's AI Lockdown: What Capital-Starved Startups Really Fear</title>
+      <description>As the Trump administration tightens its grip on AI exports, one frontier lab just made a revealing move that exposes the real financial pressure shaping how cutting-edge AI gets built and released—and it suggests the capital crunch is forcing companies to choose between survival today and dominance tomorrow.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-12.mp3" length="10081965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-309</guid>
+      <pubDate>Sat, 13 Jun 2026 01:51:48 +0000</pubDate>
+      <itunes:duration>00:08:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hidden Trade-Offs: AI Safety Versus User Trust</title>
       <description>As AI safety becomes the industry's favorite justification for control, one company's attempt to quiet its model has exposed a widening gap between what labs say they're doing and what users actually experience—forcing a reckoning about whether safety messaging has become cover for something else entirely. What started as a product controversy has revealed a pattern that suggests the real threat to AI adoption isn't the technology itself, but the erosion of trust when companies hide trade-offs behind safety language.</description>
