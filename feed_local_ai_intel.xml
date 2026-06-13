@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 02:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:18:18 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agencies Race to Build AI Automation, Delivery Becomes New Bottleneck</title>
+      <description>As agencies finally crack the code on building AI automation at scale, a new problem is emerging that could determine who wins the market—and it has nothing to do with capability. The real bottleneck isn't what you can build anymore, it's how fast you can deliver it, and the platforms racing to solve this are forcing agencies to make a choice that will fundamentally change their business model and margins.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-12.mp3" length="10392525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-312</guid>
+      <pubDate>Sat, 13 Jun 2026 02:18:18 +0000</pubDate>
+      <itunes:duration>00:08:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Services Shift From Technology to Reliable Delivery</title>
       <description>The AI arms race is over—and the winners aren't the ones building better technology. Discover why agencies are now competing on a completely different battlefield, and how this seismic shift is creating a lucrative new business model that most practitioners still haven't noticed.</description>
