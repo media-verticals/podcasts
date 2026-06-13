@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 02:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:11:10 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Scientists Discover Aging May Actually Be Reversible</title>
+      <description>For decades, we've measured aging as a one-way street—a clock that only moves forward. But researchers just discovered something that fundamentally changes that assumption: a biological marker that actually moves backward when aging is reversed. This isn't just another aging study; it's the first reliable tool that could prove rejuvenation is real, transforming everything we thought we knew about whether aging is truly inevitable.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-06-12.mp3" length="15684045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-311</guid>
+      <pubDate>Sat, 13 Jun 2026 02:11:10 +0000</pubDate>
+      <itunes:duration>00:13:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Longevity Breakthrough: Combining Two Therapies Extends Lifespan</title>
       <description>For years, longevity research has chased single solutions—but a breakthrough trial just proved that's backwards, showing lifespan extension only happens when two critical pathways work together. Discover why this combination changes everything about how we approach aging, and the unexpected mechanism that makes periodic fasting rewrite your cells at the epigenetic level.</description>
