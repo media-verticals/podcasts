@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 02:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:00:13 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>When AI Coding Agents Meet Reality: Simplicity Wins</title>
+      <description>As AI coding agents move from hype to real-world deployment, the market is revealing an unexpected winner—and it's forcing a fundamental rethinking of what developers actually need. Discover why the polished, feature-rich platforms are losing ground to bare-bones tools, and what this architectural shift tells us about the future of AI-powered development.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-12.mp3" length="12182445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-310</guid>
+      <pubDate>Sat, 13 Jun 2026 02:00:13 +0000</pubDate>
+      <itunes:duration>00:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Code's Real-World Performance Reveals AI Agent Reality Gap</title>
       <description>As AI agents move from hype to production, a stark reality is emerging: the gap between benchmark performance and real-world reliability is forcing teams to make infrastructure choices they never expected to make. Discover what's actually breaking in deployed agents, why model upgrades are becoming downgrades, and what builders are shipping just to keep systems from collapsing.</description>
