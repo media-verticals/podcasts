@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 03:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 03:21:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Government Forces Anthropic to Pull AI Model Offline</title>
+      <description>The US government forced Anthropic to pull its newly launched Fable 5 model offline within 48 hours due to a reported jailbreak vulnerability, marking the first forced rollback of a frontier model treated as a national security asset and blocking access even to non-US Anthropic employees. This action exposes a fundamental shift in AI infrastructure: the assumption that paid access to cloud-based frontier models guarantees reliable, persistent access is now broken, forcing companies to reassess their architectural dependencies. In response, builders are rapidly pivoting to open-source alternatives like Minimax M3, Kimi K2.7, and local Hermes stacks that offer offline persistence and immunity to government policy interventions. These open-source models are now competitive on critical tasks—reasoning, coding, and autonomous workflows—while eliminating the policy risk exposure that now defines proprietary frontier model infrastructure.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-13.mp3" length="10125645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-316</guid>
+      <pubDate>Sun, 14 Jun 2026 03:21:54 +0000</pubDate>
+      <itunes:duration>00:08:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Autonomy Shifts How Creative Work Gets Done</title>
       <description>AI autonomy has fundamentally shifted from being a faster writing tool to becoming autonomous delegation infrastructure—creators like Nate Herk are now feeding massive project briefs into systems like Claude Fable 5 and receiving finished work without iteration or supervision. The economic model has inverted from paying for tokens on typing to paying for tokens on outcomes, where autonomous agents handle both planning and execution phases, with some creators deliberately separating thinking from doing to optimize results. This reframing changes how creators evaluate AI failures: degraded performance is no longer an annoyance but sabotage of delegation infrastructure, explaining the backlash over safety guardrails as frustration over a broken worker rather than ethical concerns. The shift toward autonomous agents is reshaping the entire architecture of AI tooling and creating new competitive dynamics around Agent OS design.</description>
