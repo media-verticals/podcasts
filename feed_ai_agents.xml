@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 02:02:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Shift From Models to Infrastructure Standards</title>
+      <description>The race to build better AI models is over — the real competition is now about who controls the infrastructure that lets agents talk to each other and share tools across entire ecosystems. Discover why a quiet standard is reshaping the entire industry, and why companies betting on isolated agents are already falling behind.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-13.mp3" length="11818605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-315</guid>
+      <pubDate>Sun, 14 Jun 2026 02:02:12 +0000</pubDate>
+      <itunes:duration>00:09:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When AI Coding Agents Meet Reality: Simplicity Wins</title>
       <description>As AI coding agents move from hype to real-world deployment, the market is revealing an unexpected winner—and it's forcing a fundamental rethinking of what developers actually need. Discover why the polished, feature-rich platforms are losing ground to bare-bones tools, and what this architectural shift tells us about the future of AI-powered development.</description>
