@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 01:53:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 02:14:55 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Power Shifts as US Government Takes Direct Control</title>
+      <description>For the first time, the U.S. government has directly shut down a major AI lab's latest models through national security order—revealing a hard capability line Washington won't tolerate and signaling that the age of regulatory guidance is over. This isn't about AGI or theoretical risks anymore; it's about what's happening right now to the companies and models shaping AI's future.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-14.mp3" length="16861485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-317</guid>
+      <pubDate>Mon, 15 Jun 2026 02:14:55 +0000</pubDate>
+      <itunes:duration>00:14:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Government Orders First AI Model Shutdown Globally</title>
       <description>For the first time, a government has forcibly shut down a frontier AI model—but the real story isn't about safety protocols, it's about how corporate proximity to power just rewired the entire relationship between AI companies and state authority. What started as a technical vulnerability report became a demonstration that AI capability itself is now treated like a national security asset, and the implications for the entire industry are just beginning to unfold.</description>
