@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 03:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 03:37:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Bitcoin's Quiet Recovery Masks Deeper Network Shifts</title>
+      <description>Bitcoin's recovery above 73K masks a more significant shift in altcoins—Near, Worldcoin, and Hyperliquid are surging 100-200%+ on macro expansion signals including Fed liquidity expansion and strong ISM manufacturing data, with on-chain metrics showing smart money accumulation despite retail fear and price volatility. The episode reveals that profitable positioning in current market cycles depends on reading on-chain data and network fundamentals rather than emotional price action. A major but under-reported transformation is simultaneously unfolding in AI infrastructure that could reshape the sector's trajectory.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-15.mp3" length="12299085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-320</guid>
+      <pubDate>Tue, 16 Jun 2026 03:37:47 +0000</pubDate>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Government Forces Anthropic to Pull AI Model Offline</title>
       <description>The US government forced Anthropic to pull its newly launched Fable 5 model offline within 48 hours due to a reported jailbreak vulnerability, marking the first forced rollback of a frontier model treated as a national security asset and blocking access even to non-US Anthropic employees. This action exposes a fundamental shift in AI infrastructure: the assumption that paid access to cloud-based frontier models guarantees reliable, persistent access is now broken, forcing companies to reassess their architectural dependencies. In response, builders are rapidly pivoting to open-source alternatives like Minimax M3, Kimi K2.7, and local Hermes stacks that offer offline persistence and immunity to government policy interventions. These open-source models are now competitive on critical tasks—reasoning, coding, and autonomous workflows—while eliminating the policy risk exposure that now defines proprietary frontier model infrastructure.</description>
