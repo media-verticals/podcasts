@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 02:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:33:41 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Face Unexpected Economics Reality Check</title>
+      <description>The economics of AI agents just broke in a way that caught even the biggest AI labs off guard—and it's forcing a fundamental rethink of how autonomous systems can actually work at scale. What started as a quiet pricing change at Anthropic reveals a much deeper crisis: the cost structure that powers agent automation doesn't align with the value it creates, and nobody's figured out how to fix it yet.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-15.mp3" length="16403565" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-319</guid>
+      <pubDate>Tue, 16 Jun 2026 02:33:41 +0000</pubDate>
+      <itunes:duration>00:13:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Shift From Models to Infrastructure Standards</title>
       <description>The race to build better AI models is over — the real competition is now about who controls the infrastructure that lets agents talk to each other and share tools across entire ecosystems. Discover why a quiet standard is reshaping the entire industry, and why companies betting on isolated agents are already falling behind.</description>
