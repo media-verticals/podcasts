@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 02:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:04:39 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Government Intervention Forces Reshaping of AI Infrastructure Strategy</title>
+      <description>A production frontier AI model was just pulled from the global market mid-deployment—not for safety or security exploits, but purely on capability grounds—marking the first surgical government intervention of its kind and forcing every builder and enterprise to recalculate what "approval" actually means in an era where capability itself has become a national security line item. This shift changes everything about how AI infrastructure gets funded, deployed, and governed—and the real question isn't what triggered it, but what threshold exists now and who decides where the next one falls.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-15.mp3" length="11117805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-318</guid>
+      <pubDate>Tue, 16 Jun 2026 02:04:39 +0000</pubDate>
+      <itunes:duration>00:09:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Power Shifts as US Government Takes Direct Control</title>
       <description>For the first time, the U.S. government has directly shut down a major AI lab's latest models through national security order—revealing a hard capability line Washington won't tolerate and signaling that the age of regulatory guidance is over. This isn't about AGI or theoretical risks anymore; it's about what's happening right now to the companies and models shaping AI's future.</description>
