@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 02:51:41 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Reversing Human Aging: From Theory to Measurable Results</title>
+      <description>For the first time, we can measure whether aging is actually reversing in human bodies—not in theory, not in mice, but in real people through measurable biological markers. The field has crossed a critical threshold: we're no longer asking if we can reverse aging, but which organs we can reverse it in fastest and what specific interventions move the needle.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-06-16.mp3" length="13488045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-323</guid>
+      <pubDate>Wed, 17 Jun 2026 02:51:41 +0000</pubDate>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Scientists Discover Aging May Actually Be Reversible</title>
       <description>For decades, we've measured aging as a one-way street—a clock that only moves forward. But researchers just discovered something that fundamentally changes that assumption: a biological marker that actually moves backward when aging is reversed. This isn't just another aging study; it's the first reliable tool that could prove rejuvenation is real, transforming everything we thought we knew about whether aging is truly inevitable.</description>
