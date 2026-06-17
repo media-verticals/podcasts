@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 03:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:40:16 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI Export Controls Will Reshape the Industry</title>
+      <description>U.S. export controls on AI models like Fable 5 are accelerating a fundamental market shift away from single-model dominance toward orchestration layers that aggregate multiple models for optimal cost and performance. The real competitive advantage is no longer in model weights but in routing intelligence and the ability to dynamically select the best tool for each task, a capability that's democratizing rapidly across the ecosystem. Chinese AI models are quietly becoming the default choice for speed-focused builders, gaining significant adoption outside of traditional enterprise channels where export controls have less leverage. This reshaping suggests that restrictive export policies may inadvertently strengthen alternative model ecosystems while concentrating power among aggregation platforms rather than model creators.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-16.mp3" length="14178765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-324</guid>
+      <pubDate>Wed, 17 Jun 2026 03:40:16 +0000</pubDate>
+      <itunes:duration>00:11:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bitcoin's Quiet Recovery Masks Deeper Network Shifts</title>
       <description>Bitcoin's recovery above 73K masks a more significant shift in altcoins—Near, Worldcoin, and Hyperliquid are surging 100-200%+ on macro expansion signals including Fed liquidity expansion and strong ISM manufacturing data, with on-chain metrics showing smart money accumulation despite retail fear and price volatility. The episode reveals that profitable positioning in current market cycles depends on reading on-chain data and network fundamentals rather than emotional price action. A major but under-reported transformation is simultaneously unfolding in AI infrastructure that could reshape the sector's trajectory.</description>
