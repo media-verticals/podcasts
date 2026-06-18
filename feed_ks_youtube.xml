@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 03:36:55 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Move From Theory Into Real Production Systems</title>
+      <description>AI agents are moving from experimental projects into genuine production systems, with autonomous workflows running unsupervised for hours across multiple platforms—signaling a shift toward machine-speed transactions dominating most workflows within 2-3 years. The critical bottleneck isn't building agents; it's maintaining them as living systems that require ruthless pruning, documentation, and drift management, with successful builders treating agents like continuously-maintained vessels rather than static deployments. This represents a maturity inflection point where eliminating 80% of tools can improve performance, and agent maintenance expertise is becoming the true competitive advantage in the agentic economy.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-17.mp3" length="12167085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-328</guid>
+      <pubDate>Thu, 18 Jun 2026 03:36:55 +0000</pubDate>
+      <itunes:duration>00:10:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How AI Export Controls Will Reshape the Industry</title>
       <description>U.S. export controls on AI models like Fable 5 are accelerating a fundamental market shift away from single-model dominance toward orchestration layers that aggregate multiple models for optimal cost and performance. The real competitive advantage is no longer in model weights but in routing intelligence and the ability to dynamically select the best tool for each task, a capability that's democratizing rapidly across the ecosystem. Chinese AI models are quietly becoming the default choice for speed-focused builders, gaining significant adoption outside of traditional enterprise channels where export controls have less leverage. This reshaping suggests that restrictive export policies may inadvertently strengthen alternative model ecosystems while concentrating power among aggregation platforms rather than model creators.</description>
