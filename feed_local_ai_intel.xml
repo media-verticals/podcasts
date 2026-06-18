@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:55:43 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Easy Era of AI Agency Work Ends</title>
+      <description>The frictionless days of spinning up quick AI agency wins are over—and it's forcing a reckoning in how the market actually wants to buy. Discover what's breaking in the platforms everyone relied on, why it's killing the commodity play, and which agencies are already pivoting to the business model that actually scales.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-17.mp3" length="16456365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-327</guid>
+      <pubDate>Thu, 18 Jun 2026 02:55:43 +0000</pubDate>
+      <itunes:duration>00:13:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agencies Race to Build AI Automation, Delivery Becomes New Bottleneck</title>
       <description>As agencies finally crack the code on building AI automation at scale, a new problem is emerging that could determine who wins the market—and it has nothing to do with capability. The real bottleneck isn't what you can build anymore, it's how fast you can deliver it, and the platforms racing to solve this are forcing agencies to make a choice that will fundamentally change their business model and margins.</description>
