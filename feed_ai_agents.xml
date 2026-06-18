@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 02:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:26:24 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Find Their Missing Infrastructure Layer</title>
+      <description>For years, AI agents have been held together with custom code and one-off integrations—but a standardized infrastructure layer is quietly emerging that could shift agents from specialist experiments to production-scale systems. The real competitive advantage isn't smarter models anymore; it's maintainability, and the teams figuring this out first are building agents with *fewer* tools that actually work, not more that constantly break.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-17.mp3" length="12836205" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-326</guid>
+      <pubDate>Thu, 18 Jun 2026 02:26:24 +0000</pubDate>
+      <itunes:duration>00:10:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Finally Become Accessible to Everyone</title>
       <description>For years, building AI agents required deep technical expertise—but something just shifted that's upending that entire equation. Discover the specific architectural moves and economic decisions that transformed AI agents from a specialist tool into something anyone can actually deploy, and why this moment matters more than the hype suggests.</description>
