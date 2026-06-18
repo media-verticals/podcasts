@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 02:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:03:36 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>White House Forces AI Company to Disable Advanced Models</title>
+      <description>The White House just forced a major AI company to disable its most advanced models—and the real story isn't about the security flaw that triggered it, but what this reveals about who actually controls AI development and what it means for the competitive landscape. This move exposes a fundamental tension between what we can build and what governments are willing to let stay online, reshaping how the entire industry operates.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-17.mp3" length="10539885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-325</guid>
+      <pubDate>Thu, 18 Jun 2026 02:03:36 +0000</pubDate>
+      <itunes:duration>00:08:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Governments Are Taking Control of AI's Frontier</title>
       <description>Governments just forced one of AI's biggest labs to withdraw a flagship model—and it wasn't because it was unsafe. What actually happened reveals a seismic shift in who controls frontier AI access, and it's reshaping the entire business model of how capability flows from labs to users. This changes everything about the power dynamics in AI deployment, and most people still don't realize it's already happening.</description>
