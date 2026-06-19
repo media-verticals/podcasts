@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 02:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:56:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Gene Editing Moves From Theory Into Medical Practice</title>
+      <description>For years, gene editing existed in the realm of "someday." But three breakthrough trials happening right now reveal we've crossed a threshold—the question is no longer whether gene editing works, but which diseases we can actually fix first and how fast we can get these treatments to patients. Discover what's changed in the lab and clinic, and why the next few years will reshape medicine.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-06-18.mp3" length="15913965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-331</guid>
+      <pubDate>Fri, 19 Jun 2026 02:56:00 +0000</pubDate>
+      <itunes:duration>00:13:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dual Approach to Aging: Scientists Extend Human Lifespan</title>
       <description>For decades, aging research pursued single solutions—clear out damaged cells OR rebuild tissue. New human-relevant trials just proved that strategy fundamentally wrong, showing lifespan extension only happens when you attack aging on multiple fronts simultaneously, upending billions in ongoing drug development and forcing a strategic reckoning across the industry. This isn't incremental progress; it's a complete reorientation of how medicine will approach aging by 2027.</description>
