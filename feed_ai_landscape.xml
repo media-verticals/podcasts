@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 02:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:05:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Government Shuts Down Anthropic's Most Capable AI Models</title>
+      <description>The U.S. government just forced Anthropic offline—marking the first real commercial AI kill-switch and signaling a fundamental shift from safety debates to actual operational control. What capabilities crossed the line, what this means for the entire industry's future, and why the timing of simultaneous warnings about Claude "changing faster than expected" matters more than you think.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-18.mp3" length="11055885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-329</guid>
+      <pubDate>Fri, 19 Jun 2026 02:05:00 +0000</pubDate>
+      <itunes:duration>00:09:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>White House Forces AI Company to Disable Advanced Models</title>
       <description>The White House just forced a major AI company to disable its most advanced models—and the real story isn't about the security flaw that triggered it, but what this reveals about who actually controls AI development and what it means for the competitive landscape. This move exposes a fundamental tension between what we can build and what governments are willing to let stay online, reshaping how the entire industry operates.</description>
