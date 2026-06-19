@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 02:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:26:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Win by Doing Less, Not More</title>
+      <description>Most AI teams are still building agents by adding more tools and capabilities—but a production system just achieved an 80% performance boost by doing the opposite. The industry's competitive advantage has fundamentally shifted from raw capability to maintenance discipline, and it's rewiring how winning teams architect their systems today.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-18.mp3" length="12025005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-330</guid>
+      <pubDate>Fri, 19 Jun 2026 02:26:53 +0000</pubDate>
+      <itunes:duration>00:10:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Find Their Missing Infrastructure Layer</title>
       <description>For years, AI agents have been held together with custom code and one-off integrations—but a standardized infrastructure layer is quietly emerging that could shift agents from specialist experiments to production-scale systems. The real competitive advantage isn't smarter models anymore; it's maintainability, and the teams figuring this out first are building agents with *fewer* tools that actually work, not more that constantly break.</description>
