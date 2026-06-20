@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 02:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:16:22 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agencies Race to Package AI Before Market Consolidates</title>
+      <description>The AI services marketplace is at a breaking point—agencies that package and price solutions strategically are scaling fast, while those stuck in consulting mode are hemorrhaging revenue. The winners aren't racing on technology; they're racing to own the specific use cases, price points, and outcomes that actually close deals before the market consolidates around a few dominant players.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-19.mp3" length="12304845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-336</guid>
+      <pubDate>Sat, 20 Jun 2026 03:16:22 +0000</pubDate>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Easy Era of AI Agency Work Ends</title>
       <description>The frictionless days of spinning up quick AI agency wins are over—and it's forcing a reckoning in how the market actually wants to buy. Discover what's breaking in the platforms everyone relied on, why it's killing the commodity play, and which agencies are already pivoting to the business model that actually scales.</description>
