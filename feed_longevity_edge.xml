@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 02:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:54:25 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Scientists Unlock Translation Control Key to Living Longer</title>
+      <description>For years, scientists have theorized about a hidden control mechanism that could dramatically extend human lifespan—but never had the tools to test it. That's changed. Researchers have now identified and validated a completely new class of molecules that work in living organisms, moving this from untested theory to something that could enter human trials within two years, and the implications for aging are profound.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-06-19.mp3" length="15209325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-335</guid>
+      <pubDate>Sat, 20 Jun 2026 02:54:25 +0000</pubDate>
+      <itunes:duration>00:12:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Reversing Human Aging: From Theory to Measurable Results</title>
       <description>For the first time, we can measure whether aging is actually reversing in human bodies—not in theory, not in mice, but in real people through measurable biological markers. The field has crossed a critical threshold: we're no longer asking if we can reverse aging, but which organs we can reverse it in fastest and what specific interventions move the needle.</description>
