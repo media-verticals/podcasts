@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 02:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:06:50 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Government Forces Anthropic's Frontier AI Models Offline</title>
+      <description>A major government shutdown has just taken Anthropic's frontier models offline—and it's exposing something far more consequential than regulatory compliance: the fragility of centralized AI power and the speed at which builders abandon frontier models when access is disrupted. What unfolds next could fundamentally reshape how the entire industry thinks about dependency, risk, and the real value of closed versus open AI.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-19.mp3" length="12303885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-333</guid>
+      <pubDate>Sat, 20 Jun 2026 02:06:50 +0000</pubDate>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Government Shuts Down Anthropic's Most Capable AI Models</title>
       <description>The U.S. government just forced Anthropic offline—marking the first real commercial AI kill-switch and signaling a fundamental shift from safety debates to actual operational control. What capabilities crossed the line, what this means for the entire industry's future, and why the timing of simultaneous warnings about Claude "changing faster than expected" matters more than you think.</description>
