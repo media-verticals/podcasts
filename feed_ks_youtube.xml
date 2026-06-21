@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 03:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 03:39:49 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Open-Source AI Models Overtake Expensive Closed Competitors</title>
+      <description>Open-source AI models—particularly GLM 5.2—now match closed-source competitors like Claude Opus and GPT-4o on revenue-generating tasks (coding, web development, design) while operating at one-sixth the cost per token and running locally with near-zero marginal cost. Independent benchmarking across multiple creators confirms the performance gap has closed, shifting competition from raw quality to cost-based routing decisions, with enterprises increasingly deploying multi-model infrastructure that systematically favors open-source options for commodity workloads. This economic reality is forcing closed-source labs to defend premium pricing models that no longer justify their cost differential, evidenced by strategic hedges like Microsoft exploring DeepSeek integration into Copilot rather than relying solely on proprietary alternatives. The fundamental competitive advantage of closed-source providers—exclusive access to best-in-class models—has eroded, triggering industry-wide price compression and feature bundling</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-20.mp3" length="14034285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-337</guid>
+      <pubDate>Sun, 21 Jun 2026 03:39:49 +0000</pubDate>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI's Control Problem: What Its Creators Aren't Telling Us</title>
       <description>This episode examines the emerging consensus among AI's leading architects—including Geoffrey Hinton, Dario Amodei, and Tristan Harris—that current AI systems operate in ways their creators fundamentally don't understand, with no legal framework requiring safety oversight. The timeline for dangerous AI capabilities varies dramatically across experts, from Musk's one-to-two-year projection to Yampolskiy's mathematical proof that core control problems may be unsolvable, while Amodei estimates a 90% probability of superhuman AI within twelve months. The critical signal is that this isn't coming from external critics but from the builders themselves, who are increasingly vocal about the gap between deployment speed and safety understanding. The episode explores how philosophical frameworks embedded in systems like ChatGPT by San Francisco teams now shape the values of hundreds of millions of users—raising questions about accountability and preparation as these capabilities advance.</description>
