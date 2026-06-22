@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 03:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:37:46 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Creator Economy's Biggest Constraint Just Vanished</title>
+      <description>Claude's latest Skills integration combined with VidIQ automation has collapsed the production bottleneck in creator economics—enabling creators to produce a finished, polished video in 70 minutes and batch four weekly videos in a single workday for ~$200/month, down from $2,000/month outsourcing costs or 15+ weekly hours of personal time. This shift fundamentally reframes competition in the creator economy: production is no longer the constraint, making upstream factors like idea generation, audience insight, and content strategy the new battleground. The real signal isn't about software capabilities but about what becomes visible and competitive when friction disappears—expertise that previously remained dormant due to production barriers can now reach audiences at scale with minimal resource investment.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-21.mp3" length="12820845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-340</guid>
+      <pubDate>Mon, 22 Jun 2026 03:37:46 +0000</pubDate>
+      <itunes:duration>00:10:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Open-Source AI Models Overtake Expensive Closed Competitors</title>
       <description>Open-source AI models—particularly GLM 5.2—now match closed-source competitors like Claude Opus and GPT-4o on revenue-generating tasks (coding, web development, design) while operating at one-sixth the cost per token and running locally with near-zero marginal cost. Independent benchmarking across multiple creators confirms the performance gap has closed, shifting competition from raw quality to cost-based routing decisions, with enterprises increasingly deploying multi-model infrastructure that systematically favors open-source options for commodity workloads. This economic reality is forcing closed-source labs to defend premium pricing models that no longer justify their cost differential, evidenced by strategic hedges like Microsoft exploring DeepSeek integration into Copilot rather than relying solely on proprietary alternatives. The fundamental competitive advantage of closed-source providers—exclusive access to best-in-class models—has eroded, triggering industry-wide price compression and feature bundling</description>
