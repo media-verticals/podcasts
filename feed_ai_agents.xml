@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 02:26:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 02:35:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>What Actually Makes AI Agents Work: Planning Beats Prompting</title>
+      <description>Most people are still trying to prompt their way to working AI agents—but the builders actually shipping production systems just discovered something that completely inverts that approach, and it's forcing a reckoning about what "capable AI" actually means. If you're building with agents or considering deploying them, this shift matters because it exposes why so many projects fail and what actually separates tools that work from expensive mistakes.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-21.mp3" length="13713165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-339</guid>
+      <pubDate>Mon, 22 Jun 2026 02:35:47 +0000</pubDate>
+      <itunes:duration>00:11:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Infrastructure Race Behind AI Agent Tools</title>
       <description>The infrastructure powering AI agents just shifted beneath everyone's feet—and it's not about smarter reasoning, it's about standardization. As MCP becomes the de facto standard for connecting agents to real tools, the competitive advantage has quietly moved from who builds the best framework to who controls the ecosystem of integrations, and the implications for how agents actually get deployed at scale are just starting to become clear.</description>
