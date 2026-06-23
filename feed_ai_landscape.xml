@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 02:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:02:35 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI's Competitive Landscape Is Rapidly Reorganizing Today</title>
+      <description>The AI competitive landscape is shifting faster than most realize—and it's not because of the headline stories you've heard. While regulatory pressure and political decisions grab attention, the real reorganization is happening in the gaps they leave behind, where new players are moving in with fundamentally different approaches to how AI gets built and deployed. The winner won't necessarily be whoever builds the smartest model; it'll be whoever figured out how to build it cheaper, faster, and in ways that sidestep the bottlenecks everyone else is racing toward.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-22.mp3" length="9779085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-341</guid>
+      <pubDate>Tue, 23 Jun 2026 02:02:35 +0000</pubDate>
+      <itunes:duration>00:08:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic's Reasoning Breakthrough Reshapes the AI Industry</title>
       <description>Anthropic has just fundamentally reset the competitive game in AI reasoning, forcing every other player in the industry to make an immediate strategic choice: chase the frontier or pivot entirely to a different path. This moment reveals which companies will survive the next phase of AI development—and it's forcing decisions that will shape the entire landscape for years to come.</description>
