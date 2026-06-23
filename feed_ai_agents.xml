@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 02:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:22:44 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Agents Move From Demo to Real Production Work</title>
+      <description>Most AI agents work flawlessly in demos—then hit a wall the moment they touch real production work, and the culprit isn't what you'd expect. A fundamental shift is happening in how the market solves this problem, and if you're building agents, missing this transition could mean the difference between a prototype that scales and one that quietly fails.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-22.mp3" length="11686125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-342</guid>
+      <pubDate>Tue, 23 Jun 2026 02:22:44 +0000</pubDate>
+      <itunes:duration>00:09:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>What Actually Makes AI Agents Work: Planning Beats Prompting</title>
       <description>Most people are still trying to prompt their way to working AI agents—but the builders actually shipping production systems just discovered something that completely inverts that approach, and it's forcing a reckoning about what "capable AI" actually means. If you're building with agents or considering deploying them, this shift matters because it exposes why so many projects fail and what actually separates tools that work from expensive mistakes.</description>
