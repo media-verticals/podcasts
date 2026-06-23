@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 03:16:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 03:11:34 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Two Competing Paths Emerge in AI Service Agency Building</title>
+      <description>The AI services landscape is splitting into two fundamentally different business models, and which path you choose will determine whether you're competing on thin margins or owning your client relationships outright—here's what's shifting the economics of the entire space right now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-22.mp3" length="15053325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-344</guid>
+      <pubDate>Tue, 23 Jun 2026 03:11:34 +0000</pubDate>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agencies Race to Package AI Before Market Consolidates</title>
       <description>The AI services marketplace is at a breaking point—agencies that package and price solutions strategically are scaling fast, while those stuck in consulting mode are hemorrhaging revenue. The winners aren't racing on technology; they're racing to own the specific use cases, price points, and outcomes that actually close deals before the market consolidates around a few dominant players.</description>
