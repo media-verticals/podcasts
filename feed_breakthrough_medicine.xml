@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 02:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:50:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Aging Breakthrough: Small Molecules Extend Lifespan in Multiple Organisms</title>
+      <description>Scientists have cracked something they've been chasing for years: the ability to actually extend lifespan using drug-like molecules—not genetic tricks or lab conditions, but compounds that could move into human testing within the next two years. Meanwhile, a separate breakthrough is converging multiple aging pathways around a single, targetable mechanism, collapsing what was thought to be distant problems into one solvable puzzle—and the clinical timeline just accelerated dramatically.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-06-22.mp3" length="16745325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-343</guid>
+      <pubDate>Tue, 23 Jun 2026 02:50:53 +0000</pubDate>
+      <itunes:duration>00:13:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gene Editing Moves From Theory Into Medical Practice</title>
       <description>For years, gene editing existed in the realm of "someday." But three breakthrough trials happening right now reveal we've crossed a threshold—the question is no longer whether gene editing works, but which diseases we can actually fix first and how fast we can get these treatments to patients. Discover what's changed in the lab and clinic, and why the next few years will reshape medicine.</description>
