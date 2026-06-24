@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 02:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:10:50 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Government Pressure Forces AI Company to Withdraw New Model</title>
+      <description>A major U.S. government just forced an AI company to withdraw a model in 90 minutes—revealing that regulatory oversight has quietly transformed into real-time control over which AI systems are allowed to exist. This shift signals a fundamental change in how power flows through the AI industry, and the implications extend far beyond this single incident.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-23.mp3" length="14341965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-345</guid>
+      <pubDate>Wed, 24 Jun 2026 02:10:50 +0000</pubDate>
+      <itunes:duration>00:11:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How AI's Competitive Landscape Is Rapidly Reorganizing Today</title>
       <description>The AI competitive landscape is shifting faster than most realize—and it's not because of the headline stories you've heard. While regulatory pressure and political decisions grab attention, the real reorganization is happening in the gaps they leave behind, where new players are moving in with fundamentally different approaches to how AI gets built and deployed. The winner won't necessarily be whoever builds the smartest model; it'll be whoever figured out how to build it cheaper, faster, and in ways that sidestep the bottlenecks everyone else is racing toward.</description>
