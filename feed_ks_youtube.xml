@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 03:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:31:45 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Small AI Models Challenge the Bigger Is Better Assumption</title>
+      <description>Small AI models are challenging the "bigger is better" paradigm in AI development. Sakana AI's Fugu—a 7 billion parameter model—outperforms much larger models like GPT-4.5 and Claude 3.5 Opus by using intelligent routing to specialized models rather than scaling a single monolithic network, suggesting future capability gains come from architectural efficiency rather than parameter count. This shift has profound implications for builders and investors, as smart routing layers may deliver better performance at lower cost than billion-dollar fine-tuning efforts on massive models. The episode connects this pattern to broader systems thinking, showing how precision and orchestration—not raw scale—drive results across multiple domains.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-23.mp3" length="9235245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-348</guid>
+      <pubDate>Wed, 24 Jun 2026 03:31:45 +0000</pubDate>
+      <itunes:duration>00:07:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Creator Economy's Biggest Constraint Just Vanished</title>
       <description>Claude's latest Skills integration combined with VidIQ automation has collapsed the production bottleneck in creator economics—enabling creators to produce a finished, polished video in 70 minutes and batch four weekly videos in a single workday for ~$200/month, down from $2,000/month outsourcing costs or 15+ weekly hours of personal time. This shift fundamentally reframes competition in the creator economy: production is no longer the constraint, making upstream factors like idea generation, audience insight, and content strategy the new battleground. The real signal isn't about software capabilities but about what becomes visible and competitive when friction disappears—expertise that previously remained dormant due to production barriers can now reach audiences at scale with minimal resource investment.</description>
