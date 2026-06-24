@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 02:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:31:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Move From Theory to Real-World Deployment</title>
+      <description>AI agents are finally escaping the lab—but not in the way most people expected. While everyone debated what's theoretically possible, the infrastructure and economics of *actually deploying* agents at scale shifted overnight, and if you're not watching the right signals, you'll miss when your industry gets disrupted by this.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-23.mp3" length="11137485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-346</guid>
+      <pubDate>Wed, 24 Jun 2026 02:31:57 +0000</pubDate>
+      <itunes:duration>00:09:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Agents Move From Demo to Real Production Work</title>
       <description>Most AI agents work flawlessly in demos—then hit a wall the moment they touch real production work, and the culprit isn't what you'd expect. A fundamental shift is happening in how the market solves this problem, and if you're building agents, missing this transition could mean the difference between a prototype that scales and one that quietly fails.</description>
