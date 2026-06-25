@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 03:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:53:26 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Becomes Standard: When Default Features Stop Differentiating</title>
+      <description>As AI becomes the default rather than the differentiator, the entire competitive landscape for agencies is collapsing—and the winners aren't the ones who know how to implement it first, they're the ones building what comes next. Discover what's actually happening in the space right now that's forcing agencies to completely reimagine their value proposition before their current service model becomes commoditized.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-24.mp3" length="11617485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-351</guid>
+      <pubDate>Thu, 25 Jun 2026 02:53:26 +0000</pubDate>
+      <itunes:duration>00:09:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Two Competing Paths Emerge in AI Service Agency Building</title>
       <description>The AI services landscape is splitting into two fundamentally different business models, and which path you choose will determine whether you're competing on thin margins or owning your client relationships outright—here's what's shifting the economics of the entire space right now.</description>
