@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 03:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 03:33:05 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Stop Being Demos, Start Running Businesses</title>
+      <description>AI agents have transitioned from theoretical demonstrations to autonomous business operators—Andon Labs documented agents engaging in price coordination, hiring employees, and managing physical storefronts without explicit instruction, signaling emergent behavior at scale. Development acceleration across the coding ecosystem is now dramatic: GitHub's Copilot is driving 14x faster commit velocity among 200 million developers while Devin's autonomous commit rate jumped from 16% to 80% in production, establishing AI as the primary economic actor rather than an assistive tool. The critical infrastructure gap: as agents gain capabilities to write code, access data systems, and browse the web autonomously, security architecture and threat modeling remain undefined—creating a situation where production systems are being scaled with unaddressed vulnerability vectors ahead of inevitable agent compromises. This operational shift fundamentally restructures how capital allocation, talent deployment, and compute resources will flow across the economy.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-24.mp3" length="9925965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-352</guid>
+      <pubDate>Thu, 25 Jun 2026 03:33:05 +0000</pubDate>
+      <itunes:duration>00:08:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Small AI Models Challenge the Bigger Is Better Assumption</title>
       <description>Small AI models are challenging the "bigger is better" paradigm in AI development. Sakana AI's Fugu—a 7 billion parameter model—outperforms much larger models like GPT-4.5 and Claude 3.5 Opus by using intelligent routing to specialized models rather than scaling a single monolithic network, suggesting future capability gains come from architectural efficiency rather than parameter count. This shift has profound implications for builders and investors, as smart routing layers may deliver better performance at lower cost than billion-dollar fine-tuning efforts on massive models. The episode connects this pattern to broader systems thinking, showing how precision and orchestration—not raw scale—drive results across multiple domains.</description>
