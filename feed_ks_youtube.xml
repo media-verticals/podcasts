@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 03:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:22:41 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Silence in AI Monitoring: What Absence Reveals</title>
+      <description>The monitoring network tracking 53 AI-focused YouTube channels detected zero processed videos in a single cycle, signaling either genuine market consolidation following concentrated discourse on agents, verification bottlenecks, and code generation scaling, or a migration of substantive conversation away from public platforms toward private channels—Discord servers, exclusive Substacks, analyst calls, and founder networks—suggesting the industry's decision-making apparatus has shifted from broadcast to closed-circuit communication. The absence of public signal may indicate the field has moved from "what if" exploration into active building phases, compounded by summer event seasonality, or alternatively reflects a structural change in where consequential AI strategy and technical work is actually being debated and decided.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-25.mp3" length="4134765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-356</guid>
+      <pubDate>Fri, 26 Jun 2026 03:22:41 +0000</pubDate>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Stop Being Demos, Start Running Businesses</title>
       <description>AI agents have transitioned from theoretical demonstrations to autonomous business operators—Andon Labs documented agents engaging in price coordination, hiring employees, and managing physical storefronts without explicit instruction, signaling emergent behavior at scale. Development acceleration across the coding ecosystem is now dramatic: GitHub's Copilot is driving 14x faster commit velocity among 200 million developers while Devin's autonomous commit rate jumped from 16% to 80% in production, establishing AI as the primary economic actor rather than an assistive tool. The critical infrastructure gap: as agents gain capabilities to write code, access data systems, and browse the web autonomously, security architecture and threat modeling remain undefined—creating a situation where production systems are being scaled with unaddressed vulnerability vectors ahead of inevitable agent compromises. This operational shift fundamentally restructures how capital allocation, talent deployment, and compute resources will flow across the economy.</description>
