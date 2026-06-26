@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:03:58 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's Claude Tag Signals Major Shift in AI Competition</title>
+      <description>Anthropic just made a move that reveals where it thinks the real competitive advantage lies—and it's the opposite direction from OpenAI's massive chip ambitions. This shift in strategy could reshape the entire industry's approach to AI defensibility over the next 18 months.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-25.mp3" length="10463085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-353</guid>
+      <pubDate>Fri, 26 Jun 2026 02:03:58 +0000</pubDate>
+      <itunes:duration>00:08:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Companies Bet Big on Custom Hardware, Investors Grow Skeptical</title>
       <description>As AI's capabilities accelerate and costs soar, a fundamental question is forcing a reckoning: are companies actually making money from all this investment? Watch how one major player is betting their future on controlling every layer of the stack—and why Wall Street is suddenly asking if that's enough to change the math that's making investors nervous.</description>
