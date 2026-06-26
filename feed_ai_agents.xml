@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:26:40 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Protocol Reshaping How AI Agents Work</title>
+      <description>Most people think AI agents are about autonomous systems working alone—but a fundamental shift in how agents connect to tools is quietly reshaping what's actually possible, and the implications reach far beyond what's visible on the surface. Discover why this infrastructure change matters more than the agent itself, and what the latest production moves reveal about where this is headed.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-25.mp3" length="12433485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-354</guid>
+      <pubDate>Fri, 26 Jun 2026 02:26:40 +0000</pubDate>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Move From Experiments Into Real Production Work</title>
       <description>For months, AI agents lived in labs and proof-of-concepts—but this week, two separate announcements revealed that both the infrastructure and deployment patterns for production agents are hardening simultaneously, signaling we've crossed from experimentation into a new era where agents are becoming mission-critical systems embedded directly into how teams work. What just shifted, and why it matters that it's happening on multiple fronts at once, demands your immediate attention.</description>
