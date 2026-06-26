@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 02:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:48:37 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>CAR-T Therapy Proves Its Long-Term Promise After Decade</title>
+      <description>After a decade of follow-up data, CAR-T therapy is no longer unproven—but what doctors are discovering about long-term outcomes is reshaping how they'll use it, and transforming the entire pipeline of next-generation immune therapies in ways that could redefine cancer treatment strategy. Find out what changed and why oncologists are moving this from experimental option to first-line standard.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-06-25.mp3" length="12027885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-355</guid>
+      <pubDate>Fri, 26 Jun 2026 02:48:37 +0000</pubDate>
+      <itunes:duration>00:10:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Aging Breakthrough: Small Molecules Extend Lifespan in Multiple Organisms</title>
       <description>Scientists have cracked something they've been chasing for years: the ability to actually extend lifespan using drug-like molecules—not genetic tricks or lab conditions, but compounds that could move into human testing within the next two years. Meanwhile, a separate breakthrough is converging multiple aging pathways around a single, targetable mechanism, collapsing what was thought to be distant problems into one solvable puzzle—and the clinical timeline just accelerated dramatically.</description>
