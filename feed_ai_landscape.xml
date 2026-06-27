@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 02:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 02:01:18 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Labs Choose Caution Over Speed in Race Forward</title>
+      <description>The race for AI dominance just shifted—and the labs know it. While everyone watches for the next big model release, the real competition has moved somewhere else entirely, and the strategic choices being made right now will determine who controls AI for the next decade. Here's what's actually happening behind the headlines, and why it matters more than you think.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-26.mp3" length="8803725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-357</guid>
+      <pubDate>Sat, 27 Jun 2026 02:01:18 +0000</pubDate>
+      <itunes:duration>00:07:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic's Claude Tag Signals Major Shift in AI Competition</title>
       <description>Anthropic just made a move that reveals where it thinks the real competitive advantage lies—and it's the opposite direction from OpenAI's massive chip ambitions. This shift in strategy could reshape the entire industry's approach to AI defensibility over the next 18 months.</description>
