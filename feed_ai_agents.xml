@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 02:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 02:23:05 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Claude Code Became the Agent Operating System</title>
+      <description>The infrastructure powering autonomous agents just fundamentally shifted—and it's not about smarter AI models, it's about who controls the operating system agents run on. Discover why Claude Code's quiet repositioning as an agent runtime represents a seismic competitive realignment that most people are completely missing, and why the real moat in AI just moved from capability to architecture.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-26.mp3" length="11879085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-358</guid>
+      <pubDate>Sat, 27 Jun 2026 02:23:05 +0000</pubDate>
+      <itunes:duration>00:09:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Protocol Reshaping How AI Agents Work</title>
       <description>Most people think AI agents are about autonomous systems working alone—but a fundamental shift in how agents connect to tools is quietly reshaping what's actually possible, and the implications reach far beyond what's visible on the surface. Discover why this infrastructure change matters more than the agent itself, and what the latest production moves reveal about where this is headed.</description>
