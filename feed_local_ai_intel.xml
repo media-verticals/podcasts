@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:16:52 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Agencies Are Building AI Revenue Moats</title>
+      <description>The playbook agencies are using to build defensible AI revenue moats has fundamentally shifted—and if you're not capturing this window, you're about to compete on a playing field that's already being redefined by those who moved first. What changed isn't the technology itself, but how it's consolidating around platforms that finally eliminate the friction points agencies have been manually handling for years, unlocking a completely different pricing model and recurring revenue structure.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-26.mp3" length="16426125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-360</guid>
+      <pubDate>Sat, 27 Jun 2026 03:16:52 +0000</pubDate>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Becomes Standard: When Default Features Stop Differentiating</title>
       <description>As AI becomes the default rather than the differentiator, the entire competitive landscape for agencies is collapsing—and the winners aren't the ones who know how to implement it first, they're the ones building what comes next. Discover what's actually happening in the space right now that's forcing agencies to completely reimagine their value proposition before their current service model becomes commoditized.</description>
