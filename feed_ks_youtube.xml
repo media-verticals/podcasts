@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 03:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 03:39:20 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Biotech's Next Frontier: Engineering Permanent Disease Prevention</title>
+      <description>Life Biosciences' epigenetic reprogramming and Eli Lilly's VVE-102 CRISPR therapy represent a major biotech inflection point: one-time genetic interventions that permanently prevent disease, with VVE-102 delivering sustained 60% LDL reductions from a single infusion over two years. This convergence signals a structural shift away from the pharmaceutical industry's reversible-drug model (statins, GLP-1s) toward permanent fixes, potentially reshuffling multi-billion dollar pharma economics within 5-10 years if Phase 2 safety data holds. However, the irreversibility of gene editing creates fundamental risk—VVE-102 trials showed 70% adverse event rates, and once a patient's liver cells are permanently edited, the intervention cannot be undone, raising critical questions about long-term safety monitoring and regulatory frameworks that the industry hasn't yet addressed</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-27.mp3" length="13473645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-363</guid>
+      <pubDate>Sun, 28 Jun 2026 03:39:20 +0000</pubDate>
+      <itunes:duration>00:11:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Silence in AI Monitoring: What Absence Reveals</title>
       <description>The monitoring network tracking 53 AI-focused YouTube channels detected zero processed videos in a single cycle, signaling either genuine market consolidation following concentrated discourse on agents, verification bottlenecks, and code generation scaling, or a migration of substantive conversation away from public platforms toward private channels—Discord servers, exclusive Substacks, analyst calls, and founder networks—suggesting the industry's decision-making apparatus has shifted from broadcast to closed-circuit communication. The absence of public signal may indicate the field has moved from "what if" exploration into active building phases, compounded by summer event seasonality, or alternatively reflects a structural change in where consequential AI strategy and technical work is actually being debated and decided.</description>
