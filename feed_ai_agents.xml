@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 02:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 02:26:15 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's New Language: Models Ditching APIs for Direct Control</title>
+      <description>The infrastructure powering AI agents is fundamentally reshaping—REST APIs that dominated software integration for twenty years are being displaced by a new standard designed for how autonomous systems actually work, and we're now at the inflection point where this shift moves from theoretical to the systems enterprises are actively choosing for production. If you're building with AI, integrating tools, or thinking about what autonomous systems need to function at scale, this architectural shift is about to reshape your technical decisions.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-27.mp3" length="11952045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-362</guid>
+      <pubDate>Sun, 28 Jun 2026 02:26:15 +0000</pubDate>
+      <itunes:duration>00:09:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Claude Code Became the Agent Operating System</title>
       <description>The infrastructure powering autonomous agents just fundamentally shifted—and it's not about smarter AI models, it's about who controls the operating system agents run on. Discover why Claude Code's quiet repositioning as an agent runtime represents a seismic competitive realignment that most people are completely missing, and why the real moat in AI just moved from capability to architecture.</description>
