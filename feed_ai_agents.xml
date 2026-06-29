@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 02:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 02:24:46 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Could Multiply Computing Demand by Twenty-Four Times</title>
+      <description>As AI agents move from experimental to production workloads, a seismic shift is happening in how the industry measures value—and it's no longer about capability, but ruthless efficiency. A major new demand forecast has forced teams to confront an uncomfortable reality: the bottleneck isn't building better agents, it's orchestrating them affordably, and the winners will be determined by who cracks the cost equation first.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-28.mp3" length="11466765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-365</guid>
+      <pubDate>Mon, 29 Jun 2026 02:24:46 +0000</pubDate>
+      <itunes:duration>00:09:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI's New Language: Models Ditching APIs for Direct Control</title>
       <description>The infrastructure powering AI agents is fundamentally reshaping—REST APIs that dominated software integration for twenty years are being displaced by a new standard designed for how autonomous systems actually work, and we're now at the inflection point where this shift moves from theoretical to the systems enterprises are actively choosing for production. If you're building with AI, integrating tools, or thinking about what autonomous systems need to function at scale, this architectural shift is about to reshape your technical decisions.</description>
