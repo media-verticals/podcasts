@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 02:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 02:03:56 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Hidden Power Play Behind AI's Restricted Access</title>
+      <description>As AI's most powerful models face sudden restrictions, one company is making a calculated shift from growth-at-all-costs to strategic control—and it's revealing a hidden power play that's reshaping the entire competitive landscape. What this voluntary gatekeeping really means for your access to cutting-edge AI, and why the companies you haven't heard of yet might be the ones that actually win, is what you need to understand right now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-28.mp3" length="10521645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-364</guid>
+      <pubDate>Mon, 29 Jun 2026 02:03:56 +0000</pubDate>
+      <itunes:duration>00:08:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How AI's Most Powerful Models Are Going Underground</title>
       <description>The world's most advanced AI labs are quietly shifting toward government-controlled access instead of public release—and it's not about safety. This strategic move reveals a fundamental power play happening right now in the frontier AI space that will determine who controls the future of the industry and why the traditional model of innovation is disappearing.</description>
