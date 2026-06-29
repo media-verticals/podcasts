@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 03:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 03:28:15 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Creator Network Goes Silent: What the Pause Means</title>
+      <description>The YouTube creator network spanning 53 AI, tech, biotech, and business channels shows zero publishing activity—a rare simultaneous silence worth monitoring despite being consistent with typical summer production cycles when creators shift from publishing to deeper reporting and production work. If the pause extends beyond July 5th, it could signal either an undetected major event or a genuine market pause preceding announcement cycles around earnings, AI model releases, or regulatory developments. The intelligence value lies in distinguishing between expected seasonal slowdown and anomalous silence that precedes significant industry movements.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-06-28.mp3" length="7328685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-366</guid>
+      <pubDate>Mon, 29 Jun 2026 03:28:15 +0000</pubDate>
+      <itunes:duration>00:06:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Biotech's Next Frontier: Engineering Permanent Disease Prevention</title>
       <description>Life Biosciences' epigenetic reprogramming and Eli Lilly's VVE-102 CRISPR therapy represent a major biotech inflection point: one-time genetic interventions that permanently prevent disease, with VVE-102 delivering sustained 60% LDL reductions from a single infusion over two years. This convergence signals a structural shift away from the pharmaceutical industry's reversible-drug model (statins, GLP-1s) toward permanent fixes, potentially reshuffling multi-billion dollar pharma economics within 5-10 years if Phase 2 safety data holds. However, the irreversibility of gene editing creates fundamental risk—VVE-102 trials showed 70% adverse event rates, and once a patient's liver cells are permanently edited, the intervention cannot be undone, raising critical questions about long-term safety monitoring and regulatory frameworks that the industry hasn't yet addressed</description>
