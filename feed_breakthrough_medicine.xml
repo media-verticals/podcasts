@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 02:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:55:16 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How 370 Hidden Drugs Could Transform Human Aging</title>
+      <description>For years, drug discovery meant starting from scratch—a decade-long gamble to find molecules that might extend human healthspan. But researchers just identified 370 existing drugs with proven safety records that could fundamentally alter aging, collapsing the timeline from years to weeks and revealing a systematic bridge between computational biology and translational medicine that's about to reshape the next five years of longevity research.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-06-29.mp3" length="13005645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-369</guid>
+      <pubDate>Tue, 30 Jun 2026 02:55:16 +0000</pubDate>
+      <itunes:duration>00:10:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>CAR-T Therapy Proves Its Long-Term Promise After Decade</title>
       <description>After a decade of follow-up data, CAR-T therapy is no longer unproven—but what doctors are discovering about long-term outcomes is reshaping how they'll use it, and transforming the entire pipeline of next-generation immune therapies in ways that could redefine cancer treatment strategy. Find out what changed and why oncologists are moving this from experimental option to first-line standard.</description>
