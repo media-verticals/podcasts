@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 03:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:23:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>GoHighLevel's Shift to Pay-Per-Use Reshapes Agency Economics</title>
+      <description>Agencies have spent eighteen months building predictable AI service businesses around fixed-cost models—and GoHighLevel just pulled the rug out with a pay-per-use shift that's already scrambling margins across the industry. If you're selling AI features as part of client retainers, your profitability math is about to change in ways you might not have accounted for, and the agencies figuring this out first will have a massive competitive advantage.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-06-29.mp3" length="15856365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-370</guid>
+      <pubDate>Tue, 30 Jun 2026 03:23:28 +0000</pubDate>
+      <itunes:duration>00:13:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Agencies Are Building AI Revenue Moats</title>
       <description>The playbook agencies are using to build defensible AI revenue moats has fundamentally shifted—and if you're not capturing this window, you're about to compete on a playing field that's already being redefined by those who moved first. What changed isn't the technology itself, but how it's consolidating around platforms that finally eliminate the friction points agencies have been manually handling for years, unlocking a completely different pricing model and recurring revenue structure.</description>
