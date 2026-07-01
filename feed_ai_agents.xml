@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 02:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 02:33:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Messy Reality of Running AI Agents at Scale</title>
+      <description>The infrastructure for AI agents has fundamentally shifted from theoretical possibility to operational necessity—and what's emerging at scale is nothing like what early frameworks promised. Discover what builders have quietly standardized on, why the "best-of-breed tools" approach is already dead, and what this consolidation means for anyone betting on agent infrastructure in production.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-06-30.mp3" length="14692845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-372</guid>
+      <pubDate>Wed, 01 Jul 2026 02:33:57 +0000</pubDate>
+      <itunes:duration>00:12:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Reach Turning Point Beyond Raw Intelligence</title>
       <description>We've reached a critical turning point in AI agents—and it has almost nothing to do with making them smarter. The real bottleneck has shifted from raw intelligence to operational control, and the builders winning right now are the ones solving an unglamorous but devastating problem: how to keep agents from bankrupting you in production.</description>
