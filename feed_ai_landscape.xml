@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 02:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 02:07:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI's Shift From Open Release to Controlled Enterprise Access</title>
+      <description>The AI industry's most powerful players aren't being shut down—they're being reshhaped by an invisible permission structure where government access determines winners and losers. What started as safety concerns has quietly transformed into something far more consequential: a licensing regime that rewards those with White House relationships while leaving everyone else playing by rules that change behind closed doors.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-06-30.mp3" length="12413805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-371</guid>
+      <pubDate>Wed, 01 Jul 2026 02:07:38 +0000</pubDate>
+      <itunes:duration>00:10:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How the U.S. Is Quietly Building AI Control Infrastructure</title>
       <description>While the U.S. appears hands-off on AI, a quiet infrastructure of control is being built that fundamentally changes how frontier AI gets developed and deployed—and one company is already winning under these new rules while another is being forced to slow down. What started as a race for capability has become a race for government trust, and the winners won't necessarily be the ones with the best benchmarks.</description>
