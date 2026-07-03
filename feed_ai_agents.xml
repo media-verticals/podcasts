@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 02:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:33:11 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Move From Building to Safely Running Production Systems</title>
+      <description>As AI agents move from experimental prototypes to real production systems, a critical shift is happening: the builders leading this transition are prioritizing safety and observability *before* deployment, not after—and their tools reveal what's actually breaking in production. This mirrors a fundamental industry inflection point that happened decades ago with infrastructure, suggesting we're watching the moment when agent safety stops being optional and becomes the deciding factor between systems that scale and ones that catastrophically fail.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-02.mp3" length="12327885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-376</guid>
+      <pubDate>Fri, 03 Jul 2026 02:33:11 +0000</pubDate>
+      <itunes:duration>00:10:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Messy Reality of Running AI Agents at Scale</title>
       <description>The infrastructure for AI agents has fundamentally shifted from theoretical possibility to operational necessity—and what's emerging at scale is nothing like what early frameworks promised. Discover what builders have quietly standardized on, why the "best-of-breed tools" approach is already dead, and what this consolidation means for anyone betting on agent infrastructure in production.</description>
