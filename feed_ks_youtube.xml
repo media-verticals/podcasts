@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 03:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 03:32:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Lack of New Data Reveals Hidden Patterns</title>
+      <description>Frontier AI model access is consolidating into a two-tier market as US government restrictions on advanced models like GPT-5.6 and Claude variants shrink the pool of approved providers. Open-weight models (GLM 5.2, DeepSeek) are emerging as compliance hedges rather than cost alternatives, with regulated enterprises in finance and healthcare adopting them to maintain capability while navigating regulatory barriers. This pattern suggests US policy restricting frontier models may be inadvertently accelerating adoption of decentralized alternatives—the opposite of its intended effect. The scarcity created by regulation is driving a structural shift where enterprises view open-weight infrastructure not as cheaper options but as necessary compliance tools.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-07-02.mp3" length="9385965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-377</guid>
+      <pubDate>Fri, 03 Jul 2026 03:32:07 +0000</pubDate>
+      <itunes:duration>00:07:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monitoring Paused: What June Signals Reveal About Ahead</title>
       <description>The podcast examines how the AI competitive landscape is fragmenting away from base model capability toward infrastructure layers, with orchestration frameworks and agent operating systems becoming the true competitive moat that most observers overlook. The episode highlights that while transformer capability remains table stakes, production deployments now depend on less visible infrastructure tools like Claude Tag and Hermes that enable scaling—a structural shift in where actual value concentrates. A bifurcating market is emerging driven by US government access restrictions to frontier models alongside economic pressures, creating divergent competitive dynamics between different tiers of AI development that will reshape the industry through the second half of the year.</description>
