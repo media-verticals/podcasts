@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 03:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:57:43 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Automation Agencies Face Collapse as Tools Democratize</title>
+      <description>The tools that once justified premium agency fees are now freely available to anyone, forcing a brutal reckoning: agencies selling workflows are becoming obsolete, while a new class of AI automation businesses is charging $1,500–$10k for measurable outcomes instead. Discover what shifted, why the collapse happened faster than anyone expected, and the specific positioning that's separating thriving agencies from those heading toward irrelevance.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-07-03.mp3" length="9949005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-381</guid>
+      <pubDate>Sat, 04 Jul 2026 02:57:43 +0000</pubDate>
+      <itunes:duration>00:08:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>GoHighLevel's Shift to Pay-Per-Use Reshapes Agency Economics</title>
       <description>Agencies have spent eighteen months building predictable AI service businesses around fixed-cost models—and GoHighLevel just pulled the rug out with a pay-per-use shift that's already scrambling margins across the industry. If you're selling AI features as part of client retainers, your profitability math is about to change in ways you might not have accounted for, and the agencies figuring this out first will have a massive competitive advantage.</description>
