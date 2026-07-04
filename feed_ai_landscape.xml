@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 02:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 01:58:50 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Competition Fundamentally Resets as Government Restrictions Ease</title>
+      <description>As government restrictions on AI ease, the competitive landscape is being fundamentally rewritten—and it's not about who builds the smartest model anymore. This shift is happening faster than most people realize, with implications that could reshape which companies actually win the race.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-07-03.mp3" length="11730285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-378</guid>
+      <pubDate>Sat, 04 Jul 2026 01:58:50 +0000</pubDate>
+      <itunes:duration>00:09:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Safety Window Closing Faster Than Markets Realize</title>
       <description>A top AI researcher just issued an urgent warning that humanity's window for safely controlling AI is narrowing faster than anyone expected—and it's happening right now, not in some distant future. As capability breakthroughs accelerate and safety controls face new pressures, the market is treating this as noise while insiders appear to be shifting from confidence to concern.</description>
