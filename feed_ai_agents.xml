@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 02:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:15:59 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agent Capability Boundaries Emerge as Critical Design Problem</title>
+      <description>As AI agents move from labs into production, teams are discovering that raw capability isn't enough—they're hitting a critical gap between what agents *can* do and what they're *allowed* to do, with real consequences when things break. The industry is shifting from hoping permissions work to treating agent boundaries as fundamental infrastructure, and the standardization happening right now could reshape how every production system gets built.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-03.mp3" length="14027085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-379</guid>
+      <pubDate>Sat, 04 Jul 2026 02:15:59 +0000</pubDate>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Move From Building to Safely Running Production Systems</title>
       <description>As AI agents move from experimental prototypes to real production systems, a critical shift is happening: the builders leading this transition are prioritizing safety and observability *before* deployment, not after—and their tools reveal what's actually breaking in production. This mirrors a fundamental industry inflection point that happened decades ago with infrastructure, suggesting we're watching the moment when agent safety stops being optional and becomes the deciding factor between systems that scale and ones that catastrophically fail.</description>
