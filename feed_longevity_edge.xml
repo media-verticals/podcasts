@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 02:47:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:39:46 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Longevity Research Turns Corner Toward Clinical Drug Breakthroughs</title>
+      <description>For years, longevity research has been fragmented between understanding *why* we age and testing *whether* individual drugs work—but a major shift is happening right now that's collapsing that gap and pointing the field toward actionable clinical breakthroughs. New research this week reveals the networks that actually drive aging are now mapped, and the field is pivoting from basic science to a practical question that changes everything: which FDA-approved drugs already sitting on pharmacy shelves can we repurpose to hit those targets?</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-07-03.mp3" length="15992685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-380</guid>
+      <pubDate>Sat, 04 Jul 2026 02:39:46 +0000</pubDate>
+      <itunes:duration>00:13:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Drug Screening Reveals Hundreds of Potential Aging-Modifying Compounds</title>
       <description>For a decade, aging researchers have chased the holy grail of understanding why we age—but what if the real breakthrough isn't discovering new drugs, but understanding how to instantly predict which of the thousands of *existing* medications could actually slow aging? A landmark screening just revealed a hidden arsenal of potential age-modifying compounds and cracked the code on why some work while others don't, fundamentally shifting what's now possible in drug development and your options for intervention.</description>
