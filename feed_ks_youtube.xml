@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 03:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 03:31:39 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>OpenAI and Anthropic's Diverging Visions for AI Agents</title>
+      <description>OpenAI is pursuing a unified interface strategy that merges conversational and agent capabilities into a single product, betting that integration solves the scalability problem, while Anthropic is taking a modular, composable approach with product infrastructure veteran Mike Krieger now leading their labs division. Both companies have committed to shipping functional agent interfaces by mid-Q3, representing a fundamental architectural divergence in how they're approaching the agent market. The winner will likely be determined by which approach can scale reliably without creating excessive liability exposure in enterprise deployments. This shift signals that the AI industry is moving beyond model development toward actual product-market fit, with the agent market as the primary battleground for dominance.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ks_youtube_2026-07-04.mp3" length="9462285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-386</guid>
+      <pubDate>Sun, 05 Jul 2026 03:31:39 +0000</pubDate>
+      <itunes:duration>00:07:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Summer Slowdown Masks Major Infrastructure Shifts Ahead</title>
       <description>The creator intelligence network shows a summer slowdown in new signals, but a critical infrastructure shift is emerging beneath the surface. The frontier AI model market has split into two separate economies: approved entities with government access to advanced models like GPT-5.6 and Claude variants, versus competitive enterprises locked out by regulatory restrictions—transforming competition from performance-based to bureaucracy-based. Enterprises without approved status are making strategic pivots toward open-weight alternatives like GLM 5.2 and DeepSeek, or building self-hosted stacks to bypass government approval requirements entirely. The accelerating trend toward self-hosted solutions is driven primarily by regulatory and liability concerns rather than cost optimization, signaling a fundamental restructuring of how enterprises will access and deploy AI infrastructure.</description>
