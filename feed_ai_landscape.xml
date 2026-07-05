@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 01:58:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 02:17:01 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>DeepSeek's Quiet Revolution Reshapes the AI Competition Landscape</title>
+      <description>The AI competition just shifted beneath the surface—and it has nothing to do with raw power. DeepSeek's latest move is reshaping what actually wins in the market, while Google's unexpected delay signals something far more alarming: the foundational assumptions driving the entire industry may have just broken mid-cycle. This is the moment when efficiency and economics overtake capability as the true battleground.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-07-04.mp3" length="15553965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-384</guid>
+      <pubDate>Sun, 05 Jul 2026 02:17:01 +0000</pubDate>
+      <itunes:duration>00:12:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Competition Fundamentally Resets as Government Restrictions Ease</title>
       <description>As government restrictions on AI ease, the competitive landscape is being fundamentally rewritten—and it's not about who builds the smartest model anymore. This shift is happening faster than most people realize, with implications that could reshape which companies actually win the race.</description>
