@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 02:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 02:38:49 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Agents Ditch Full Autonomy for Human Collaboration</title>
+      <description>The autonomous AI agent was supposed to be the endgame—but builders are quietly abandoning it for something better. A fundamental architectural shift is changing how real-world AI systems actually work, and it's not what the headlines promised. If you've noticed the gap between impressive demos and production reality, this is where the answer is hiding.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-04.mp3" length="12267405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-385</guid>
+      <pubDate>Sun, 05 Jul 2026 02:38:49 +0000</pubDate>
+      <itunes:duration>00:10:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agent Capability Boundaries Emerge as Critical Design Problem</title>
       <description>As AI agents move from labs into production, teams are discovering that raw capability isn't enough—they're hitting a critical gap between what agents *can* do and what they're *allowed* to do, with real consequences when things break. The industry is shifting from hoping permissions work to treating agent boundaries as fundamental infrastructure, and the standardization happening right now could reshape how every production system gets built.</description>
