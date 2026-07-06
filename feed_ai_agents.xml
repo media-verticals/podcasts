@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 02:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:22:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Code Becomes the Dominant Framework for Real-World AI Agents</title>
+      <description>The infrastructure layer for AI agents is consolidating faster than anyone predicted—and it's reshaping what gets built next. Discover why Claude Code's shift from developer tool to dominant production framework matters, how Meta's move signals an end to framework choice, and what this concentration of power means for anyone building AI systems.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-05.mp3" length="11326125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-388</guid>
+      <pubDate>Mon, 06 Jul 2026 02:22:38 +0000</pubDate>
+      <itunes:duration>00:09:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Agents Ditch Full Autonomy for Human Collaboration</title>
       <description>The autonomous AI agent was supposed to be the endgame—but builders are quietly abandoning it for something better. A fundamental architectural shift is changing how real-world AI systems actually work, and it's not what the headlines promised. If you've noticed the gap between impressive demos and production reality, this is where the answer is hiding.</description>
