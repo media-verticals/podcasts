@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 02:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:02:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI Labs Are Quietly Shifting Their Operating Strategy</title>
+      <description>Major AI labs are fundamentally changing how they operate—pulling back certain capabilities, gating access, and reshaping timelines—while competitors abroad are moving faster with less scrutiny, signaling a widening gap in execution strategy that could reshape which labs maintain developer momentum and market leadership. This shift goes far deeper than any single product announcement and reveals the real pressures reshaping the industry right now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-07-05.mp3" length="9835725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-387</guid>
+      <pubDate>Mon, 06 Jul 2026 02:02:32 +0000</pubDate>
+      <itunes:duration>00:08:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>DeepSeek's Quiet Revolution Reshapes the AI Competition Landscape</title>
       <description>The AI competition just shifted beneath the surface—and it has nothing to do with raw power. DeepSeek's latest move is reshaping what actually wins in the market, while Google's unexpected delay signals something far more alarming: the foundational assumptions driving the entire industry may have just broken mid-cycle. This is the moment when efficiency and economics overtake capability as the true battleground.</description>
