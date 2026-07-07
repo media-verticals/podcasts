@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 02:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 02:40:46 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Where AI Agents Fail in Real Production Systems</title>
+      <description>As AI agents move from polished demos into real production systems, a critical infrastructure gap is emerging—and it's not what you'd expect. Discover the unsexy but essential bottleneck that's blocking automation at scale, the architectural shift that's quietly reshaping how agents are actually deployed, and why the next major breakthrough won't come from better models, but from who solves the infrastructure problem first.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-06.mp3" length="15945645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-391</guid>
+      <pubDate>Tue, 07 Jul 2026 02:40:46 +0000</pubDate>
+      <itunes:duration>00:13:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Code Becomes the Dominant Framework for Real-World AI Agents</title>
       <description>The infrastructure layer for AI agents is consolidating faster than anyone predicted—and it's reshaping what gets built next. Discover why Claude Code's shift from developer tool to dominant production framework matters, how Meta's move signals an end to framework choice, and what this concentration of power means for anyone building AI systems.</description>
