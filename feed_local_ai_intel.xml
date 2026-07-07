@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 02:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 03:39:50 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Agencies Must Balance Specialization and Operational Complexity</title>
+      <description>The operational ground is shifting beneath agencies right now—what you've been selling as simple, scalable automation is quietly triggering penalties that could tank your clients' visibility, and most agencies haven't realized it yet. If you're not already thinking about how to pivot from commoditized workflows to defensible, compliant strategies, you're about to watch your margins compress and your client relationships explode.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-07-06.mp3" length="17197005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-393</guid>
+      <pubDate>Tue, 07 Jul 2026 03:39:50 +0000</pubDate>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Automation Agencies Face Collapse as Tools Democratize</title>
       <description>The tools that once justified premium agency fees are now freely available to anyone, forcing a brutal reckoning: agencies selling workflows are becoming obsolete, while a new class of AI automation businesses is charging $1,500–$10k for measurable outcomes instead. Discover what shifted, why the collapse happened faster than anyone expected, and the specific positioning that's separating thriving agencies from those heading toward irrelevance.</description>
