@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 02:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 02:11:31 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Market Shifts: AI Models Adopt New Safety Standards and Pricing Models</title>
+      <description>The safety standards protecting AI systems just became the key to unlocking global markets—and one company just cracked the code on turning internal model reasoning into regulatory credentials. As export restrictions tighten and pricing models splinter, the winners won't be the ones building the most capable AI; they'll be the ones who can prove what's happening inside their models and make regulators believe it.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-07-07.mp3" length="14320845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-394</guid>
+      <pubDate>Wed, 08 Jul 2026 02:11:31 +0000</pubDate>
+      <itunes:duration>00:11:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Labs Quietly Shift Strategy: What Market Signals Reveal</title>
       <description>Behind every product announcement, labs are making ruthless bets about which capabilities they can actually afford—and which ones they've decided won't win the race. Discover what the shift from subscription to pay-per-use reveals about who's running out of runway, who's betting on moats that don't exist, and why the most telling signal isn't what they're building, it's what they're quietly rationing.</description>
