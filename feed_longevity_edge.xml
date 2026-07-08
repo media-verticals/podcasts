@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 02:39:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 03:07:38 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Scientists Discover Mitochondrial DNA Holds Key to Aging</title>
+      <description>For decades, we've assumed aging stems from mitochondrial decline—but new research suggests we've been looking at only half the problem, revealing that the real driver is a breakdown in communication between two genomes that should be working in perfect sync. This discovery fundamentally rewires what we need to target to slow aging, and the implications for longevity interventions are immediate.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-07-07.mp3" length="15999885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-396</guid>
+      <pubDate>Wed, 08 Jul 2026 03:07:38 +0000</pubDate>
+      <itunes:duration>00:13:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Longevity Research Turns Corner Toward Clinical Drug Breakthroughs</title>
       <description>For years, longevity research has been fragmented between understanding *why* we age and testing *whether* individual drugs work—but a major shift is happening right now that's collapsing that gap and pointing the field toward actionable clinical breakthroughs. New research this week reveals the networks that actually drive aging are now mapped, and the field is pivoting from basic science to a practical question that changes everything: which FDA-approved drugs already sitting on pharmacy shelves can we repurpose to hit those targets?</description>
