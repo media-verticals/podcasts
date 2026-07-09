@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 02:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 02:40:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Cost Revolution Reshaping How AI Agents Work</title>
+      <description>The economics of AI agents just fundamentally shifted—and most teams are still building like cost doesn't matter. Discover what production leaders discovered about routing intelligence across models, why it changes everything about agent architecture, and the exact pattern that's delivering 10-40x cost savings without sacrificing reliability.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-08.mp3" length="15645165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-398</guid>
+      <pubDate>Thu, 09 Jul 2026 02:40:28 +0000</pubDate>
+      <itunes:duration>00:13:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agents Breaking Down at Scale: Learning Without Drifting</title>
       <description>As production agents scale, they're moving past the question of "can they work?" to a harder one: "can they learn without breaking?" Discover the concrete failure modes now crippling real-world deployments and why the industry's infrastructure layer is fundamentally shifting to solve what orchestration alone cannot.</description>
