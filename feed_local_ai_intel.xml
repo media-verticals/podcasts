@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 03:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 03:17:02 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agency Business Models Shift As AI Becomes Revenue Driver</title>
+      <description>The way agencies monetize AI just fundamentally shifted, and most haven't noticed yet—what used to be five-figure custom builds are being replaced by recurring subscription models, but only if you're willing to completely rethink how you deliver them. If you're still operating on the old playbook, you're about to get squeezed out by agencies that have already cracked the code on productized AI.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-07-08.mp3" length="20653485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-399</guid>
+      <pubDate>Thu, 09 Jul 2026 03:17:02 +0000</pubDate>
+      <itunes:duration>00:17:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Agencies Must Balance Specialization and Operational Complexity</title>
       <description>The operational ground is shifting beneath agencies right now—what you've been selling as simple, scalable automation is quietly triggering penalties that could tank your clients' visibility, and most agencies haven't realized it yet. If you're not already thinking about how to pivot from commoditized workflows to defensible, compliant strategies, you're about to watch your margins compress and your client relationships explode.</description>
