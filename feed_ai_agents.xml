@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 02:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 02:44:08 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Why Cheaper Thinking Is Reshaping AI Agent Architecture</title>
+      <description>As cheaper models become capable enough to handle real work and token efficiency replaces raw power as the competitive advantage, the entire playbook for building production AI agents is being rewritten—and teams that haven't started thinking about cost-aware routing and local inference are about to find themselves massively outspent by those who have.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-09.mp3" length="18381645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-401</guid>
+      <pubDate>Fri, 10 Jul 2026 02:44:08 +0000</pubDate>
+      <itunes:duration>00:15:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Cost Revolution Reshaping How AI Agents Work</title>
       <description>The economics of AI agents just fundamentally shifted—and most teams are still building like cost doesn't matter. Discover what production leaders discovered about routing intelligence across models, why it changes everything about agent architecture, and the exact pattern that's delivering 10-40x cost savings without sacrificing reliability.</description>
