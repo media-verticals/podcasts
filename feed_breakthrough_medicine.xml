@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 03:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 03:13:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>AI Discovers Drug Candidates Entirely Without Human Intervention</title>
+      <description>For decades, human expertise has been the irreplaceable bottleneck in drug discovery—until now. Researchers have demonstrated the first fully autonomous AI system that forms hypotheses, designs experiments, interprets results, and iterates entirely without human intervention, collapsing discovery timelines from months to weeks and suddenly making rare diseases economically viable to treat.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-07-09.mp3" length="15625485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-402</guid>
+      <pubDate>Fri, 10 Jul 2026 03:13:12 +0000</pubDate>
+      <itunes:duration>00:13:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Medical Manufacturing Breakthrough Slashes CAR-T Therapy Costs</title>
       <description>For a decade, CAR-T therapy has saved lives—but only for those who could afford the million-dollar price tag. A manufacturing breakthrough from Japan just collapsed both the cost and production timeline, potentially unlocking this life-saving treatment for millions who've been locked out of access. This is the inflection point that transforms CAR-T from boutique medicine to scalable reality.</description>
