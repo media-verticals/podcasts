@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 02:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 02:14:01 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Apple Accuses OpenAI of Stealing Trade Secrets</title>
+      <description>Apple's legal move against OpenAI signals something far more dangerous than a typical IP dispute—it reveals a hardware giant abandoning the competition arena entirely, suggesting the technical gap in AI may have already become insurmountable. Meanwhile, OpenAI's latest efficiency breakthrough is quietly reshaping what's actually possible in the market, and the timing between these two events exposes the real stakes in who controls AI's future.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-07-10.mp3" length="13851885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-403</guid>
+      <pubDate>Sat, 11 Jul 2026 02:14:01 +0000</pubDate>
+      <itunes:duration>00:11:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Market Shifts From Raw Intelligence To Orchestration</title>
       <description>The AI market's obsession with raw intelligence just ended—and what's replacing it could determine which companies survive the next five years. A major capability shift has begun, forcing a fundamental rethinking of where competitive advantage actually lives in AI systems, and missing this transition could mean betting on yesterday's playbook.</description>
