@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 03:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 03:59:02 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Voice Agents Become Standard, Margins Get Squeezed</title>
+      <description>As voice agents transition from premium feature to baseline expectation, agency margins are collapsing—but a new pricing structure is emerging for those paying attention. Discover where the real money is moving and why agencies still selling voice as an add-on are already losing.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-07-10.mp3" length="25847085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-406</guid>
+      <pubDate>Sat, 11 Jul 2026 03:59:02 +0000</pubDate>
+      <itunes:duration>00:21:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agency Business Models Shift As AI Becomes Revenue Driver</title>
       <description>The way agencies monetize AI just fundamentally shifted, and most haven't noticed yet—what used to be five-figure custom builds are being replaced by recurring subscription models, but only if you're willing to completely rethink how you deliver them. If you're still operating on the old playbook, you're about to get squeezed out by agencies that have already cracked the code on productized AI.</description>
