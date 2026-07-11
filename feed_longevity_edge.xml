@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 03:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 03:11:36 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Multiple Research Threads Point Toward Longevity Intervention Redesign</title>
+      <description>The field's most fundamental assumption about longevity just cracked—multiple independent research threads are converging on evidence that despite decades of targeting different pathways, every effective intervention funnels through the same narrow metabolic bottleneck, forcing a complete redesign of how we should actually be approaching longevity interventions. This shifts the game from asking "which pathway works" to "how do we directly address what all successful interventions have in common"—and that distinction could accelerate breakthroughs.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-07-10.mp3" length="16916205" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-405</guid>
+      <pubDate>Sat, 11 Jul 2026 03:11:36 +0000</pubDate>
+      <itunes:duration>00:14:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Scientists Discover Mitochondrial DNA Holds Key to Aging</title>
       <description>For decades, we've assumed aging stems from mitochondrial decline—but new research suggests we've been looking at only half the problem, revealing that the real driver is a breakdown in communication between two genomes that should be working in perfect sync. This discovery fundamentally rewires what we need to target to slow aging, and the implications for longevity interventions are immediate.</description>
