@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 02:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 02:40:17 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Agent Graveyard: Why We Stop Using What We Build</title>
+      <description>Most AI agents built today never get deployed—not because they fail, but because organizations have no framework to decide when an agent is actually worth using. Discover why the real bottleneck in agent adoption isn't capability or technology, but the cost-benefit judgment that determines whether your next automation should be an agent or something far simpler.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-10.mp3" length="14567085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-404</guid>
+      <pubDate>Sat, 11 Jul 2026 02:40:17 +0000</pubDate>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Why Cheaper Thinking Is Reshaping AI Agent Architecture</title>
       <description>As cheaper models become capable enough to handle real work and token efficiency replaces raw power as the competitive advantage, the entire playbook for building production AI agents is being rewritten—and teams that haven't started thinking about cost-aware routing and local inference are about to find themselves massively outspent by those who have.</description>
