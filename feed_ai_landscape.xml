@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 02:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 02:34:19 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Competition Shifts From Power to Pricing Strategy</title>
+      <description>As the AI market explodes with new models, the competition has quietly shifted from raw capability to something far more strategic—and if you're building with AI, this changes everything about how you should be evaluating and deploying these tools. The latest moves from major labs reveal that the real advantage now goes to companies teaching users *how* to extract maximum value, not just who has the biggest model, and missing this shift could mean you're paying for capabilities you'll never actually use.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-07-25.mp3" length="16713645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-407</guid>
+      <pubDate>Sun, 26 Jul 2026 02:34:19 +0000</pubDate>
+      <itunes:duration>00:13:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Apple Accuses OpenAI of Stealing Trade Secrets</title>
       <description>Apple's legal move against OpenAI signals something far more dangerous than a typical IP dispute—it reveals a hardware giant abandoning the competition arena entirely, suggesting the technical gap in AI may have already become insurmountable. Meanwhile, OpenAI's latest efficiency breakthrough is quietly reshaping what's actually possible in the market, and the timing between these two events exposes the real stakes in who controls AI's future.</description>
