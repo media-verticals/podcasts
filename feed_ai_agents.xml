@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 02:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 03:07:42 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Data-Product Gap Collapse Transforms Agent Value</title>
+      <description>For months, agents promised productivity gains—until the gap between raw data and deployed product collapsed entirely, turning agent value from incremental to existential. If your organization still thinks of AI agents as assistants rather than executable workers building complete systems in minutes, you're about to understand why that distinction now determines competitive survival.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-25.mp3" length="18599085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-408</guid>
+      <pubDate>Sun, 26 Jul 2026 03:07:42 +0000</pubDate>
+      <itunes:duration>00:15:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Agent Graveyard: Why We Stop Using What We Build</title>
       <description>Most AI agents built today never get deployed—not because they fail, but because organizations have no framework to decide when an agent is actually worth using. Discover why the real bottleneck in agent adoption isn't capability or technology, but the cost-benefit judgment that determines whether your next automation should be an agent or something far simpler.</description>
