@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 03:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 02:51:31 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agent Infrastructure Reaches Crossroads: Control Over Capability</title>
+      <description>As agent infrastructure moves toward production, a major AI provider just made a stunning choice: deliberately disable agents from spawning other agents. Simultaneously, the foundational protocol connecting agents to tools is undergoing its largest overhaul since launch—and the pattern suggests the industry just learned something uncomfortable about what actually works at scale versus what the theory promised.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-07-26.mp3" length="18576045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-410</guid>
+      <pubDate>Mon, 27 Jul 2026 02:51:31 +0000</pubDate>
+      <itunes:duration>00:15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Data-Product Gap Collapse Transforms Agent Value</title>
       <description>For months, agents promised productivity gains—until the gap between raw data and deployed product collapsed entirely, turning agent value from incremental to existential. If your organization still thinks of AI agents as assistants rather than executable workers building complete systems in minutes, you're about to understand why that distinction now determines competitive survival.</description>
