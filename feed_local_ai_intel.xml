@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 03:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 04:23:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Platform Strategy Breaking: Three Margin Plays to Make</title>
+      <description>The platform monoculture that powered agency margins is splintering—and if you're still betting on yesterday's stack, you're about to feel the cost headwind. Discover the three emerging margin plays you can implement this month to stay ahead of the shift.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_local_ai_intel_2026-07-31.mp3" length="21349485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-415</guid>
+      <pubDate>Sat, 01 Aug 2026 04:23:07 +0000</pubDate>
+      <itunes:duration>00:17:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Voice Agents Become Standard, Margins Get Squeezed</title>
       <description>As voice agents transition from premium feature to baseline expectation, agency margins are collapsing—but a new pricing structure is emerging for those paying attention. Discover where the real money is moving and why agencies still selling voice as an add-on are already losing.</description>
