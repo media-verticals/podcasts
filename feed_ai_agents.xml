@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 03:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 03:02:22 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Which Agent Wins? Benchmarks Finally Answer</title>
+      <description>The agent space just crossed a line: standardized benchmarks are here, and suddenly the question isn't whether agents work—it's which ones actually perform best on tasks that matter. For builders and teams choosing tools, this measurement shift changes everything.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-08-04.mp3" length="16475085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-420</guid>
+      <pubDate>Wed, 05 Aug 2026 03:02:22 +0000</pubDate>
+      <itunes:duration>00:13:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Coordinating Multiple Agents at Scale: What Actually Works</title>
       <description>Multi-agent coordination at scale is now operationally proven—but the approach that works contradicts what most builders assume. This episode reveals the pattern emerging in production and why it fundamentally shifts the architecture conversation.</description>
