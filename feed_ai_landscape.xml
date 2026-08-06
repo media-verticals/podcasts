@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 02:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 02:24:17 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Frontier Models Realign: Who's Winning Now</title>
+      <description>Elite talent movements at major AI labs are revealing a fundamental shift in the frontier model competitive landscape—one that traditional metrics of "winning" might be missing. When architects of AI strategy start exiting during the race, it's a signal that the game itself is changing.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-08-05.mp3" length="18373965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-421</guid>
+      <pubDate>Thu, 06 Aug 2026 02:24:17 +0000</pubDate>
+      <itunes:duration>00:15:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Chinese Parity Shatters the Frontier AI Economy</title>
       <description>The playbook that funded the frontier AI boom is broken, and the evidence is undeniable. But here's what it means for the future of AI pricing, market power, and which labs actually survive the reset.</description>
