@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 03:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 02:56:29 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Deploying Agents Faster Than We Can Control Them</title>
+      <description>Production teams are deploying agents at scale—but the infrastructure to reliably control what those agents do doesn't exist yet. This gap between capability and governance just moved from theoretical warning to active failures in the wild, reshaping how agent systems have to be built.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_agents_2026-08-05.mp3" length="15889965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-422</guid>
+      <pubDate>Thu, 06 Aug 2026 02:56:29 +0000</pubDate>
+      <itunes:duration>00:13:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Which Agent Wins? Benchmarks Finally Answer</title>
       <description>The agent space just crossed a line: standardized benchmarks are here, and suddenly the question isn't whether agents work—it's which ones actually perform best on tasks that matter. For builders and teams choosing tools, this measurement shift changes everything.</description>
