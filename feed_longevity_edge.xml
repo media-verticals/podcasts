@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 03:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:53:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>The Longevity Paradox: Why Women Live Longer But Sicker</title>
+      <description>Women outlive men by years but spend more of those years managing multiple chronic conditions—and what science just proved about why this happens reframes everything about how aging actually works and what longevity protocols need to account for. This is essential listening if you've been following one-size-fits-all advice.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-08-07.mp3" length="20895885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-425</guid>
+      <pubDate>Fri, 07 Aug 2026 07:53:12 +0000</pubDate>
+      <itunes:duration>00:17:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Meta-Review Overturns Protein Dogma Reshaping Longevity Practice</title>
       <description>A meta-analysis has contradicted a foundational assumption that's shaped longevity practice across the industry, forcing a complete rethink of current protocols. If your approach to intervening on aging is based on current expert consensus, this research just changed what the evidence supports.</description>
