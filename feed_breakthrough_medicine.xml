@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 03:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:10:10 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>The Brain's Immune Transformation Starts at Fifty</title>
+      <description>At fifty, your brain's immune system undergoes a radical structural reorganization—and this biological checkpoint may hold the key to preventing cognitive decline before it becomes irreversible. New research reveals this midlife switch is coupled with silent pathology accumulating for decades, suggesting a narrow intervention window exists for those willing to act before the cascade becomes unavoidable.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-08-07.mp3" length="17883885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-424</guid>
+      <pubDate>Fri, 07 Aug 2026 07:10:10 +0000</pubDate>
+      <itunes:duration>00:14:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Discovers Drug Candidates Entirely Without Human Intervention</title>
       <description>For decades, human expertise has been the irreplaceable bottleneck in drug discovery—until now. Researchers have demonstrated the first fully autonomous AI system that forms hypotheses, designs experiments, interprets results, and iterates entirely without human intervention, collapsing discovery timelines from months to weeks and suddenly making rare diseases economically viable to treat.</description>
