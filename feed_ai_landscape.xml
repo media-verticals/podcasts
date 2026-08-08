@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 08:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:21:52 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>When AI Code Met Production Standards</title>
+      <description>The year-long industry debate about AI coding capability just shifted ground—maintainers of foundational systems managing banking, healthcare, and government operations are enforcing a line on auditability and control. This standard is about to cascade across every organization using AI to generate code.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-08-08.mp3" length="24774285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-427</guid>
+      <pubDate>Sat, 08 Aug 2026 07:21:52 +0000</pubDate>
+      <itunes:duration>00:20:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When Agent Safety Becomes an Operational Crisis</title>
       <description>As autonomous agents scale into production systems with real customers, the oversight mechanisms designed to catch failures are themselves failing at measurable rates. Government data just quantified the gap between what we assume our controls can do and what they actually do—and that gap is now an operational crisis.</description>
