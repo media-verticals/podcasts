@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:12:14 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>When AI Autonomy Becomes the Default</title>
+      <description>The baseline assumption about how AI systems should operate has just fundamentally shifted—and most people haven't noticed. This move signals what the industry actually believes comes next and why supervision might no longer be the priority everyone thought it was.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-08-09.mp3" length="22506285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-428</guid>
+      <pubDate>Sun, 09 Aug 2026 07:12:14 +0000</pubDate>
+      <itunes:duration>00:18:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When AI Code Met Production Standards</title>
       <description>The year-long industry debate about AI coding capability just shifted ground—maintainers of foundational systems managing banking, healthcare, and government operations are enforcing a line on auditability and control. This standard is about to cascade across every organization using AI to generate code.</description>
