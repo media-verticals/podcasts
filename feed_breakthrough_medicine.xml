@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:13:01 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Tau Inverted: Reshaping a Decade of Alzheimer's Research</title>
+      <description>A decade of Alzheimer's research—billions in funding and failed drug trials—was built on a misunderstanding of how tau actually damages the brain. A new discovery has inverted that model entirely, and it changes which therapeutic strategies could actually work.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-08-10.mp3" length="18256365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-429</guid>
+      <pubDate>Mon, 10 Aug 2026 07:13:01 +0000</pubDate>
+      <itunes:duration>00:15:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Brain's Immune Transformation Starts at Fifty</title>
       <description>At fifty, your brain's immune system undergoes a radical structural reorganization—and this biological checkpoint may hold the key to preventing cognitive decline before it becomes irreversible. New research reveals this midlife switch is coupled with silent pathology accumulating for decades, suggesting a narrow intervention window exists for those willing to act before the cascade becomes unavoidable.</description>
