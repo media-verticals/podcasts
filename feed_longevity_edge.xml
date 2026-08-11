@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:12:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How Bone Remodeling Reverses Age-Related Muscle Loss</title>
+      <description>The decline we've accepted as inevitable aging may actually be one integrated system—and new research suggests it's reversible through a single mechanism. This episode explores why understanding this connection could change everything about how we approach functional longevity.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-08-11.mp3" length="21914445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-431</guid>
+      <pubDate>Tue, 11 Aug 2026 07:12:09 +0000</pubDate>
+      <itunes:duration>00:18:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Longevity Paradox: Why Women Live Longer But Sicker</title>
       <description>Women outlive men by years but spend more of those years managing multiple chronic conditions—and what science just proved about why this happens reframes everything about how aging actually works and what longevity protocols need to account for. This is essential listening if you've been following one-size-fits-all advice.</description>
