@@ -7,7 +7,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:07:11 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Meta Just Quit the AI Capability Race</title>
+      <description>Meta just revealed they've stopped playing the game everyone thinks matters in AI—and their move is a clearer signal about the actual competitive landscape than anything we've heard from the frontier labs in months. This is what the industry's real battle is actually about.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-08-11.mp3" length="25789485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-432</guid>
+      <pubDate>Tue, 11 Aug 2026 08:07:11 +0000</pubDate>
+      <itunes:duration>00:21:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Infrastructure Security: The New AI Arms Race</title>
       <description>The bottleneck on AI development just shifted from capability to security—and the industry just proved it. Discover what a coordinated compromise of the world's top labs reveals about the real AI arms race, and why defending your infrastructure is now worth more than building the smartest model.</description>
