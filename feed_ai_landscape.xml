@@ -9,13 +9,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Aug 2026 07:17:52 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Knowledge Studio</itunes:name>
-      <itunes:email>mediaverticals@proton.me</itunes:email>
+      <itunes:name>AI Landscape</itunes:name>
+      <itunes:email>tomtresearch@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/ai_landscape_cover.png"/>
     <image>

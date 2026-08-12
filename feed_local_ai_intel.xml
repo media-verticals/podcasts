@@ -9,13 +9,13 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Aug 2026 03:29:19 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:author>Local AI Intel Brief</itunes:author>
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Knowledge Studio</itunes:name>
-      <itunes:email>mediaverticals@proton.me</itunes:email>
+      <itunes:name>Local AI Intel Brief</itunes:name>
+      <itunes:email>tomtresearch@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/local_ai_intel_podcast_cover.png"/>
     <image>
