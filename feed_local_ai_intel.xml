@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Local AI Intel Brief</title>
@@ -13,10 +14,15 @@
     <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <podcast:author>Knowledge Studio</podcast:author>
     <itunes:owner>
       <itunes:name>Local AI Intel Brief</itunes:name>
       <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
+    <podcast:owner>
+      <podcast:ownerName>Knowledge Studio</podcast:ownerName>
+      <podcast:ownerEmail>mediaverticals@proton.me</podcast:ownerEmail>
+    </podcast:owner>
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/local_ai_intel_podcast_cover.png"/>
     <image>
       <url>https://media-verticals.github.io/podcasts/covers/local_ai_intel_podcast_cover.png</url>
