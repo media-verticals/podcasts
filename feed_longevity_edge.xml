@@ -23,9 +23,9 @@
       <podcast:ownerName>Knowledge Studio</podcast:ownerName>
       <podcast:ownerEmail>mediaverticals@proton.me</podcast:ownerEmail>
     </podcast:owner>
-    <itunes:image href="https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png"/>
+    <itunes:image href="https://media-verticals.github.io/podcasts/covers/longevity_report_cover.png"/>
     <image>
-      <url>https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png</url>
+      <url>https://media-verticals.github.io/podcasts/covers/longevity_report_cover.png</url>
       <title>Longevity Report</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
