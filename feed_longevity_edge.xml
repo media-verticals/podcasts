@@ -4,19 +4,19 @@
      xmlns:podcast="https://podcastindex.org/namespace/1.0"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Longevity Edge</title>
+    <title>Longevity Report</title>
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2026 07:12:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Longevity Edge</itunes:author>
+    <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:author>Knowledge Studio</podcast:author>
     <itunes:owner>
-      <itunes:name>Longevity Edge</itunes:name>
+      <itunes:name>Longevity Report</itunes:name>
       <itunes:email>mediaverticals@proton.me</itunes:email>
     </itunes:owner>
     <podcast:owner>
@@ -26,7 +26,7 @@
     <itunes:image href="https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png"/>
     <image>
       <url>https://media-verticals.github.io/podcasts/covers/longevity_edge_cover.png</url>
-      <title>Longevity Edge</title>
+      <title>Longevity Report</title>
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
