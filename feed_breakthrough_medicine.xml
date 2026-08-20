@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:01:01 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Personalized Cancer Vaccines Prove Effective for Melanoma</title>
+      <description>The one problem that made personalized cancer medicine impossible—time—just got solved. Here's why that breakthrough matters more than the mRNA itself, and why it's the moment everything changes.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-08-20.mp3" length="16719405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-434</guid>
+      <pubDate>Thu, 20 Aug 2026 07:01:01 +0000</pubDate>
+      <itunes:duration>00:13:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tau Inverted: Reshaping a Decade of Alzheimer's Research</title>
       <description>A decade of Alzheimer's research—billions in funding and failed drug trials—was built on a misunderstanding of how tau actually damages the brain. A new discovery has inverted that model entirely, and it changes which therapeutic strategies could actually work.</description>
