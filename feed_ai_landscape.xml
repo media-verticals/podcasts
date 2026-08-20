@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:57:35 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>When Frontier AI Outpaces Its Own Safety</title>
+      <description>One of the best-capitalized AI labs just hit a wall that forced them to stop training—revealing capability has outpaced oversight. This episode explores what this moment means for the race, why it reshapes the competitive landscape, and how the constraint on scaling has fundamentally shifted.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-08-20.mp3" length="10506285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-436</guid>
+      <pubDate>Thu, 20 Aug 2026 07:57:35 +0000</pubDate>
+      <itunes:duration>00:08:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Prompt Injection Breaks Frontier Model Moats</title>
       <description>The economic foundation of frontier AI pricing just cracked—and the reasoning that's supposed to justify premium APIs can leak away in seconds. Hear how a fundamental architectural vulnerability is forcing both OpenAI and Anthropic to rethink what they're actually defending, and why this reshapes the entire competitive landscape for reasoning models.</description>
