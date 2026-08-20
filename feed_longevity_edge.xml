@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:21:05 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>What Supercentenarians Reveal About Immune Aging</title>
+      <description>Most longevity research targets the wrong thing. New research on supercentenarians reveals that extreme age isn't about resisting immune aging—it's about navigating through it in a way that changes everything we know about staying healthy.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-08-20.mp3" length="10626285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-435</guid>
+      <pubDate>Thu, 20 Aug 2026 07:21:05 +0000</pubDate>
+      <itunes:duration>00:08:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Bone Remodeling Reverses Age-Related Muscle Loss</title>
       <description>The decline we've accepted as inevitable aging may actually be one integrated system—and new research suggests it's reversible through a single mechanism. This episode explores why understanding this connection could change everything about how we approach functional longevity.</description>
