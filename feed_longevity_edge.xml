@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:06:51 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>What Supercentenarians Reveal About Aging and Immunity</title>
+      <description>What the world's oldest people have in common is rewriting what we know about aging—and multiple lines of research are now pointing to a specific biological pattern that might be something scientists can actually intervene on. The convergent signals are too strong to ignore: aging might not be an inevitable universal decline, but a reorganizable system, and the implications for extending human healthspan are only starting to come into focus.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-08-21.mp3" length="17834445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-437</guid>
+      <pubDate>Fri, 21 Aug 2026 07:06:51 +0000</pubDate>
+      <itunes:duration>00:14:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>What Supercentenarians Reveal About Immune Aging</title>
       <description>Most longevity research targets the wrong thing. New research on supercentenarians reveals that extreme age isn't about resisting immune aging—it's about navigating through it in a way that changes everything we know about staying healthy.</description>
