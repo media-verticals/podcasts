@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:01:25 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>When Economics Beat Benchmarks in AI</title>
+      <description>The AI competition just fundamentally changed—and it's not about what the models can do anymore. Find out why inference costs have become the new benchmark that's reshaping which tools builders actually use.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-08-22.mp3" length="14593965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-439</guid>
+      <pubDate>Sat, 22 Aug 2026 07:01:25 +0000</pubDate>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI-Designed Cancer Drug Proves Itself in Real Patients</title>
       <description>An AI-designed cancer therapy succeeded in real patients—closing the gap between theoretical capability and reliable deployment that has defined the AI space for years. This clinical proof point reframes what the entire competition is actually about.</description>
