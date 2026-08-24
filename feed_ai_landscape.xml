@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:37:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Closed Model Era Is Structurally Over</title>
+      <description>The structural moat around closed models just collapsed. Three simultaneous developments this week prove the closed-model era is over, and why the entire competitive landscape is fundamentally different now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-08-24.mp3" length="19402125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-442</guid>
+      <pubDate>Mon, 24 Aug 2026 07:37:07 +0000</pubDate>
+      <itunes:duration>00:16:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Real Story Behind Anthropic's Effort Tiers</title>
       <description>Anthropic's latest moves reveal a fundamental shift in how they're competing in a post-DeepSeek landscape—and the tension between their public signals tells a story about survival, pricing, and a market that's splitting in two. We walk through what they're actually testing, why the timing matters, and what it means for your costs.</description>
