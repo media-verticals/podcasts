@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:03:02 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Parallel Testing Across Species Changes Drug Discovery</title>
+      <description>A parallel-testing breakthrough just collapsed the drug discovery bottleneck—what used to take years of sequential validation now runs simultaneously across model organisms, compressing the timeline from years to months. This methodology is about to become the standard for every intervention entering human trials, reshaping how fast the entire field moves forward.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-09-01.mp3" length="14731245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-448</guid>
+      <pubDate>Tue, 01 Sep 2026 07:03:02 +0000</pubDate>
+      <itunes:duration>00:12:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Population Study Validates Epigenetic Aging Interventions in Humans</title>
       <description>The chasm between aging interventions that work in the lab and those that work in humans just collapsed—population-level validation shows epigenetic aging clocks respond to intervention in real people. That shift from a single striking case to robust human evidence transforms which longevity therapies are worth taking seriously.</description>
