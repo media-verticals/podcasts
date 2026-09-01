@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:50:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Infrastructure Wars: Who Owns Where AI Lives</title>
+      <description>The real fight for AI dominance isn't on the benchmark leaderboard—it's over who controls where inference runs and whether that's defensible. This week's infrastructure moves make that battle suddenly concrete and urgent.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-01.mp3" length="14718765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-449</guid>
+      <pubDate>Tue, 01 Sep 2026 07:50:57 +0000</pubDate>
+      <itunes:duration>00:12:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Pattern Behind Silicon Valley's Synchronized AI Moves</title>
       <description>When the world's most powerful chip company suddenly moves to control software, it's not a goodwill gesture—it's a confession about where the real constraint has shifted. Every major player is making the synchronized same move this week, and it reveals exactly where the competition for AI dominance is actually being fought.</description>
