@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:11:59 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic Wins the Narrative Before Astra Launches</title>
+      <description>Anthropic and OpenAI made the same strategic move on model access in parallel—but the narratives they're spinning couldn't be more different. The consolidation of control over frontier AI is reshaping the competitive landscape for everyone building on these platforms, and the real story is completely buried beneath the headlines.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-02.mp3" length="20496525" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-451</guid>
+      <pubDate>Wed, 02 Sep 2026 07:11:59 +0000</pubDate>
+      <itunes:duration>00:17:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Infrastructure Wars: Who Owns Where AI Lives</title>
       <description>The real fight for AI dominance isn't on the benchmark leaderboard—it's over who controls where inference runs and whether that's defensible. This week's infrastructure moves make that battle suddenly concrete and urgent.</description>
