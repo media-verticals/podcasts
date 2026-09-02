@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:55:13 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>When Cancer Therapy Reveals Aging's Blueprint</title>
+      <description>A fundamental barrier in cancer therapy has suddenly become permeable, revealing mechanisms of cellular aging that were hidden until now. The window to act on this convergence is measured in months, not years.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-09-02.mp3" length="15674925" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-450</guid>
+      <pubDate>Wed, 02 Sep 2026 04:55:13 +0000</pubDate>
+      <itunes:duration>00:13:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>KRAS Was Undruggable. The FDA Just Changed That.</title>
       <description>The FDA just shifted how it approves precision cancer drugs, prioritizing speed over waiting for long-term data—moving impossible treatments to patients faster than ever before. But that approval speed is surfacing an affordability crisis that regulation isn't solving, and the consequences are about to reshape global healthcare access.</description>
