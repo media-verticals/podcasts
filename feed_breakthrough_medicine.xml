@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:06:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Personalized Cancer Vaccines Cross Into Scale</title>
+      <description>The bottleneck on personalized cancer vaccines was never the biology—it was always manufacturing timelines. That constraint just broke, and what happens next will reshape personalized medicine at scale.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-09-03.mp3" length="16846125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-452</guid>
+      <pubDate>Thu, 03 Sep 2026 07:06:09 +0000</pubDate>
+      <itunes:duration>00:14:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When Cancer Therapy Reveals Aging's Blueprint</title>
       <description>A fundamental barrier in cancer therapy has suddenly become permeable, revealing mechanisms of cellular aging that were hidden until now. The window to act on this convergence is measured in months, not years.</description>
