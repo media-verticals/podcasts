@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:55:29 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Astra Proves It: Execution Beats Raw Capability</title>
+      <description>Capability just proved it's no longer the constraint. OpenAI's latest move signals a competitive restructuring around autonomous execution—and what that means for everyone in AI infrastructure is the real story.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-04.mp3" length="17334285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-455</guid>
+      <pubDate>Fri, 04 Sep 2026 07:55:29 +0000</pubDate>
+      <itunes:duration>00:14:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Markets Fracture: Two Economies, Two Rules</title>
       <description>The AI market is splitting into two separate economies with incompatible rules—and today's data shows we've crossed the inflection point. The implications for every player in the space are about to become impossible to ignore.</description>
