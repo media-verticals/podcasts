@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 07:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:20:59 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Real-Time Enforcement Reshapes AI Competition</title>
+      <description>Governments are now enforcing AI deployment in real time, and the speed to regulatory approval has become the new competitive moat—replacing capability as the decisive advantage for frontier labs. We uncover how this hidden shift is already reshaping which companies survive, and what the next 18 months will look like.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-06.mp3" length="22588365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-456</guid>
+      <pubDate>Sun, 06 Sep 2026 07:20:59 +0000</pubDate>
+      <itunes:duration>00:18:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Astra Proves It: Execution Beats Raw Capability</title>
       <description>Capability just proved it's no longer the constraint. OpenAI's latest move signals a competitive restructuring around autonomous execution—and what that means for everyone in AI infrastructure is the real story.</description>
