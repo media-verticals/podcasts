@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:06:23 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Capital, Not Capability: Where AI Competition Heads</title>
+      <description>The race for AI dominance just changed games. Two industry leaders achieved the same breakthrough but made opposite bets on access and control—a divergence that reveals exactly what determines the winner now, and why most players are still competing the wrong way.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-07.mp3" length="19319085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-458</guid>
+      <pubDate>Mon, 07 Sep 2026 08:06:23 +0000</pubDate>
+      <itunes:duration>00:16:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Real-Time Enforcement Reshapes AI Competition</title>
       <description>Governments are now enforcing AI deployment in real time, and the speed to regulatory approval has become the new competitive moat—replacing capability as the decisive advantage for frontier labs. We uncover how this hidden shift is already reshaping which companies survive, and what the next 18 months will look like.</description>
