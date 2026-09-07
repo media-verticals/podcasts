@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:23:56 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Aging Isn't Inevitable: Two Breakthroughs Prove It</title>
+      <description>Two independent breakthroughs converged this week—one in human tissue, one in animal models—both proving that aging's biological pathways are no longer theoretical, they're targetable. This is the first moment where mainstream drugs show real activity against aging mechanisms in living systems, shifting the frontier from "what if" to "what now."</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-09-07.mp3" length="16280685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-457</guid>
+      <pubDate>Mon, 07 Sep 2026 07:23:56 +0000</pubDate>
+      <itunes:duration>00:13:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Personalized Cancer Vaccines Cross Into Scale</title>
       <description>The bottleneck on personalized cancer vaccines was never the biology—it was always manufacturing timelines. That constraint just broke, and what happens next will reshape personalized medicine at scale.</description>
