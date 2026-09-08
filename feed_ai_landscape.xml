@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 08:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:44:20 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Frontier Labs' Pivot: From Safety to Managed Risk</title>
+      <description>A leading AI company has quietly pivoted from building safe systems to planning how to manage unsafe ones at scale. Here's the operational evidence of that shift—and what it means for the eighteen-month timeline that's already begun.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-08.mp3" length="16717965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-460</guid>
+      <pubDate>Tue, 08 Sep 2026 07:44:20 +0000</pubDate>
+      <itunes:duration>00:13:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Capital, Not Capability: Where AI Competition Heads</title>
       <description>The race for AI dominance just changed games. Two industry leaders achieved the same breakthrough but made opposite bets on access and control—a divergence that reveals exactly what determines the winner now, and why most players are still competing the wrong way.</description>
