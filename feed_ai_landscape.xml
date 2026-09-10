@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:05:17 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Why Anthropic's Safety Bet Just Got Urgent</title>
+      <description>When a safety researcher publicly resigns and the company he's leaving doesn't dispute his warnings—only confirms them—you're not watching a technical debate anymore. You're watching an institutional crisis unfold at the exact moment Anthropic's future financing becomes irreversible.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-10.mp3" length="19227885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-463</guid>
+      <pubDate>Thu, 10 Sep 2026 08:05:17 +0000</pubDate>
+      <itunes:duration>00:16:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When Signals Don't Match The Assumed Game</title>
       <description>The frontier has just revealed what they're actually betting on, and it's not what anyone assumed was the real game. This matters more than any capability announcement because it changes how everything develops from here.</description>
