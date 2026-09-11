@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:13:41 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How Cancer Drugs Trigger Premature Aging</title>
+      <description>Chemotherapy saves cancer patients but ages them faster—and new evidence shows this aging doesn't stop when treatment ends, reshaping what cancer survivors need. The critical question is which interventions could protect them from this accelerated aging.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-09-11.mp3" length="18739725" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-464</guid>
+      <pubDate>Fri, 11 Sep 2026 07:13:41 +0000</pubDate>
+      <itunes:duration>00:15:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Why Seventy Isn't the End: Aging Stays Reversible</title>
       <description>The assumption that aging becomes locked after 70 is wrong—and new convergent research has just reframed the entire clinical window for intervention. This changes what's possible for anyone who thought they'd already missed the window to act.</description>
