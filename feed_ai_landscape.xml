@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:56:30 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>What Frontier Labs Claim About Safety Doesn't Add Up</title>
+      <description>Frontier labs publicly claim they've solved AI safety. But their own researchers' risk assessments directly contradict this narrative—and this episode exposes what that contradiction reveals about what these companies actually believe they're facing.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-11.mp3" length="20865165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-465</guid>
+      <pubDate>Fri, 11 Sep 2026 07:56:30 +0000</pubDate>
+      <itunes:duration>00:17:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Why Anthropic's Safety Bet Just Got Urgent</title>
       <description>When a safety researcher publicly resigns and the company he's leaving doesn't dispute his warnings—only confirms them—you're not watching a technical debate anymore. You're watching an institutional crisis unfold at the exact moment Anthropic's future financing becomes irreversible.</description>
