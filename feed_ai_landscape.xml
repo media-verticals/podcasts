@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:09:20 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Why Both AI Giants Suddenly Pumped the Brakes</title>
+      <description>When both frontier labs announced a pause on nearly identical timelines, it looked like safety consensus—until you see what's actually constraining them, which reveals an entirely different story about power, capital, and how the industry's biggest decisions really get made. The move buys regulatory credibility and investor trust, but the actual constraint underneath isn't virtue.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-13.mp3" length="20165325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-467</guid>
+      <pubDate>Sun, 13 Sep 2026 07:09:20 +0000</pubDate>
+      <itunes:duration>00:16:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic Researcher Breaks Silence on Risk Assessment</title>
       <description>An Anthropic researcher just made internal existential risk calculations public—a disclosure that only happens when someone believes silence carries greater risk than exposure. What the labs are operationally doing in response, and why the distinction between their public statements and private timelines reveals the actual shape of the race that's already underway.</description>
