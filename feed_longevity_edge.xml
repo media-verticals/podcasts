@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:12:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Rentosertib Phase 3 and the Aging Reversal Convergence</title>
+      <description>Phase 3 for rentosertib shifted to pulmonary fibrosis, where senescent fibroblasts drive the disease nobody's solved. If senescent cell clearance works here, you're validating a mechanism that rewrites how we think about progressive disease—and what it means for aging biology beyond the lab.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-09-17.mp3" length="18754125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-473</guid>
+      <pubDate>Thu, 17 Sep 2026 19:12:07 +0000</pubDate>
+      <itunes:duration>00:15:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Cancer Drugs Trigger Premature Aging</title>
       <description>Chemotherapy saves cancer patients but ages them faster—and new evidence shows this aging doesn't stop when treatment ends, reshaping what cancer survivors need. The critical question is which interventions could protect them from this accelerated aging.</description>
