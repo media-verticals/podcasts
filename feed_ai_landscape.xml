@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:47:21 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Infrastructure Story Behind OpenAI's Safety Admissions</title>
+      <description>OpenAI simultaneously disclosed genuine safety failures and launched a product-bundled solution—but the timing and coordination reveal a parallel infrastructure story that's far more significant than the incidents themselves. Understanding what's actually being managed requires seeing both the crisis and the strategy as equally real.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-18.mp3" length="16507245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-475</guid>
+      <pubDate>Fri, 18 Sep 2026 07:47:21 +0000</pubDate>
+      <itunes:duration>00:13:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Competitive Calculus Shifts to Self-Improvement</title>
       <description>The competitive calculus shifted this week as the AI labs moved from discussing possible timelines to operationally committing capital to racing toward them. This tells you where we actually are and forces a reset on what's happening in the race.</description>
