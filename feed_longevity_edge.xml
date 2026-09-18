@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:09:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How Your Circadian Clock Controls Aging</title>
+      <description>What if aging isn't about damage accumulation at all, but about the loss of your cells' ability to keep time? A fundamental shift in how we understand biological aging reveals that your circadian rhythm is actually a governance structure—and when it fails, so does your body's capacity to maintain itself.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-09-18.mp3" length="17528685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-474</guid>
+      <pubDate>Fri, 18 Sep 2026 07:09:57 +0000</pubDate>
+      <itunes:duration>00:14:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Rentosertib Phase 3 and the Aging Reversal Convergence</title>
       <description>Phase 3 for rentosertib shifted to pulmonary fibrosis, where senescent fibroblasts drive the disease nobody's solved. If senescent cell clearance works here, you're validating a mechanism that rewrites how we think about progressive disease—and what it means for aging biology beyond the lab.</description>
