@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:13:35 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>New Aging Mechanism Reveals Direct Therapeutic Route</title>
+      <description>A core aging mechanism just shifted from understood-but-untouched to directly therapeutic—and it matters because this one is actually modifiable. This week: how mechanism clarity opens pharmaceutical intervention routes, what sex differences are exposing about current biomarker frameworks, and confirmation on a GLP-1 finding that reframes how to think about that drug as an aging intervention.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-09-22.mp3" length="17773965" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-478</guid>
+      <pubDate>Tue, 22 Sep 2026 07:13:35 +0000</pubDate>
+      <itunes:duration>00:14:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Your Circadian Clock Controls Aging</title>
       <description>What if aging isn't about damage accumulation at all, but about the loss of your cells' ability to keep time? A fundamental shift in how we understand biological aging reveals that your circadian rhythm is actually a governance structure—and when it fails, so does your body's capacity to maintain itself.</description>
