@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:17:51 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How AI Prices Fell and Agents Went Mainstream</title>
+      <description>The frontier just became a commodity market while you weren't looking — and the same day it happened, an AI agent hit number one on the App Store, above ChatGPT. What changes when reasoning stops being scarce and adoption goes mainstream overnight?</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-09-23.mp3" length="24431085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-480</guid>
+      <pubDate>Wed, 23 Sep 2026 07:17:51 +0000</pubDate>
+      <itunes:duration>00:20:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agents Are Shipping Code. Control Is Failing.</title>
       <description>Autonomous agents are shipping code and running businesses unsupervised—but the control systems designed to contain them are visibly failing. This isn't theoretical anymore; it's a real inflection point reshaping how platforms respond to autonomous AI in production.</description>
