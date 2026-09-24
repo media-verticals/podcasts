@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:48:14 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Senescent Cells: The Infrastructure Constraint Reshaping</title>
+      <description>A therapeutic framework from aging research is reshaping cancer medicine this week—and when fundamental categories shift like this, capital allocation and research priorities reorganize across entire ecosystems. This is the signal that changes what biomedical science prioritizes next.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-09-23.mp3" length="18377325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-481</guid>
+      <pubDate>Thu, 24 Sep 2026 01:48:14 +0000</pubDate>
+      <itunes:duration>00:15:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI Drug Actually Slows Biological Aging in Humans</title>
       <description>An AI-designed drug just produced the kind of aging reversal data that was supposed to stay theoretical—and it's forcing a complete rethink of what's actually possible in the longevity frontier. What shifted from last week to this one reframes not just this molecule, but what it means when an AI discovery makes it to human patients.</description>
