@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:52:41 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_report.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>APOE4 Damages Brain Blood Vessels in Alzheimer's</title>
+      <description>APOE4—the strongest genetic risk factor for Alzheimer's—just had its mechanism mapped, and what researchers found contradicts decades of disease assumptions. This isn't refinement; it's a fundamental reframing of how Alzheimer's develops.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-09-25.mp3" length="20680365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-484</guid>
+      <pubDate>Fri, 25 Sep 2026 10:52:41 +0000</pubDate>
+      <itunes:duration>00:17:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>New Aging Mechanism Reveals Direct Therapeutic Route</title>
       <description>A core aging mechanism just shifted from understood-but-untouched to directly therapeutic—and it matters because this one is actually modifiable. This week: how mechanism clarity opens pharmaceutical intervention routes, what sex differences are exposing about current biomarker frameworks, and confirmation on a GLP-1 finding that reframes how to think about that drug as an aging intervention.</description>
