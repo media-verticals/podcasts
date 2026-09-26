@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:16:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Why CAR-T Succeeds in Blood but Not Brain</title>
+      <description>CAR-T therapy transformed blood cancer treatment, but in the brain it barely works at all. Understanding why this difference exists isn't just a technical problem—it exposes something fundamental about how we choose which therapies might actually help.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-09-26.mp3" length="23188845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-486</guid>
+      <pubDate>Sat, 26 Sep 2026 07:16:54 +0000</pubDate>
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Moderna's mFlusiva: First mRNA Flu Vaccine Reaches Pharmacies</title>
       <description>Moderna's mFlusiva reaching pharmacies marks a watershed moment: mRNA's first application as routine infrastructure. When a technology moves from crisis response and cutting-edge trials to annual, ordinary reliability, something fundamental changes—and that's exactly what's happening here.</description>
