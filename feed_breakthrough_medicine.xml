@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:50:58 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Zanvastro: First Approved Drug for Alexander Disease</title>
+      <description>After thirty years of research, the FDA approved Zanvastro—the first-ever drug for Alexander disease, a rare and previously untreatable neurological condition. This disease-modifying therapy fundamentally shifts what was possible for families facing this diagnosis.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-09-28.mp3" length="26576685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-489</guid>
+      <pubDate>Mon, 28 Sep 2026 12:50:58 +0000</pubDate>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Why CAR-T Succeeds in Blood but Not Brain</title>
       <description>CAR-T therapy transformed blood cancer treatment, but in the brain it barely works at all. Understanding why this difference exists isn't just a technical problem—it exposes something fundamental about how we choose which therapies might actually help.</description>
