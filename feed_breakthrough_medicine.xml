@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:52:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Base Editing Rescues Progeria Without Targeting the Mutation</title>
+      <description>Progeria was rescued by fixing not the mutation that causes it, but the damage it produces—a distinction that rewrites the entire strategy for rare disease. This episode explores why that single shift matters more than the gene edit itself.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-10-01.mp3" length="23610285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-495</guid>
+      <pubDate>Thu, 01 Oct 2026 14:52:07 +0000</pubDate>
+      <itunes:duration>00:19:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zanvastro: First Approved Drug for Alexander Disease</title>
       <description>After thirty years of research, the FDA approved Zanvastro—the first-ever drug for Alexander disease, a rare and previously untreatable neurological condition. This disease-modifying therapy fundamentally shifts what was possible for families facing this diagnosis.</description>
