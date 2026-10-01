@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 15:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:09:55 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Google Halves AI Model Cost, Labs Pivot to Infrastructure Lock-in</title>
+      <description>The AI lab competition just shifted beneath the surface. When capability and cost reach parity, the real fight moves to infrastructure lock-in—and today's moves from Google and OpenAI show exactly where the moat is now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-01.mp3" length="17999085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-494</guid>
+      <pubDate>Thu, 01 Oct 2026 07:09:55 +0000</pubDate>
+      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI shelves Astra; Anthropic responds with cheaper Sonnet 5.5</title>
       <description>OpenAI's sudden retreat from its flagship model forced a revealing response from Anthropic—one that exposes what's actually driving the industry now. This isn't the technical competition we've been following.</description>
