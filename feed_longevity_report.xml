@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 07:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:13:23 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_report.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Energy-Sensing Drug Extends Lifespan Across Multiple Species</title>
+      <description>A drug extended lifespan across multiple animal species, suggesting energy sensing is a fundamental lever on aging. The cross-species pattern is the strongest kind of preclinical evidence—but the mechanism and what it means are only now unfolding.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-10-02.mp3" length="22477005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-496</guid>
+      <pubDate>Fri, 02 Oct 2026 07:13:23 +0000</pubDate>
+      <itunes:duration>00:18:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Transplanted Hearts Adopt Biological Age of Recipients</title>
       <description>A Harvard team just found something that breaks aging research's most settled assumption. What they discovered reveals that biological age might be far more changeable than anyone thought — opening questions the field considered closed.</description>
