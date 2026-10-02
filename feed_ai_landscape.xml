@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:00:37 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Every AI Company Just Pivoted to Orchestration</title>
+      <description>The AI arms race just fundamentally shifted from building the best models to owning the layer that deploys and controls them—and every major player is moving simultaneously in the same direction, signaling where the actual economic value is concentrating. If you're not tracking this pivot, you're missing what the market is actually telling you matters now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-02.mp3" length="22249485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-497</guid>
+      <pubDate>Fri, 02 Oct 2026 08:00:37 +0000</pubDate>
+      <itunes:duration>00:18:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Google Halves AI Model Cost, Labs Pivot to Infrastructure Lock-in</title>
       <description>The AI lab competition just shifted beneath the surface. When capability and cost reach parity, the real fight moves to infrastructure lock-in—and today's moves from Google and OpenAI show exactly where the moat is now.</description>
