@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 07:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:15:21 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>OpenAI Safety Experts Walk Out Publicly</title>
+      <description>The defensive position everyone assumed would matter most just got dismantled in 48 hours—and it's exposing what actually determines winners and losers in this market. What the labs built simultaneously this week wasn't about staying ahead; it was a message about where the real bottleneck moved.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-04.mp3" length="22281645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-499</guid>
+      <pubDate>Sun, 04 Oct 2026 07:15:21 +0000</pubDate>
+      <itunes:duration>00:18:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI blocks GPT-6.1 as safety becomes operational</title>
       <description>For the first time, a major lab isn't just debating safety constraints—they're enforcing them by blocking their own release. Watch how safety became an operational decision overnight, and what it means for who actually leads the race from here.</description>
