@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 07:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:05:23 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>MiniMax Model Achieves Parity with Anthropic Opus</title>
+      <description>Open source just achieved parity with frontier closed-source models. This breaks the competitive moat that was supposed to be defensible — and before you make any vendor or deployment decisions this quarter, the market math just changed.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-05.mp3" length="22674765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-501</guid>
+      <pubDate>Mon, 05 Oct 2026 08:05:23 +0000</pubDate>
+      <itunes:duration>00:18:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI Safety Experts Walk Out Publicly</title>
       <description>The defensive position everyone assumed would matter most just got dismantled in 48 hours—and it's exposing what actually determines winners and losers in this market. What the labs built simultaneously this week wasn't about staying ahead; it was a message about where the real bottleneck moved.</description>
