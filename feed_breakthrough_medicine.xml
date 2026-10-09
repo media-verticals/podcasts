@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:13:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>T Cells Engineered to Deliver Gene Editors</title>
+      <description>What if the immune system's own cells could be turned into couriers for gene-editing machinery? Researchers have engineered T cells to do exactly that—a shift that opens therapeutic possibilities that chemistry-based delivery systems fundamentally cannot reach.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-10-09.mp3" length="28324845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-508</guid>
+      <pubDate>Fri, 09 Oct 2026 23:13:28 +0000</pubDate>
+      <itunes:duration>00:23:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Pancreatic tumor stress predicts CAR-T cell therapy response</title>
       <description>The CAR-T field has stopped trying to build a better cell and started trying to understand the situation the cell is walking into — a strategic shift that four separate signals in this brief reveal is reshaping immunotherapy at its foundation. This reorientation transforms how we design treatment and what's possible for patients on these therapies.</description>
