@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 07:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:16:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_report.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Epigenetic Clock Reveals Why Large Dogs Die Younger</title>
+      <description>Why do large dogs die younger than small dogs? New research in Science reveals the molecular basis—and exposes a key shift in aging science: from asking how to reverse the clock to understanding what sets its speed.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-10-09.mp3" length="25313325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-506</guid>
+      <pubDate>Fri, 09 Oct 2026 07:16:32 +0000</pubDate>
+      <itunes:duration>00:21:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Stem Cells, Not Platelets, Cause Aging Blood Clots</title>
       <description>Blood clots and aging seemed like a problem medicine already understood. But new evidence suggests the real driver isn't where decades of research has pointed—and that shifts where treatment should aim.</description>
