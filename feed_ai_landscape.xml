@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:22:57 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>OpenAI Math Proofs Fail New Independent Verification</title>
+      <description>We reported OpenAI's mathematical breakthroughs as independently verified three days ago. New independent checks contradict that conclusion—and simultaneously, OpenAI is eliminating the safety researchers who raised concerns about verification itself.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-10.mp3" length="25461645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-509</guid>
+      <pubDate>Sat, 10 Oct 2026 07:22:57 +0000</pubDate>
+      <itunes:duration>00:21:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI's $20 Billion Miss Triggers Anthropic's 90% Price Cut</title>
       <description>When a company wins technically but loses commercially, the entire competitive landscape shifts. We unpack what OpenAI's $20 billion shortfall and Anthropic's aggressive response reveal about this realignment—and why the rules of competition in AI are changing faster than anyone anticipated.</description>
