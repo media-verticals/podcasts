@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 07:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:25:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How TDP-43 Splicing Reframes Alzheimer's Disease</title>
+      <description>The molecular mechanism behind Alzheimer's disease may be something research has overlooked. This discovery reframes where the disease originates and what needs to be therapeutically targeted.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-10-15.mp3" length="36965325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-516</guid>
+      <pubDate>Thu, 15 Oct 2026 07:25:12 +0000</pubDate>
+      <itunes:duration>00:30:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>De Novo Enzymes Perform New-to-Nature Chemistry</title>
       <description>The hunt for the right enzyme—the bottleneck that's shaped biomanufacturing for decades—might finally be removable. But this week's signal isn't about that breakthrough; it's about the harder question five papers are converging on: how do you verify you're in control of something you've designed from scratch?</description>
