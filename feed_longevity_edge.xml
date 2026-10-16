@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:14:19 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>SRSF1 Gene Slows Aging and Extends Mouse Lifespan</title>
+      <description>An aging clock wasn't used to tell time—it was used to hunt for youth. What researchers found in that search led to measurable lifespan extension in mice, peer reviewed and quantified.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-10-16.mp3" length="23763405" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-518</guid>
+      <pubDate>Fri, 16 Oct 2026 07:14:19 +0000</pubDate>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>New Blood Protein Clock Tracks Individual Aging Over Time</title>
       <description>For the first time, a blood protein aging clock tracks the same people across years instead of comparing different ages at one moment—revealing what actually changes in aging bodies and how much of that might respond to how we live.</description>
