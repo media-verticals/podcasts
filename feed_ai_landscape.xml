@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:15:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Ninety Percent of AI Work Falls Outside Benchmarks</title>
+      <description>The industry's entire competitive framework—from vendor claims to buyer decisions—has been built on measurement that doesn't capture actual work. This week's data exposes that fundamental gap, forcing the field to recalibrate what winning actually means.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-17.mp3" length="21512205" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-520</guid>
+      <pubDate>Sat, 17 Oct 2026 07:15:54 +0000</pubDate>
+      <itunes:duration>00:17:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Bond Market's Verdict: AI Returns Don't Add Up</title>
       <description>The capability race never stopped accelerating—but somewhere between last quarter and this week, the money financing it stopped believing the story. The fracture point is widening, and this week's signals show exactly how the entire industry's strategy is adjusting to that break.</description>
