@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:21:52 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How Gene Editing Scales: First Evidence from 148 Trials</title>
+      <description>Gene editing's scalability has been debated almost entirely in theory—until now. A comprehensive census of 148 registered trials provides the first empirical evidence for whether this field becomes a true drug industry or remains a collection of bespoke treatments.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-10-19.mp3" length="33502605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-523</guid>
+      <pubDate>Mon, 19 Oct 2026 12:21:52 +0000</pubDate>
+      <itunes:duration>00:27:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How TDP-43 Splicing Reframes Alzheimer's Disease</title>
       <description>The molecular mechanism behind Alzheimer's disease may be something research has overlooked. This discovery reframes where the disease originates and what needs to be therapeutically targeted.</description>
