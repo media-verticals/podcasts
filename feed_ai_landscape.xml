@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:01:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agents Discover Critical PHP Vulnerabilities Affecting Seventy Percent of Websites</title>
+      <description>An autonomous system discovered critical vulnerabilities affecting essential internet infrastructure and coordinated responsible disclosure through formal government and security channels. This moment signals that agents have transitioned from research demonstrations to operational infrastructure defense.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-22.mp3" length="18278445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-528</guid>
+      <pubDate>Thu, 22 Oct 2026 08:01:47 +0000</pubDate>
+      <itunes:duration>00:15:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Designs Working Binders Against Scorpion Neurotoxins</title>
       <description>When a leading AI company pivots its research strategy this decisively, it signals something fundamental about where real value will actually be created. Anthropic just made that move—and understanding what's driving this strategic shift is essential to understanding what comes next.</description>
