@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:17:59 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Critical PHP Vulnerability Disclosed, Breaks Security Embargo</title>
+      <description>A critical vulnerability's disclosure embargo just collapsed, not because of a security mistake—but because AI found it faster than humans could patch it. This moment reveals the breaking point of our current disclosure system: automated discovery is outrunning human coordination, and that gap is about to reshape every security process we rely on.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-23.mp3" length="20445645" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-530</guid>
+      <pubDate>Fri, 23 Oct 2026 08:17:59 +0000</pubDate>
+      <itunes:duration>00:17:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Agents Discover Critical PHP Vulnerabilities Affecting Seventy Percent of Websites</title>
       <description>An autonomous system discovered critical vulnerabilities affecting essential internet infrastructure and coordinated responsible disclosure through formal government and security channels. This moment signals that agents have transitioned from research demonstrations to operational infrastructure defense.</description>
