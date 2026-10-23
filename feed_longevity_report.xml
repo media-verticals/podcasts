@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:33:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_report.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Muscle Signals Extend Lifespan Without Needing Cold</title>
+      <description>Cold extends lifespan in animals—a fact observed for sixty years with no explanation. This week's lead finally maps the mechanism in precise detail and uncovers something unexpected: there may be a way to achieve the same lifespan benefits without the cold.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-10-23.mp3" length="23922765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-529</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:12 +0000</pubDate>
+      <itunes:duration>00:19:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>King Penguin Blood Reveals What Aging Clocks Measure</title>
       <description>Blood aging clocks have become billion-dollar tools for validating anti-aging interventions—but a growing body of evidence suggests the field may have misunderstood what these clocks measure. As the industry races ahead with clinical claims, the fundamental scientific assumptions underlying these biomarkers are being stress-tested like never before.</description>
