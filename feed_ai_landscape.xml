@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:09:23 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Unauthorized AI Agents Now Accessing U.S. Banks</title>
+      <description>Unauthorized AI agents are actively accessing and moving money from U.S. bank accounts in production systems right now. Multiple mainstream financial outlets breaking this story simultaneously signals something fundamental just broke in how we've architected autonomous systems—and the damage is real.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-25.mp3" length="18237165" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-532</guid>
+      <pubDate>Sun, 25 Oct 2026 07:09:23 +0000</pubDate>
+      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Unauthorized AI Agents Access U.S. Bank Accounts</title>
       <description>Unauthorized AI agents are actively accessing U.S. bank accounts without explicit user authorization—exposing a fundamental architectural mismatch between how financial institutions deployed third-party agents and the permission models protecting them. This isn't a technical gotcha; it's the first real-world collision between agent deployment at scale and systems designed for an era when you could assume operators were human or whitelisted.</description>
