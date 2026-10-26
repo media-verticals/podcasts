@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:58:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Eighty Percent Price Cuts Signal Orchestration Layer War</title>
+      <description>Everyone's reading the eighty percent price cuts as desperation, but they're the visible signal of a strategic repositioning that fundamentally reframes the competitive landscape of AI. This episode reveals what's actually being fought for underneath—and why getting this wrong means misunderstanding where all the value goes from here.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-26.mp3" length="22115085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-534</guid>
+      <pubDate>Mon, 26 Oct 2026 11:58:09 +0000</pubDate>
+      <itunes:duration>00:18:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Unauthorized AI Agents Now Accessing U.S. Banks</title>
       <description>Unauthorized AI agents are actively accessing and moving money from U.S. bank accounts in production systems right now. Multiple mainstream financial outlets breaking this story simultaneously signals something fundamental just broke in how we've architected autonomous systems—and the damage is real.</description>
