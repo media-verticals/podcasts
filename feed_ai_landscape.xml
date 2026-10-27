@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:59:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -31,12 +31,12 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
-      <title>Anthropic Files IPO as OpenAI Releases Half-Price Terra</title>
-      <description>Anthropic's record IPO and OpenAI's price-slashing announcement hit on the same morning—and the reason both companies moved simultaneously is a signal that reframes what's actually happening in the AI industry in ways the headlines completely obscure. What that timing reveals about capital constraints and the competitive forces reshaping who wins right now is the story that matters.</description>
-      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-27.mp3" length="19513485" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-537</guid>
-      <pubDate>Tue, 27 Oct 2026 08:39:02 +0000</pubDate>
-      <itunes:duration>00:16:15</itunes:duration>
+      <title>Cloudflare AI Model Leaked Customer Data to Other Users</title>
+      <description>Cloudflare disclosed that its production AI models were leaking customer data across user boundaries—exposing a fundamental isolation gap in how multi-tenant AI infrastructure actually works. It's the kind of production vulnerability that changes what you should expect from deployed language models.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-27.mp3" length="18200685" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-538</guid>
+      <pubDate>Tue, 27 Oct 2026 12:59:12 +0000</pubDate>
+      <itunes:duration>00:15:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
