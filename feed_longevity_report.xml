@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:54:16 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_report.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>NIX Receptor Clears Damaged Mitochondria in Alzheimer's</title>
+      <description>Your cells have a cleanup crew for damaged parts, and when that crew fails, the damage piles up. New research suggests Alzheimer's might not be about how much destruction happens—it's about whether your cells can clear it away fast enough.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-10-27.mp3" length="25458765" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-536</guid>
+      <pubDate>Tue, 27 Oct 2026 07:54:16 +0000</pubDate>
+      <itunes:duration>00:21:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Muscle Signals Extend Lifespan Without Needing Cold</title>
       <description>Cold extends lifespan in animals—a fact observed for sixty years with no explanation. This week's lead finally maps the mechanism in precise detail and uncovers something unexpected: there may be a way to achieve the same lifespan benefits without the cold.</description>
