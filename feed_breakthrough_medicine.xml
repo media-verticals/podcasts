@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:32:00 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>GENGLYCOS Reduces Cornstarch Burden in Glycogen Storage Disease</title>
+      <description>The formal documentation for a major gene therapy approval lands this week. The unusual indication language reveals a fundamental shift in how regulators define success in genetic medicine—and it will reshape how future approvals are constructed.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-10-26.mp3" length="32749485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-535</guid>
+      <pubDate>Tue, 27 Oct 2026 04:32:00 +0000</pubDate>
+      <itunes:duration>00:27:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>CRISPR cuts cholesterol in half with a single dose</title>
       <description>For the first time, CRISPR is being tested on cholesterol, the single most common chronic risk factor in medicine, potentially affecting hundreds of millions of people. An early Phase 1 signal is unverified, but the shift it represents in genetic medicine's scope is already significant.</description>
