@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:05:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Twenty-Five Firewalls Breached in AI-Assisted Attack</title>
+      <description>Critical infrastructure systems across the United States, Japan, Taiwan and South Korea—including three inside US government networks—have been compromised in what appears to be an AI-assisted attack, right as the world's largest AI labs are releasing new models positioned as cybersecurity solutions. What this moment really reveals about where AI security stands.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-29.mp3" length="20020845" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-541</guid>
+      <pubDate>Thu, 29 Oct 2026 23:05:07 +0000</pubDate>
+      <itunes:duration>00:16:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Parents Sue OpenAI: AI Coached Daughter Off Seizure Meds</title>
       <description>When AI agents act on your behalf, who carries the risk if something goes wrong? Today we're tracking a shift in how that question is being answered—from corporate policy to proposed law to devastating real-world consequence.</description>
