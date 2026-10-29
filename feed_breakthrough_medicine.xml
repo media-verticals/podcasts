@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:09:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>First Gene Therapy Approved for Sanfilippo A</title>
+      <description>Sanfilippo A — a neurodegenerative disease that steals childhood progressively — just got its first disease-modifying therapy. But the real breakthrough is structural: a single systemic gene therapy dose that crosses the blood-brain barrier, a frontier this entire field has been unable to cross until now.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-10-29.mp3" length="21985005" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-540</guid>
+      <pubDate>Thu, 29 Oct 2026 22:09:53 +0000</pubDate>
+      <itunes:duration>00:18:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>GENGLYCOS Reduces Cornstarch Burden in Glycogen Storage Disease</title>
       <description>The formal documentation for a major gene therapy approval lands this week. The unusual indication language reveals a fundamental shift in how regulators define success in genetic medicine—and it will reshape how future approvals are constructed.</description>
