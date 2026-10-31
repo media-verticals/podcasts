@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:11:47 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Anthropic Downgrade: Junk Bonds Ahead</title>
+      <description>One of the world's biggest investors just reversed its outlook on a leading AI company—a reversal that signals how the capital markets are beginning to reprice the entire sector. What shifted, what it means for infrastructure ambitions and borrowing costs, and why this moment could reshape the race to build.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-10-31.mp3" length="20201325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-544</guid>
+      <pubDate>Sat, 31 Oct 2026 07:11:47 +0000</pubDate>
+      <itunes:duration>00:16:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amazon Bets 220 Billion to Build Trillion Dollar Cloud</title>
       <description>Amazon committed 220 billion dollars to chase trillion-dollar cloud revenues—and revealed what everyone was avoiding: whether the payoff timeline justifies the bet. When all three cloud giants report earnings in the same week, their capital decisions expose the real reckoning about the cost of AI infrastructure.</description>
