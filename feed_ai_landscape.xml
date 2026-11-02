@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 08:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:47:04 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Banks and Retailers Block Personal AI Agents</title>
+      <description>Major banks and retailers are quietly blocking personal AI agents while telling investors they see them as an opportunity—a contradiction that exposes what companies really fear about losing control of your customer relationship.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-02.mp3" length="22265325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-547</guid>
+      <pubDate>Mon, 02 Nov 2026 08:47:04 +0000</pubDate>
+      <itunes:duration>00:18:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic blocks Claude from cloning and reverse-engineering games</title>
       <description>Anthropic has tightened Claude's guardrails around reverse-engineering, but the collateral damage is broader than intended: developers report that legitimate work—picking apart file formats, debugging without source code, understanding legacy systems—is getting blocked too. If you've ever relied on an AI to figure out how someone else's code works, this shift just changed what you can ask your assistant to do.</description>
