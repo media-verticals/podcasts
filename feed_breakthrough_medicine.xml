@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:06:34 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>The FTO Problem in Acute Myeloid Leukemia</title>
+      <description>A preprint using direct RNA sequencing challenges a foundational assumption in leukemia biology that has driven years of therapeutic development, raising urgent questions about the field's understanding of how cancer actually works. Hear why this moment of scientific self-correction matters, even before the work is peer reviewed.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-11-02.mp3" length="20356365" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-546</guid>
+      <pubDate>Mon, 02 Nov 2026 08:06:34 +0000</pubDate>
+      <itunes:duration>00:16:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>First Gene Therapy Approved for Sanfilippo A</title>
       <description>Sanfilippo A — a neurodegenerative disease that steals childhood progressively — just got its first disease-modifying therapy. But the real breakthrough is structural: a single systemic gene therapy dose that crosses the blood-brain barrier, a frontier this entire field has been unable to cross until now.</description>
