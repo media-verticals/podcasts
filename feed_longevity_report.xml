@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:16:54 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_report.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>How DGLA Triggers Death in Senescent Cells</title>
+      <description>Damaged cells have two fates: die cleanly or linger as senescent zombies spreading inflammation. This week in Cell, researchers identify what tips that balance—a single fatty acid that controls the outcome. This discovery points to a direct lever for clearing the cellular deadwood that drives aging.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-11-03.mp3" length="24706605" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-548</guid>
+      <pubDate>Tue, 03 Nov 2026 08:16:54 +0000</pubDate>
+      <itunes:duration>00:20:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MiR-29: the switch between youth and identity</title>
       <description>A single RNA molecule rises with aging and falls in every known rejuvenation state—the most conserved age marker across vertebrates. New research directly tests what happens when this switch is pushed, with implications that reshape how aging itself works at the cellular level.</description>
