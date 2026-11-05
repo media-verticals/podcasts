@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:11:12 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Voters Reject Data Centers at the Ballot Box</title>
+      <description>Voters just rejected data centers at the ballot box in ways that contradict everything the industry expected. The margins and coalitions reveal something fundamental about American attitudes toward AI infrastructure—and the next phase of build-out will have to reckon with it.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-05.mp3" length="21695085" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-551</guid>
+      <pubDate>Thu, 05 Nov 2026 08:11:12 +0000</pubDate>
+      <itunes:duration>00:18:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Google Bundles AI with School Search</title>
       <description>Google just coupled Search with AI for schools—administrators can't block one without losing the other. It's a case study in how AI is becoming the default layer of core products, forcing a choice between access and control.</description>
