@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 08:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:07:09 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Google Buys Crusoe's Wyoming Data Center for Seventeen Billion</title>
+      <description>Google just paid seventeen billion dollars to take over someone else's unfinished data center—and the reason why reveals where AI infrastructure is actually breaking down. When companies with unlimited resources can't build fast enough on their own, the constraints aren't what you think they are.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-07.mp3" length="19913325" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-554</guid>
+      <pubDate>Sat, 07 Nov 2026 08:07:09 +0000</pubDate>
+      <itunes:duration>00:16:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Palo Alto Pays 500 Million for Clutch Security</title>
       <description>One acquisition this week put a price on something the market never had to value before: controlling an AI agent's access to your company's most critical systems. The deal shows exactly how fast security economics are shifting — and why this matters to everyone paying attention.</description>
