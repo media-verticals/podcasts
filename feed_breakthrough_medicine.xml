@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 08:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:08:23 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>EBV-Infected B Cells Explain CAR-T's Lupus Cure</title>
+      <description>A testable mechanism this week for why an engineered cancer therapy is producing durable remissions in autoimmune disease. If it holds, it reframes what CAR-T might actually be doing — and what one of medicine's most expensive tools could become.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-11-09.mp3" length="19959885" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-556</guid>
+      <pubDate>Mon, 09 Nov 2026 08:08:23 +0000</pubDate>
+      <itunes:duration>00:16:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The FTO Problem in Acute Myeloid Leukemia</title>
       <description>A preprint using direct RNA sequencing challenges a foundational assumption in leukemia biology that has driven years of therapeutic development, raising urgent questions about the field's understanding of how cancer actually works. Hear why this moment of scientific self-correction matters, even before the work is peer reviewed.</description>
