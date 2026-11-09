@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:04:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Nvidia Board Investigates CEO Huang's Admitted Affair</title>
+      <description>A formal board investigation into Nvidia's CEO transforms press reports into a governance crisis at the company that controls the entire AI supply chain. When accountability reaches the top of the industry's most dominant player at this critical moment, the implications ripple across everything built on top of it.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-09.mp3" length="21361485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-557</guid>
+      <pubDate>Mon, 09 Nov 2026 09:04:32 +0000</pubDate>
+      <itunes:duration>00:17:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI Wanted Thirty Billion, Raised Eleven</title>
       <description>OpenAI wanted thirty billion and raised eleven. But the real story is the collision building behind that shortfall: AI capital is hitting hard constraints across data, infrastructure, and regulation simultaneously, and the pressure is converging this week.</description>
