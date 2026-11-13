@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:25:32 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Five Aging Treatments Converge on One Antioxidant</title>
+      <description>Five separate treatments that extend lifespan in mice all converge on raising a single antioxidant—suggesting that different paths to longevity might flow through one critical molecular gateway. If this holds, it could become the universal readout for testing whether new drugs actually target aging at its foundation.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-11-13.mp3" length="7219245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-562</guid>
+      <pubDate>Fri, 13 Nov 2026 11:25:32 +0000</pubDate>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lysosomes Decline Rapidly After Age Sixty in Humans</title>
       <description>Researchers studying 62,000 human proteomes found something that reshapes what we know about aging: your cells' recycling system fails rapidly after sixty, earlier than most other cellular systems. That timing—and the cascade it triggers—may finally explain why aging rates differ so dramatically between people.</description>
