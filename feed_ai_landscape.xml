@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:05:29 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Nvidia CEO Jensen Huang Resigns, CFO Colette Kress Takes Over</title>
+      <description>Nvidia's founder and CEO Jensen Huang has resigned from the company entirely—stepping down from his role as president, CEO, and board member—with CFO Colette Kress now taking the helm as interim CEO. For a company that's become central to AI's infrastructure, the sudden departure of its visionary founder raises urgent questions about what triggered this move and where Nvidia heads next.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-13.mp3" length="20466285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-563</guid>
+      <pubDate>Fri, 13 Nov 2026 12:05:29 +0000</pubDate>
+      <itunes:duration>00:17:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nvidia Board Prepares to Remove Jensen Huang as CEO</title>
       <description>Nvidia's board is preparing to remove its founder and CEO of 33 years—a potential upheaval at the world's most consequential AI company at exactly the wrong moment. We report what triggered this shift, what's at stake, and why this decision will echo across the entire industry.</description>
