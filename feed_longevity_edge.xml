@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 11:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:57:29 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_edge.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Engineered Bacteria Reproduce Longevity Advantage, Improve Aging Blood Sugar</title>
+      <description>Your gut bacteria may hold an overlooked lever for blood sugar control in aging—and new evidence suggests that engineering them differently could shift how your body handles glucose as you get older. This week's research reframes a compound you've never heard of as central to metabolic aging, moving it from association to intervention.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-11-17.mp3" length="13261485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-568</guid>
+      <pubDate>Tue, 17 Nov 2026 07:57:29 +0000</pubDate>
+      <itunes:duration>00:11:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Five Aging Treatments Converge on One Antioxidant</title>
       <description>Five separate treatments that extend lifespan in mice all converge on raising a single antioxidant—suggesting that different paths to longevity might flow through one critical molecular gateway. If this holds, it could become the universal readout for testing whether new drugs actually target aging at its foundation.</description>
