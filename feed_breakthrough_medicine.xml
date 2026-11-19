@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 08:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:19:27 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Prion Prevention Achieved for First Time</title>
+      <description>An FDA approval breaks a decades-long treatment drought for a rapidly fatal pediatric disease. The larger story is a mouse study suggesting prion disease prevention is now possible — a finding that fundamentally reshapes what we think is achievable for an entire category of brain illness.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-11-19.mp3" length="17916045" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-571</guid>
+      <pubDate>Thu, 19 Nov 2026 12:19:27 +0000</pubDate>
+      <itunes:duration>00:14:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>First in-body CRISPR therapy for hereditary angioedema nears FDA approval</title>
       <description>The boundary between what CRISPR can treat is about to move. An FDA approval expected in March 2027 would allow gene editing to happen directly inside the body for the first time—opening doors to diseases we've never reached, and rewriting what's possible in gene medicine.</description>
