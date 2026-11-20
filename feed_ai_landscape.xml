@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:55:45 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Google's Gemini Agent Now Controls Your Mac</title>
+      <description>Google's Gemini agent can now open your files, control your desktop apps, and work inside your Mac. As Apple builds its own agent while adding operating system warnings, the transition from AI on the web to AI on your computer just became impossible to ignore.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-20.mp3" length="17542125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-574</guid>
+      <pubDate>Fri, 20 Nov 2026 15:55:45 +0000</pubDate>
+      <itunes:duration>00:14:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic Raises Eighty-One Billion in Largest IPO</title>
       <description>Anthropic's IPO pricing signaled institutional conviction in frontier AI at the moment the market was turning anxious about the sector. This episode examines what that conviction committed the industry to—and what it costs when that much capital concentrates at the frontier.</description>
