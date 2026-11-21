@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:02:26 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Proves Generalized Riemann Hypothesis in Seventeen Million Lines</title>
+      <description>A machine-verified proof of the Generalized Riemann Hypothesis just emerged from Claude and an Anthropic mathematician—17.4 million lines of Lean that independent verifiers have confirmed. Within hours, a human mathematician published a proof of the same problem and ran into fatal trouble, raising a question that cuts deeper than any single result: what just shifted in how mathematics actually gets made?</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-21.mp3" length="19951245" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-575</guid>
+      <pubDate>Sat, 21 Nov 2026 08:02:26 +0000</pubDate>
+      <itunes:duration>00:16:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Google's Gemini Agent Now Controls Your Mac</title>
       <description>Google's Gemini agent can now open your files, control your desktop apps, and work inside your Mac. As Apple builds its own agent while adding operating system warnings, the transition from AI on the web to AI on your computer just became impossible to ignore.</description>
