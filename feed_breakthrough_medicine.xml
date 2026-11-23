@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:34:53 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>CAR-T Finally Works Against T-Cell Cancers</title>
+      <description>CAR-T therapy has been a one-trick pony — brilliant against B-cell cancers but mysteriously powerless against T-cell cancers — until this week. A new paper cracks open why, and delivers the first clean proof that engineered T cells can finally work against their own kind, solving a problem that has shadowed cell therapy for years.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-11-23.mp3" length="18430125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-578</guid>
+      <pubDate>Mon, 23 Nov 2026 12:34:53 +0000</pubDate>
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Prion Prevention Achieved for First Time</title>
       <description>An FDA approval breaks a decades-long treatment drought for a rapidly fatal pediatric disease. The larger story is a mouse study suggesting prion disease prevention is now possible — a finding that fundamentally reshapes what we think is achievable for an entire category of brain illness.</description>
