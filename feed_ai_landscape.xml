@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 08:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:10:20 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Ship Can Now Approve Your Code</title>
+      <description>Approval has always been where someone took responsibility—the final human signature on code that ships. This week, that gate moved to AI, and we're examining what changes in accountability when it does.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-24.mp3" length="19138125" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-579</guid>
+      <pubDate>Tue, 24 Nov 2026 08:10:20 +0000</pubDate>
+      <itunes:duration>00:15:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI Proposes Perplexity as AI's Speed Limit</title>
       <description>OpenAI just proposed that a single metric should become AI's universal speed limit—and published its own measurements as evidence. Inside the technical argument is a crucial question: when one company sets the boundary for everyone, who actually controls what's safe?</description>
