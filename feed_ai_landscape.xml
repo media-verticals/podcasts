@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:07:07 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic Stock Falls Below IPO Offer Price</title>
+      <description>When a frontier lab's valuation shifts from private rooms to daily public trading, the entire AI startup ecosystem has to recalibrate overnight. We examine the structural reprice that changes how every AI company will be valued from this moment forward.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-25.mp3" length="17682285" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-580</guid>
+      <pubDate>Wed, 25 Nov 2026 08:07:07 +0000</pubDate>
+      <itunes:duration>00:14:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Claude Ship Can Now Approve Your Code</title>
       <description>Approval has always been where someone took responsibility—the final human signature on code that ships. This week, that gate moved to AI, and we're examining what changes in accountability when it does.</description>
