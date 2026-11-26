@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:06:28 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_breakthrough_medicine.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Breakthrough Medicine</itunes:author>
     <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Simple injection could replace surgery for inherited blindness</title>
+      <description>Inherited blindness has a gene therapy that works—but it demands surgery, carries significant risk, and treats only part of the retina. What one team just demonstrated changes everything: the same therapy, delivered by a simple injection, potentially reaching the whole eye.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_future_medicine_2026-11-26.mp3" length="17749485" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-581</guid>
+      <pubDate>Thu, 26 Nov 2026 08:06:28 +0000</pubDate>
+      <itunes:duration>00:14:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>CAR-T Finally Works Against T-Cell Cancers</title>
       <description>CAR-T therapy has been a one-trick pony — brilliant against B-cell cancers but mysteriously powerless against T-cell cancers — until this week. A new paper cracks open why, and delivers the first clean proof that engineered T cells can finally work against their own kind, solving a problem that has shadowed cell therapy for years.</description>
