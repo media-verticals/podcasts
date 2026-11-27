@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:14:49 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_longevity_report.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Longevity Report</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Lymph Vessels Age by Losing Muscle Squeeze</title>
+      <description>For years, we've blamed lymph vessel decline on cell death, but a new preprint upends that—the cells are still there, they've just stopped working. That changes what we can actually do about it.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_health_longevity_2026-11-27.mp3" length="22934445" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-583</guid>
+      <pubDate>Fri, 27 Nov 2026 08:14:49 +0000</pubDate>
+      <itunes:duration>00:19:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Device Using Flicker Shows Benefit in Alzheimer's Trial</title>
       <description>After decades of failed drug and antibody approaches, a device using flickering light just showed benefit in a pivotal trial. But the company has released no detailed data, and we examine what this breakthrough could mean and what stands between hope and proof.</description>
