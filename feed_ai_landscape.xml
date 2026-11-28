@@ -8,7 +8,7 @@
     <link>https://media-verticals.github.io/podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:06:41 +0000</lastBuildDate>
     <atom:link href="https://media-verticals.github.io/podcasts/feed_ai_landscape.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>AI Landscape</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -30,6 +30,15 @@
       <link>https://media-verticals.github.io/podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Meta Declines UK Regulator's Sandbox Test for Muse</title>
+      <description>Meta declined the UK regulator's sandbox test for its shopping agent launching Tuesday, bringing a critical question into sharp focus: who actually gets to verify that AI agents are safe before millions use them—regulators or companies? This moment reveals where the gatekeeping battle for AI oversight will be fought and won.</description>
+      <enclosure url="https://media-verticals.github.io/podcasts/podcast_ai_tech_2026-11-28.mp3" length="18233805" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-585</guid>
+      <pubDate>Sat, 28 Nov 2026 08:06:41 +0000</pubDate>
+      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nvidia Halts Shipments to Four Southeast Asian Countries</title>
       <description>Nvidia just paused shipments to four Southeast Asian countries, and the official reason masks what it really means: export control is now reaching into the supply chain itself, reshaping who can access compute. Listen to understand the pressure points now baked into AI infrastructure and who it's squeezing.</description>
